@@ -1,0 +1,6485 @@
+1
+00:00:01,839 --> 00:00:04,789
+
+In this video, I will show how you can
+
+2
+00:00:04,789 --> 00:00:04,799
+In this video, I will show how you can
+ 
+
+3
+00:00:04,799 --> 00:00:07,829
+In this video, I will show how you can
+analyze a meta analytic data set using
+
+4
+00:00:07,829 --> 00:00:07,839
+analyze a meta analytic data set using
+ 
+
+5
+00:00:07,839 --> 00:00:11,749
+analyze a meta analytic data set using
+R.
+
+6
+00:00:11,749 --> 00:00:11,759
+
+ 
+
+7
+00:00:11,759 --> 00:00:14,150
+
+I will demonstrate the use of R for meta
+
+8
+00:00:14,150 --> 00:00:14,160
+I will demonstrate the use of R for meta
+ 
+
+9
+00:00:14,160 --> 00:00:17,670
+I will demonstrate the use of R for meta
+analysis uh by this example. So we have
+
+10
+00:00:17,670 --> 00:00:17,680
+analysis uh by this example. So we have
+ 
+
+11
+00:00:17,680 --> 00:00:19,189
+analysis uh by this example. So we have
+discussed this example during the
+
+12
+00:00:19,189 --> 00:00:19,199
+discussed this example during the
+ 
+
+13
+00:00:19,199 --> 00:00:21,429
+discussed this example during the
+workshop. This is a data set that was
+
+14
+00:00:21,429 --> 00:00:21,439
+workshop. This is a data set that was
+ 
+
+15
+00:00:21,439 --> 00:00:24,150
+workshop. This is a data set that was
+collected by Steve Rodenbush.
+
+16
+00:00:24,150 --> 00:00:24,160
+collected by Steve Rodenbush.
+ 
+
+17
+00:00:24,160 --> 00:00:27,990
+collected by Steve Rodenbush.
+um a data set consisting of 19 studies
+
+18
+00:00:27,990 --> 00:00:28,000
+um a data set consisting of 19 studies
+ 
+
+19
+00:00:28,000 --> 00:00:29,990
+um a data set consisting of 19 studies
+evaluating the teacher expectancy
+
+20
+00:00:29,990 --> 00:00:30,000
+evaluating the teacher expectancy
+ 
+
+21
+00:00:30,000 --> 00:00:32,069
+evaluating the teacher expectancy
+effect.
+
+22
+00:00:32,069 --> 00:00:32,079
+effect.
+ 
+
+23
+00:00:32,079 --> 00:00:35,590
+effect.
+In all these studies, the teacher was
+
+24
+00:00:35,590 --> 00:00:35,600
+In all these studies, the teacher was
+ 
+
+25
+00:00:35,600 --> 00:00:38,150
+In all these studies, the teacher was
+told by the researcher that some
+
+26
+00:00:38,150 --> 00:00:38,160
+told by the researcher that some
+ 
+
+27
+00:00:38,160 --> 00:00:41,830
+told by the researcher that some
+students were relatively strong students
+
+28
+00:00:41,830 --> 00:00:41,840
+students were relatively strong students
+ 
+
+29
+00:00:41,840 --> 00:00:44,790
+students were relatively strong students
+and other students were relatively weak
+
+30
+00:00:44,790 --> 00:00:44,800
+and other students were relatively weak
+ 
+
+31
+00:00:44,800 --> 00:00:46,790
+and other students were relatively weak
+students without there being a real
+
+32
+00:00:46,790 --> 00:00:46,800
+students without there being a real
+ 
+
+33
+00:00:46,800 --> 00:00:49,029
+students without there being a real
+difference between these two groups of
+
+34
+00:00:49,029 --> 00:00:49,039
+difference between these two groups of
+ 
+
+35
+00:00:49,039 --> 00:00:51,510
+difference between these two groups of
+students. And then after a certain
+
+36
+00:00:51,510 --> 00:00:51,520
+students. And then after a certain
+ 
+
+37
+00:00:51,520 --> 00:00:54,709
+students. And then after a certain
+period of time it was assessed whether
+
+38
+00:00:54,709 --> 00:00:54,719
+period of time it was assessed whether
+ 
+
+39
+00:00:54,719 --> 00:00:57,270
+period of time it was assessed whether
+the teacher gave higher scores to the
+
+40
+00:00:57,270 --> 00:00:57,280
+the teacher gave higher scores to the
+ 
+
+41
+00:00:57,280 --> 00:01:01,430
+the teacher gave higher scores to the
+so-called strong students.
+
+42
+00:01:01,430 --> 00:01:01,440
+so-called strong students.
+ 
+
+43
+00:01:01,440 --> 00:01:04,549
+so-called strong students.
+So in these studies um it was evaluated
+
+44
+00:01:04,549 --> 00:01:04,559
+So in these studies um it was evaluated
+ 
+
+45
+00:01:04,559 --> 00:01:07,429
+So in these studies um it was evaluated
+whether the expectancies that teachers
+
+46
+00:01:07,429 --> 00:01:07,439
+whether the expectancies that teachers
+ 
+
+47
+00:01:07,439 --> 00:01:10,950
+whether the expectancies that teachers
+have about their students affect their
+
+48
+00:01:10,950 --> 00:01:10,960
+have about their students affect their
+ 
+
+49
+00:01:10,960 --> 00:01:13,030
+have about their students affect their
+uh scores their gradings of these
+
+50
+00:01:13,030 --> 00:01:13,040
+uh scores their gradings of these
+ 
+
+51
+00:01:13,040 --> 00:01:14,950
+uh scores their gradings of these
+students.
+
+52
+00:01:14,950 --> 00:01:14,960
+students.
+ 
+
+53
+00:01:14,960 --> 00:01:16,630
+students.
+In this table you can see the results of
+
+54
+00:01:16,630 --> 00:01:16,640
+In this table you can see the results of
+ 
+
+55
+00:01:16,640 --> 00:01:19,830
+In this table you can see the results of
+these 19 studies. So the column G refers
+
+56
+00:01:19,830 --> 00:01:19,840
+these 19 studies. So the column G refers
+ 
+
+57
+00:01:19,840 --> 00:01:21,910
+these 19 studies. So the column G refers
+to the standardized mean difference with
+
+58
+00:01:21,910 --> 00:01:21,920
+to the standardized mean difference with
+ 
+
+59
+00:01:21,920 --> 00:01:26,950
+to the standardized mean difference with
+a positive G referring to an an effect
+
+60
+00:01:26,950 --> 00:01:26,960
+a positive G referring to an an effect
+ 
+
+61
+00:01:26,960 --> 00:01:28,310
+a positive G referring to an an effect
+going in the direction that was
+
+62
+00:01:28,310 --> 00:01:28,320
+going in the direction that was
+ 
+
+63
+00:01:28,320 --> 00:01:31,590
+going in the direction that was
+expected. So a positive G means that
+
+64
+00:01:31,590 --> 00:01:31,600
+expected. So a positive G means that
+ 
+
+65
+00:01:31,600 --> 00:01:33,190
+expected. So a positive G means that
+students that were called strong
+
+66
+00:01:33,190 --> 00:01:33,200
+students that were called strong
+ 
+
+67
+00:01:33,200 --> 00:01:36,149
+students that were called strong
+students indeed got higher grades than
+
+68
+00:01:36,149 --> 00:01:36,159
+students indeed got higher grades than
+ 
+
+69
+00:01:36,159 --> 00:01:39,350
+students indeed got higher grades than
+uh students called weaker students. In
+
+70
+00:01:39,350 --> 00:01:39,360
+uh students called weaker students. In
+ 
+
+71
+00:01:39,360 --> 00:01:41,109
+uh students called weaker students. In
+the last column, you can see the
+
+72
+00:01:41,109 --> 00:01:41,119
+the last column, you can see the
+ 
+
+73
+00:01:41,119 --> 00:01:43,429
+the last column, you can see the
+standard error or the standard deviation
+
+74
+00:01:43,429 --> 00:01:43,439
+standard error or the standard deviation
+ 
+
+75
+00:01:43,439 --> 00:01:46,789
+standard error or the standard deviation
+of a sampling distribution of the effect
+
+76
+00:01:46,789 --> 00:01:46,799
+of a sampling distribution of the effect
+ 
+
+77
+00:01:46,799 --> 00:01:49,510
+of a sampling distribution of the effect
+size.
+
+78
+00:01:49,510 --> 00:01:49,520
+size.
+ 
+
+79
+00:01:49,520 --> 00:01:54,069
+size.
+As rule of thumb, if G is at least twice
+
+80
+00:01:54,069 --> 00:01:54,079
+As rule of thumb, if G is at least twice
+ 
+
+81
+00:01:54,079 --> 00:01:56,630
+As rule of thumb, if G is at least twice
+as large as its standard error, then
+
+82
+00:01:56,630 --> 00:01:56,640
+as large as its standard error, then
+ 
+
+83
+00:01:56,640 --> 00:01:58,950
+as large as its standard error, then
+this means that this observed effect
+
+84
+00:01:58,950 --> 00:01:58,960
+this means that this observed effect
+ 
+
+85
+00:01:58,960 --> 00:02:01,749
+this means that this observed effect
+size is statistically significant at the
+
+86
+00:02:01,749 --> 00:02:01,759
+size is statistically significant at the
+ 
+
+87
+00:02:01,759 --> 00:02:05,590
+size is statistically significant at the
+0.05 05 significance level which is not
+
+88
+00:02:05,590 --> 00:02:05,600
+0.05 05 significance level which is not
+ 
+
+89
+00:02:05,600 --> 00:02:08,630
+0.05 05 significance level which is not
+often case as you can see in this this
+
+90
+00:02:08,630 --> 00:02:08,640
+often case as you can see in this this
+ 
+
+91
+00:02:08,640 --> 00:02:12,390
+often case as you can see in this this
+set this set of 19 studies.
+
+92
+00:02:12,390 --> 00:02:12,400
+set this set of 19 studies.
+ 
+
+93
+00:02:12,400 --> 00:02:14,949
+set this set of 19 studies.
+Let's analyze this data.
+
+94
+00:02:14,949 --> 00:02:14,959
+Let's analyze this data.
+ 
+
+95
+00:02:14,959 --> 00:02:17,670
+Let's analyze this data.
+You can install R and you can install R
+
+96
+00:02:17,670 --> 00:02:17,680
+You can install R and you can install R
+ 
+
+97
+00:02:17,680 --> 00:02:20,309
+You can install R and you can install R
+studio on your own computer by
+
+98
+00:02:20,309 --> 00:02:20,319
+studio on your own computer by
+ 
+
+99
+00:02:20,319 --> 00:02:23,430
+studio on your own computer by
+downloading uh these programs for free
+
+100
+00:02:23,430 --> 00:02:23,440
+downloading uh these programs for free
+ 
+
+101
+00:02:23,440 --> 00:02:26,309
+downloading uh these programs for free
+uh from these websites. So we are going
+
+102
+00:02:26,309 --> 00:02:26,319
+uh from these websites. So we are going
+ 
+
+103
+00:02:26,319 --> 00:02:30,229
+uh from these websites. So we are going
+to use R studio. If you installed RNR
+
+104
+00:02:30,229 --> 00:02:30,239
+to use R studio. If you installed RNR
+ 
+
+105
+00:02:30,239 --> 00:02:33,030
+to use R studio. If you installed RNR
+studio and you open studio then you get
+
+106
+00:02:33,030 --> 00:02:33,040
+studio and you open studio then you get
+ 
+
+107
+00:02:33,040 --> 00:02:36,229
+studio and you open studio then you get
+this window
+
+108
+00:02:36,229 --> 00:02:36,239
+this window
+ 
+
+109
+00:02:36,239 --> 00:02:38,550
+this window
+on the left side in the the left upper
+
+110
+00:02:38,550 --> 00:02:38,560
+on the left side in the the left upper
+ 
+
+111
+00:02:38,560 --> 00:02:42,150
+on the left side in the the left upper
+corner you can you get uh a script which
+
+112
+00:02:42,150 --> 00:02:42,160
+corner you can you get uh a script which
+ 
+
+113
+00:02:42,160 --> 00:02:44,949
+corner you can you get uh a script which
+is empty for now. You can type in
+
+114
+00:02:44,949 --> 00:02:44,959
+is empty for now. You can type in
+ 
+
+115
+00:02:44,959 --> 00:02:47,430
+is empty for now. You can type in
+commands in this script and save these
+
+116
+00:02:47,430 --> 00:02:47,440
+commands in this script and save these
+ 
+
+117
+00:02:47,440 --> 00:02:49,430
+commands in this script and save these
+commands so that you can use these
+
+118
+00:02:49,430 --> 00:02:49,440
+commands so that you can use these
+ 
+
+119
+00:02:49,440 --> 00:02:54,710
+commands so that you can use these
+commands afterwards in the next session.
+
+120
+00:02:54,710 --> 00:02:54,720
+
+ 
+
+121
+00:02:54,720 --> 00:02:58,070
+
+If you type in a command and your cursor
+
+122
+00:02:58,070 --> 00:02:58,080
+If you type in a command and your cursor
+ 
+
+123
+00:02:58,080 --> 00:03:01,030
+If you type in a command and your cursor
+is in that line and you push on controll
+
+124
+00:03:01,030 --> 00:03:01,040
+is in that line and you push on controll
+ 
+
+125
+00:03:01,040 --> 00:03:03,190
+is in that line and you push on controll
+enter then this command will be
+
+126
+00:03:03,190 --> 00:03:03,200
+enter then this command will be
+ 
+
+127
+00:03:03,200 --> 00:03:06,390
+enter then this command will be
+automatically copied to the window below
+
+128
+00:03:06,390 --> 00:03:06,400
+automatically copied to the window below
+ 
+
+129
+00:03:06,400 --> 00:03:08,790
+automatically copied to the window below
+the so-called console
+
+130
+00:03:08,790 --> 00:03:08,800
+the so-called console
+ 
+
+131
+00:03:08,800 --> 00:03:11,270
+the so-called console
+and this command will be executed and
+
+132
+00:03:11,270 --> 00:03:11,280
+and this command will be executed and
+ 
+
+133
+00:03:11,280 --> 00:03:14,550
+and this command will be executed and
+you will see or sometimes you will see
+
+134
+00:03:14,550 --> 00:03:14,560
+you will see or sometimes you will see
+ 
+
+135
+00:03:14,560 --> 00:03:19,270
+you will see or sometimes you will see
+output in this console.
+
+136
+00:03:19,270 --> 00:03:19,280
+
+ 
+
+137
+00:03:19,280 --> 00:03:21,830
+
+I have already prepared an R script for
+
+138
+00:03:21,830 --> 00:03:21,840
+I have already prepared an R script for
+ 
+
+139
+00:03:21,840 --> 00:03:24,710
+I have already prepared an R script for
+you with all the commands that we are
+
+140
+00:03:24,710 --> 00:03:24,720
+you with all the commands that we are
+ 
+
+141
+00:03:24,720 --> 00:03:27,589
+you with all the commands that we are
+going to use to analyze the data set
+
+142
+00:03:27,589 --> 00:03:27,599
+going to use to analyze the data set
+ 
+
+143
+00:03:27,599 --> 00:03:32,630
+going to use to analyze the data set
+crowd bush with a uh the 19 step.
+
+144
+00:03:32,630 --> 00:03:32,640
+crowd bush with a uh the 19 step.
+ 
+
+145
+00:03:32,640 --> 00:03:34,630
+crowd bush with a uh the 19 step.
+You can open the R script. You can find
+
+146
+00:03:34,630 --> 00:03:34,640
+You can open the R script. You can find
+ 
+
+147
+00:03:34,640 --> 00:03:37,430
+You can open the R script. You can find
+the R script on Toledo under course
+
+148
+00:03:37,430 --> 00:03:37,440
+the R script on Toledo under course
+ 
+
+149
+00:03:37,440 --> 00:03:40,869
+the R script on Toledo under course
+documents software R.
+
+150
+00:03:40,869 --> 00:03:40,879
+documents software R.
+ 
+
+151
+00:03:40,879 --> 00:03:44,869
+documents software R.
+So please um save this R script on your
+
+152
+00:03:44,869 --> 00:03:44,879
+So please um save this R script on your
+ 
+
+153
+00:03:44,879 --> 00:03:49,030
+So please um save this R script on your
+own computer and then open it in R by
+
+154
+00:03:49,030 --> 00:03:49,040
+own computer and then open it in R by
+ 
+
+155
+00:03:49,040 --> 00:03:55,830
+own computer and then open it in R by
+using file open file and so on.
+
+156
+00:03:55,830 --> 00:03:55,840
+
+ 
+
+157
+00:03:55,840 --> 00:03:58,390
+
+Next
+
+158
+00:03:58,390 --> 00:03:58,400
+Next
+ 
+
+159
+00:03:58,400 --> 00:04:01,030
+Next
+we are going to make use of the package
+
+160
+00:04:01,030 --> 00:04:01,040
+we are going to make use of the package
+ 
+
+161
+00:04:01,040 --> 00:04:03,589
+we are going to make use of the package
+metaphor.
+
+162
+00:04:03,589 --> 00:04:03,599
+metaphor.
+ 
+
+163
+00:04:03,599 --> 00:04:06,630
+metaphor.
+A lot of people prepared packages.
+
+164
+00:04:06,630 --> 00:04:06,640
+A lot of people prepared packages.
+ 
+
+165
+00:04:06,640 --> 00:04:08,789
+A lot of people prepared packages.
+packages that are meant to do specific
+
+166
+00:04:08,789 --> 00:04:08,799
+packages that are meant to do specific
+ 
+
+167
+00:04:08,799 --> 00:04:10,470
+packages that are meant to do specific
+analysis.
+
+168
+00:04:10,470 --> 00:04:10,480
+analysis.
+ 
+
+169
+00:04:10,480 --> 00:04:11,910
+analysis.
+We are going to use the package
+
+170
+00:04:11,910 --> 00:04:11,920
+We are going to use the package
+ 
+
+171
+00:04:11,920 --> 00:04:14,309
+We are going to use the package
+metaphor, a package that was developed
+
+172
+00:04:14,309 --> 00:04:14,319
+metaphor, a package that was developed
+ 
+
+173
+00:04:14,319 --> 00:04:17,430
+metaphor, a package that was developed
+by Holang Vikpower from the University
+
+174
+00:04:17,430 --> 00:04:17,440
+by Holang Vikpower from the University
+ 
+
+175
+00:04:17,440 --> 00:04:24,150
+by Holang Vikpower from the University
+of Mr. to perform meta analysis.
+
+176
+00:04:24,150 --> 00:04:24,160
+
+ 
+
+177
+00:04:24,160 --> 00:04:26,550
+
+To use this or to install this package,
+
+178
+00:04:26,550 --> 00:04:26,560
+To use this or to install this package,
+ 
+
+179
+00:04:26,560 --> 00:04:29,990
+To use this or to install this package,
+you click on packages, then you click on
+
+180
+00:04:29,990 --> 00:04:30,000
+you click on packages, then you click on
+ 
+
+181
+00:04:30,000 --> 00:04:32,790
+you click on packages, then you click on
+install. You type in the name of the
+
+182
+00:04:32,790 --> 00:04:32,800
+install. You type in the name of the
+ 
+
+183
+00:04:32,800 --> 00:04:34,710
+install. You type in the name of the
+package metaphor
+
+184
+00:04:34,710 --> 00:04:34,720
+package metaphor
+ 
+
+185
+00:04:34,720 --> 00:04:39,350
+package metaphor
+and you install that package.
+
+186
+00:04:39,350 --> 00:04:39,360
+and you install that package.
+ 
+
+187
+00:04:39,360 --> 00:04:42,469
+and you install that package.
+Once you have installed a package, you
+
+188
+00:04:42,469 --> 00:04:42,479
+Once you have installed a package, you
+ 
+
+189
+00:04:42,479 --> 00:04:44,950
+Once you have installed a package, you
+have to tell R that you want to use this
+
+190
+00:04:44,950 --> 00:04:44,960
+have to tell R that you want to use this
+ 
+
+191
+00:04:44,960 --> 00:04:46,469
+have to tell R that you want to use this
+package.
+
+192
+00:04:46,469 --> 00:04:46,479
+package.
+ 
+
+193
+00:04:46,479 --> 00:04:49,670
+package.
+So you can do this um by typing the
+
+194
+00:04:49,670 --> 00:04:49,680
+So you can do this um by typing the
+ 
+
+195
+00:04:49,680 --> 00:04:51,670
+So you can do this um by typing the
+command library
+
+196
+00:04:51,670 --> 00:04:51,680
+command library
+ 
+
+197
+00:04:51,680 --> 00:04:54,710
+command library
+metaphor. You can see this command in uh
+
+198
+00:04:54,710 --> 00:04:54,720
+metaphor. You can see this command in uh
+ 
+
+199
+00:04:54,720 --> 00:04:58,150
+metaphor. You can see this command in uh
+the R studio script Renbush.
+
+200
+00:04:58,150 --> 00:04:58,160
+the R studio script Renbush.
+ 
+
+201
+00:04:58,160 --> 00:05:01,830
+the R studio script Renbush.
+So you go with your cursor on that line
+
+202
+00:05:01,830 --> 00:05:01,840
+So you go with your cursor on that line
+ 
+
+203
+00:05:01,840 --> 00:05:06,150
+So you go with your cursor on that line
+and you push controll enter.
+
+204
+00:05:06,150 --> 00:05:06,160
+and you push controll enter.
+ 
+
+205
+00:05:06,160 --> 00:05:09,270
+and you push controll enter.
+So in that way you will see that uh the
+
+206
+00:05:09,270 --> 00:05:09,280
+So in that way you will see that uh the
+ 
+
+207
+00:05:09,280 --> 00:05:12,469
+So in that way you will see that uh the
+li the metaphor package is loaded. So it
+
+208
+00:05:12,469 --> 00:05:12,479
+li the metaphor package is loaded. So it
+ 
+
+209
+00:05:12,479 --> 00:05:15,110
+li the metaphor package is loaded. So it
+is ready for use. Now
+
+210
+00:05:15,110 --> 00:05:15,120
+is ready for use. Now
+ 
+
+211
+00:05:15,120 --> 00:05:18,870
+is ready for use. Now
+you have to install a package only once.
+
+212
+00:05:18,870 --> 00:05:18,880
+you have to install a package only once.
+ 
+
+213
+00:05:18,880 --> 00:05:20,710
+you have to install a package only once.
+So once you have installed the package
+
+214
+00:05:20,710 --> 00:05:20,720
+So once you have installed the package
+ 
+
+215
+00:05:20,720 --> 00:05:24,150
+So once you have installed the package
+you can use it in next sessions as well.
+
+216
+00:05:24,150 --> 00:05:24,160
+you can use it in next sessions as well.
+ 
+
+217
+00:05:24,160 --> 00:05:26,230
+you can use it in next sessions as well.
+But for each session in which you want
+
+218
+00:05:26,230 --> 00:05:26,240
+But for each session in which you want
+ 
+
+219
+00:05:26,240 --> 00:05:29,189
+But for each session in which you want
+to use the package metaphor, you have to
+
+220
+00:05:29,189 --> 00:05:29,199
+to use the package metaphor, you have to
+ 
+
+221
+00:05:29,199 --> 00:05:32,550
+to use the package metaphor, you have to
+reload the package metaphor. So you have
+
+222
+00:05:32,550 --> 00:05:32,560
+reload the package metaphor. So you have
+ 
+
+223
+00:05:32,560 --> 00:05:36,230
+reload the package metaphor. So you have
+to execute again the line library
+
+224
+00:05:36,230 --> 00:05:36,240
+to execute again the line library
+ 
+
+225
+00:05:36,240 --> 00:05:39,830
+to execute again the line library
+metaphor.
+
+226
+00:05:39,830 --> 00:05:39,840
+
+ 
+
+227
+00:05:39,840 --> 00:05:42,550
+
+Next, I also prepared a data set
+
+228
+00:05:42,550 --> 00:05:42,560
+Next, I also prepared a data set
+ 
+
+229
+00:05:42,560 --> 00:05:45,270
+Next, I also prepared a data set
+including the data
+
+230
+00:05:45,270 --> 00:05:45,280
+including the data
+ 
+
+231
+00:05:45,280 --> 00:05:48,390
+including the data
+um a data set called Renom Bush. It's an
+
+232
+00:05:48,390 --> 00:05:48,400
+um a data set called Renom Bush. It's an
+ 
+
+233
+00:05:48,400 --> 00:05:51,350
+um a data set called Renom Bush. It's an
+an Excel file. You can find this Excel
+
+234
+00:05:51,350 --> 00:05:51,360
+an Excel file. You can find this Excel
+ 
+
+235
+00:05:51,360 --> 00:05:54,310
+an Excel file. You can find this Excel
+file as well on Toledo under course
+
+236
+00:05:54,310 --> 00:05:54,320
+file as well on Toledo under course
+ 
+
+237
+00:05:54,320 --> 00:05:58,870
+file as well on Toledo under course
+documents software R. So go to or or
+
+238
+00:05:58,870 --> 00:05:58,880
+documents software R. So go to or or
+ 
+
+239
+00:05:58,880 --> 00:06:01,510
+documents software R. So go to or or
+save that uh Excel sheet on your own
+
+240
+00:06:01,510 --> 00:06:01,520
+save that uh Excel sheet on your own
+ 
+
+241
+00:06:01,520 --> 00:06:05,189
+save that uh Excel sheet on your own
+computer and then import data set in R
+
+242
+00:06:05,189 --> 00:06:05,199
+computer and then import data set in R
+ 
+
+243
+00:06:05,199 --> 00:06:09,189
+computer and then import data set in R
+studio by clicking on import data set
+
+244
+00:06:09,189 --> 00:06:09,199
+studio by clicking on import data set
+ 
+
+245
+00:06:09,199 --> 00:06:12,230
+studio by clicking on import data set
+next from Excel and so on. You open the
+
+246
+00:06:12,230 --> 00:06:12,240
+next from Excel and so on. You open the
+ 
+
+247
+00:06:12,240 --> 00:06:16,790
+next from Excel and so on. You open the
+data set. So you you import the data set
+
+248
+00:06:16,790 --> 00:06:16,800
+data set. So you you import the data set
+ 
+
+249
+00:06:16,800 --> 00:06:18,710
+data set. So you you import the data set
+and by importing the data set you
+
+250
+00:06:18,710 --> 00:06:18,720
+and by importing the data set you
+ 
+
+251
+00:06:18,720 --> 00:06:21,350
+and by importing the data set you
+immediately see how the data set set
+
+252
+00:06:21,350 --> 00:06:21,360
+immediately see how the data set set
+ 
+
+253
+00:06:21,360 --> 00:06:23,990
+immediately see how the data set set
+looks like. So you have four columns. A
+
+254
+00:06:23,990 --> 00:06:24,000
+looks like. So you have four columns. A
+ 
+
+255
+00:06:24,000 --> 00:06:25,590
+looks like. So you have four columns. A
+column with a study number, a column
+
+256
+00:06:25,590 --> 00:06:25,600
+column with a study number, a column
+ 
+
+257
+00:06:25,600 --> 00:06:28,469
+column with a study number, a column
+with a weeks of prior contact. I will
+
+258
+00:06:28,469 --> 00:06:28,479
+with a weeks of prior contact. I will
+ 
+
+259
+00:06:28,479 --> 00:06:30,790
+with a weeks of prior contact. I will
+talk more about that later. A column
+
+260
+00:06:30,790 --> 00:06:30,800
+talk more about that later. A column
+ 
+
+261
+00:06:30,800 --> 00:06:33,270
+talk more about that later. A column
+with a standardized mean differences and
+
+262
+00:06:33,270 --> 00:06:33,280
+with a standardized mean differences and
+ 
+
+263
+00:06:33,280 --> 00:06:36,790
+with a standardized mean differences and
+a column with the standard errors. Now
+
+264
+00:06:36,790 --> 00:06:36,800
+a column with the standard errors. Now
+ 
+
+265
+00:06:36,800 --> 00:06:39,029
+a column with the standard errors. Now
+what we need to perform a meta analysis
+
+266
+00:06:39,029 --> 00:06:39,039
+what we need to perform a meta analysis
+ 
+
+267
+00:06:39,039 --> 00:06:41,110
+what we need to perform a meta analysis
+using the metaphor package is at least
+
+268
+00:06:41,110 --> 00:06:41,120
+using the metaphor package is at least
+ 
+
+269
+00:06:41,120 --> 00:06:43,749
+using the metaphor package is at least
+two columns. We need a column with the
+
+270
+00:06:43,749 --> 00:06:43,759
+two columns. We need a column with the
+ 
+
+271
+00:06:43,759 --> 00:06:47,270
+two columns. We need a column with the
+effect sizes. So here column G. But we
+
+272
+00:06:47,270 --> 00:06:47,280
+effect sizes. So here column G. But we
+ 
+
+273
+00:06:47,280 --> 00:06:49,510
+effect sizes. So here column G. But we
+also need a column with the sampling
+
+274
+00:06:49,510 --> 00:06:49,520
+also need a column with the sampling
+ 
+
+275
+00:06:49,520 --> 00:06:51,909
+also need a column with the sampling
+variances. So the variance of the
+
+276
+00:06:51,909 --> 00:06:51,919
+variances. So the variance of the
+ 
+
+277
+00:06:51,919 --> 00:06:53,830
+variances. So the variance of the
+sampling distribution of the effect
+
+278
+00:06:53,830 --> 00:06:53,840
+sampling distribution of the effect
+ 
+
+279
+00:06:53,840 --> 00:06:56,950
+sampling distribution of the effect
+sizes. We do not have that column here.
+
+280
+00:06:56,950 --> 00:06:56,960
+sizes. We do not have that column here.
+ 
+
+281
+00:06:56,960 --> 00:06:59,110
+sizes. We do not have that column here.
+But what we have instead here is the
+
+282
+00:06:59,110 --> 00:06:59,120
+But what we have instead here is the
+ 
+
+283
+00:06:59,120 --> 00:07:01,270
+But what we have instead here is the
+standard error which is the square root
+
+284
+00:07:01,270 --> 00:07:01,280
+standard error which is the square root
+ 
+
+285
+00:07:01,280 --> 00:07:04,230
+standard error which is the square root
+of the sampling variance. So in the next
+
+286
+00:07:04,230 --> 00:07:04,240
+of the sampling variance. So in the next
+ 
+
+287
+00:07:04,240 --> 00:07:07,510
+of the sampling variance. So in the next
+step we are going to make a new variable
+
+288
+00:07:07,510 --> 00:07:07,520
+step we are going to make a new variable
+ 
+
+289
+00:07:07,520 --> 00:07:10,150
+step we are going to make a new variable
+variable with a sampling variances and
+
+290
+00:07:10,150 --> 00:07:10,160
+variable with a sampling variances and
+ 
+
+291
+00:07:10,160 --> 00:07:12,950
+variable with a sampling variances and
+this new variable should be equal to the
+
+292
+00:07:12,950 --> 00:07:12,960
+this new variable should be equal to the
+ 
+
+293
+00:07:12,960 --> 00:07:15,830
+this new variable should be equal to the
+squared standard errors.
+
+294
+00:07:15,830 --> 00:07:15,840
+squared standard errors.
+ 
+
+295
+00:07:15,840 --> 00:07:17,909
+squared standard errors.
+So this is what is done in the next
+
+296
+00:07:17,909 --> 00:07:17,919
+So this is what is done in the next
+ 
+
+297
+00:07:17,919 --> 00:07:22,070
+So this is what is done in the next
+lines um included in the R script. So
+
+298
+00:07:22,070 --> 00:07:22,080
+lines um included in the R script. So
+ 
+
+299
+00:07:22,080 --> 00:07:26,230
+lines um included in the R script. So
+routen bush dollar sign var refers to a
+
+300
+00:07:26,230 --> 00:07:26,240
+routen bush dollar sign var refers to a
+ 
+
+301
+00:07:26,240 --> 00:07:29,430
+routen bush dollar sign var refers to a
+new variable to be created a variable
+
+302
+00:07:29,430 --> 00:07:29,440
+new variable to be created a variable
+ 
+
+303
+00:07:29,440 --> 00:07:31,909
+new variable to be created a variable
+called var
+
+304
+00:07:31,909 --> 00:07:31,919
+called var
+ 
+
+305
+00:07:31,919 --> 00:07:35,350
+called var
+which is part of the data set which will
+
+306
+00:07:35,350 --> 00:07:35,360
+which is part of the data set which will
+ 
+
+307
+00:07:35,360 --> 00:07:38,550
+which is part of the data set which will
+be part of the data set bush
+
+308
+00:07:38,550 --> 00:07:38,560
+be part of the data set bush
+ 
+
+309
+00:07:38,560 --> 00:07:40,790
+be part of the data set bush
+and this new variable is equal to and
+
+310
+00:07:40,790 --> 00:07:40,800
+and this new variable is equal to and
+ 
+
+311
+00:07:40,800 --> 00:07:42,870
+and this new variable is equal to and
+you can see that in r we also uh
+
+312
+00:07:42,870 --> 00:07:42,880
+you can see that in r we also uh
+ 
+
+313
+00:07:42,880 --> 00:07:46,950
+you can see that in r we also uh
+sometimes write um an arrow instead of
+
+314
+00:07:46,950 --> 00:07:46,960
+sometimes write um an arrow instead of
+ 
+
+315
+00:07:46,960 --> 00:07:51,589
+sometimes write um an arrow instead of
+an equal sign. So the new variable var
+
+316
+00:07:51,589 --> 00:07:51,599
+an equal sign. So the new variable var
+ 
+
+317
+00:07:51,599 --> 00:07:55,350
+an equal sign. So the new variable var
+in the data set Ren bush is equal to the
+
+318
+00:07:55,350 --> 00:07:55,360
+in the data set Ren bush is equal to the
+ 
+
+319
+00:07:55,360 --> 00:07:57,909
+in the data set Ren bush is equal to the
+variable standard error from the data
+
+320
+00:07:57,909 --> 00:07:57,919
+variable standard error from the data
+ 
+
+321
+00:07:57,919 --> 00:08:02,309
+variable standard error from the data
+set Ren bush squared. So the head two
+
+322
+00:08:02,309 --> 00:08:02,319
+set Ren bush squared. So the head two
+ 
+
+323
+00:08:02,319 --> 00:08:06,150
+set Ren bush squared. So the head two
+means squared
+
+324
+00:08:06,150 --> 00:08:06,160
+means squared
+ 
+
+325
+00:08:06,160 --> 00:08:10,710
+means squared
+by exe line you see that in the data set
+
+326
+00:08:10,710 --> 00:08:10,720
+by exe line you see that in the data set
+ 
+
+327
+00:08:10,720 --> 00:08:16,150
+by exe line you see that in the data set
+automatically a new variable is added.
+
+328
+00:08:16,150 --> 00:08:16,160
+automatically a new variable is added.
+ 
+
+329
+00:08:16,160 --> 00:08:20,309
+automatically a new variable is added.
+So now we are ready to analyze or met
+
+330
+00:08:20,309 --> 00:08:20,319
+So now we are ready to analyze or met
+ 
+
+331
+00:08:20,319 --> 00:08:24,230
+So now we are ready to analyze or met
+analyze the data set.
+
+332
+00:08:24,230 --> 00:08:24,240
+analyze the data set.
+ 
+
+333
+00:08:24,240 --> 00:08:27,670
+analyze the data set.
+Let's look at the first analysis. So I
+
+334
+00:08:27,670 --> 00:08:27,680
+Let's look at the first analysis. So I
+ 
+
+335
+00:08:27,680 --> 00:08:30,710
+Let's look at the first analysis. So I
+use the command RMA which is a function
+
+336
+00:08:30,710 --> 00:08:30,720
+use the command RMA which is a function
+ 
+
+337
+00:08:30,720 --> 00:08:36,870
+use the command RMA which is a function
+within the package metaphor.
+
+338
+00:08:36,870 --> 00:08:36,880
+
+ 
+
+339
+00:08:36,880 --> 00:08:39,829
+
+The analysis should be done on the
+
+340
+00:08:39,829 --> 00:08:39,839
+The analysis should be done on the
+ 
+
+341
+00:08:39,839 --> 00:08:42,070
+The analysis should be done on the
+dependent variable G. So that's a
+
+342
+00:08:42,070 --> 00:08:42,080
+dependent variable G. So that's a
+ 
+
+343
+00:08:42,080 --> 00:08:45,910
+dependent variable G. So that's a
+variable including the um the v the the
+
+344
+00:08:45,910 --> 00:08:45,920
+variable including the um the v the the
+ 
+
+345
+00:08:45,920 --> 00:08:49,350
+variable including the um the v the the
+effect sizes.
+
+346
+00:08:49,350 --> 00:08:49,360
+
+ 
+
+347
+00:08:49,360 --> 00:08:53,110
+
+A var refers to the sampling variances.
+
+348
+00:08:53,110 --> 00:08:53,120
+A var refers to the sampling variances.
+ 
+
+349
+00:08:53,120 --> 00:08:54,949
+A var refers to the sampling variances.
+The data can be found in a data set
+
+350
+00:08:54,949 --> 00:08:54,959
+The data can be found in a data set
+ 
+
+351
+00:08:54,959 --> 00:08:57,509
+The data can be found in a data set
+called trrowen bush.
+
+352
+00:08:57,509 --> 00:08:57,519
+called trrowen bush.
+ 
+
+353
+00:08:57,519 --> 00:08:59,509
+called trrowen bush.
+The method we are going to use in this
+
+354
+00:08:59,509 --> 00:08:59,519
+The method we are going to use in this
+ 
+
+355
+00:08:59,519 --> 00:09:01,829
+The method we are going to use in this
+first analysis is the fixed effects
+
+356
+00:09:01,829 --> 00:09:01,839
+first analysis is the fixed effects
+ 
+
+357
+00:09:01,839 --> 00:09:03,750
+first analysis is the fixed effects
+method.
+
+358
+00:09:03,750 --> 00:09:03,760
+method.
+ 
+
+359
+00:09:03,760 --> 00:09:05,590
+method.
+So we are going to use a fixed effects
+
+360
+00:09:05,590 --> 00:09:05,600
+So we are going to use a fixed effects
+ 
+
+361
+00:09:05,600 --> 00:09:08,550
+So we are going to use a fixed effects
+model assuming that the population
+
+362
+00:09:08,550 --> 00:09:08,560
+model assuming that the population
+ 
+
+363
+00:09:08,560 --> 00:09:11,030
+model assuming that the population
+effect size is exactly the same in all
+
+364
+00:09:11,030 --> 00:09:11,040
+effect size is exactly the same in all
+ 
+
+365
+00:09:11,040 --> 00:09:14,070
+effect size is exactly the same in all
+19 studies.
+
+366
+00:09:14,070 --> 00:09:14,080
+19 studies.
+ 
+
+367
+00:09:14,080 --> 00:09:16,710
+19 studies.
+And this analysis
+
+368
+00:09:16,710 --> 00:09:16,720
+And this analysis
+ 
+
+369
+00:09:16,720 --> 00:09:18,630
+And this analysis
+I am going to give a name to this
+
+370
+00:09:18,630 --> 00:09:18,640
+I am going to give a name to this
+ 
+
+371
+00:09:18,640 --> 00:09:20,710
+I am going to give a name to this
+analysis. More specifically I'm going to
+
+372
+00:09:20,710 --> 00:09:20,720
+analysis. More specifically I'm going to
+ 
+
+373
+00:09:20,720 --> 00:09:23,829
+analysis. More specifically I'm going to
+give it the name FEM fixed effects
+
+374
+00:09:23,829 --> 00:09:23,839
+give it the name FEM fixed effects
+ 
+
+375
+00:09:23,839 --> 00:09:27,110
+give it the name FEM fixed effects
+model. So FEM is a name I gave myself to
+
+376
+00:09:27,110 --> 00:09:27,120
+model. So FEM is a name I gave myself to
+ 
+
+377
+00:09:27,120 --> 00:09:29,110
+model. So FEM is a name I gave myself to
+this analysis.
+
+378
+00:09:29,110 --> 00:09:29,120
+this analysis.
+ 
+
+379
+00:09:29,120 --> 00:09:31,190
+this analysis.
+By running this line, the analysis will
+
+380
+00:09:31,190 --> 00:09:31,200
+By running this line, the analysis will
+ 
+
+381
+00:09:31,200 --> 00:09:33,110
+By running this line, the analysis will
+be done. But you will not immediately
+
+382
+00:09:33,110 --> 00:09:33,120
+be done. But you will not immediately
+ 
+
+383
+00:09:33,120 --> 00:09:36,949
+be done. But you will not immediately
+see output. To see the output, you can
+
+384
+00:09:36,949 --> 00:09:36,959
+see output. To see the output, you can
+ 
+
+385
+00:09:36,959 --> 00:09:40,150
+see output. To see the output, you can
+also execute the line summary and then
+
+386
+00:09:40,150 --> 00:09:40,160
+also execute the line summary and then
+ 
+
+387
+00:09:40,160 --> 00:09:43,190
+also execute the line summary and then
+between parenthesis FM. If you do so,
+
+388
+00:09:43,190 --> 00:09:43,200
+between parenthesis FM. If you do so,
+ 
+
+389
+00:09:43,200 --> 00:09:47,190
+between parenthesis FM. If you do so,
+you get uh for instance this output. You
+
+390
+00:09:47,190 --> 00:09:47,200
+you get uh for instance this output. You
+ 
+
+391
+00:09:47,200 --> 00:09:50,150
+you get uh for instance this output. You
+can see that the estimate which refers
+
+392
+00:09:50,150 --> 00:09:50,160
+can see that the estimate which refers
+ 
+
+393
+00:09:50,160 --> 00:09:52,470
+can see that the estimate which refers
+to the estimate of the overall
+
+394
+00:09:52,470 --> 00:09:52,480
+to the estimate of the overall
+ 
+
+395
+00:09:52,480 --> 00:09:55,509
+to the estimate of the overall
+population effect size, the estimate is
+
+396
+00:09:55,509 --> 00:09:55,519
+population effect size, the estimate is
+ 
+
+397
+00:09:55,519 --> 00:09:58,389
+population effect size, the estimate is
+equal to 0.06.
+
+398
+00:09:58,389 --> 00:09:58,399
+equal to 0.06.
+ 
+
+399
+00:09:58,399 --> 00:10:00,550
+equal to 0.06.
+Think back of the guidelines of Cohen.
+
+400
+00:10:00,550 --> 00:10:00,560
+Think back of the guidelines of Cohen.
+ 
+
+401
+00:10:00,560 --> 00:10:03,110
+Think back of the guidelines of Cohen.
+Cohen set well standardized mean
+
+402
+00:10:03,110 --> 00:10:03,120
+Cohen set well standardized mean
+ 
+
+403
+00:10:03,120 --> 00:10:05,110
+Cohen set well standardized mean
+difference of 20 can be called a small
+
+404
+00:10:05,110 --> 00:10:05,120
+difference of 20 can be called a small
+ 
+
+405
+00:10:05,120 --> 00:10:08,470
+difference of 20 can be called a small
+effect 50 a moderate effect and 80 a
+
+406
+00:10:08,470 --> 00:10:08,480
+effect 50 a moderate effect and 80 a
+ 
+
+407
+00:10:08,480 --> 00:10:11,430
+effect 50 a moderate effect and 80 a
+large effect. So this means that on
+
+408
+00:10:11,430 --> 00:10:11,440
+large effect. So this means that on
+ 
+
+409
+00:10:11,440 --> 00:10:14,790
+large effect. So this means that on
+average the effect seems to be very very
+
+410
+00:10:14,790 --> 00:10:14,800
+average the effect seems to be very very
+ 
+
+411
+00:10:14,800 --> 00:10:17,269
+average the effect seems to be very very
+small. You also get the standard error
+
+412
+00:10:17,269 --> 00:10:17,279
+small. You also get the standard error
+ 
+
+413
+00:10:17,279 --> 00:10:19,350
+small. You also get the standard error
+of these estimates. Dividing the
+
+414
+00:10:19,350 --> 00:10:19,360
+of these estimates. Dividing the
+ 
+
+415
+00:10:19,360 --> 00:10:21,990
+of these estimates. Dividing the
+estimate by the standard error gives us
+
+416
+00:10:21,990 --> 00:10:22,000
+estimate by the standard error gives us
+ 
+
+417
+00:10:22,000 --> 00:10:24,949
+estimate by the standard error gives us
+a value of 1.65.
+
+418
+00:10:24,949 --> 00:10:24,959
+a value of 1.65.
+ 
+
+419
+00:10:24,959 --> 00:10:27,910
+a value of 1.65.
+You can can compare this value to a
+
+420
+00:10:27,910 --> 00:10:27,920
+You can can compare this value to a
+ 
+
+421
+00:10:27,920 --> 00:10:30,230
+You can can compare this value to a
+standard normal distribution to assess
+
+422
+00:10:30,230 --> 00:10:30,240
+standard normal distribution to assess
+ 
+
+423
+00:10:30,240 --> 00:10:34,870
+standard normal distribution to assess
+the statistical significance.
+
+424
+00:10:34,870 --> 00:10:34,880
+
+ 
+
+425
+00:10:34,880 --> 00:10:37,590
+
+When testing the null hypothesis that
+
+426
+00:10:37,590 --> 00:10:37,600
+When testing the null hypothesis that
+ 
+
+427
+00:10:37,600 --> 00:10:40,870
+When testing the null hypothesis that
+the effect is equal to zero, this ratio
+
+428
+00:10:40,870 --> 00:10:40,880
+the effect is equal to zero, this ratio
+ 
+
+429
+00:10:40,880 --> 00:10:42,870
+the effect is equal to zero, this ratio
+of estimate divided by the standard
+
+430
+00:10:42,870 --> 00:10:42,880
+of estimate divided by the standard
+ 
+
+431
+00:10:42,880 --> 00:10:44,790
+of estimate divided by the standard
+error will follow a standard normal
+
+432
+00:10:44,790 --> 00:10:44,800
+error will follow a standard normal
+ 
+
+433
+00:10:44,800 --> 00:10:48,630
+error will follow a standard normal
+distribution. So you get a value of 1.65
+
+434
+00:10:48,630 --> 00:10:48,640
+distribution. So you get a value of 1.65
+ 
+
+435
+00:10:48,640 --> 00:10:52,630
+distribution. So you get a value of 1.65
+which is not very very large. Um so you
+
+436
+00:10:52,630 --> 00:10:52,640
+which is not very very large. Um so you
+ 
+
+437
+00:10:52,640 --> 00:10:56,069
+which is not very very large. Um so you
+have a probability of almost 10% to
+
+438
+00:10:56,069 --> 00:10:56,079
+have a probability of almost 10% to
+ 
+
+439
+00:10:56,079 --> 00:10:57,670
+have a probability of almost 10% to
+obtain
+
+440
+00:10:57,670 --> 00:10:57,680
+obtain
+ 
+
+441
+00:10:57,680 --> 00:11:00,550
+obtain
+a ZV valueue that is even farther away
+
+442
+00:11:00,550 --> 00:11:00,560
+a ZV valueue that is even farther away
+ 
+
+443
+00:11:00,560 --> 00:11:03,910
+a ZV valueue that is even farther away
+from zero if the null hypothesis is
+
+444
+00:11:03,910 --> 00:11:03,920
+from zero if the null hypothesis is
+ 
+
+445
+00:11:03,920 --> 00:11:07,269
+from zero if the null hypothesis is
+true. So we conclude this p value is not
+
+446
+00:11:07,269 --> 00:11:07,279
+true. So we conclude this p value is not
+ 
+
+447
+00:11:07,279 --> 00:11:10,069
+true. So we conclude this p value is not
+very small. So this result is
+
+448
+00:11:10,069 --> 00:11:10,079
+very small. So this result is
+ 
+
+449
+00:11:10,079 --> 00:11:13,190
+very small. So this result is
+statistically not significant. Um so on
+
+450
+00:11:13,190 --> 00:11:13,200
+statistically not significant. Um so on
+ 
+
+451
+00:11:13,200 --> 00:11:16,710
+statistically not significant. Um so on
+average we do not have enough evidence
+
+452
+00:11:16,710 --> 00:11:16,720
+average we do not have enough evidence
+ 
+
+453
+00:11:16,720 --> 00:11:19,590
+average we do not have enough evidence
+to say that there is a teacher
+
+454
+00:11:19,590 --> 00:11:19,600
+to say that there is a teacher
+ 
+
+455
+00:11:19,600 --> 00:11:22,069
+to say that there is a teacher
+expectancy effect.
+
+456
+00:11:22,069 --> 00:11:22,079
+expectancy effect.
+ 
+
+457
+00:11:22,079 --> 00:11:24,949
+expectancy effect.
+You also get a confidence interval a 95%
+
+458
+00:11:24,949 --> 00:11:24,959
+You also get a confidence interval a 95%
+ 
+
+459
+00:11:24,959 --> 00:11:29,269
+You also get a confidence interval a 95%
+confidence interval with uh limits uh
+
+460
+00:11:29,269 --> 00:11:29,279
+confidence interval with uh limits uh
+ 
+
+461
+00:11:29,279 --> 00:11:32,069
+confidence interval with uh limits uh
+equal to minus.01
+
+462
+00:11:32,069 --> 00:11:32,079
+equal to minus.01
+ 
+
+463
+00:11:32,079 --> 00:11:35,030
+equal to minus.01
+and plus.13.
+
+464
+00:11:35,030 --> 00:11:35,040
+and plus.13.
+ 
+
+465
+00:11:35,040 --> 00:11:37,110
+and plus.13.
+So you see that zero is included in the
+
+466
+00:11:37,110 --> 00:11:37,120
+So you see that zero is included in the
+ 
+
+467
+00:11:37,120 --> 00:11:39,590
+So you see that zero is included in the
+confidence interval confirming again
+
+468
+00:11:39,590 --> 00:11:39,600
+confidence interval confirming again
+ 
+
+469
+00:11:39,600 --> 00:11:44,389
+confidence interval confirming again
+that zero can be possibly uh the real
+
+470
+00:11:44,389 --> 00:11:44,399
+that zero can be possibly uh the real
+ 
+
+471
+00:11:44,399 --> 00:11:49,190
+that zero can be possibly uh the real
+population value so that we doubt or or
+
+472
+00:11:49,190 --> 00:11:49,200
+population value so that we doubt or or
+ 
+
+473
+00:11:49,200 --> 00:11:51,269
+population value so that we doubt or or
+that we do not have enough evidence to
+
+474
+00:11:51,269 --> 00:11:51,279
+that we do not have enough evidence to
+ 
+
+475
+00:11:51,279 --> 00:11:53,590
+that we do not have enough evidence to
+reject the null hypothesis. So on
+
+476
+00:11:53,590 --> 00:11:53,600
+reject the null hypothesis. So on
+ 
+
+477
+00:11:53,600 --> 00:11:57,190
+reject the null hypothesis. So on
+average we do not see really see
+
+478
+00:11:57,190 --> 00:11:57,200
+average we do not see really see
+ 
+
+479
+00:11:57,200 --> 00:12:00,870
+average we do not see really see
+an effect a teacher expectancy effect
+
+480
+00:12:00,870 --> 00:12:00,880
+an effect a teacher expectancy effect
+ 
+
+481
+00:12:00,880 --> 00:12:02,949
+an effect a teacher expectancy effect
+by typing forest and then between the
+
+482
+00:12:02,949 --> 00:12:02,959
+by typing forest and then between the
+ 
+
+483
+00:12:02,959 --> 00:12:04,630
+by typing forest and then between the
+parentheses is the name of the analysis
+
+484
+00:12:04,630 --> 00:12:04,640
+parentheses is the name of the analysis
+ 
+
+485
+00:12:04,640 --> 00:12:06,310
+parentheses is the name of the analysis
+you get a forest plot for this fixed
+
+486
+00:12:06,310 --> 00:12:06,320
+you get a forest plot for this fixed
+ 
+
+487
+00:12:06,320 --> 00:12:08,470
+you get a forest plot for this fixed
+effects model analysis.
+
+488
+00:12:08,470 --> 00:12:08,480
+effects model analysis.
+ 
+
+489
+00:12:08,480 --> 00:12:11,509
+effects model analysis.
+Um so you get for each of the 19 studies
+
+490
+00:12:11,509 --> 00:12:11,519
+Um so you get for each of the 19 studies
+ 
+
+491
+00:12:11,519 --> 00:12:14,150
+Um so you get for each of the 19 studies
+a confidence interval around the
+
+492
+00:12:14,150 --> 00:12:14,160
+a confidence interval around the
+ 
+
+493
+00:12:14,160 --> 00:12:17,509
+a confidence interval around the
+observed effect size. Um you can see
+
+494
+00:12:17,509 --> 00:12:17,519
+observed effect size. Um you can see
+ 
+
+495
+00:12:17,519 --> 00:12:19,990
+observed effect size. Um you can see
+that in most of the studies zero is
+
+496
+00:12:19,990 --> 00:12:20,000
+that in most of the studies zero is
+ 
+
+497
+00:12:20,000 --> 00:12:22,150
+that in most of the studies zero is
+included in the confidence interval. So
+
+498
+00:12:22,150 --> 00:12:22,160
+included in the confidence interval. So
+ 
+
+499
+00:12:22,160 --> 00:12:23,990
+included in the confidence interval. So
+in most of the studies we do not really
+
+500
+00:12:23,990 --> 00:12:24,000
+in most of the studies we do not really
+ 
+
+501
+00:12:24,000 --> 00:12:26,550
+in most of the studies we do not really
+have evidence for uh a teacher
+
+502
+00:12:26,550 --> 00:12:26,560
+have evidence for uh a teacher
+ 
+
+503
+00:12:26,560 --> 00:12:28,790
+have evidence for uh a teacher
+expectancy effect if you take all
+
+504
+00:12:28,790 --> 00:12:28,800
+expectancy effect if you take all
+ 
+
+505
+00:12:28,800 --> 00:12:32,069
+expectancy effect if you take all
+evidence together you get a mean effect
+
+506
+00:12:32,069 --> 00:12:32,079
+evidence together you get a mean effect
+ 
+
+507
+00:12:32,079 --> 00:12:34,550
+evidence together you get a mean effect
+of 0.06 but with a confidence interval
+
+508
+00:12:34,550 --> 00:12:34,560
+of 0.06 but with a confidence interval
+ 
+
+509
+00:12:34,560 --> 00:12:38,150
+of 0.06 but with a confidence interval
+that includes zero. So again this says
+
+510
+00:12:38,150 --> 00:12:38,160
+that includes zero. So again this says
+ 
+
+511
+00:12:38,160 --> 00:12:40,230
+that includes zero. So again this says
+we do not have really convincing
+
+512
+00:12:40,230 --> 00:12:40,240
+we do not have really convincing
+ 
+
+513
+00:12:40,240 --> 00:12:45,190
+we do not have really convincing
+evidence of a teacher expectancy if
+
+514
+00:12:45,190 --> 00:12:45,200
+evidence of a teacher expectancy if
+ 
+
+515
+00:12:45,200 --> 00:12:46,790
+evidence of a teacher expectancy if
+but
+
+516
+00:12:46,790 --> 00:12:46,800
+but
+ 
+
+517
+00:12:46,800 --> 00:12:49,269
+but
+as we have seen during the workshop very
+
+518
+00:12:49,269 --> 00:12:49,279
+as we have seen during the workshop very
+ 
+
+519
+00:12:49,279 --> 00:12:51,430
+as we have seen during the workshop very
+often there are a lot of differences
+
+520
+00:12:51,430 --> 00:12:51,440
+often there are a lot of differences
+ 
+
+521
+00:12:51,440 --> 00:12:53,350
+often there are a lot of differences
+between studies. There can be
+
+522
+00:12:53,350 --> 00:12:53,360
+between studies. There can be
+ 
+
+523
+00:12:53,360 --> 00:12:55,670
+between studies. There can be
+differences in the kind of participants
+
+524
+00:12:55,670 --> 00:12:55,680
+differences in the kind of participants
+ 
+
+525
+00:12:55,680 --> 00:12:57,509
+differences in the kind of participants
+in the study context in the outcome
+
+526
+00:12:57,509 --> 00:12:57,519
+in the study context in the outcome
+ 
+
+527
+00:12:57,519 --> 00:12:59,509
+in the study context in the outcome
+variable in the way the independent
+
+528
+00:12:59,509 --> 00:12:59,519
+variable in the way the independent
+ 
+
+529
+00:12:59,519 --> 00:13:00,790
+variable in the way the independent
+variable or the treatment is
+
+530
+00:13:00,790 --> 00:13:00,800
+variable or the treatment is
+ 
+
+531
+00:13:00,800 --> 00:13:02,389
+variable or the treatment is
+operationalized
+
+532
+00:13:02,389 --> 00:13:02,399
+operationalized
+ 
+
+533
+00:13:02,399 --> 00:13:04,949
+operationalized
+in the design and so on. So there can be
+
+534
+00:13:04,949 --> 00:13:04,959
+in the design and so on. So there can be
+ 
+
+535
+00:13:04,959 --> 00:13:07,030
+in the design and so on. So there can be
+a lot of differences between studies.
+
+536
+00:13:07,030 --> 00:13:07,040
+a lot of differences between studies.
+ 
+
+537
+00:13:07,040 --> 00:13:09,829
+a lot of differences between studies.
+Probably here there are as well some
+
+538
+00:13:09,829 --> 00:13:09,839
+Probably here there are as well some
+ 
+
+539
+00:13:09,839 --> 00:13:12,310
+Probably here there are as well some
+differences between the 19 studies. And
+
+540
+00:13:12,310 --> 00:13:12,320
+differences between the 19 studies. And
+ 
+
+541
+00:13:12,320 --> 00:13:15,910
+differences between the 19 studies. And
+it is maybe unlikely that none of these
+
+542
+00:13:15,910 --> 00:13:15,920
+it is maybe unlikely that none of these
+ 
+
+543
+00:13:15,920 --> 00:13:17,829
+it is maybe unlikely that none of these
+differences
+
+544
+00:13:17,829 --> 00:13:17,839
+differences
+ 
+
+545
+00:13:17,839 --> 00:13:19,350
+differences
+affect
+
+546
+00:13:19,350 --> 00:13:19,360
+affect
+ 
+
+547
+00:13:19,360 --> 00:13:21,030
+affect
+the
+
+548
+00:13:21,030 --> 00:13:21,040
+the
+ 
+
+549
+00:13:21,040 --> 00:13:23,990
+the
+size of the effect. So maybe the
+
+550
+00:13:23,990 --> 00:13:24,000
+size of the effect. So maybe the
+ 
+
+551
+00:13:24,000 --> 00:13:26,550
+size of the effect. So maybe the
+assumption that we made when using a
+
+552
+00:13:26,550 --> 00:13:26,560
+assumption that we made when using a
+ 
+
+553
+00:13:26,560 --> 00:13:28,870
+assumption that we made when using a
+fixed effects model, the assumption that
+
+554
+00:13:28,870 --> 00:13:28,880
+fixed effects model, the assumption that
+ 
+
+555
+00:13:28,880 --> 00:13:31,350
+fixed effects model, the assumption that
+all population effect sizes for all 19
+
+556
+00:13:31,350 --> 00:13:31,360
+all population effect sizes for all 19
+ 
+
+557
+00:13:31,360 --> 00:13:34,069
+all population effect sizes for all 19
+studies are exactly the same. Maybe this
+
+558
+00:13:34,069 --> 00:13:34,079
+studies are exactly the same. Maybe this
+ 
+
+559
+00:13:34,079 --> 00:13:38,790
+studies are exactly the same. Maybe this
+assumption is not real.
+
+560
+00:13:38,790 --> 00:13:38,800
+assumption is not real.
+ 
+
+561
+00:13:38,800 --> 00:13:41,829
+assumption is not real.
+Maybe each study has its own population
+
+562
+00:13:41,829 --> 00:13:41,839
+Maybe each study has its own population
+ 
+
+563
+00:13:41,839 --> 00:13:44,069
+Maybe each study has its own population
+effect size. So maybe there is a a
+
+564
+00:13:44,069 --> 00:13:44,079
+effect size. So maybe there is a a
+ 
+
+565
+00:13:44,079 --> 00:13:47,030
+effect size. So maybe there is a a
+distribution of population effect sizes.
+
+566
+00:13:47,030 --> 00:13:47,040
+distribution of population effect sizes.
+ 
+
+567
+00:13:47,040 --> 00:13:50,230
+distribution of population effect sizes.
+So this would mean that now we say well
+
+568
+00:13:50,230 --> 00:13:50,240
+So this would mean that now we say well
+ 
+
+569
+00:13:50,240 --> 00:13:51,590
+So this would mean that now we say well
+maybe there are two sources of
+
+570
+00:13:51,590 --> 00:13:51,600
+maybe there are two sources of
+ 
+
+571
+00:13:51,600 --> 00:13:53,910
+maybe there are two sources of
+variation. On top of the sampling
+
+572
+00:13:53,910 --> 00:13:53,920
+variation. On top of the sampling
+ 
+
+573
+00:13:53,920 --> 00:13:55,990
+variation. On top of the sampling
+variation, there is also variation
+
+574
+00:13:55,990 --> 00:13:56,000
+variation, there is also variation
+ 
+
+575
+00:13:56,000 --> 00:13:58,710
+variation, there is also variation
+between the true effect sizes, between
+
+576
+00:13:58,710 --> 00:13:58,720
+between the true effect sizes, between
+ 
+
+577
+00:13:58,720 --> 00:14:03,110
+between the true effect sizes, between
+the population effect sizes.
+
+578
+00:14:03,110 --> 00:14:03,120
+
+ 
+
+579
+00:14:03,120 --> 00:14:05,110
+
+You can test this hypothesis. This
+
+580
+00:14:05,110 --> 00:14:05,120
+You can test this hypothesis. This
+ 
+
+581
+00:14:05,120 --> 00:14:07,269
+You can test this hypothesis. This
+hypothesis that all population effect
+
+582
+00:14:07,269 --> 00:14:07,279
+hypothesis that all population effect
+ 
+
+583
+00:14:07,279 --> 00:14:09,670
+hypothesis that all population effect
+sizes are exactly the same. So the
+
+584
+00:14:09,670 --> 00:14:09,680
+sizes are exactly the same. So the
+ 
+
+585
+00:14:09,680 --> 00:14:12,310
+sizes are exactly the same. So the
+hypothesis of homogeneity.
+
+586
+00:14:12,310 --> 00:14:12,320
+hypothesis of homogeneity.
+ 
+
+587
+00:14:12,320 --> 00:14:14,629
+hypothesis of homogeneity.
+The alternative hypothesis is that not
+
+588
+00:14:14,629 --> 00:14:14,639
+The alternative hypothesis is that not
+ 
+
+589
+00:14:14,639 --> 00:14:16,710
+The alternative hypothesis is that not
+all population effect sizes are the
+
+590
+00:14:16,710 --> 00:14:16,720
+all population effect sizes are the
+ 
+
+591
+00:14:16,720 --> 00:14:18,870
+all population effect sizes are the
+same. So that at least one population
+
+592
+00:14:18,870 --> 00:14:18,880
+same. So that at least one population
+ 
+
+593
+00:14:18,880 --> 00:14:21,110
+same. So that at least one population
+effect size differs from at least at
+
+594
+00:14:21,110 --> 00:14:21,120
+effect size differs from at least at
+ 
+
+595
+00:14:21,120 --> 00:14:24,389
+effect size differs from at least at
+least one other population effect size.
+
+596
+00:14:24,389 --> 00:14:24,399
+least one other population effect size.
+ 
+
+597
+00:14:24,399 --> 00:14:26,310
+least one other population effect size.
+We have seen how we can test this. We
+
+598
+00:14:26,310 --> 00:14:26,320
+We have seen how we can test this. We
+ 
+
+599
+00:14:26,320 --> 00:14:29,269
+We have seen how we can test this. We
+can use a Q statistic
+
+600
+00:14:29,269 --> 00:14:29,279
+can use a Q statistic
+ 
+
+601
+00:14:29,279 --> 00:14:32,310
+can use a Q statistic
+which is a kind of weighted
+
+602
+00:14:32,310 --> 00:14:32,320
+which is a kind of weighted
+ 
+
+603
+00:14:32,320 --> 00:14:36,230
+which is a kind of weighted
+uh sum of squares.
+
+604
+00:14:36,230 --> 00:14:36,240
+
+ 
+
+605
+00:14:36,240 --> 00:14:38,550
+
+And if the null hypothesis is correct
+
+606
+00:14:38,550 --> 00:14:38,560
+And if the null hypothesis is correct
+ 
+
+607
+00:14:38,560 --> 00:14:41,910
+And if the null hypothesis is correct
+then this Q statistic follows a k square
+
+608
+00:14:41,910 --> 00:14:41,920
+then this Q statistic follows a k square
+ 
+
+609
+00:14:41,920 --> 00:14:43,750
+then this Q statistic follows a k square
+distribution with degrees of freedom
+
+610
+00:14:43,750 --> 00:14:43,760
+distribution with degrees of freedom
+ 
+
+611
+00:14:43,760 --> 00:14:46,790
+distribution with degrees of freedom
+equal to uh the number of studies minus
+
+612
+00:14:46,790 --> 00:14:46,800
+equal to uh the number of studies minus
+ 
+
+613
+00:14:46,800 --> 00:14:48,710
+equal to uh the number of studies minus
+one.
+
+614
+00:14:48,710 --> 00:14:48,720
+one.
+ 
+
+615
+00:14:48,720 --> 00:14:51,990
+one.
+In fact, when we did the analysis in R,
+
+616
+00:14:51,990 --> 00:14:52,000
+In fact, when we did the analysis in R,
+ 
+
+617
+00:14:52,000 --> 00:14:54,870
+In fact, when we did the analysis in R,
+um the result of this statistical
+
+618
+00:14:54,870 --> 00:14:54,880
+um the result of this statistical
+ 
+
+619
+00:14:54,880 --> 00:14:58,470
+um the result of this statistical
+analysis is also included in the output.
+
+620
+00:14:58,470 --> 00:14:58,480
+analysis is also included in the output.
+ 
+
+621
+00:14:58,480 --> 00:15:01,350
+analysis is also included in the output.
+You can see that the Q uh statistic is
+
+622
+00:15:01,350 --> 00:15:01,360
+You can see that the Q uh statistic is
+ 
+
+623
+00:15:01,360 --> 00:15:05,670
+You can see that the Q uh statistic is
+has a value equal to 35.83
+
+624
+00:15:05,670 --> 00:15:05,680
+has a value equal to 35.83
+ 
+
+625
+00:15:05,680 --> 00:15:07,910
+has a value equal to 35.83
+with uh 18 degrees of freedom. This
+
+626
+00:15:07,910 --> 00:15:07,920
+with uh 18 degrees of freedom. This
+ 
+
+627
+00:15:07,920 --> 00:15:11,670
+with uh 18 degrees of freedom. This
+gives us a p value that is very small. P
+
+628
+00:15:11,670 --> 00:15:11,680
+gives us a p value that is very small. P
+ 
+
+629
+00:15:11,680 --> 00:15:17,189
+gives us a p value that is very small. P
+value equal to 0.0074.
+
+630
+00:15:17,189 --> 00:15:17,199
+
+ 
+
+631
+00:15:17,199 --> 00:15:20,629
+
+So based on this homogeneity test, yeah,
+
+632
+00:15:20,629 --> 00:15:20,639
+So based on this homogeneity test, yeah,
+ 
+
+633
+00:15:20,639 --> 00:15:23,350
+So based on this homogeneity test, yeah,
+we are likely to going to reject the
+
+634
+00:15:23,350 --> 00:15:23,360
+we are likely to going to reject the
+ 
+
+635
+00:15:23,360 --> 00:15:25,189
+we are likely to going to reject the
+null hypothesis and we are going to
+
+636
+00:15:25,189 --> 00:15:25,199
+null hypothesis and we are going to
+ 
+
+637
+00:15:25,199 --> 00:15:27,590
+null hypothesis and we are going to
+conclude that there is systematic
+
+638
+00:15:27,590 --> 00:15:27,600
+conclude that there is systematic
+ 
+
+639
+00:15:27,600 --> 00:15:30,150
+conclude that there is systematic
+heterogeneity that there is variance
+
+640
+00:15:30,150 --> 00:15:30,160
+heterogeneity that there is variance
+ 
+
+641
+00:15:30,160 --> 00:15:32,550
+heterogeneity that there is variance
+between population effect sizes. So that
+
+642
+00:15:32,550 --> 00:15:32,560
+between population effect sizes. So that
+ 
+
+643
+00:15:32,560 --> 00:15:35,189
+between population effect sizes. So that
+it is not a good idea to use a fixed
+
+644
+00:15:35,189 --> 00:15:35,199
+it is not a good idea to use a fixed
+ 
+
+645
+00:15:35,199 --> 00:15:38,710
+it is not a good idea to use a fixed
+effects model.
+
+646
+00:15:38,710 --> 00:15:38,720
+
+ 
+
+647
+00:15:38,720 --> 00:15:40,629
+
+Maybe it's a better idea to use a random
+
+648
+00:15:40,629 --> 00:15:40,639
+Maybe it's a better idea to use a random
+ 
+
+649
+00:15:40,639 --> 00:15:42,389
+Maybe it's a better idea to use a random
+effects model. a random effects model
+
+650
+00:15:42,389 --> 00:15:42,399
+effects model. a random effects model
+ 
+
+651
+00:15:42,399 --> 00:15:44,389
+effects model. a random effects model
+that assumes that population effect
+
+652
+00:15:44,389 --> 00:15:44,399
+that assumes that population effect
+ 
+
+653
+00:15:44,399 --> 00:15:46,870
+that assumes that population effect
+sizes that can differ from each other
+
+654
+00:15:46,870 --> 00:15:46,880
+sizes that can differ from each other
+ 
+
+655
+00:15:46,880 --> 00:15:49,350
+sizes that can differ from each other
+and more specifically that there is a
+
+656
+00:15:49,350 --> 00:15:49,360
+and more specifically that there is a
+ 
+
+657
+00:15:49,360 --> 00:15:51,269
+and more specifically that there is a
+normal distribution of population effect
+
+658
+00:15:51,269 --> 00:15:51,279
+normal distribution of population effect
+ 
+
+659
+00:15:51,279 --> 00:15:52,790
+normal distribution of population effect
+sizes.
+
+660
+00:15:52,790 --> 00:15:52,800
+sizes.
+ 
+
+661
+00:15:52,800 --> 00:15:54,629
+sizes.
+So when using such a random effects
+
+662
+00:15:54,629 --> 00:15:54,639
+So when using such a random effects
+ 
+
+663
+00:15:54,639 --> 00:15:58,150
+So when using such a random effects
+model we are going to estimate the mean
+
+664
+00:15:58,150 --> 00:15:58,160
+model we are going to estimate the mean
+ 
+
+665
+00:15:58,160 --> 00:16:00,550
+model we are going to estimate the mean
+of this red distribution. So the mean
+
+666
+00:16:00,550 --> 00:16:00,560
+of this red distribution. So the mean
+ 
+
+667
+00:16:00,560 --> 00:16:02,949
+of this red distribution. So the mean
+population effect size as well as the
+
+668
+00:16:02,949 --> 00:16:02,959
+population effect size as well as the
+ 
+
+669
+00:16:02,959 --> 00:16:05,350
+population effect size as well as the
+variation between the population effect
+
+670
+00:16:05,350 --> 00:16:05,360
+variation between the population effect
+ 
+
+671
+00:16:05,360 --> 00:16:08,230
+variation between the population effect
+sizes.
+
+672
+00:16:08,230 --> 00:16:08,240
+sizes.
+ 
+
+673
+00:16:08,240 --> 00:16:10,470
+sizes.
+You can see that commands uh look very
+
+674
+00:16:10,470 --> 00:16:10,480
+You can see that commands uh look very
+ 
+
+675
+00:16:10,480 --> 00:16:12,870
+You can see that commands uh look very
+similar as when using a fixed effects
+
+676
+00:16:12,870 --> 00:16:12,880
+similar as when using a fixed effects
+ 
+
+677
+00:16:12,880 --> 00:16:17,030
+similar as when using a fixed effects
+model but instead now we say method is
+
+678
+00:16:17,030 --> 00:16:17,040
+model but instead now we say method is
+ 
+
+679
+00:16:17,040 --> 00:16:20,470
+model but instead now we say method is
+equal to raml. Raml stands for
+
+680
+00:16:20,470 --> 00:16:20,480
+equal to raml. Raml stands for
+ 
+
+681
+00:16:20,480 --> 00:16:23,189
+equal to raml. Raml stands for
+restricted maximum likelihood and that's
+
+682
+00:16:23,189 --> 00:16:23,199
+restricted maximum likelihood and that's
+ 
+
+683
+00:16:23,199 --> 00:16:27,670
+restricted maximum likelihood and that's
+one way to estimate um the between study
+
+684
+00:16:27,670 --> 00:16:27,680
+one way to estimate um the between study
+ 
+
+685
+00:16:27,680 --> 00:16:32,710
+one way to estimate um the between study
+variance.
+
+686
+00:16:32,710 --> 00:16:32,720
+
+ 
+
+687
+00:16:32,720 --> 00:16:34,550
+
+Now in the output you can see that you
+
+688
+00:16:34,550 --> 00:16:34,560
+Now in the output you can see that you
+ 
+
+689
+00:16:34,560 --> 00:16:37,350
+Now in the output you can see that you
+get uh somewhat similar output but on
+
+690
+00:16:37,350 --> 00:16:37,360
+get uh somewhat similar output but on
+ 
+
+691
+00:16:37,360 --> 00:16:40,870
+get uh somewhat similar output but on
+top of that you also get an estimate of
+
+692
+00:16:40,870 --> 00:16:40,880
+top of that you also get an estimate of
+ 
+
+693
+00:16:40,880 --> 00:16:46,150
+top of that you also get an estimate of
+the of to squared which refers to uh the
+
+694
+00:16:46,150 --> 00:16:46,160
+the of to squared which refers to uh the
+ 
+
+695
+00:16:46,160 --> 00:16:49,910
+the of to squared which refers to uh the
+estimate of the variance between
+
+696
+00:16:49,910 --> 00:16:49,920
+estimate of the variance between
+ 
+
+697
+00:16:49,920 --> 00:16:52,550
+estimate of the variance between
+population effect sizes.
+
+698
+00:16:52,550 --> 00:16:52,560
+population effect sizes.
+ 
+
+699
+00:16:52,560 --> 00:16:53,990
+population effect sizes.
+So the variance between population
+
+700
+00:16:53,990 --> 00:16:54,000
+So the variance between population
+ 
+
+701
+00:16:54,000 --> 00:16:56,949
+So the variance between population
+effect sizes is estimated to be equal to
+
+702
+00:16:56,949 --> 00:16:56,959
+effect sizes is estimated to be equal to
+ 
+
+703
+00:16:56,959 --> 00:16:58,870
+effect sizes is estimated to be equal to
+0.019
+
+704
+00:16:58,870 --> 00:16:58,880
+0.019
+ 
+
+705
+00:16:58,880 --> 00:17:03,749
+0.019
+with a standard error of 0.050.
+
+706
+00:17:03,749 --> 00:17:03,759
+
+ 
+
+707
+00:17:03,759 --> 00:17:07,189
+
+You also get I squared. I squar refers
+
+708
+00:17:07,189 --> 00:17:07,199
+You also get I squared. I squar refers
+ 
+
+709
+00:17:07,199 --> 00:17:09,750
+You also get I squared. I squar refers
+to the proportion of the variance of the
+
+710
+00:17:09,750 --> 00:17:09,760
+to the proportion of the variance of the
+ 
+
+711
+00:17:09,760 --> 00:17:11,990
+to the proportion of the variance of the
+total variance
+
+712
+00:17:11,990 --> 00:17:12,000
+total variance
+ 
+
+713
+00:17:12,000 --> 00:17:14,549
+total variance
+that is due to
+
+714
+00:17:14,549 --> 00:17:14,559
+that is due to
+ 
+
+715
+00:17:14,559 --> 00:17:16,069
+that is due to
+variance between population effect
+
+716
+00:17:16,069 --> 00:17:16,079
+variance between population effect
+ 
+
+717
+00:17:16,079 --> 00:17:18,230
+variance between population effect
+sizes.
+
+718
+00:17:18,230 --> 00:17:18,240
+sizes.
+ 
+
+719
+00:17:18,240 --> 00:17:21,429
+sizes.
+So about 42% of the total variance and
+
+720
+00:17:21,429 --> 00:17:21,439
+So about 42% of the total variance and
+ 
+
+721
+00:17:21,439 --> 00:17:23,590
+So about 42% of the total variance and
+the total variance is equal to the
+
+722
+00:17:23,590 --> 00:17:23,600
+the total variance is equal to the
+ 
+
+723
+00:17:23,600 --> 00:17:25,829
+the total variance is equal to the
+population uh the variance in population
+
+724
+00:17:25,829 --> 00:17:25,839
+population uh the variance in population
+ 
+
+725
+00:17:25,839 --> 00:17:29,110
+population uh the variance in population
+effect sizes plus the sampling variance.
+
+726
+00:17:29,110 --> 00:17:29,120
+effect sizes plus the sampling variance.
+ 
+
+727
+00:17:29,120 --> 00:17:32,310
+effect sizes plus the sampling variance.
+So about 42% of this variance is
+
+728
+00:17:32,310 --> 00:17:32,320
+So about 42% of this variance is
+ 
+
+729
+00:17:32,320 --> 00:17:34,789
+So about 42% of this variance is
+variance between population effect sizes
+
+730
+00:17:34,789 --> 00:17:34,799
+variance between population effect sizes
+ 
+
+731
+00:17:34,799 --> 00:17:39,830
+variance between population effect sizes
+and so about 58% is sampling variance.
+
+732
+00:17:39,830 --> 00:17:39,840
+and so about 58% is sampling variance.
+ 
+
+733
+00:17:39,840 --> 00:17:43,430
+and so about 58% is sampling variance.
+So this um yeah proportion is relatively
+
+734
+00:17:43,430 --> 00:17:43,440
+So this um yeah proportion is relatively
+ 
+
+735
+00:17:43,440 --> 00:17:45,990
+So this um yeah proportion is relatively
+large. So again it's an indication that
+
+736
+00:17:45,990 --> 00:17:46,000
+large. So again it's an indication that
+ 
+
+737
+00:17:46,000 --> 00:17:48,070
+large. So again it's an indication that
+yeah maybe it was not a good idea to use
+
+738
+00:17:48,070 --> 00:17:48,080
+yeah maybe it was not a good idea to use
+ 
+
+739
+00:17:48,080 --> 00:17:49,909
+yeah maybe it was not a good idea to use
+a fixed effects model and it may be
+
+740
+00:17:49,909 --> 00:17:49,919
+a fixed effects model and it may be
+ 
+
+741
+00:17:49,919 --> 00:17:53,190
+a fixed effects model and it may be
+better to use a random effects model.
+
+742
+00:17:53,190 --> 00:17:53,200
+better to use a random effects model.
+ 
+
+743
+00:17:53,200 --> 00:17:55,590
+better to use a random effects model.
+But then if you look at the the results
+
+744
+00:17:55,590 --> 00:17:55,600
+But then if you look at the the results
+ 
+
+745
+00:17:55,600 --> 00:17:57,669
+But then if you look at the the results
+or the estimate
+
+746
+00:17:57,669 --> 00:17:57,679
+or the estimate
+ 
+
+747
+00:17:57,679 --> 00:17:59,669
+or the estimate
+uh which is the estimate of the mean
+
+748
+00:17:59,669 --> 00:17:59,679
+uh which is the estimate of the mean
+ 
+
+749
+00:17:59,679 --> 00:18:02,070
+uh which is the estimate of the mean
+population effect size you can see that
+
+750
+00:18:02,070 --> 00:18:02,080
+population effect size you can see that
+ 
+
+751
+00:18:02,080 --> 00:18:05,990
+population effect size you can see that
+this effect size is rather similar than
+
+752
+00:18:05,990 --> 00:18:06,000
+this effect size is rather similar than
+ 
+
+753
+00:18:06,000 --> 00:18:08,150
+this effect size is rather similar than
+uh the estimate we have seen before. Now
+
+754
+00:18:08,150 --> 00:18:08,160
+uh the estimate we have seen before. Now
+ 
+
+755
+00:18:08,160 --> 00:18:10,870
+uh the estimate we have seen before. Now
+it is 0.08 with a standard error of
+
+756
+00:18:10,870 --> 00:18:10,880
+it is 0.08 with a standard error of
+ 
+
+757
+00:18:10,880 --> 00:18:14,950
+it is 0.08 with a standard error of
+0.05. Again the z value is not that
+
+758
+00:18:14,950 --> 00:18:14,960
+0.05. Again the z value is not that
+ 
+
+759
+00:18:14,960 --> 00:18:18,870
+0.05. Again the z value is not that
+large. It is 1.62 which gives a p value
+
+760
+00:18:18,870 --> 00:18:18,880
+large. It is 1.62 which gives a p value
+ 
+
+761
+00:18:18,880 --> 00:18:21,669
+large. It is 1.62 which gives a p value
+again close to 10.
+
+762
+00:18:21,669 --> 00:18:21,679
+again close to 10.
+ 
+
+763
+00:18:21,679 --> 00:18:25,029
+again close to 10.
+So again the conclusion is we do not
+
+764
+00:18:25,029 --> 00:18:25,039
+So again the conclusion is we do not
+ 
+
+765
+00:18:25,039 --> 00:18:27,830
+So again the conclusion is we do not
+have really enough evidence to conclude
+
+766
+00:18:27,830 --> 00:18:27,840
+have really enough evidence to conclude
+ 
+
+767
+00:18:27,840 --> 00:18:30,230
+have really enough evidence to conclude
+that there is on average a teacher
+
+768
+00:18:30,230 --> 00:18:30,240
+that there is on average a teacher
+ 
+
+769
+00:18:30,240 --> 00:18:36,070
+that there is on average a teacher
+expectancy effect.
+
+770
+00:18:36,070 --> 00:18:36,080
+
+ 
+
+771
+00:18:36,080 --> 00:18:38,789
+
+So in this forest plot you can see that
+
+772
+00:18:38,789 --> 00:18:38,799
+So in this forest plot you can see that
+ 
+
+773
+00:18:38,799 --> 00:18:43,110
+So in this forest plot you can see that
+that I made uh in Excel. You can see um
+
+774
+00:18:43,110 --> 00:18:43,120
+that I made uh in Excel. You can see um
+ 
+
+775
+00:18:43,120 --> 00:18:45,909
+that I made uh in Excel. You can see um
+confidence intervals for each individual
+
+776
+00:18:45,909 --> 00:18:45,919
+confidence intervals for each individual
+ 
+
+777
+00:18:45,919 --> 00:18:48,470
+confidence intervals for each individual
+study but also the result of the fixed
+
+778
+00:18:48,470 --> 00:18:48,480
+study but also the result of the fixed
+ 
+
+779
+00:18:48,480 --> 00:18:50,549
+study but also the result of the fixed
+effects model and the results of the
+
+780
+00:18:50,549 --> 00:18:50,559
+effects model and the results of the
+ 
+
+781
+00:18:50,559 --> 00:18:55,909
+effects model and the results of the
+analysis using a random effects model.
+
+782
+00:18:55,909 --> 00:18:55,919
+
+ 
+
+783
+00:18:55,919 --> 00:18:59,430
+
+But there is an additional column in the
+
+784
+00:18:59,430 --> 00:18:59,440
+But there is an additional column in the
+ 
+
+785
+00:18:59,440 --> 00:19:02,070
+But there is an additional column in the
+data set weeks of prior contact. In some
+
+786
+00:19:02,070 --> 00:19:02,080
+data set weeks of prior contact. In some
+ 
+
+787
+00:19:02,080 --> 00:19:04,710
+data set weeks of prior contact. In some
+of the studies,
+
+788
+00:19:04,710 --> 00:19:04,720
+of the studies,
+ 
+
+789
+00:19:04,720 --> 00:19:07,270
+of the studies,
+the teacher did not know the students
+
+790
+00:19:07,270 --> 00:19:07,280
+the teacher did not know the students
+ 
+
+791
+00:19:07,280 --> 00:19:10,150
+the teacher did not know the students
+before the start of the study. And you
+
+792
+00:19:10,150 --> 00:19:10,160
+before the start of the study. And you
+ 
+
+793
+00:19:10,160 --> 00:19:13,669
+before the start of the study. And you
+can imagine that in these studies,
+
+794
+00:19:13,669 --> 00:19:13,679
+can imagine that in these studies,
+ 
+
+795
+00:19:13,679 --> 00:19:17,270
+can imagine that in these studies,
+maybe the induced teacher expectancy
+
+796
+00:19:17,270 --> 00:19:17,280
+maybe the induced teacher expectancy
+ 
+
+797
+00:19:17,280 --> 00:19:20,390
+maybe the induced teacher expectancy
+effect better succeeded. So it it was
+
+798
+00:19:20,390 --> 00:19:20,400
+effect better succeeded. So it it was
+ 
+
+799
+00:19:20,400 --> 00:19:22,789
+effect better succeeded. So it it was
+easier for researchers to convince
+
+800
+00:19:22,789 --> 00:19:22,799
+easier for researchers to convince
+ 
+
+801
+00:19:22,799 --> 00:19:25,270
+easier for researchers to convince
+teachers that indeed some of these
+
+802
+00:19:25,270 --> 00:19:25,280
+teachers that indeed some of these
+ 
+
+803
+00:19:25,280 --> 00:19:27,350
+teachers that indeed some of these
+students were stronger than some other
+
+804
+00:19:27,350 --> 00:19:27,360
+students were stronger than some other
+ 
+
+805
+00:19:27,360 --> 00:19:28,870
+students were stronger than some other
+students.
+
+806
+00:19:28,870 --> 00:19:28,880
+students.
+ 
+
+807
+00:19:28,880 --> 00:19:31,590
+students.
+Whereas if students were already known
+
+808
+00:19:31,590 --> 00:19:31,600
+Whereas if students were already known
+ 
+
+809
+00:19:31,600 --> 00:19:35,270
+Whereas if students were already known
+for several weeks by the teacher
+
+810
+00:19:35,270 --> 00:19:35,280
+for several weeks by the teacher
+ 
+
+811
+00:19:35,280 --> 00:19:37,990
+for several weeks by the teacher
+probably the effect that the that the
+
+812
+00:19:37,990 --> 00:19:38,000
+probably the effect that the that the
+ 
+
+813
+00:19:38,000 --> 00:19:41,590
+probably the effect that the that the
+researcher has on the teacher expectancy
+
+814
+00:19:41,590 --> 00:19:41,600
+researcher has on the teacher expectancy
+ 
+
+815
+00:19:41,600 --> 00:19:44,789
+researcher has on the teacher expectancy
+will be smaller. So the teacher will not
+
+816
+00:19:44,789 --> 00:19:44,799
+will be smaller. So the teacher will not
+ 
+
+817
+00:19:44,799 --> 00:19:48,070
+will be smaller. So the teacher will not
+be convinced when the researcher is
+
+818
+00:19:48,070 --> 00:19:48,080
+be convinced when the researcher is
+ 
+
+819
+00:19:48,080 --> 00:19:49,590
+be convinced when the researcher is
+saying these and these students are
+
+820
+00:19:49,590 --> 00:19:49,600
+saying these and these students are
+ 
+
+821
+00:19:49,600 --> 00:19:51,270
+saying these and these students are
+strong students and these and these
+
+822
+00:19:51,270 --> 00:19:51,280
+strong students and these and these
+ 
+
+823
+00:19:51,280 --> 00:19:54,070
+strong students and these and these
+students are weaker students.
+
+824
+00:19:54,070 --> 00:19:54,080
+students are weaker students.
+ 
+
+825
+00:19:54,080 --> 00:19:58,549
+students are weaker students.
+So you could expect that if teachers are
+
+826
+00:19:58,549 --> 00:19:58,559
+So you could expect that if teachers are
+ 
+
+827
+00:19:58,559 --> 00:20:01,990
+So you could expect that if teachers are
+influenced by their expecties
+
+828
+00:20:01,990 --> 00:20:02,000
+influenced by their expecties
+ 
+
+829
+00:20:02,000 --> 00:20:05,510
+influenced by their expecties
+that this will be most um clearly
+
+830
+00:20:05,510 --> 00:20:05,520
+that this will be most um clearly
+ 
+
+831
+00:20:05,520 --> 00:20:08,070
+that this will be most um clearly
+visible in studies in which there was no
+
+832
+00:20:08,070 --> 00:20:08,080
+visible in studies in which there was no
+ 
+
+833
+00:20:08,080 --> 00:20:10,070
+visible in studies in which there was no
+prior contact between teachers and
+
+834
+00:20:10,070 --> 00:20:10,080
+prior contact between teachers and
+ 
+
+835
+00:20:10,080 --> 00:20:12,230
+prior contact between teachers and
+students. So when the weeks of prior
+
+836
+00:20:12,230 --> 00:20:12,240
+students. So when the weeks of prior
+ 
+
+837
+00:20:12,240 --> 00:20:15,190
+students. So when the weeks of prior
+contact was equal to zero rather than
+
+838
+00:20:15,190 --> 00:20:15,200
+contact was equal to zero rather than
+ 
+
+839
+00:20:15,200 --> 00:20:18,070
+contact was equal to zero rather than
+one, two or three and by the way three
+
+840
+00:20:18,070 --> 00:20:18,080
+one, two or three and by the way three
+ 
+
+841
+00:20:18,080 --> 00:20:20,150
+one, two or three and by the way three
+means three weeks or more than three
+
+842
+00:20:20,150 --> 00:20:20,160
+means three weeks or more than three
+ 
+
+843
+00:20:20,160 --> 00:20:22,710
+means three weeks or more than three
+weeks of prior contact.
+
+844
+00:20:22,710 --> 00:20:22,720
+weeks of prior contact.
+ 
+
+845
+00:20:22,720 --> 00:20:25,750
+weeks of prior contact.
+In this plot I ordered the effect sizes
+
+846
+00:20:25,750 --> 00:20:25,760
+In this plot I ordered the effect sizes
+ 
+
+847
+00:20:25,760 --> 00:20:27,510
+In this plot I ordered the effect sizes
+according to the weeks of prior contact.
+
+848
+00:20:27,510 --> 00:20:27,520
+according to the weeks of prior contact.
+ 
+
+849
+00:20:27,520 --> 00:20:30,549
+according to the weeks of prior contact.
+And indeed you can see that
+
+850
+00:20:30,549 --> 00:20:30,559
+And indeed you can see that
+ 
+
+851
+00:20:30,559 --> 00:20:33,510
+And indeed you can see that
+by visual inspection that when there was
+
+852
+00:20:33,510 --> 00:20:33,520
+by visual inspection that when there was
+ 
+
+853
+00:20:33,520 --> 00:20:35,990
+by visual inspection that when there was
+no prior contact the effect was not that
+
+854
+00:20:35,990 --> 00:20:36,000
+no prior contact the effect was not that
+ 
+
+855
+00:20:36,000 --> 00:20:39,510
+no prior contact the effect was not that
+small. It was positive. With one week of
+
+856
+00:20:39,510 --> 00:20:39,520
+small. It was positive. With one week of
+ 
+
+857
+00:20:39,520 --> 00:20:41,510
+small. It was positive. With one week of
+prior contact, the effect on in on
+
+858
+00:20:41,510 --> 00:20:41,520
+prior contact, the effect on in on
+ 
+
+859
+00:20:41,520 --> 00:20:44,070
+prior contact, the effect on in on
+average is somewhat smaller. After two
+
+860
+00:20:44,070 --> 00:20:44,080
+average is somewhat smaller. After two
+ 
+
+861
+00:20:44,080 --> 00:20:46,789
+average is somewhat smaller. After two
+weeks, it is still somewhat smaller and
+
+862
+00:20:46,789 --> 00:20:46,799
+weeks, it is still somewhat smaller and
+ 
+
+863
+00:20:46,799 --> 00:20:49,669
+weeks, it is still somewhat smaller and
+after 3 weeks, it is about zero or even
+
+864
+00:20:49,669 --> 00:20:49,679
+after 3 weeks, it is about zero or even
+ 
+
+865
+00:20:49,679 --> 00:20:54,549
+after 3 weeks, it is about zero or even
+slightly negative.
+
+866
+00:20:54,549 --> 00:20:54,559
+
+ 
+
+867
+00:20:54,559 --> 00:20:57,270
+
+Let's do another meta analysis including
+
+868
+00:20:57,270 --> 00:20:57,280
+Let's do another meta analysis including
+ 
+
+869
+00:20:57,280 --> 00:20:59,110
+Let's do another meta analysis including
+the weeks of prior contact as a
+
+870
+00:20:59,110 --> 00:20:59,120
+the weeks of prior contact as a
+ 
+
+871
+00:20:59,120 --> 00:21:01,669
+the weeks of prior contact as a
+moderator variable. So in the first
+
+872
+00:21:01,669 --> 00:21:01,679
+moderator variable. So in the first
+ 
+
+873
+00:21:01,679 --> 00:21:04,230
+moderator variable. So in the first
+model we use the weeks of prior contact
+
+874
+00:21:04,230 --> 00:21:04,240
+model we use the weeks of prior contact
+ 
+
+875
+00:21:04,240 --> 00:21:07,510
+model we use the weeks of prior contact
+as a categorical moderator and we assume
+
+876
+00:21:07,510 --> 00:21:07,520
+as a categorical moderator and we assume
+ 
+
+877
+00:21:07,520 --> 00:21:11,590
+as a categorical moderator and we assume
+that within categories so within
+
+878
+00:21:11,590 --> 00:21:11,600
+that within categories so within
+ 
+
+879
+00:21:11,600 --> 00:21:14,149
+that within categories so within
+studies with zero weeks of prior contact
+
+880
+00:21:14,149 --> 00:21:14,159
+studies with zero weeks of prior contact
+ 
+
+881
+00:21:14,159 --> 00:21:16,870
+studies with zero weeks of prior contact
+or within a category with one week of
+
+882
+00:21:16,870 --> 00:21:16,880
+or within a category with one week of
+ 
+
+883
+00:21:16,880 --> 00:21:19,270
+or within a category with one week of
+prior contact and so on there are no
+
+884
+00:21:19,270 --> 00:21:19,280
+prior contact and so on there are no
+ 
+
+885
+00:21:19,280 --> 00:21:20,950
+prior contact and so on there are no
+differences between population effect
+
+886
+00:21:20,950 --> 00:21:20,960
+differences between population effect
+ 
+
+887
+00:21:20,960 --> 00:21:23,350
+differences between population effect
+sizes. So therefore we still call this
+
+888
+00:21:23,350 --> 00:21:23,360
+sizes. So therefore we still call this
+ 
+
+889
+00:21:23,360 --> 00:21:26,549
+sizes. So therefore we still call this
+model a fixed effects model but this
+
+890
+00:21:26,549 --> 00:21:26,559
+model a fixed effects model but this
+ 
+
+891
+00:21:26,559 --> 00:21:30,470
+model a fixed effects model but this
+time with a categorical moderator.
+
+892
+00:21:30,470 --> 00:21:30,480
+time with a categorical moderator.
+ 
+
+893
+00:21:30,480 --> 00:21:32,950
+time with a categorical moderator.
+So within categories we assume that
+
+894
+00:21:32,950 --> 00:21:32,960
+So within categories we assume that
+ 
+
+895
+00:21:32,960 --> 00:21:35,110
+So within categories we assume that
+population effect sizes are the same but
+
+896
+00:21:35,110 --> 00:21:35,120
+population effect sizes are the same but
+ 
+
+897
+00:21:35,120 --> 00:21:37,190
+population effect sizes are the same but
+possibly there are differences between
+
+898
+00:21:37,190 --> 00:21:37,200
+possibly there are differences between
+ 
+
+899
+00:21:37,200 --> 00:21:40,230
+possibly there are differences between
+the between the categories.
+
+900
+00:21:40,230 --> 00:21:40,240
+the between the categories.
+ 
+
+901
+00:21:40,240 --> 00:21:44,149
+the between the categories.
+We can also fit a model a random effects
+
+902
+00:21:44,149 --> 00:21:44,159
+We can also fit a model a random effects
+ 
+
+903
+00:21:44,159 --> 00:21:47,270
+We can also fit a model a random effects
+model with a categorical moderator. In
+
+904
+00:21:47,270 --> 00:21:47,280
+model with a categorical moderator. In
+ 
+
+905
+00:21:47,280 --> 00:21:49,510
+model with a categorical moderator. In
+this situation, we say well there can be
+
+906
+00:21:49,510 --> 00:21:49,520
+this situation, we say well there can be
+ 
+
+907
+00:21:49,520 --> 00:21:51,830
+this situation, we say well there can be
+differences between categories but on
+
+908
+00:21:51,830 --> 00:21:51,840
+differences between categories but on
+ 
+
+909
+00:21:51,840 --> 00:21:54,549
+differences between categories but on
+top of that within categories there can
+
+910
+00:21:54,549 --> 00:21:54,559
+top of that within categories there can
+ 
+
+911
+00:21:54,559 --> 00:21:56,950
+top of that within categories there can
+still be differences between population
+
+912
+00:21:56,950 --> 00:21:56,960
+still be differences between population
+ 
+
+913
+00:21:56,960 --> 00:21:59,830
+still be differences between population
+effect sizes.
+
+914
+00:21:59,830 --> 00:21:59,840
+effect sizes.
+ 
+
+915
+00:21:59,840 --> 00:22:01,909
+effect sizes.
+So now in fact we have three sources of
+
+916
+00:22:01,909 --> 00:22:01,919
+So now in fact we have three sources of
+ 
+
+917
+00:22:01,919 --> 00:22:04,710
+So now in fact we have three sources of
+variation. We have the variation due to
+
+918
+00:22:04,710 --> 00:22:04,720
+variation. We have the variation due to
+ 
+
+919
+00:22:04,720 --> 00:22:06,789
+variation. We have the variation due to
+the category.
+
+920
+00:22:06,789 --> 00:22:06,799
+the category.
+ 
+
+921
+00:22:06,799 --> 00:22:09,990
+the category.
+We have variation due to differences
+
+922
+00:22:09,990 --> 00:22:10,000
+We have variation due to differences
+ 
+
+923
+00:22:10,000 --> 00:22:12,390
+We have variation due to differences
+between population effect sizes within
+
+924
+00:22:12,390 --> 00:22:12,400
+between population effect sizes within
+ 
+
+925
+00:22:12,400 --> 00:22:14,870
+between population effect sizes within
+categories. And a third source of
+
+926
+00:22:14,870 --> 00:22:14,880
+categories. And a third source of
+ 
+
+927
+00:22:14,880 --> 00:22:17,669
+categories. And a third source of
+variation is the sampling variation.
+
+928
+00:22:17,669 --> 00:22:17,679
+variation is the sampling variation.
+ 
+
+929
+00:22:17,679 --> 00:22:19,990
+variation is the sampling variation.
+Population effect size for a specific
+
+930
+00:22:19,990 --> 00:22:20,000
+Population effect size for a specific
+ 
+
+931
+00:22:20,000 --> 00:22:24,710
+Population effect size for a specific
+study is not a exact not necessarily
+
+932
+00:22:24,710 --> 00:22:24,720
+study is not a exact not necessarily
+ 
+
+933
+00:22:24,720 --> 00:22:28,710
+study is not a exact not necessarily
+um be equal to the observed effect size
+
+934
+00:22:28,710 --> 00:22:28,720
+um be equal to the observed effect size
+ 
+
+935
+00:22:28,720 --> 00:22:31,110
+um be equal to the observed effect size
+in that study because in that study only
+
+936
+00:22:31,110 --> 00:22:31,120
+in that study because in that study only
+ 
+
+937
+00:22:31,120 --> 00:22:35,590
+in that study because in that study only
+a sample was used. Take into account um
+
+938
+00:22:35,590 --> 00:22:35,600
+a sample was used. Take into account um
+ 
+
+939
+00:22:35,600 --> 00:22:37,990
+a sample was used. Take into account um
+the number of weeks of prior contact.
+
+940
+00:22:37,990 --> 00:22:38,000
+the number of weeks of prior contact.
+ 
+
+941
+00:22:38,000 --> 00:22:40,230
+the number of weeks of prior contact.
+There are no differences anymore. There
+
+942
+00:22:40,230 --> 00:22:40,240
+There are no differences anymore. There
+ 
+
+943
+00:22:40,240 --> 00:22:43,029
+There are no differences anymore. There
+is no heterogenity.
+
+944
+00:22:43,029 --> 00:22:43,039
+is no heterogenity.
+ 
+
+945
+00:22:43,039 --> 00:22:45,510
+is no heterogenity.
+when using random effects model. Well,
+
+946
+00:22:45,510 --> 00:22:45,520
+when using random effects model. Well,
+ 
+
+947
+00:22:45,520 --> 00:22:47,750
+when using random effects model. Well,
+first look at the estimates. You get
+
+948
+00:22:47,750 --> 00:22:47,760
+first look at the estimates. You get
+ 
+
+949
+00:22:47,760 --> 00:22:50,149
+first look at the estimates. You get
+exactly the same estimates as before.
+
+950
+00:22:50,149 --> 00:22:50,159
+exactly the same estimates as before.
+ 
+
+951
+00:22:50,159 --> 00:22:52,789
+exactly the same estimates as before.
+Why is this? Well, this is because and
+
+952
+00:22:52,789 --> 00:22:52,799
+Why is this? Well, this is because and
+ 
+
+953
+00:22:52,799 --> 00:22:55,990
+Why is this? Well, this is because and
+this you can see on top because the
+
+954
+00:22:55,990 --> 00:22:56,000
+this you can see on top because the
+ 
+
+955
+00:22:56,000 --> 00:23:00,070
+this you can see on top because the
+estimated to squar is equal to zero.
+
+956
+00:23:00,070 --> 00:23:00,080
+estimated to squar is equal to zero.
+ 
+
+957
+00:23:00,080 --> 00:23:02,950
+estimated to squar is equal to zero.
+So indeed there are no differences
+
+958
+00:23:02,950 --> 00:23:02,960
+So indeed there are no differences
+ 
+
+959
+00:23:02,960 --> 00:23:06,549
+So indeed there are no differences
+anymore within categories. We explained
+
+960
+00:23:06,549 --> 00:23:06,559
+anymore within categories. We explained
+ 
+
+961
+00:23:06,559 --> 00:23:09,270
+anymore within categories. We explained
+all variance between population effect
+
+962
+00:23:09,270 --> 00:23:09,280
+all variance between population effect
+ 
+
+963
+00:23:09,280 --> 00:23:12,870
+all variance between population effect
+sizes and therefore the fixed effects
+
+964
+00:23:12,870 --> 00:23:12,880
+sizes and therefore the fixed effects
+ 
+
+965
+00:23:12,880 --> 00:23:15,669
+sizes and therefore the fixed effects
+model with the categorical moderator
+
+966
+00:23:15,669 --> 00:23:15,679
+model with the categorical moderator
+ 
+
+967
+00:23:15,679 --> 00:23:18,310
+model with the categorical moderator
+gives us exactly the same results as the
+
+968
+00:23:18,310 --> 00:23:18,320
+gives us exactly the same results as the
+ 
+
+969
+00:23:18,320 --> 00:23:20,549
+gives us exactly the same results as the
+random effects model with a categorical
+
+970
+00:23:20,549 --> 00:23:20,559
+random effects model with a categorical
+ 
+
+971
+00:23:20,559 --> 00:23:23,669
+random effects model with a categorical
+moderator.
+
+972
+00:23:23,669 --> 00:23:23,679
+
+ 
+
+973
+00:23:23,679 --> 00:23:25,590
+
+By the way, this is not a very common
+
+974
+00:23:25,590 --> 00:23:25,600
+By the way, this is not a very common
+ 
+
+975
+00:23:25,600 --> 00:23:28,470
+By the way, this is not a very common
+situation. Very often when we include a
+
+976
+00:23:28,470 --> 00:23:28,480
+situation. Very often when we include a
+ 
+
+977
+00:23:28,480 --> 00:23:30,789
+situation. Very often when we include a
+moderator or even when we include
+
+978
+00:23:30,789 --> 00:23:30,799
+moderator or even when we include
+ 
+
+979
+00:23:30,799 --> 00:23:33,110
+moderator or even when we include
+multiple moderators
+
+980
+00:23:33,110 --> 00:23:33,120
+multiple moderators
+ 
+
+981
+00:23:33,120 --> 00:23:35,830
+multiple moderators
+we succeed in explaining part of the
+
+982
+00:23:35,830 --> 00:23:35,840
+we succeed in explaining part of the
+ 
+
+983
+00:23:35,840 --> 00:23:38,549
+we succeed in explaining part of the
+variance but it is very unlikely that we
+
+984
+00:23:38,549 --> 00:23:38,559
+variance but it is very unlikely that we
+ 
+
+985
+00:23:38,559 --> 00:23:42,070
+variance but it is very unlikely that we
+will explain all variance.
+
+986
+00:23:42,070 --> 00:23:42,080
+will explain all variance.
+ 
+
+987
+00:23:42,080 --> 00:23:44,950
+will explain all variance.
+So typically to squar is still somewhat
+
+988
+00:23:44,950 --> 00:23:44,960
+So typically to squar is still somewhat
+ 
+
+989
+00:23:44,960 --> 00:23:47,590
+So typically to squar is still somewhat
+larger than zero. We hope that we can
+
+990
+00:23:47,590 --> 00:23:47,600
+larger than zero. We hope that we can
+ 
+
+991
+00:23:47,600 --> 00:23:50,149
+larger than zero. We hope that we can
+explain as much as possible but it is
+
+992
+00:23:50,149 --> 00:23:50,159
+explain as much as possible but it is
+ 
+
+993
+00:23:50,159 --> 00:23:51,990
+explain as much as possible but it is
+seldomly the case that we explain
+
+994
+00:23:51,990 --> 00:23:52,000
+seldomly the case that we explain
+ 
+
+995
+00:23:52,000 --> 00:23:54,630
+seldomly the case that we explain
+everything. So here everything is
+
+996
+00:23:54,630 --> 00:23:54,640
+everything. So here everything is
+ 
+
+997
+00:23:54,640 --> 00:24:00,549
+everything. So here everything is
+explained R squar is equal to 100%.
+
+998
+00:24:00,549 --> 00:24:00,559
+
+ 
+
+999
+00:24:00,559 --> 00:24:05,590
+
+As you can see in the output
+
+1000
+00:24:05,590 --> 00:24:05,600
+
+ 
+
+1001
+00:24:05,600 --> 00:24:08,470
+
+we can also include uh weeks of prior
+
+1002
+00:24:08,470 --> 00:24:08,480
+we can also include uh weeks of prior
+ 
+
+1003
+00:24:08,480 --> 00:24:11,110
+we can also include uh weeks of prior
+contact as a continuous moderator
+
+1004
+00:24:11,110 --> 00:24:11,120
+contact as a continuous moderator
+ 
+
+1005
+00:24:11,120 --> 00:24:13,669
+contact as a continuous moderator
+variable. So the advantage so and
+
+1006
+00:24:13,669 --> 00:24:13,679
+variable. So the advantage so and
+ 
+
+1007
+00:24:13,679 --> 00:24:16,070
+variable. So the advantage so and
+perform a kind of regression analysis.
+
+1008
+00:24:16,070 --> 00:24:16,080
+perform a kind of regression analysis.
+ 
+
+1009
+00:24:16,080 --> 00:24:20,470
+perform a kind of regression analysis.
+The advantage is that now um yeah we
+
+1010
+00:24:20,470 --> 00:24:20,480
+The advantage is that now um yeah we
+ 
+
+1011
+00:24:20,480 --> 00:24:22,789
+The advantage is that now um yeah we
+only have two parameters to estimate. we
+
+1012
+00:24:22,789 --> 00:24:22,799
+only have two parameters to estimate. we
+ 
+
+1013
+00:24:22,799 --> 00:24:24,950
+only have two parameters to estimate. we
+have to estimate the intercept as well
+
+1014
+00:24:24,950 --> 00:24:24,960
+have to estimate the intercept as well
+ 
+
+1015
+00:24:24,960 --> 00:24:27,430
+have to estimate the intercept as well
+as the slope of the regression line.
+
+1016
+00:24:27,430 --> 00:24:27,440
+as the slope of the regression line.
+ 
+
+1017
+00:24:27,440 --> 00:24:29,510
+as the slope of the regression line.
+Whereas before
+
+1018
+00:24:29,510 --> 00:24:29,520
+Whereas before
+ 
+
+1019
+00:24:29,520 --> 00:24:32,070
+Whereas before
+when we use weeks of prior contact as a
+
+1020
+00:24:32,070 --> 00:24:32,080
+when we use weeks of prior contact as a
+ 
+
+1021
+00:24:32,080 --> 00:24:34,950
+when we use weeks of prior contact as a
+categorical variable, we had to estimate
+
+1022
+00:24:34,950 --> 00:24:34,960
+categorical variable, we had to estimate
+ 
+
+1023
+00:24:34,960 --> 00:24:37,430
+categorical variable, we had to estimate
+four parameters. We had to estimate the
+
+1024
+00:24:37,430 --> 00:24:37,440
+four parameters. We had to estimate the
+ 
+
+1025
+00:24:37,440 --> 00:24:39,830
+four parameters. We had to estimate the
+intercept. So the expected effect in the
+
+1026
+00:24:39,830 --> 00:24:39,840
+intercept. So the expected effect in the
+ 
+
+1027
+00:24:39,840 --> 00:24:43,190
+intercept. So the expected effect in the
+reference category as well as um yeah
+
+1028
+00:24:43,190 --> 00:24:43,200
+reference category as well as um yeah
+ 
+
+1029
+00:24:43,200 --> 00:24:45,590
+reference category as well as um yeah
+the contrast between the three other
+
+1030
+00:24:45,590 --> 00:24:45,600
+the contrast between the three other
+ 
+
+1031
+00:24:45,600 --> 00:24:47,269
+the contrast between the three other
+categories compared to the reference
+
+1032
+00:24:47,269 --> 00:24:47,279
+categories compared to the reference
+ 
+
+1033
+00:24:47,279 --> 00:24:50,549
+categories compared to the reference
+category. So this is a more yeah it's a
+
+1034
+00:24:50,549 --> 00:24:50,559
+category. So this is a more yeah it's a
+ 
+
+1035
+00:24:50,559 --> 00:24:53,190
+category. So this is a more yeah it's a
+simpler model but a drawback of this
+
+1036
+00:24:53,190 --> 00:24:53,200
+simpler model but a drawback of this
+ 
+
+1037
+00:24:53,200 --> 00:24:55,350
+simpler model but a drawback of this
+model is that maybe this model is not
+
+1038
+00:24:55,350 --> 00:24:55,360
+model is that maybe this model is not
+ 
+
+1039
+00:24:55,360 --> 00:24:58,149
+model is that maybe this model is not
+very realistic. Maybe the trend is not a
+
+1040
+00:24:58,149 --> 00:24:58,159
+very realistic. Maybe the trend is not a
+ 
+
+1041
+00:24:58,159 --> 00:25:00,950
+very realistic. Maybe the trend is not a
+linear trend but as you can see in this
+
+1042
+00:25:00,950 --> 00:25:00,960
+linear trend but as you can see in this
+ 
+
+1043
+00:25:00,960 --> 00:25:03,750
+linear trend but as you can see in this
+scatter plot the trend looks indeed more
+
+1044
+00:25:03,750 --> 00:25:03,760
+scatter plot the trend looks indeed more
+ 
+
+1045
+00:25:03,760 --> 00:25:07,269
+scatter plot the trend looks indeed more
+or less linear. So it's not such a bad
+
+1046
+00:25:07,269 --> 00:25:07,279
+or less linear. So it's not such a bad
+ 
+
+1047
+00:25:07,279 --> 00:25:09,430
+or less linear. So it's not such a bad
+idea to use a regression model in this
+
+1048
+00:25:09,430 --> 00:25:09,440
+idea to use a regression model in this
+ 
+
+1049
+00:25:09,440 --> 00:25:13,430
+idea to use a regression model in this
+sit.
+
+1050
+00:25:13,430 --> 00:25:13,440
+
+ 
+
+1051
+00:25:13,440 --> 00:25:16,230
+
+The syntax looks very similar as before,
+
+1052
+00:25:16,230 --> 00:25:16,240
+The syntax looks very similar as before,
+ 
+
+1053
+00:25:16,240 --> 00:25:18,870
+The syntax looks very similar as before,
+but this time we do not say that weeks
+
+1054
+00:25:18,870 --> 00:25:18,880
+but this time we do not say that weeks
+ 
+
+1055
+00:25:18,880 --> 00:25:20,789
+but this time we do not say that weeks
+is a categorical variable. So we do not
+
+1056
+00:25:20,789 --> 00:25:20,799
+is a categorical variable. So we do not
+ 
+
+1057
+00:25:20,799 --> 00:25:23,269
+is a categorical variable. So we do not
+say that it is a factor. We simply write
+
+1058
+00:25:23,269 --> 00:25:23,279
+say that it is a factor. We simply write
+ 
+
+1059
+00:25:23,279 --> 00:25:27,909
+say that it is a factor. We simply write
+mods is equal to weeks.
+
+1060
+00:25:27,909 --> 00:25:27,919
+
+ 
+
+1061
+00:25:27,919 --> 00:25:32,149
+
+You can see the intercept of 41
+
+1062
+00:25:32,149 --> 00:25:32,159
+You can see the intercept of 41
+ 
+
+1063
+00:25:32,159 --> 00:25:34,870
+You can see the intercept of 41
+which is the expected standardized mean
+
+1064
+00:25:34,870 --> 00:25:34,880
+which is the expected standardized mean
+ 
+
+1065
+00:25:34,880 --> 00:25:37,990
+which is the expected standardized mean
+difference if there was no prior
+
+1066
+00:25:37,990 --> 00:25:38,000
+difference if there was no prior
+ 
+
+1067
+00:25:38,000 --> 00:25:39,990
+difference if there was no prior
+contact. So if the weeks of prior
+
+1068
+00:25:39,990 --> 00:25:40,000
+contact. So if the weeks of prior
+ 
+
+1069
+00:25:40,000 --> 00:25:43,269
+contact. So if the weeks of prior
+contact is equal to zero. If there was
+
+1070
+00:25:43,269 --> 00:25:43,279
+contact is equal to zero. If there was
+ 
+
+1071
+00:25:43,279 --> 00:25:45,830
+contact is equal to zero. If there was
+one week of prior contact the expected
+
+1072
+00:25:45,830 --> 00:25:45,840
+one week of prior contact the expected
+ 
+
+1073
+00:25:45,840 --> 00:25:49,990
+one week of prior contact the expected
+effect is decreasing with 16. So after
+
+1074
+00:25:49,990 --> 00:25:50,000
+effect is decreasing with 16. So after
+ 
+
+1075
+00:25:50,000 --> 00:25:54,870
+effect is decreasing with 16. So after
+one week the expected effect is 41 minus
+
+1076
+00:25:54,870 --> 00:25:54,880
+one week the expected effect is 41 minus
+ 
+
+1077
+00:25:54,880 --> 00:25:58,710
+one week the expected effect is 41 minus
+16. After 2 weeks the expected effect is
+
+1078
+00:25:58,710 --> 00:25:58,720
+16. After 2 weeks the expected effect is
+ 
+
+1079
+00:25:58,720 --> 00:26:05,990
+16. After 2 weeks the expected effect is
+41 minus 2 * 16 and so on.
+
+1080
+00:26:05,990 --> 00:26:06,000
+
+ 
+
+1081
+00:26:06,000 --> 00:26:11,029
+
+So you have a negative slope.
+
+1082
+00:26:11,029 --> 00:26:11,039
+
+ 
+
+1083
+00:26:11,039 --> 00:26:13,430
+
+You can al also use random effects model
+
+1084
+00:26:13,430 --> 00:26:13,440
+You can al also use random effects model
+ 
+
+1085
+00:26:13,440 --> 00:26:16,470
+You can al also use random effects model
+with a continuous moderator. But now
+
+1086
+00:26:16,470 --> 00:26:16,480
+with a continuous moderator. But now
+ 
+
+1087
+00:26:16,480 --> 00:26:19,190
+with a continuous moderator. But now
+again the the results are exactly the
+
+1088
+00:26:19,190 --> 00:26:19,200
+again the the results are exactly the
+ 
+
+1089
+00:26:19,200 --> 00:26:21,750
+again the the results are exactly the
+same as before. And why is this? This is
+
+1090
+00:26:21,750 --> 00:26:21,760
+same as before. And why is this? This is
+ 
+
+1091
+00:26:21,760 --> 00:26:24,710
+same as before. And why is this? This is
+because the to squar estimate is equal
+
+1092
+00:26:24,710 --> 00:26:24,720
+because the to squar estimate is equal
+ 
+
+1093
+00:26:24,720 --> 00:26:27,590
+because the to squar estimate is equal
+to zero. So it seems that we explained
+
+1094
+00:26:27,590 --> 00:26:27,600
+to zero. So it seems that we explained
+ 
+
+1095
+00:26:27,600 --> 00:26:29,909
+to zero. So it seems that we explained
+all variation between population effect
+
+1096
+00:26:29,909 --> 00:26:29,919
+all variation between population effect
+ 
+
+1097
+00:26:29,919 --> 00:26:32,630
+all variation between population effect
+sizes by including weeks as a continuous
+
+1098
+00:26:32,630 --> 00:26:32,640
+sizes by including weeks as a continuous
+ 
+
+1099
+00:26:32,640 --> 00:26:35,190
+sizes by including weeks as a continuous
+variable. So there is no residual
+
+1100
+00:26:35,190 --> 00:26:35,200
+variable. So there is no residual
+ 
+
+1101
+00:26:35,200 --> 00:26:37,830
+variable. So there is no residual
+variance no population no variance
+
+1102
+00:26:37,830 --> 00:26:37,840
+variance no population no variance
+ 
+
+1103
+00:26:37,840 --> 00:26:40,950
+variance no population no variance
+anymore between population effect sizes
+
+1104
+00:26:40,950 --> 00:26:40,960
+anymore between population effect sizes
+ 
+
+1105
+00:26:40,960 --> 00:26:42,789
+anymore between population effect sizes
+after accounting for the weeks of prior
+
+1106
+00:26:42,789 --> 00:26:42,799
+after accounting for the weeks of prior
+ 
+
+1107
+00:26:42,799 --> 00:26:46,230
+after accounting for the weeks of prior
+contact. So the random effects model
+
+1108
+00:26:46,230 --> 00:26:46,240
+contact. So the random effects model
+ 
+
+1109
+00:26:46,240 --> 00:26:49,269
+contact. So the random effects model
+simplifies or reduces to a fixed effects
+
+1110
+00:26:49,269 --> 00:26:49,279
+simplifies or reduces to a fixed effects
+ 
+
+1111
+00:26:49,279 --> 00:26:51,590
+simplifies or reduces to a fixed effects
+model.
+
+1112
+00:26:51,590 --> 00:26:51,600
+model.
+ 
+
+1113
+00:26:51,600 --> 00:26:54,950
+model.
+So we have discussed six models.
+
+1114
+00:26:54,950 --> 00:26:54,960
+So we have discussed six models.
+ 
+
+1115
+00:26:54,960 --> 00:26:57,269
+So we have discussed six models.
+Fixed effects models and random effects
+
+1116
+00:26:57,269 --> 00:26:57,279
+Fixed effects models and random effects
+ 
+
+1117
+00:26:57,279 --> 00:27:00,310
+Fixed effects models and random effects
+models without moderators with weeks of
+
+1118
+00:27:00,310 --> 00:27:00,320
+models without moderators with weeks of
+ 
+
+1119
+00:27:00,320 --> 00:27:03,110
+models without moderators with weeks of
+prior contact as a categorical moderator
+
+1120
+00:27:03,110 --> 00:27:03,120
+prior contact as a categorical moderator
+ 
+
+1121
+00:27:03,120 --> 00:27:05,590
+prior contact as a categorical moderator
+or with weeks of prior contact as a
+
+1122
+00:27:05,590 --> 00:27:05,600
+or with weeks of prior contact as a
+ 
+
+1123
+00:27:05,600 --> 00:27:12,950
+or with weeks of prior contact as a
+continuous moderator.
+
+1124
+00:27:12,950 --> 00:27:12,960
+
+ 
+
+1125
+00:27:12,960 --> 00:27:15,909
+
+And in these analysis, yeah, we have
+
+1126
+00:27:15,909 --> 00:27:15,919
+And in these analysis, yeah, we have
+ 
+
+1127
+00:27:15,919 --> 00:27:18,870
+And in these analysis, yeah, we have
+answered the basic or the
+
+1128
+00:27:18,870 --> 00:27:18,880
+answered the basic or the
+ 
+
+1129
+00:27:18,880 --> 00:27:21,029
+answered the basic or the
+yeah the most common metalic questions.
+
+1130
+00:27:21,029 --> 00:27:21,039
+yeah the most common metalic questions.
+ 
+
+1131
+00:27:21,039 --> 00:27:23,830
+yeah the most common metalic questions.
+Is there an overall effect? How large is
+
+1132
+00:27:23,830 --> 00:27:23,840
+Is there an overall effect? How large is
+ 
+
+1133
+00:27:23,840 --> 00:27:25,830
+Is there an overall effect? How large is
+the effect? Is the effect the same in
+
+1134
+00:27:25,830 --> 00:27:25,840
+the effect? Is the effect the same in
+ 
+
+1135
+00:27:25,840 --> 00:27:27,830
+the effect? Is the effect the same in
+all studies? So, is there an overall
+
+1136
+00:27:27,830 --> 00:27:27,840
+all studies? So, is there an overall
+ 
+
+1137
+00:27:27,840 --> 00:27:30,870
+all studies? So, is there an overall
+effect? No, apparently not. We do not
+
+1138
+00:27:30,870 --> 00:27:30,880
+effect? No, apparently not. We do not
+ 
+
+1139
+00:27:30,880 --> 00:27:33,029
+effect? No, apparently not. We do not
+have enough evidence that on average
+
+1140
+00:27:33,029 --> 00:27:33,039
+have enough evidence that on average
+ 
+
+1141
+00:27:33,039 --> 00:27:35,269
+have enough evidence that on average
+there is an effect. How large is the
+
+1142
+00:27:35,269 --> 00:27:35,279
+there is an effect. How large is the
+ 
+
+1143
+00:27:35,279 --> 00:27:37,269
+there is an effect. How large is the
+effect? We estimated size of the effect
+
+1144
+00:27:37,269 --> 00:27:37,279
+effect? We estimated size of the effect
+ 
+
+1145
+00:27:37,279 --> 00:27:40,470
+effect? We estimated size of the effect
+when using random effects model. 08. Is
+
+1146
+00:27:40,470 --> 00:27:40,480
+when using random effects model. 08. Is
+ 
+
+1147
+00:27:40,480 --> 00:27:42,789
+when using random effects model. 08. Is
+the effect the same in all studies? No,
+
+1148
+00:27:42,789 --> 00:27:42,799
+the effect the same in all studies? No,
+ 
+
+1149
+00:27:42,799 --> 00:27:45,909
+the effect the same in all studies? No,
+apparently not. Our homogeneity test
+
+1150
+00:27:45,909 --> 00:27:45,919
+apparently not. Our homogeneity test
+ 
+
+1151
+00:27:45,919 --> 00:27:48,310
+apparently not. Our homogeneity test
+concluded that there are systematic
+
+1152
+00:27:48,310 --> 00:27:48,320
+concluded that there are systematic
+ 
+
+1153
+00:27:48,320 --> 00:27:50,070
+concluded that there are systematic
+differences between population effect
+
+1154
+00:27:50,070 --> 00:27:50,080
+differences between population effect
+ 
+
+1155
+00:27:50,080 --> 00:27:52,470
+differences between population effect
+sizes. So it's not a good idea to use a
+
+1156
+00:27:52,470 --> 00:27:52,480
+sizes. So it's not a good idea to use a
+ 
+
+1157
+00:27:52,480 --> 00:27:55,990
+sizes. So it's not a good idea to use a
+fixed effects model without moderators.
+
+1158
+00:27:55,990 --> 00:27:56,000
+fixed effects model without moderators.
+ 
+
+1159
+00:27:56,000 --> 00:27:57,909
+fixed effects model without moderators.
+Uh so it's a better idea to use a random
+
+1160
+00:27:57,909 --> 00:27:57,919
+Uh so it's a better idea to use a random
+ 
+
+1161
+00:27:57,919 --> 00:27:59,990
+Uh so it's a better idea to use a random
+effects model. But when using a random
+
+1162
+00:27:59,990 --> 00:28:00,000
+effects model. But when using a random
+ 
+
+1163
+00:28:00,000 --> 00:28:02,149
+effects model. But when using a random
+effects model without moderators, you
+
+1164
+00:28:02,149 --> 00:28:02,159
+effects model without moderators, you
+ 
+
+1165
+00:28:02,159 --> 00:28:04,870
+effects model without moderators, you
+simply can estimate the variance between
+
+1166
+00:28:04,870 --> 00:28:04,880
+simply can estimate the variance between
+ 
+
+1167
+00:28:04,880 --> 00:28:08,230
+simply can estimate the variance between
+population effect sizes. But it's a good
+
+1168
+00:28:08,230 --> 00:28:08,240
+population effect sizes. But it's a good
+ 
+
+1169
+00:28:08,240 --> 00:28:12,470
+population effect sizes. But it's a good
+idea to try to explain this variation.
+
+1170
+00:28:12,470 --> 00:28:12,480
+idea to try to explain this variation.
+ 
+
+1171
+00:28:12,480 --> 00:28:14,070
+idea to try to explain this variation.
+By the way, we found and this is the
+
+1172
+00:28:14,070 --> 00:28:14,080
+By the way, we found and this is the
+ 
+
+1173
+00:28:14,080 --> 00:28:15,430
+By the way, we found and this is the
+fourth question, we found that the
+
+1174
+00:28:15,430 --> 00:28:15,440
+fourth question, we found that the
+ 
+
+1175
+00:28:15,440 --> 00:28:17,269
+fourth question, we found that the
+variation between studies was about
+
+1176
+00:28:17,269 --> 00:28:17,279
+variation between studies was about
+ 
+
+1177
+00:28:17,279 --> 00:28:19,909
+variation between studies was about
+0.09.
+
+1178
+00:28:19,909 --> 00:28:19,919
+0.09.
+ 
+
+1179
+00:28:19,919 --> 00:28:22,710
+0.09.
+And finally, when we try to explain this
+
+1180
+00:28:22,710 --> 00:28:22,720
+And finally, when we try to explain this
+ 
+
+1181
+00:28:22,720 --> 00:28:25,350
+And finally, when we try to explain this
+variation, we found that um if we
+
+1182
+00:28:25,350 --> 00:28:25,360
+variation, we found that um if we
+ 
+
+1183
+00:28:25,360 --> 00:28:29,029
+variation, we found that um if we
+include weeks of prior contacts as a
+
+1184
+00:28:29,029 --> 00:28:29,039
+include weeks of prior contacts as a
+ 
+
+1185
+00:28:29,039 --> 00:28:31,029
+include weeks of prior contacts as a
+categorical variable or as a continuous
+
+1186
+00:28:31,029 --> 00:28:31,039
+categorical variable or as a continuous
+ 
+
+1187
+00:28:31,039 --> 00:28:32,630
+categorical variable or as a continuous
+variable,
+
+1188
+00:28:32,630 --> 00:28:32,640
+variable,
+ 
+
+1189
+00:28:32,640 --> 00:28:35,909
+variable,
+we found that this variable indeed
+
+1190
+00:28:35,909 --> 00:28:35,919
+we found that this variable indeed
+ 
+
+1191
+00:28:35,919 --> 00:28:38,310
+we found that this variable indeed
+moderated the size of the effect. So the
+
+1192
+00:28:38,310 --> 00:28:38,320
+moderated the size of the effect. So the
+ 
+
+1193
+00:28:38,320 --> 00:28:43,029
+moderated the size of the effect. So the
+size of the effect depends of the on the
+
+1194
+00:28:43,029 --> 00:28:43,039
+size of the effect depends of the on the
+ 
+
+1195
+00:28:43,039 --> 00:28:45,750
+size of the effect depends of the on the
+weeks of prior contact. So the more
+
+1196
+00:28:45,750 --> 00:28:45,760
+weeks of prior contact. So the more
+ 
+
+1197
+00:28:45,760 --> 00:28:48,470
+weeks of prior contact. So the more
+prior contact there was the smaller the
+
+1198
+00:28:48,470 --> 00:28:48,480
+prior contact there was the smaller the
+ 
+
+1199
+00:28:48,480 --> 00:28:51,590
+prior contact there was the smaller the
+size of the effect that was found in the
+
+1200
+00:28:51,590 --> 00:28:51,600
+size of the effect that was found in the
+ 
+
+1201
+00:28:51,600 --> 00:28:55,029
+size of the effect that was found in the
+studies
+
+1202
+00:28:55,029 --> 00:28:55,039
+
+ 
+
+1203
+00:28:55,039 --> 00:28:58,389
+
+and we even uh yeah managed to um
+
+1204
+00:28:58,389 --> 00:28:58,399
+and we even uh yeah managed to um
+ 
+
+1205
+00:28:58,399 --> 00:29:01,510
+and we even uh yeah managed to um
+explain 100% of the between study
+
+1206
+00:29:01,510 --> 00:29:01,520
+explain 100% of the between study
+ 
+
+1207
+00:29:01,520 --> 00:29:03,909
+explain 100% of the between study
+heterogenity.
+
+1208
+00:29:03,909 --> 00:29:03,919
+heterogenity.
+ 
+
+1209
+00:29:03,919 --> 00:29:07,110
+heterogenity.
+Final remark. As explained in one of the
+
+1210
+00:29:07,110 --> 00:29:07,120
+Final remark. As explained in one of the
+ 
+
+1211
+00:29:07,120 --> 00:29:09,269
+Final remark. As explained in one of the
+videos, it is good idea to do some
+
+1212
+00:29:09,269 --> 00:29:09,279
+videos, it is good idea to do some
+ 
+
+1213
+00:29:09,279 --> 00:29:11,110
+videos, it is good idea to do some
+checks to assess the credibility of your
+
+1214
+00:29:11,110 --> 00:29:11,120
+checks to assess the credibility of your
+ 
+
+1215
+00:29:11,120 --> 00:29:12,710
+checks to assess the credibility of your
+results.
+
+1216
+00:29:12,710 --> 00:29:12,720
+results.
+ 
+
+1217
+00:29:12,720 --> 00:29:14,950
+results.
+First, it is good to check whether there
+
+1218
+00:29:14,950 --> 00:29:14,960
+First, it is good to check whether there
+ 
+
+1219
+00:29:14,960 --> 00:29:17,909
+First, it is good to check whether there
+is evidence for publication buys.
+
+1220
+00:29:17,909 --> 00:29:17,919
+is evidence for publication buys.
+ 
+
+1221
+00:29:17,919 --> 00:29:20,310
+is evidence for publication buys.
+By typing funnel with the name of your
+
+1222
+00:29:20,310 --> 00:29:20,320
+By typing funnel with the name of your
+ 
+
+1223
+00:29:20,320 --> 00:29:23,430
+By typing funnel with the name of your
+analysis, you get a funnel plot. The
+
+1224
+00:29:23,430 --> 00:29:23,440
+analysis, you get a funnel plot. The
+ 
+
+1225
+00:29:23,440 --> 00:29:25,350
+analysis, you get a funnel plot. The
+plot suggests that there may be
+
+1226
+00:29:25,350 --> 00:29:25,360
+plot suggests that there may be
+ 
+
+1227
+00:29:25,360 --> 00:29:27,830
+plot suggests that there may be
+publication buys.
+
+1228
+00:29:27,830 --> 00:29:27,840
+publication buys.
+ 
+
+1229
+00:29:27,840 --> 00:29:29,750
+publication buys.
+Without publication buys, you would
+
+1230
+00:29:29,750 --> 00:29:29,760
+Without publication buys, you would
+ 
+
+1231
+00:29:29,760 --> 00:29:32,149
+Without publication buys, you would
+expect a symmetric plot with on top of
+
+1232
+00:29:32,149 --> 00:29:32,159
+expect a symmetric plot with on top of
+ 
+
+1233
+00:29:32,159 --> 00:29:35,269
+expect a symmetric plot with on top of
+the plot. This is for larger studies.
+
+1234
+00:29:35,269 --> 00:29:35,279
+the plot. This is for larger studies.
+ 
+
+1235
+00:29:35,279 --> 00:29:37,430
+the plot. This is for larger studies.
+Less variation than at the bottom of the
+
+1236
+00:29:37,430 --> 00:29:37,440
+Less variation than at the bottom of the
+ 
+
+1237
+00:29:37,440 --> 00:29:40,789
+Less variation than at the bottom of the
+plot. This is for smaller studies, but
+
+1238
+00:29:40,789 --> 00:29:40,799
+plot. This is for smaller studies, but
+ 
+
+1239
+00:29:40,799 --> 00:29:43,029
+plot. This is for smaller studies, but
+with observed effect sizes varying
+
+1240
+00:29:43,029 --> 00:29:43,039
+with observed effect sizes varying
+ 
+
+1241
+00:29:43,039 --> 00:29:45,430
+with observed effect sizes varying
+around the same value regardless of the
+
+1242
+00:29:45,430 --> 00:29:45,440
+around the same value regardless of the
+ 
+
+1243
+00:29:45,440 --> 00:29:48,070
+around the same value regardless of the
+sample size.
+
+1244
+00:29:48,070 --> 00:29:48,080
+sample size.
+ 
+
+1245
+00:29:48,080 --> 00:29:50,710
+sample size.
+Here however we see that for small
+
+1246
+00:29:50,710 --> 00:29:50,720
+Here however we see that for small
+ 
+
+1247
+00:29:50,720 --> 00:29:53,350
+Here however we see that for small
+studies the observed effect sizes are
+
+1248
+00:29:53,350 --> 00:29:53,360
+studies the observed effect sizes are
+ 
+
+1249
+00:29:53,360 --> 00:29:56,389
+studies the observed effect sizes are
+generally larger which indicates that
+
+1250
+00:29:56,389 --> 00:29:56,399
+generally larger which indicates that
+ 
+
+1251
+00:29:56,399 --> 00:29:59,029
+generally larger which indicates that
+small studies with small effect sizes or
+
+1252
+00:29:59,029 --> 00:29:59,039
+small studies with small effect sizes or
+ 
+
+1253
+00:29:59,039 --> 00:30:01,510
+small studies with small effect sizes or
+even negative effect sizes are missing
+
+1254
+00:30:01,510 --> 00:30:01,520
+even negative effect sizes are missing
+ 
+
+1255
+00:30:01,520 --> 00:30:04,389
+even negative effect sizes are missing
+in our metalytic data set
+
+1256
+00:30:04,389 --> 00:30:04,399
+in our metalytic data set
+ 
+
+1257
+00:30:04,399 --> 00:30:07,510
+in our metalytic data set
+on to you will also find the R codes for
+
+1258
+00:30:07,510 --> 00:30:07,520
+on to you will also find the R codes for
+ 
+
+1259
+00:30:07,520 --> 00:30:10,389
+on to you will also find the R codes for
+making a period plot to calculate a rank
+
+1260
+00:30:10,389 --> 00:30:10,399
+making a period plot to calculate a rank
+ 
+
+1261
+00:30:10,399 --> 00:30:13,430
+making a period plot to calculate a rank
+correlation perform a regression test
+
+1262
+00:30:13,430 --> 00:30:13,440
+correlation perform a regression test
+ 
+
+1263
+00:30:13,440 --> 00:30:15,510
+correlation perform a regression test
+and apply the trim and fill method to
+
+1264
+00:30:15,510 --> 00:30:15,520
+and apply the trim and fill method to
+ 
+
+1265
+00:30:15,520 --> 00:30:23,029
+and apply the trim and fill method to
+correct for bias.
+
+1266
+00:30:23,029 --> 00:30:23,039
+
+ 
+
+1267
+00:30:23,039 --> 00:30:25,190
+
+In the same script, you can see how you
+
+1268
+00:30:25,190 --> 00:30:25,200
+In the same script, you can see how you
+ 
+
+1269
+00:30:25,200 --> 00:30:28,230
+In the same script, you can see how you
+can make several plots to detect outline
+
+1270
+00:30:28,230 --> 00:30:28,240
+can make several plots to detect outline
+ 
+
+1271
+00:30:28,240 --> 00:30:31,350
+can make several plots to detect outline
+and influential studies. For instance,
+
+1272
+00:30:31,350 --> 00:30:31,360
+and influential studies. For instance,
+ 
+
+1273
+00:30:31,360 --> 00:30:33,590
+and influential studies. For instance,
+by replacing the dots by numbers in the
+
+1274
+00:30:33,590 --> 00:30:33,600
+by replacing the dots by numbers in the
+ 
+
+1275
+00:30:33,600 --> 00:30:36,389
+by replacing the dots by numbers in the
+final plot, you see that studies four
+
+1276
+00:30:36,389 --> 00:30:36,399
+final plot, you see that studies four
+ 
+
+1277
+00:30:36,399 --> 00:30:43,510
+final plot, you see that studies four
+and 10 are relatively outlying.
+
+1278
+00:30:43,510 --> 00:30:43,520
+
+ 
+
+1279
+00:30:43,520 --> 00:30:45,590
+
+This is confirmed in plots with a
+
+1280
+00:30:45,590 --> 00:30:45,600
+This is confirmed in plots with a
+ 
+
+1281
+00:30:45,600 --> 00:30:47,909
+This is confirmed in plots with a
+standardized residuals, the cook's
+
+1282
+00:30:47,909 --> 00:30:47,919
+standardized residuals, the cook's
+ 
+
+1283
+00:30:47,919 --> 00:30:51,909
+standardized residuals, the cook's
+distances and the co-variance ratios.
+
+1284
+00:30:51,909 --> 00:30:51,919
+distances and the co-variance ratios.
+ 
+
+1285
+00:30:51,919 --> 00:30:54,710
+distances and the co-variance ratios.
+Leaving out these two studies, study
+
+1286
+00:30:54,710 --> 00:30:54,720
+Leaving out these two studies, study
+ 
+
+1287
+00:30:54,720 --> 00:30:58,149
+Leaving out these two studies, study
+four and study 10 also gives a somewhat
+
+1288
+00:30:58,149 --> 00:30:58,159
+four and study 10 also gives a somewhat
+ 
+
+1289
+00:30:58,159 --> 00:31:03,909
+four and study 10 also gives a somewhat
+different results.
+
+1290
+00:31:03,909 --> 00:31:03,919
+
+ 
+
+1291
+00:31:03,919 --> 00:31:05,830
+
+Also reflect on the assumptions that are
+
+1292
+00:31:05,830 --> 00:31:05,840
+Also reflect on the assumptions that are
+ 
+
+1293
+00:31:05,840 --> 00:31:08,710
+Also reflect on the assumptions that are
+made. It is probably a good idea to make
+
+1294
+00:31:08,710 --> 00:31:08,720
+made. It is probably a good idea to make
+ 
+
+1295
+00:31:08,720 --> 00:31:12,549
+made. It is probably a good idea to make
+a QQ plot as well. Here the distribution
+
+1296
+00:31:12,549 --> 00:31:12,559
+a QQ plot as well. Here the distribution
+ 
+
+1297
+00:31:12,559 --> 00:31:16,720
+a QQ plot as well. Here the distribution
+looks reasonably normal.
+

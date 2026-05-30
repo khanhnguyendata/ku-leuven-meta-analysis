@@ -1,0 +1,73 @@
+In this final video, let us look at some tools that can help you while doing a meta analysis or systematic review.
+
+Let's first look at some checklists and guidelines.
+
+We have already seen that there are various checklists that can be used to assess the quality of primary studies.
+
+But there are also checklists to evaluate the quality of systematic reviews and meta analysis.
+
+These checklists may also help you to make sure that your review or meta analysis is of good quality.
+
+Here is selection from the CASP tool for assessing the quality of a systematic review of RCTs.
+
+Questions are asked and for each question some hints are given.
+
+Another tool is a robes tool related to the risk of bias tools for primary studies.
+
+This tool is meant to assess the risk of bias in systematic reviews.
+
+Other checklists were developed to make sure that your report is complete and clear.
+
+Probably the best known checklist for reporting is a Prisma checklist.
+
+The checklist includes 27 items regarding the different parts of the systematic review report.
+
+Here you see the first 14 items that can be checked if reported.
+
+Another kind of tools is software for managing references.
+
+Probably the most commonly used tools are endnot.
+
+These tools allow you to import the hits from the database searches.
+
+They can also be used to remove duplicates.
+
+You can also add notes, for instance, on why you did or did not include this study in the review.
+
+You can also attach files, for instance, the PDF of the paper, and you can use the tool for making a reference list for your report.
+
+There's also software that is specifically developed for systematic reviews.
+
+One such tool is a EPI reviewer.
+
+This web based tool can also be used to manage the references, but it's also a very helpful tool for organizing the data extraction with multiple coders.
+
+You can create codes, divide the papers over multiple coders, let each coder code the papers in a web- based form, calculate intracoder agreement, and so on and so forth.
+
+Tools like rind and confidence go a step further by including AI techniques.
+
+For instance, they can be used to highlight words or text that are likely related to the components of the PCO model and hence can make it easier for reviewers to find the information needed to decide on inclusion.
+
+Ryan even can gradually learn the relevance of studies based on previous decisions reviewer made about in or exclusion.
+
+The tool elicit even aims to make the whole screening and data extraction process automatic which can save huge amounts of time for the reviewer.
+
+Also, other generative AI tools that are not specifically developed for systematic reviews may be helpful.
+
+Complexity AI can give answers to questions like CHBT but with clear references to the sources that were used.
+
+Consensus AI does the same but looks only in peerreed scientific literature.
+
+It can also judge how much consensus there is among studies.
+
+Semantic scholar is a tool that can be used to discover and summarize academic papers.
+
+The use of AI in systematic reviews and meta analysis is a very recent field of research.
+
+First results look promising, but we can expect that tools and techniques will evolve quickly in the coming years.
+
+This was the final video.
+
+I hope that what you learned will prove helpful to you.
+
+I wish you good luck and take care.

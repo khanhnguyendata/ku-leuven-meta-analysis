@@ -1,0 +1,7035 @@
+1
+00:00:01,439 --> 00:00:03,429
+
+After performing your meta analysis,
+
+2
+00:00:03,429 --> 00:00:03,439
+After performing your meta analysis,
+ 
+
+3
+00:00:03,439 --> 00:00:04,950
+After performing your meta analysis,
+it's important that you look critically
+
+4
+00:00:04,950 --> 00:00:04,960
+it's important that you look critically
+ 
+
+5
+00:00:04,960 --> 00:00:07,269
+it's important that you look critically
+at the value of your analysis and that
+
+6
+00:00:07,269 --> 00:00:07,279
+at the value of your analysis and that
+ 
+
+7
+00:00:07,279 --> 00:00:08,950
+at the value of your analysis and that
+you are very transparent about the
+
+8
+00:00:08,950 --> 00:00:08,960
+you are very transparent about the
+ 
+
+9
+00:00:08,960 --> 00:00:12,310
+you are very transparent about the
+quality of the results.
+
+10
+00:00:12,310 --> 00:00:12,320
+quality of the results.
+ 
+
+11
+00:00:12,320 --> 00:00:13,990
+quality of the results.
+In this screencast, we will look at
+
+12
+00:00:13,990 --> 00:00:14,000
+In this screencast, we will look at
+ 
+
+13
+00:00:14,000 --> 00:00:16,070
+In this screencast, we will look at
+three aspects. First, the assessment and
+
+14
+00:00:16,070 --> 00:00:16,080
+three aspects. First, the assessment and
+ 
+
+15
+00:00:16,080 --> 00:00:19,029
+three aspects. First, the assessment and
+correction of publication bias. Second,
+
+16
+00:00:19,029 --> 00:00:19,039
+correction of publication bias. Second,
+ 
+
+17
+00:00:19,039 --> 00:00:21,910
+correction of publication bias. Second,
+checks of potential outliers and their
+
+18
+00:00:21,910 --> 00:00:21,920
+checks of potential outliers and their
+ 
+
+19
+00:00:21,920 --> 00:00:24,230
+checks of potential outliers and their
+impact. And third, checks of the
+
+20
+00:00:24,230 --> 00:00:24,240
+impact. And third, checks of the
+ 
+
+21
+00:00:24,240 --> 00:00:25,830
+impact. And third, checks of the
+assumptions that are made during the
+
+22
+00:00:25,830 --> 00:00:25,840
+assumptions that are made during the
+ 
+
+23
+00:00:25,840 --> 00:00:28,470
+assumptions that are made during the
+analysis.
+
+24
+00:00:28,470 --> 00:00:28,480
+analysis.
+ 
+
+25
+00:00:28,480 --> 00:00:31,429
+analysis.
+First, publication bias.
+
+26
+00:00:31,429 --> 00:00:31,439
+First, publication bias.
+ 
+
+27
+00:00:31,439 --> 00:00:32,870
+First, publication bias.
+We have already discussed where
+
+28
+00:00:32,870 --> 00:00:32,880
+We have already discussed where
+ 
+
+29
+00:00:32,880 --> 00:00:35,190
+We have already discussed where
+publication bias can come from. In many
+
+30
+00:00:35,190 --> 00:00:35,200
+publication bias can come from. In many
+ 
+
+31
+00:00:35,200 --> 00:00:37,190
+publication bias can come from. In many
+fields, the probability that a finding
+
+32
+00:00:37,190 --> 00:00:37,200
+fields, the probability that a finding
+ 
+
+33
+00:00:37,200 --> 00:00:39,750
+fields, the probability that a finding
+is reported and published is higher when
+
+34
+00:00:39,750 --> 00:00:39,760
+is reported and published is higher when
+ 
+
+35
+00:00:39,760 --> 00:00:41,030
+is reported and published is higher when
+the finding is statistically
+
+36
+00:00:41,030 --> 00:00:41,040
+the finding is statistically
+ 
+
+37
+00:00:41,040 --> 00:00:42,630
+the finding is statistically
+significant.
+
+38
+00:00:42,630 --> 00:00:42,640
+significant.
+ 
+
+39
+00:00:42,640 --> 00:00:44,869
+significant.
+Therefore, one way to detect publication
+
+40
+00:00:44,869 --> 00:00:44,879
+Therefore, one way to detect publication
+ 
+
+41
+00:00:44,879 --> 00:00:46,950
+Therefore, one way to detect publication
+bias is to compare the overall effect
+
+42
+00:00:46,950 --> 00:00:46,960
+bias is to compare the overall effect
+ 
+
+43
+00:00:46,960 --> 00:00:49,430
+bias is to compare the overall effect
+size for published and unpublished
+
+44
+00:00:49,430 --> 00:00:49,440
+size for published and unpublished
+ 
+
+45
+00:00:49,440 --> 00:00:51,670
+size for published and unpublished
+results. You could, for instance, do a
+
+46
+00:00:51,670 --> 00:00:51,680
+results. You could, for instance, do a
+ 
+
+47
+00:00:51,680 --> 00:00:54,310
+results. You could, for instance, do a
+moderator analysis with the publication
+
+48
+00:00:54,310 --> 00:00:54,320
+moderator analysis with the publication
+ 
+
+49
+00:00:54,320 --> 00:00:57,430
+moderator analysis with the publication
+status as a dummy moderator.
+
+50
+00:00:57,430 --> 00:00:57,440
+status as a dummy moderator.
+ 
+
+51
+00:00:57,440 --> 00:00:58,950
+status as a dummy moderator.
+If the regression weights of this
+
+52
+00:00:58,950 --> 00:00:58,960
+If the regression weights of this
+ 
+
+53
+00:00:58,960 --> 00:01:01,670
+If the regression weights of this
+moderator variable is statistically
+
+54
+00:01:01,670 --> 00:01:01,680
+moderator variable is statistically
+ 
+
+55
+00:01:01,680 --> 00:01:03,910
+moderator variable is statistically
+significant, this is an indication that
+
+56
+00:01:03,910 --> 00:01:03,920
+significant, this is an indication that
+ 
+
+57
+00:01:03,920 --> 00:01:06,870
+significant, this is an indication that
+there is publication bias. Possible
+
+58
+00:01:06,870 --> 00:01:06,880
+there is publication bias. Possible
+ 
+
+59
+00:01:06,880 --> 00:01:09,830
+there is publication bias. Possible
+issue is is the statistical power
+
+60
+00:01:09,830 --> 00:01:09,840
+issue is is the statistical power
+ 
+
+61
+00:01:09,840 --> 00:01:11,350
+issue is is the statistical power
+because it may be hard to find
+
+62
+00:01:11,350 --> 00:01:11,360
+because it may be hard to find
+ 
+
+63
+00:01:11,360 --> 00:01:14,230
+because it may be hard to find
+sufficient unpublished studies to do
+
+64
+00:01:14,230 --> 00:01:14,240
+sufficient unpublished studies to do
+ 
+
+65
+00:01:14,240 --> 00:01:17,990
+sufficient unpublished studies to do
+this moderator analysis.
+
+66
+00:01:17,990 --> 00:01:18,000
+this moderator analysis.
+ 
+
+67
+00:01:18,000 --> 00:01:20,230
+this moderator analysis.
+An alternative approach is to make use
+
+68
+00:01:20,230 --> 00:01:20,240
+An alternative approach is to make use
+ 
+
+69
+00:01:20,240 --> 00:01:22,550
+An alternative approach is to make use
+of plots.
+
+70
+00:01:22,550 --> 00:01:22,560
+of plots.
+ 
+
+71
+00:01:22,560 --> 00:01:25,030
+of plots.
+A funnel plot is a scatter plot which on
+
+72
+00:01:25,030 --> 00:01:25,040
+A funnel plot is a scatter plot which on
+ 
+
+73
+00:01:25,040 --> 00:01:27,749
+A funnel plot is a scatter plot which on
+the with on the x-axis the observed
+
+74
+00:01:27,749 --> 00:01:27,759
+the with on the x-axis the observed
+ 
+
+75
+00:01:27,759 --> 00:01:29,990
+the with on the x-axis the observed
+effect size and on the y-axis the sample
+
+76
+00:01:29,990 --> 00:01:30,000
+effect size and on the y-axis the sample
+ 
+
+77
+00:01:30,000 --> 00:01:32,469
+effect size and on the y-axis the sample
+size. You would expect a pattern like
+
+78
+00:01:32,469 --> 00:01:32,479
+size. You would expect a pattern like
+ 
+
+79
+00:01:32,479 --> 00:01:34,390
+size. You would expect a pattern like
+this one. We have seen that observed
+
+80
+00:01:34,390 --> 00:01:34,400
+this one. We have seen that observed
+ 
+
+81
+00:01:34,400 --> 00:01:36,550
+this one. We have seen that observed
+effect sizes vary around the true effect
+
+82
+00:01:36,550 --> 00:01:36,560
+effect sizes vary around the true effect
+ 
+
+83
+00:01:36,560 --> 00:01:39,350
+effect sizes vary around the true effect
+size. But for large studies the sampling
+
+84
+00:01:39,350 --> 00:01:39,360
+size. But for large studies the sampling
+ 
+
+85
+00:01:39,360 --> 00:01:41,990
+size. But for large studies the sampling
+variance is smaller and for than for
+
+86
+00:01:41,990 --> 00:01:42,000
+variance is smaller and for than for
+ 
+
+87
+00:01:42,000 --> 00:01:44,550
+variance is smaller and for than for
+small studies. This is exactly why you
+
+88
+00:01:44,550 --> 00:01:44,560
+small studies. This is exactly why you
+ 
+
+89
+00:01:44,560 --> 00:01:47,030
+small studies. This is exactly why you
+see what you see in this scatter plot at
+
+90
+00:01:47,030 --> 00:01:47,040
+see what you see in this scatter plot at
+ 
+
+91
+00:01:47,040 --> 00:01:49,429
+see what you see in this scatter plot at
+the top. So for large studies the
+
+92
+00:01:49,429 --> 00:01:49,439
+the top. So for large studies the
+ 
+
+93
+00:01:49,439 --> 00:01:51,990
+the top. So for large studies the
+observed effect sizes do not vary a lot.
+
+94
+00:01:51,990 --> 00:01:52,000
+observed effect sizes do not vary a lot.
+ 
+
+95
+00:01:52,000 --> 00:01:54,310
+observed effect sizes do not vary a lot.
+Whereas at the bottom for small studies
+
+96
+00:01:54,310 --> 00:01:54,320
+Whereas at the bottom for small studies
+ 
+
+97
+00:01:54,320 --> 00:01:57,109
+Whereas at the bottom for small studies
+there is much more variation.
+
+98
+00:01:57,109 --> 00:01:57,119
+there is much more variation.
+ 
+
+99
+00:01:57,119 --> 00:01:58,950
+there is much more variation.
+In this way you get a pattern of an
+
+100
+00:01:58,950 --> 00:01:58,960
+In this way you get a pattern of an
+ 
+
+101
+00:01:58,960 --> 00:02:01,190
+In this way you get a pattern of an
+inverse funnel. Hence the name funnel
+
+102
+00:02:01,190 --> 00:02:01,200
+inverse funnel. Hence the name funnel
+ 
+
+103
+00:02:01,200 --> 00:02:03,749
+inverse funnel. Hence the name funnel
+plot. In this example the population
+
+104
+00:02:03,749 --> 00:02:03,759
+plot. In this example the population
+ 
+
+105
+00:02:03,759 --> 00:02:06,389
+plot. In this example the population
+effect size is probably somewhere around
+
+106
+00:02:06,389 --> 00:02:06,399
+effect size is probably somewhere around
+ 
+
+107
+00:02:06,399 --> 00:02:10,469
+effect size is probably somewhere around
+0.10.
+
+108
+00:02:10,469 --> 00:02:10,479
+
+ 
+
+109
+00:02:10,479 --> 00:02:12,229
+
+But look at the funnel plot that I made
+
+110
+00:02:12,229 --> 00:02:12,239
+But look at the funnel plot that I made
+ 
+
+111
+00:02:12,239 --> 00:02:14,869
+But look at the funnel plot that I made
+for the bush met analysis on the teacher
+
+112
+00:02:14,869 --> 00:02:14,879
+for the bush met analysis on the teacher
+ 
+
+113
+00:02:14,879 --> 00:02:18,150
+for the bush met analysis on the teacher
+expectancy effect. You can see that the
+
+114
+00:02:18,150 --> 00:02:18,160
+expectancy effect. You can see that the
+ 
+
+115
+00:02:18,160 --> 00:02:20,229
+expectancy effect. You can see that the
+pattern is not a symmetric triangle
+
+116
+00:02:20,229 --> 00:02:20,239
+pattern is not a symmetric triangle
+ 
+
+117
+00:02:20,239 --> 00:02:23,030
+pattern is not a symmetric triangle
+anymore. In the left corner, there are
+
+118
+00:02:23,030 --> 00:02:23,040
+anymore. In the left corner, there are
+ 
+
+119
+00:02:23,040 --> 00:02:26,630
+anymore. In the left corner, there are
+no dots. Maybe there were some small
+
+120
+00:02:26,630 --> 00:02:26,640
+no dots. Maybe there were some small
+ 
+
+121
+00:02:26,640 --> 00:02:28,150
+no dots. Maybe there were some small
+studies that found a very negative
+
+122
+00:02:28,150 --> 00:02:28,160
+studies that found a very negative
+ 
+
+123
+00:02:28,160 --> 00:02:30,470
+studies that found a very negative
+observed effect size, but a negative
+
+124
+00:02:30,470 --> 00:02:30,480
+observed effect size, but a negative
+ 
+
+125
+00:02:30,480 --> 00:02:32,470
+observed effect size, but a negative
+effect size is not what we would expect
+
+126
+00:02:32,470 --> 00:02:32,480
+effect size is not what we would expect
+ 
+
+127
+00:02:32,480 --> 00:02:34,869
+effect size is not what we would expect
+here because a negative effect size
+
+128
+00:02:34,869 --> 00:02:34,879
+here because a negative effect size
+ 
+
+129
+00:02:34,879 --> 00:02:37,350
+here because a negative effect size
+would mean that teachers are giving
+
+130
+00:02:37,350 --> 00:02:37,360
+would mean that teachers are giving
+ 
+
+131
+00:02:37,360 --> 00:02:39,430
+would mean that teachers are giving
+higher grades to the so-called weak
+
+132
+00:02:39,430 --> 00:02:39,440
+higher grades to the so-called weak
+ 
+
+133
+00:02:39,440 --> 00:02:41,030
+higher grades to the so-called weak
+students.
+
+134
+00:02:41,030 --> 00:02:41,040
+students.
+ 
+
+135
+00:02:41,040 --> 00:02:42,550
+students.
+It's therefore possible that
+
+136
+00:02:42,550 --> 00:02:42,560
+It's therefore possible that
+ 
+
+137
+00:02:42,560 --> 00:02:44,949
+It's therefore possible that
+researchers, reviewers, or journal
+
+138
+00:02:44,949 --> 00:02:44,959
+researchers, reviewers, or journal
+ 
+
+139
+00:02:44,959 --> 00:02:47,190
+researchers, reviewers, or journal
+editors were surprised by the negative
+
+140
+00:02:47,190 --> 00:02:47,200
+editors were surprised by the negative
+ 
+
+141
+00:02:47,200 --> 00:02:49,270
+editors were surprised by the negative
+effect size and attributed this
+
+142
+00:02:49,270 --> 00:02:49,280
+effect size and attributed this
+ 
+
+143
+00:02:49,280 --> 00:02:51,990
+effect size and attributed this
+unexpected result to coincidence because
+
+144
+00:02:51,990 --> 00:02:52,000
+unexpected result to coincidence because
+ 
+
+145
+00:02:52,000 --> 00:02:54,790
+unexpected result to coincidence because
+of the small sample size and therefore
+
+146
+00:02:54,790 --> 00:02:54,800
+of the small sample size and therefore
+ 
+
+147
+00:02:54,800 --> 00:02:57,270
+of the small sample size and therefore
+decided not to report or publish the
+
+148
+00:02:57,270 --> 00:02:57,280
+decided not to report or publish the
+ 
+
+149
+00:02:57,280 --> 00:02:59,350
+decided not to report or publish the
+findings.
+
+150
+00:02:59,350 --> 00:02:59,360
+findings.
+ 
+
+151
+00:02:59,360 --> 00:03:01,589
+findings.
+In the right corner, on the contrary,
+
+152
+00:03:01,589 --> 00:03:01,599
+In the right corner, on the contrary,
+ 
+
+153
+00:03:01,599 --> 00:03:03,910
+In the right corner, on the contrary,
+you can see multiple dots. It is
+
+154
+00:03:03,910 --> 00:03:03,920
+you can see multiple dots. It is
+ 
+
+155
+00:03:03,920 --> 00:03:05,750
+you can see multiple dots. It is
+possible that exactly because of the
+
+156
+00:03:05,750 --> 00:03:05,760
+possible that exactly because of the
+ 
+
+157
+00:03:05,760 --> 00:03:08,149
+possible that exactly because of the
+small sample size in some studies
+
+158
+00:03:08,149 --> 00:03:08,159
+small sample size in some studies
+ 
+
+159
+00:03:08,159 --> 00:03:10,550
+small sample size in some studies
+researchers obtained by coincidence a
+
+160
+00:03:10,550 --> 00:03:10,560
+researchers obtained by coincidence a
+ 
+
+161
+00:03:10,560 --> 00:03:13,830
+researchers obtained by coincidence a
+very large observed effect size. Maybe
+
+162
+00:03:13,830 --> 00:03:13,840
+very large observed effect size. Maybe
+ 
+
+163
+00:03:13,840 --> 00:03:15,750
+very large observed effect size. Maybe
+researchers and reviewers were
+
+164
+00:03:15,750 --> 00:03:15,760
+researchers and reviewers were
+ 
+
+165
+00:03:15,760 --> 00:03:17,670
+researchers and reviewers were
+enthusiastic that they found such a
+
+166
+00:03:17,670 --> 00:03:17,680
+enthusiastic that they found such a
+ 
+
+167
+00:03:17,680 --> 00:03:20,390
+enthusiastic that they found such a
+spectacular effect size that may even be
+
+168
+00:03:20,390 --> 00:03:20,400
+spectacular effect size that may even be
+ 
+
+169
+00:03:20,400 --> 00:03:22,550
+spectacular effect size that may even be
+statistically significant despite a
+
+170
+00:03:22,550 --> 00:03:22,560
+statistically significant despite a
+ 
+
+171
+00:03:22,560 --> 00:03:25,910
+statistically significant despite a
+small sample size and therefore reported
+
+172
+00:03:25,910 --> 00:03:25,920
+small sample size and therefore reported
+ 
+
+173
+00:03:25,920 --> 00:03:30,149
+small sample size and therefore reported
+and published these study results.
+
+174
+00:03:30,149 --> 00:03:30,159
+and published these study results.
+ 
+
+175
+00:03:30,159 --> 00:03:32,149
+and published these study results.
+Note that in this way publication bias
+
+176
+00:03:32,149 --> 00:03:32,159
+Note that in this way publication bias
+ 
+
+177
+00:03:32,159 --> 00:03:34,070
+Note that in this way publication bias
+leads to a negative correlation between
+
+178
+00:03:34,070 --> 00:03:34,080
+leads to a negative correlation between
+ 
+
+179
+00:03:34,080 --> 00:03:36,070
+leads to a negative correlation between
+the sample size and the observed effect
+
+180
+00:03:36,070 --> 00:03:36,080
+the sample size and the observed effect
+ 
+
+181
+00:03:36,080 --> 00:03:38,789
+the sample size and the observed effect
+size. In general, the larger the
+
+182
+00:03:38,789 --> 00:03:38,799
+size. In general, the larger the
+ 
+
+183
+00:03:38,799 --> 00:03:41,589
+size. In general, the larger the
+studies, the smaller on average the
+
+184
+00:03:41,589 --> 00:03:41,599
+studies, the smaller on average the
+ 
+
+185
+00:03:41,599 --> 00:03:45,910
+studies, the smaller on average the
+observed effect size.
+
+186
+00:03:45,910 --> 00:03:45,920
+
+ 
+
+187
+00:03:45,920 --> 00:03:48,070
+
+An alternative plot is a contour
+
+188
+00:03:48,070 --> 00:03:48,080
+An alternative plot is a contour
+ 
+
+189
+00:03:48,080 --> 00:03:50,630
+An alternative plot is a contour
+enhanced funnel plot. Again on the
+
+190
+00:03:50,630 --> 00:03:50,640
+enhanced funnel plot. Again on the
+ 
+
+191
+00:03:50,640 --> 00:03:53,270
+enhanced funnel plot. Again on the
+x-axis you have the observed effect size
+
+192
+00:03:53,270 --> 00:03:53,280
+x-axis you have the observed effect size
+ 
+
+193
+00:03:53,280 --> 00:03:55,509
+x-axis you have the observed effect size
+and on the y-axis the standard error
+
+194
+00:03:55,509 --> 00:03:55,519
+and on the y-axis the standard error
+ 
+
+195
+00:03:55,519 --> 00:03:58,550
+and on the y-axis the standard error
+with a smallest value on the top. First
+
+196
+00:03:58,550 --> 00:03:58,560
+with a smallest value on the top. First
+ 
+
+197
+00:03:58,560 --> 00:04:00,309
+with a smallest value on the top. First
+look at the dots. You can see that the
+
+198
+00:04:00,309 --> 00:04:00,319
+look at the dots. You can see that the
+ 
+
+199
+00:04:00,319 --> 00:04:02,229
+look at the dots. You can see that the
+pattern is not symmetric which is an
+
+200
+00:04:02,229 --> 00:04:02,239
+pattern is not symmetric which is an
+ 
+
+201
+00:04:02,239 --> 00:04:04,789
+pattern is not symmetric which is an
+indication of publication bias. Now look
+
+202
+00:04:04,789 --> 00:04:04,799
+indication of publication bias. Now look
+ 
+
+203
+00:04:04,799 --> 00:04:07,030
+indication of publication bias. Now look
+at the triangles. In contrast to an
+
+204
+00:04:07,030 --> 00:04:07,040
+at the triangles. In contrast to an
+ 
+
+205
+00:04:07,040 --> 00:04:09,270
+at the triangles. In contrast to an
+ordinary funnel plot, this time the
+
+206
+00:04:09,270 --> 00:04:09,280
+ordinary funnel plot, this time the
+ 
+
+207
+00:04:09,280 --> 00:04:10,789
+ordinary funnel plot, this time the
+middle of the triangle is not the
+
+208
+00:04:10,789 --> 00:04:10,799
+middle of the triangle is not the
+ 
+
+209
+00:04:10,799 --> 00:04:13,509
+middle of the triangle is not the
+average effect size, but rather zero.
+
+210
+00:04:13,509 --> 00:04:13,519
+average effect size, but rather zero.
+ 
+
+211
+00:04:13,519 --> 00:04:15,750
+average effect size, but rather zero.
+With different colors, the areas are
+
+212
+00:04:15,750 --> 00:04:15,760
+With different colors, the areas are
+ 
+
+213
+00:04:15,760 --> 00:04:17,270
+With different colors, the areas are
+indicating what would lead to
+
+214
+00:04:17,270 --> 00:04:17,280
+indicating what would lead to
+ 
+
+215
+00:04:17,280 --> 00:04:20,229
+indicating what would lead to
+statistically significant results. Here
+
+216
+00:04:20,229 --> 00:04:20,239
+statistically significant results. Here
+ 
+
+217
+00:04:20,239 --> 00:04:23,350
+statistically significant results. Here
+the white area refers to observed effect
+
+218
+00:04:23,350 --> 00:04:23,360
+the white area refers to observed effect
+ 
+
+219
+00:04:23,360 --> 00:04:25,189
+the white area refers to observed effect
+sizes that are statistically not
+
+220
+00:04:25,189 --> 00:04:25,199
+sizes that are statistically not
+ 
+
+221
+00:04:25,199 --> 00:04:27,749
+sizes that are statistically not
+significant. The light gray area refers
+
+222
+00:04:27,749 --> 00:04:27,759
+significant. The light gray area refers
+ 
+
+223
+00:04:27,759 --> 00:04:29,830
+significant. The light gray area refers
+to values that would give a p value
+
+224
+00:04:29,830 --> 00:04:29,840
+to values that would give a p value
+ 
+
+225
+00:04:29,840 --> 00:04:31,990
+to values that would give a p value
+smaller than 0.05.
+
+226
+00:04:31,990 --> 00:04:32,000
+smaller than 0.05.
+ 
+
+227
+00:04:32,000 --> 00:04:35,270
+smaller than 0.05.
+Dark gray smaller than 0.01. And outside
+
+228
+00:04:35,270 --> 00:04:35,280
+Dark gray smaller than 0.01. And outside
+ 
+
+229
+00:04:35,280 --> 00:04:37,590
+Dark gray smaller than 0.01. And outside
+the dark gray area, P values smaller
+
+230
+00:04:37,590 --> 00:04:37,600
+the dark gray area, P values smaller
+ 
+
+231
+00:04:37,600 --> 00:04:42,150
+the dark gray area, P values smaller
+than uh 0.001.
+
+232
+00:04:42,150 --> 00:04:42,160
+
+ 
+
+233
+00:04:42,160 --> 00:04:44,390
+
+What you can see is that in this extreme
+
+234
+00:04:44,390 --> 00:04:44,400
+What you can see is that in this extreme
+ 
+
+235
+00:04:44,400 --> 00:04:46,629
+What you can see is that in this extreme
+example, the data set includes only
+
+236
+00:04:46,629 --> 00:04:46,639
+example, the data set includes only
+ 
+
+237
+00:04:46,639 --> 00:04:48,230
+example, the data set includes only
+observed effect sizes that were
+
+238
+00:04:48,230 --> 00:04:48,240
+observed effect sizes that were
+ 
+
+239
+00:04:48,240 --> 00:04:50,870
+observed effect sizes that were
+statistically significant, mainly with P
+
+240
+00:04:50,870 --> 00:04:50,880
+statistically significant, mainly with P
+ 
+
+241
+00:04:50,880 --> 00:04:53,430
+statistically significant, mainly with P
+values smaller than 0.01.
+
+242
+00:04:53,430 --> 00:04:53,440
+values smaller than 0.01.
+ 
+
+243
+00:04:53,440 --> 00:04:56,790
+values smaller than 0.01.
+The asymmetry is clearly related to the
+
+244
+00:04:56,790 --> 00:04:56,800
+The asymmetry is clearly related to the
+ 
+
+245
+00:04:56,800 --> 00:05:01,110
+The asymmetry is clearly related to the
+size of the p value.
+
+246
+00:05:01,110 --> 00:05:01,120
+
+ 
+
+247
+00:05:01,120 --> 00:05:03,430
+
+A similar plot is a radial plot or a
+
+248
+00:05:03,430 --> 00:05:03,440
+A similar plot is a radial plot or a
+ 
+
+249
+00:05:03,440 --> 00:05:05,830
+A similar plot is a radial plot or a
+gold braid plot which is illustrated
+
+250
+00:05:05,830 --> 00:05:05,840
+gold braid plot which is illustrated
+ 
+
+251
+00:05:05,840 --> 00:05:07,670
+gold braid plot which is illustrated
+here for the round bush data on the
+
+252
+00:05:07,670 --> 00:05:07,680
+here for the round bush data on the
+ 
+
+253
+00:05:07,680 --> 00:05:10,469
+here for the round bush data on the
+teacher expectancy effects. A scatter
+
+254
+00:05:10,469 --> 00:05:10,479
+teacher expectancy effects. A scatter
+ 
+
+255
+00:05:10,479 --> 00:05:12,469
+teacher expectancy effects. A scatter
+plot is made with the effect size
+
+256
+00:05:12,469 --> 00:05:12,479
+plot is made with the effect size
+ 
+
+257
+00:05:12,479 --> 00:05:14,469
+plot is made with the effect size
+divided by the standard error on the
+
+258
+00:05:14,469 --> 00:05:14,479
+divided by the standard error on the
+ 
+
+259
+00:05:14,479 --> 00:05:17,350
+divided by the standard error on the
+yaxis and one over the standard error on
+
+260
+00:05:17,350 --> 00:05:17,360
+yaxis and one over the standard error on
+ 
+
+261
+00:05:17,360 --> 00:05:20,230
+yaxis and one over the standard error on
+the x-axis. An unweighted regression
+
+262
+00:05:20,230 --> 00:05:20,240
+the x-axis. An unweighted regression
+ 
+
+263
+00:05:20,240 --> 00:05:22,230
+the x-axis. An unweighted regression
+analysis is done with the intercept
+
+264
+00:05:22,230 --> 00:05:22,240
+analysis is done with the intercept
+ 
+
+265
+00:05:22,240 --> 00:05:25,990
+analysis is done with the intercept
+constraint to zero. The slope now can be
+
+266
+00:05:25,990 --> 00:05:26,000
+constraint to zero. The slope now can be
+ 
+
+267
+00:05:26,000 --> 00:05:28,390
+constraint to zero. The slope now can be
+interpreted as the overall effect which
+
+268
+00:05:28,390 --> 00:05:28,400
+interpreted as the overall effect which
+ 
+
+269
+00:05:28,400 --> 00:05:30,710
+interpreted as the overall effect which
+is indicated on the arc with a
+
+270
+00:05:30,710 --> 00:05:30,720
+is indicated on the arc with a
+ 
+
+271
+00:05:30,720 --> 00:05:32,629
+is indicated on the arc with a
+confidence interval.
+
+272
+00:05:32,629 --> 00:05:32,639
+confidence interval.
+ 
+
+273
+00:05:32,639 --> 00:05:34,790
+confidence interval.
+If there is no publication bias, the
+
+274
+00:05:34,790 --> 00:05:34,800
+If there is no publication bias, the
+ 
+
+275
+00:05:34,800 --> 00:05:36,950
+If there is no publication bias, the
+dots are supposed to be symmetrically
+
+276
+00:05:36,950 --> 00:05:36,960
+dots are supposed to be symmetrically
+ 
+
+277
+00:05:36,960 --> 00:05:40,390
+dots are supposed to be symmetrically
+distributed around the regression line.
+
+278
+00:05:40,390 --> 00:05:40,400
+distributed around the regression line.
+ 
+
+279
+00:05:40,400 --> 00:05:42,870
+distributed around the regression line.
+Here we see that on the left side so for
+
+280
+00:05:42,870 --> 00:05:42,880
+Here we see that on the left side so for
+ 
+
+281
+00:05:42,880 --> 00:05:44,950
+Here we see that on the left side so for
+the smaller studies the dots are
+
+282
+00:05:44,950 --> 00:05:44,960
+the smaller studies the dots are
+ 
+
+283
+00:05:44,960 --> 00:05:47,270
+the smaller studies the dots are
+typically above the regression line
+
+284
+00:05:47,270 --> 00:05:47,280
+typically above the regression line
+ 
+
+285
+00:05:47,280 --> 00:05:49,510
+typically above the regression line
+which is an indication of publication
+
+286
+00:05:49,510 --> 00:05:49,520
+which is an indication of publication
+ 
+
+287
+00:05:49,520 --> 00:05:51,590
+which is an indication of publication
+bias.
+
+288
+00:05:51,590 --> 00:05:51,600
+bias.
+ 
+
+289
+00:05:51,600 --> 00:05:53,270
+bias.
+Note that in addition confidence
+
+290
+00:05:53,270 --> 00:05:53,280
+Note that in addition confidence
+ 
+
+291
+00:05:53,280 --> 00:05:56,230
+Note that in addition confidence
+interval lines are drawn. It can be
+
+292
+00:05:56,230 --> 00:05:56,240
+interval lines are drawn. It can be
+ 
+
+293
+00:05:56,240 --> 00:05:59,990
+interval lines are drawn. It can be
+expected that 95% of the Z values are
+
+294
+00:05:59,990 --> 00:06:00,000
+expected that 95% of the Z values are
+ 
+
+295
+00:06:00,000 --> 00:06:02,230
+expected that 95% of the Z values are
+within these intervals. The plot
+
+296
+00:06:02,230 --> 00:06:02,240
+within these intervals. The plot
+ 
+
+297
+00:06:02,240 --> 00:06:04,150
+within these intervals. The plot
+therefore can also be used to detect
+
+298
+00:06:04,150 --> 00:06:04,160
+therefore can also be used to detect
+ 
+
+299
+00:06:04,160 --> 00:06:08,230
+therefore can also be used to detect
+outliers.
+
+300
+00:06:08,230 --> 00:06:08,240
+
+ 
+
+301
+00:06:08,240 --> 00:06:10,070
+
+We have seen that publication bias may
+
+302
+00:06:10,070 --> 00:06:10,080
+We have seen that publication bias may
+ 
+
+303
+00:06:10,080 --> 00:06:11,990
+We have seen that publication bias may
+lead to a negative association between
+
+304
+00:06:11,990 --> 00:06:12,000
+lead to a negative association between
+ 
+
+305
+00:06:12,000 --> 00:06:14,550
+lead to a negative association between
+the observed effect sizes and sample
+
+306
+00:06:14,550 --> 00:06:14,560
+the observed effect sizes and sample
+ 
+
+307
+00:06:14,560 --> 00:06:17,590
+the observed effect sizes and sample
+sizes. Therefore, another way to assess
+
+308
+00:06:17,590 --> 00:06:17,600
+sizes. Therefore, another way to assess
+ 
+
+309
+00:06:17,600 --> 00:06:19,189
+sizes. Therefore, another way to assess
+publication bias and to test for
+
+310
+00:06:19,189 --> 00:06:19,199
+publication bias and to test for
+ 
+
+311
+00:06:19,199 --> 00:06:22,150
+publication bias and to test for
+publication bias is to estimate and test
+
+312
+00:06:22,150 --> 00:06:22,160
+publication bias is to estimate and test
+ 
+
+313
+00:06:22,160 --> 00:06:25,029
+publication bias is to estimate and test
+a measure of association between effect
+
+314
+00:06:25,029 --> 00:06:25,039
+a measure of association between effect
+ 
+
+315
+00:06:25,039 --> 00:06:28,469
+a measure of association between effect
+sizes and the size of the study.
+
+316
+00:06:28,469 --> 00:06:28,479
+sizes and the size of the study.
+ 
+
+317
+00:06:28,479 --> 00:06:30,550
+sizes and the size of the study.
+Measures that are often used are Kendall
+
+318
+00:06:30,550 --> 00:06:30,560
+Measures that are often used are Kendall
+ 
+
+319
+00:06:30,560 --> 00:06:34,790
+Measures that are often used are Kendall
+tow or Spearmman's rank correlation.
+
+320
+00:06:34,790 --> 00:06:34,800
+tow or Spearmman's rank correlation.
+ 
+
+321
+00:06:34,800 --> 00:06:36,550
+tow or Spearmman's rank correlation.
+Still another approach is to include the
+
+322
+00:06:36,550 --> 00:06:36,560
+Still another approach is to include the
+ 
+
+323
+00:06:36,560 --> 00:06:38,230
+Still another approach is to include the
+standard error as a predictor in the
+
+324
+00:06:38,230 --> 00:06:38,240
+standard error as a predictor in the
+ 
+
+325
+00:06:38,240 --> 00:06:40,150
+standard error as a predictor in the
+model. In other words, to study the
+
+326
+00:06:40,150 --> 00:06:40,160
+model. In other words, to study the
+ 
+
+327
+00:06:40,160 --> 00:06:45,510
+model. In other words, to study the
+moderating effect of the standard error.
+
+328
+00:06:45,510 --> 00:06:45,520
+
+ 
+
+329
+00:06:45,520 --> 00:06:47,990
+
+An important remark, however, is that a
+
+330
+00:06:47,990 --> 00:06:48,000
+An important remark, however, is that a
+ 
+
+331
+00:06:48,000 --> 00:06:49,350
+An important remark, however, is that a
+negative correlation does not
+
+332
+00:06:49,350 --> 00:06:49,360
+negative correlation does not
+ 
+
+333
+00:06:49,360 --> 00:06:51,270
+negative correlation does not
+necessarily mean that there is
+
+334
+00:06:51,270 --> 00:06:51,280
+necessarily mean that there is
+ 
+
+335
+00:06:51,280 --> 00:06:53,670
+necessarily mean that there is
+publication bias. Of course, it's
+
+336
+00:06:53,670 --> 00:06:53,680
+publication bias. Of course, it's
+ 
+
+337
+00:06:53,680 --> 00:06:55,590
+publication bias. Of course, it's
+possible that by coincidence you will
+
+338
+00:06:55,590 --> 00:06:55,600
+possible that by coincidence you will
+ 
+
+339
+00:06:55,600 --> 00:06:57,670
+possible that by coincidence you will
+find the correlation between observed
+
+340
+00:06:57,670 --> 00:06:57,680
+find the correlation between observed
+ 
+
+341
+00:06:57,680 --> 00:07:00,390
+find the correlation between observed
+effect sizes and sample sizes. But
+
+342
+00:07:00,390 --> 00:07:00,400
+effect sizes and sample sizes. But
+ 
+
+343
+00:07:00,400 --> 00:07:03,350
+effect sizes and sample sizes. But
+measures and tests for association also
+
+344
+00:07:03,350 --> 00:07:03,360
+measures and tests for association also
+ 
+
+345
+00:07:03,360 --> 00:07:05,589
+measures and tests for association also
+often ignore completely the between
+
+346
+00:07:05,589 --> 00:07:05,599
+often ignore completely the between
+ 
+
+347
+00:07:05,599 --> 00:07:08,230
+often ignore completely the between
+study heterogeneity and therefore
+
+348
+00:07:08,230 --> 00:07:08,240
+study heterogeneity and therefore
+ 
+
+349
+00:07:08,240 --> 00:07:09,990
+study heterogeneity and therefore
+ignores a source of variation or
+
+350
+00:07:09,990 --> 00:07:10,000
+ignores a source of variation or
+ 
+
+351
+00:07:10,000 --> 00:07:12,550
+ignores a source of variation or
+uncertainty about the effect sizes
+
+352
+00:07:12,550 --> 00:07:12,560
+uncertainty about the effect sizes
+ 
+
+353
+00:07:12,560 --> 00:07:14,950
+uncertainty about the effect sizes
+resulting in an inflated type one error
+
+354
+00:07:14,950 --> 00:07:14,960
+resulting in an inflated type one error
+ 
+
+355
+00:07:14,960 --> 00:07:16,550
+resulting in an inflated type one error
+rate.
+
+356
+00:07:16,550 --> 00:07:16,560
+rate.
+ 
+
+357
+00:07:16,560 --> 00:07:18,629
+rate.
+Moreover, it's possible that in small
+
+358
+00:07:18,629 --> 00:07:18,639
+Moreover, it's possible that in small
+ 
+
+359
+00:07:18,639 --> 00:07:20,870
+Moreover, it's possible that in small
+studies the treatment is longer, more
+
+360
+00:07:20,870 --> 00:07:20,880
+studies the treatment is longer, more
+ 
+
+361
+00:07:20,880 --> 00:07:23,749
+studies the treatment is longer, more
+intensive or more personalized exactly
+
+362
+00:07:23,749 --> 00:07:23,759
+intensive or more personalized exactly
+ 
+
+363
+00:07:23,759 --> 00:07:25,589
+intensive or more personalized exactly
+because this is more feasible if the
+
+364
+00:07:25,589 --> 00:07:25,599
+because this is more feasible if the
+ 
+
+365
+00:07:25,599 --> 00:07:28,150
+because this is more feasible if the
+number of participants is limited. And
+
+366
+00:07:28,150 --> 00:07:28,160
+number of participants is limited. And
+ 
+
+367
+00:07:28,160 --> 00:07:30,150
+number of participants is limited. And
+this may be the reason for finding
+
+368
+00:07:30,150 --> 00:07:30,160
+this may be the reason for finding
+ 
+
+369
+00:07:30,160 --> 00:07:33,589
+this may be the reason for finding
+larger effect sizes in smaller studies.
+
+370
+00:07:33,589 --> 00:07:33,599
+larger effect sizes in smaller studies.
+ 
+
+371
+00:07:33,599 --> 00:07:35,830
+larger effect sizes in smaller studies.
+For instance, typically much larger
+
+372
+00:07:35,830 --> 00:07:35,840
+For instance, typically much larger
+ 
+
+373
+00:07:35,840 --> 00:07:37,909
+For instance, typically much larger
+effect sizes are found in single case
+
+374
+00:07:37,909 --> 00:07:37,919
+effect sizes are found in single case
+ 
+
+375
+00:07:37,919 --> 00:07:40,309
+effect sizes are found in single case
+experimental studies compared to group
+
+376
+00:07:40,309 --> 00:07:40,319
+experimental studies compared to group
+ 
+
+377
+00:07:40,319 --> 00:07:42,469
+experimental studies compared to group
+comparison studies.
+
+378
+00:07:42,469 --> 00:07:42,479
+comparison studies.
+ 
+
+379
+00:07:42,479 --> 00:07:45,270
+comparison studies.
+In some a negative correlation or an
+
+380
+00:07:45,270 --> 00:07:45,280
+In some a negative correlation or an
+ 
+
+381
+00:07:45,280 --> 00:07:47,909
+In some a negative correlation or an
+asymmetric funnel plot may be an
+
+382
+00:07:47,909 --> 00:07:47,919
+asymmetric funnel plot may be an
+ 
+
+383
+00:07:47,919 --> 00:07:50,629
+asymmetric funnel plot may be an
+indication of publication bias, but
+
+384
+00:07:50,629 --> 00:07:50,639
+indication of publication bias, but
+ 
+
+385
+00:07:50,639 --> 00:07:54,710
+indication of publication bias, but
+definitely not a proof.
+
+386
+00:07:54,710 --> 00:07:54,720
+definitely not a proof.
+ 
+
+387
+00:07:54,720 --> 00:07:57,189
+definitely not a proof.
+Note that for some effect sizes such as
+
+388
+00:07:57,189 --> 00:07:57,199
+Note that for some effect sizes such as
+ 
+
+389
+00:07:57,199 --> 00:07:59,670
+Note that for some effect sizes such as
+a standardized mean difference G, the
+
+390
+00:07:59,670 --> 00:07:59,680
+a standardized mean difference G, the
+ 
+
+391
+00:07:59,680 --> 00:08:01,510
+a standardized mean difference G, the
+sampling variance depends on the size of
+
+392
+00:08:01,510 --> 00:08:01,520
+sampling variance depends on the size of
+ 
+
+393
+00:08:01,520 --> 00:08:04,790
+sampling variance depends on the size of
+the effect and hence you can expect a
+
+394
+00:08:04,790 --> 00:08:04,800
+the effect and hence you can expect a
+ 
+
+395
+00:08:04,800 --> 00:08:06,309
+the effect and hence you can expect a
+correlation between the standard error
+
+396
+00:08:06,309 --> 00:08:06,319
+correlation between the standard error
+ 
+
+397
+00:08:06,319 --> 00:08:08,710
+correlation between the standard error
+and the observed effect size even
+
+398
+00:08:08,710 --> 00:08:08,720
+and the observed effect size even
+ 
+
+399
+00:08:08,720 --> 00:08:12,309
+and the observed effect size even
+without publication bias.
+
+400
+00:08:12,309 --> 00:08:12,319
+without publication bias.
+ 
+
+401
+00:08:12,319 --> 00:08:15,110
+without publication bias.
+Hisan described the variance stabilizing
+
+402
+00:08:15,110 --> 00:08:15,120
+Hisan described the variance stabilizing
+ 
+
+403
+00:08:15,120 --> 00:08:17,830
+Hisan described the variance stabilizing
+transformation of G which makes that the
+
+404
+00:08:17,830 --> 00:08:17,840
+transformation of G which makes that the
+ 
+
+405
+00:08:17,840 --> 00:08:19,350
+transformation of G which makes that the
+sampling variance of the resulting
+
+406
+00:08:19,350 --> 00:08:19,360
+sampling variance of the resulting
+ 
+
+407
+00:08:19,360 --> 00:08:22,550
+sampling variance of the resulting
+effect sizes does not depend on the size
+
+408
+00:08:22,550 --> 00:08:22,560
+effect sizes does not depend on the size
+ 
+
+409
+00:08:22,560 --> 00:08:25,670
+effect sizes does not depend on the size
+of the effect sizes anymore. Using the
+
+410
+00:08:25,670 --> 00:08:25,680
+of the effect sizes anymore. Using the
+ 
+
+411
+00:08:25,680 --> 00:08:27,830
+of the effect sizes anymore. Using the
+transformed effect sizes improves the
+
+412
+00:08:27,830 --> 00:08:27,840
+transformed effect sizes improves the
+ 
+
+413
+00:08:27,840 --> 00:08:32,469
+transformed effect sizes improves the
+results of Edgar's regression test.
+
+414
+00:08:32,469 --> 00:08:32,479
+results of Edgar's regression test.
+ 
+
+415
+00:08:32,479 --> 00:08:35,190
+results of Edgar's regression test.
+Similarly, transforming correlations to
+
+416
+00:08:35,190 --> 00:08:35,200
+Similarly, transforming correlations to
+ 
+
+417
+00:08:35,200 --> 00:08:38,310
+Similarly, transforming correlations to
+Fisher Z values makes that the sampling
+
+418
+00:08:38,310 --> 00:08:38,320
+Fisher Z values makes that the sampling
+ 
+
+419
+00:08:38,320 --> 00:08:40,389
+Fisher Z values makes that the sampling
+variance depends on the sample size
+
+420
+00:08:40,389 --> 00:08:40,399
+variance depends on the sample size
+ 
+
+421
+00:08:40,399 --> 00:08:43,750
+variance depends on the sample size
+only, not on the size of the effect size
+
+422
+00:08:43,750 --> 00:08:43,760
+only, not on the size of the effect size
+ 
+
+423
+00:08:43,760 --> 00:08:47,670
+only, not on the size of the effect size
+anymore.
+
+424
+00:08:47,670 --> 00:08:47,680
+
+ 
+
+425
+00:08:47,680 --> 00:08:49,590
+
+There are also several approaches to
+
+426
+00:08:49,590 --> 00:08:49,600
+There are also several approaches to
+ 
+
+427
+00:08:49,600 --> 00:08:52,070
+There are also several approaches to
+correct for publication bias. The first
+
+428
+00:08:52,070 --> 00:08:52,080
+correct for publication bias. The first
+ 
+
+429
+00:08:52,080 --> 00:08:56,230
+correct for publication bias. The first
+approach is a trim and fill method.
+
+430
+00:08:56,230 --> 00:08:56,240
+approach is a trim and fill method.
+ 
+
+431
+00:08:56,240 --> 00:08:58,310
+approach is a trim and fill method.
+Here we see another funnel plot. There
+
+432
+00:08:58,310 --> 00:08:58,320
+Here we see another funnel plot. There
+ 
+
+433
+00:08:58,320 --> 00:09:00,790
+Here we see another funnel plot. There
+is some asymmetry which may be due to
+
+434
+00:09:00,790 --> 00:09:00,800
+is some asymmetry which may be due to
+ 
+
+435
+00:09:00,800 --> 00:09:02,870
+is some asymmetry which may be due to
+publication bias.
+
+436
+00:09:02,870 --> 00:09:02,880
+publication bias.
+ 
+
+437
+00:09:02,880 --> 00:09:04,870
+publication bias.
+On your right side, you see some
+
+438
+00:09:04,870 --> 00:09:04,880
+On your right side, you see some
+ 
+
+439
+00:09:04,880 --> 00:09:06,790
+On your right side, you see some
+observed effect sizes that are
+
+440
+00:09:06,790 --> 00:09:06,800
+observed effect sizes that are
+ 
+
+441
+00:09:06,800 --> 00:09:08,870
+observed effect sizes that are
+relatively large. Especially the
+
+442
+00:09:08,870 --> 00:09:08,880
+relatively large. Especially the
+ 
+
+443
+00:09:08,880 --> 00:09:12,070
+relatively large. Especially the
+observed effect size of plus 4.5 is
+
+444
+00:09:12,070 --> 00:09:12,080
+observed effect size of plus 4.5 is
+ 
+
+445
+00:09:12,080 --> 00:09:13,670
+observed effect size of plus 4.5 is
+striking.
+
+446
+00:09:13,670 --> 00:09:13,680
+striking.
+ 
+
+447
+00:09:13,680 --> 00:09:16,230
+striking.
+On the left side, there seems to be a
+
+448
+00:09:16,230 --> 00:09:16,240
+On the left side, there seems to be a
+ 
+
+449
+00:09:16,240 --> 00:09:19,350
+On the left side, there seems to be a
+gap
+
+450
+00:09:19,350 --> 00:09:19,360
+
+ 
+
+451
+00:09:19,360 --> 00:09:21,190
+
+because without publication bias, we
+
+452
+00:09:21,190 --> 00:09:21,200
+because without publication bias, we
+ 
+
+453
+00:09:21,200 --> 00:09:23,509
+because without publication bias, we
+would expect a symmetric funnel. In the
+
+454
+00:09:23,509 --> 00:09:23,519
+would expect a symmetric funnel. In the
+ 
+
+455
+00:09:23,519 --> 00:09:26,389
+would expect a symmetric funnel. In the
+first step, we will drop some dots in
+
+456
+00:09:26,389 --> 00:09:26,399
+first step, we will drop some dots in
+ 
+
+457
+00:09:26,399 --> 00:09:28,470
+first step, we will drop some dots in
+order to make the funnel symmetric. In
+
+458
+00:09:28,470 --> 00:09:28,480
+order to make the funnel symmetric. In
+ 
+
+459
+00:09:28,480 --> 00:09:30,470
+order to make the funnel symmetric. In
+the trim and fill method, this is done
+
+460
+00:09:30,470 --> 00:09:30,480
+the trim and fill method, this is done
+ 
+
+461
+00:09:30,480 --> 00:09:33,190
+the trim and fill method, this is done
+in an iterative way. If asymmetry is
+
+462
+00:09:33,190 --> 00:09:33,200
+in an iterative way. If asymmetry is
+ 
+
+463
+00:09:33,200 --> 00:09:35,269
+in an iterative way. If asymmetry is
+found, the most extreme dot is removed
+
+464
+00:09:35,269 --> 00:09:35,279
+found, the most extreme dot is removed
+ 
+
+465
+00:09:35,279 --> 00:09:38,150
+found, the most extreme dot is removed
+and the symmetry is tested again. This
+
+466
+00:09:38,150 --> 00:09:38,160
+and the symmetry is tested again. This
+ 
+
+467
+00:09:38,160 --> 00:09:40,710
+and the symmetry is tested again. This
+continues until there is no significant
+
+468
+00:09:40,710 --> 00:09:40,720
+continues until there is no significant
+ 
+
+469
+00:09:40,720 --> 00:09:43,509
+continues until there is no significant
+asymmetry anymore. This is the trimming
+
+470
+00:09:43,509 --> 00:09:43,519
+asymmetry anymore. This is the trimming
+ 
+
+471
+00:09:43,519 --> 00:09:46,550
+asymmetry anymore. This is the trimming
+phase. At the end of this phase, the
+
+472
+00:09:46,550 --> 00:09:46,560
+phase. At the end of this phase, the
+ 
+
+473
+00:09:46,560 --> 00:09:49,269
+phase. At the end of this phase, the
+overall effect size is estimated again,
+
+474
+00:09:49,269 --> 00:09:49,279
+overall effect size is estimated again,
+ 
+
+475
+00:09:49,279 --> 00:09:51,350
+overall effect size is estimated again,
+an estimate that is supposed to be
+
+476
+00:09:51,350 --> 00:09:51,360
+an estimate that is supposed to be
+ 
+
+477
+00:09:51,360 --> 00:09:53,190
+an estimate that is supposed to be
+unbiased.
+
+478
+00:09:53,190 --> 00:09:53,200
+unbiased.
+ 
+
+479
+00:09:53,200 --> 00:09:55,430
+unbiased.
+In the second step, the filling phase,
+
+480
+00:09:55,430 --> 00:09:55,440
+In the second step, the filling phase,
+ 
+
+481
+00:09:55,440 --> 00:09:57,430
+In the second step, the filling phase,
+the dots that were dropped are
+
+482
+00:09:57,430 --> 00:09:57,440
+the dots that were dropped are
+ 
+
+483
+00:09:57,440 --> 00:09:59,990
+the dots that were dropped are
+reinserted again. But for each dot that
+
+484
+00:09:59,990 --> 00:10:00,000
+reinserted again. But for each dot that
+ 
+
+485
+00:10:00,000 --> 00:10:02,470
+reinserted again. But for each dot that
+is reinserted at the right side, a dot
+
+486
+00:10:02,470 --> 00:10:02,480
+is reinserted at the right side, a dot
+ 
+
+487
+00:10:02,480 --> 00:10:05,190
+is reinserted at the right side, a dot
+at the left side is added as well. A dot
+
+488
+00:10:05,190 --> 00:10:05,200
+at the left side is added as well. A dot
+ 
+
+489
+00:10:05,200 --> 00:10:07,350
+at the left side is added as well. A dot
+that deviates to the same extent from
+
+490
+00:10:07,350 --> 00:10:07,360
+that deviates to the same extent from
+ 
+
+491
+00:10:07,360 --> 00:10:10,870
+that deviates to the same extent from
+the new overall effect size estimate.
+
+492
+00:10:10,870 --> 00:10:10,880
+the new overall effect size estimate.
+ 
+
+493
+00:10:10,880 --> 00:10:13,110
+the new overall effect size estimate.
+The idea is that the dots that are added
+
+494
+00:10:13,110 --> 00:10:13,120
+The idea is that the dots that are added
+ 
+
+495
+00:10:13,120 --> 00:10:15,750
+The idea is that the dots that are added
+on the left side could have been the
+
+496
+00:10:15,750 --> 00:10:15,760
+on the left side could have been the
+ 
+
+497
+00:10:15,760 --> 00:10:17,350
+on the left side could have been the
+results of studies that were not
+
+498
+00:10:17,350 --> 00:10:17,360
+results of studies that were not
+ 
+
+499
+00:10:17,360 --> 00:10:19,350
+results of studies that were not
+reported or published because these
+
+500
+00:10:19,350 --> 00:10:19,360
+reported or published because these
+ 
+
+501
+00:10:19,360 --> 00:10:21,509
+reported or published because these
+effects were unexpected and
+
+502
+00:10:21,509 --> 00:10:21,519
+effects were unexpected and
+ 
+
+503
+00:10:21,519 --> 00:10:26,870
+effects were unexpected and
+statistically not significant.
+
+504
+00:10:26,870 --> 00:10:26,880
+
+ 
+
+505
+00:10:26,880 --> 00:10:28,710
+
+Here you see the results. The black dots
+
+506
+00:10:28,710 --> 00:10:28,720
+Here you see the results. The black dots
+ 
+
+507
+00:10:28,720 --> 00:10:31,110
+Here you see the results. The black dots
+are the dots that are added based on the
+
+508
+00:10:31,110 --> 00:10:31,120
+are the dots that are added based on the
+ 
+
+509
+00:10:31,120 --> 00:10:33,430
+are the dots that are added based on the
+black diamond at the bottom of the plot.
+
+510
+00:10:33,430 --> 00:10:33,440
+black diamond at the bottom of the plot.
+ 
+
+511
+00:10:33,440 --> 00:10:35,110
+black diamond at the bottom of the plot.
+You see that the overall effect size
+
+512
+00:10:35,110 --> 00:10:35,120
+You see that the overall effect size
+ 
+
+513
+00:10:35,120 --> 00:10:37,269
+You see that the overall effect size
+estimate now is so much smaller than
+
+514
+00:10:37,269 --> 00:10:37,279
+estimate now is so much smaller than
+ 
+
+515
+00:10:37,279 --> 00:10:40,790
+estimate now is so much smaller than
+before. Yet it still is statistically
+
+516
+00:10:40,790 --> 00:10:40,800
+before. Yet it still is statistically
+ 
+
+517
+00:10:40,800 --> 00:10:43,030
+before. Yet it still is statistically
+significant.
+
+518
+00:10:43,030 --> 00:10:43,040
+significant.
+ 
+
+519
+00:10:43,040 --> 00:10:45,350
+significant.
+But of course, adding effect sizes that
+
+520
+00:10:45,350 --> 00:10:45,360
+But of course, adding effect sizes that
+ 
+
+521
+00:10:45,360 --> 00:10:47,590
+But of course, adding effect sizes that
+were in fact not found in the literature
+
+522
+00:10:47,590 --> 00:10:47,600
+were in fact not found in the literature
+ 
+
+523
+00:10:47,600 --> 00:10:49,509
+were in fact not found in the literature
+can be tricky.
+
+524
+00:10:49,509 --> 00:10:49,519
+can be tricky.
+ 
+
+525
+00:10:49,519 --> 00:10:51,350
+can be tricky.
+Therefore, the trim and fill method
+
+526
+00:10:51,350 --> 00:10:51,360
+Therefore, the trim and fill method
+ 
+
+527
+00:10:51,360 --> 00:10:53,509
+Therefore, the trim and fill method
+should be used with care. For instance,
+
+528
+00:10:53,509 --> 00:10:53,519
+should be used with care. For instance,
+ 
+
+529
+00:10:53,519 --> 00:10:55,670
+should be used with care. For instance,
+you can use it as a kind of sensitivity
+
+530
+00:10:55,670 --> 00:10:55,680
+you can use it as a kind of sensitivity
+ 
+
+531
+00:10:55,680 --> 00:10:58,630
+you can use it as a kind of sensitivity
+analysis. You explore whether the trim
+
+532
+00:10:58,630 --> 00:10:58,640
+analysis. You explore whether the trim
+ 
+
+533
+00:10:58,640 --> 00:11:00,310
+analysis. You explore whether the trim
+and fill method would change your
+
+534
+00:11:00,310 --> 00:11:00,320
+and fill method would change your
+ 
+
+535
+00:11:00,320 --> 00:11:03,509
+and fill method would change your
+conclusions. If so, you have to warn the
+
+536
+00:11:03,509 --> 00:11:03,519
+conclusions. If so, you have to warn the
+ 
+
+537
+00:11:03,519 --> 00:11:05,509
+conclusions. If so, you have to warn the
+reader that there may be an issue of
+
+538
+00:11:05,509 --> 00:11:05,519
+reader that there may be an issue of
+ 
+
+539
+00:11:05,519 --> 00:11:07,670
+reader that there may be an issue of
+publication bias that would affect your
+
+540
+00:11:07,670 --> 00:11:07,680
+publication bias that would affect your
+ 
+
+541
+00:11:07,680 --> 00:11:10,630
+publication bias that would affect your
+conclusion. But if not, it makes you
+
+542
+00:11:10,630 --> 00:11:10,640
+conclusion. But if not, it makes you
+ 
+
+543
+00:11:10,640 --> 00:11:13,110
+conclusion. But if not, it makes you
+more confident that your conclusions are
+
+544
+00:11:13,110 --> 00:11:13,120
+more confident that your conclusions are
+ 
+
+545
+00:11:13,120 --> 00:11:16,150
+more confident that your conclusions are
+credible.
+
+546
+00:11:16,150 --> 00:11:16,160
+
+ 
+
+547
+00:11:16,160 --> 00:11:17,990
+
+A drawback of the trim and fill method,
+
+548
+00:11:17,990 --> 00:11:18,000
+A drawback of the trim and fill method,
+ 
+
+549
+00:11:18,000 --> 00:11:20,150
+A drawback of the trim and fill method,
+however, is that it can lead to wrong
+
+550
+00:11:20,150 --> 00:11:20,160
+however, is that it can lead to wrong
+ 
+
+551
+00:11:20,160 --> 00:11:23,910
+however, is that it can lead to wrong
+conclusions if there is heterogeneity.
+
+552
+00:11:23,910 --> 00:11:23,920
+conclusions if there is heterogeneity.
+ 
+
+553
+00:11:23,920 --> 00:11:26,230
+conclusions if there is heterogeneity.
+Also aggressive regression can be used
+
+554
+00:11:26,230 --> 00:11:26,240
+Also aggressive regression can be used
+ 
+
+555
+00:11:26,240 --> 00:11:28,710
+Also aggressive regression can be used
+to obtain a bias corrected estimate
+
+556
+00:11:28,710 --> 00:11:28,720
+to obtain a bias corrected estimate
+ 
+
+557
+00:11:28,720 --> 00:11:30,949
+to obtain a bias corrected estimate
+because a standard error is used as a
+
+558
+00:11:30,949 --> 00:11:30,959
+because a standard error is used as a
+ 
+
+559
+00:11:30,959 --> 00:11:33,030
+because a standard error is used as a
+predictor in the regression model. The
+
+560
+00:11:33,030 --> 00:11:33,040
+predictor in the regression model. The
+ 
+
+561
+00:11:33,040 --> 00:11:35,509
+predictor in the regression model. The
+intercept can be interpreted as the
+
+562
+00:11:35,509 --> 00:11:35,519
+intercept can be interpreted as the
+ 
+
+563
+00:11:35,519 --> 00:11:37,350
+intercept can be interpreted as the
+expected effect size if the standard
+
+564
+00:11:37,350 --> 00:11:37,360
+expected effect size if the standard
+ 
+
+565
+00:11:37,360 --> 00:11:40,470
+expected effect size if the standard
+error is zero. So for infinitely large
+
+566
+00:11:40,470 --> 00:11:40,480
+error is zero. So for infinitely large
+ 
+
+567
+00:11:40,480 --> 00:11:43,430
+error is zero. So for infinitely large
+studies. Therefore the intercept can be
+
+568
+00:11:43,430 --> 00:11:43,440
+studies. Therefore the intercept can be
+ 
+
+569
+00:11:43,440 --> 00:11:45,110
+studies. Therefore the intercept can be
+considered as an estimate of the mean
+
+570
+00:11:45,110 --> 00:11:45,120
+considered as an estimate of the mean
+ 
+
+571
+00:11:45,120 --> 00:11:47,829
+considered as an estimate of the mean
+effect size that is free of publication
+
+572
+00:11:47,829 --> 00:11:47,839
+effect size that is free of publication
+ 
+
+573
+00:11:47,839 --> 00:11:51,110
+effect size that is free of publication
+bias. Another approach is the use of
+
+574
+00:11:51,110 --> 00:11:51,120
+bias. Another approach is the use of
+ 
+
+575
+00:11:51,120 --> 00:11:53,509
+bias. Another approach is the use of
+selection models in which we account for
+
+576
+00:11:53,509 --> 00:11:53,519
+selection models in which we account for
+ 
+
+577
+00:11:53,519 --> 00:11:56,150
+selection models in which we account for
+the process of selecting studies for
+
+578
+00:11:56,150 --> 00:11:56,160
+the process of selecting studies for
+ 
+
+579
+00:11:56,160 --> 00:11:58,710
+the process of selecting studies for
+publication. The starting point is the
+
+580
+00:11:58,710 --> 00:11:58,720
+publication. The starting point is the
+ 
+
+581
+00:11:58,720 --> 00:12:01,350
+publication. The starting point is the
+assumption that the the larger the p
+
+582
+00:12:01,350 --> 00:12:01,360
+assumption that the the larger the p
+ 
+
+583
+00:12:01,360 --> 00:12:04,150
+assumption that the the larger the p
+value, the harder it is to publish the
+
+584
+00:12:04,150 --> 00:12:04,160
+value, the harder it is to publish the
+ 
+
+585
+00:12:04,160 --> 00:12:07,509
+value, the harder it is to publish the
+results. Studies with large p values
+
+586
+00:12:07,509 --> 00:12:07,519
+results. Studies with large p values
+ 
+
+587
+00:12:07,519 --> 00:12:10,150
+results. Studies with large p values
+therefore may be under represented in
+
+588
+00:12:10,150 --> 00:12:10,160
+therefore may be under represented in
+ 
+
+589
+00:12:10,160 --> 00:12:12,150
+therefore may be under represented in
+the metalytic data set. In this
+
+590
+00:12:12,150 --> 00:12:12,160
+the metalytic data set. In this
+ 
+
+591
+00:12:12,160 --> 00:12:14,069
+the metalytic data set. In this
+approach, we try to describe this
+
+592
+00:12:14,069 --> 00:12:14,079
+approach, we try to describe this
+ 
+
+593
+00:12:14,079 --> 00:12:16,389
+approach, we try to describe this
+relationship. You can use a discrete
+
+594
+00:12:16,389 --> 00:12:16,399
+relationship. You can use a discrete
+ 
+
+595
+00:12:16,399 --> 00:12:18,629
+relationship. You can use a discrete
+function for instance saying that there
+
+596
+00:12:18,629 --> 00:12:18,639
+function for instance saying that there
+ 
+
+597
+00:12:18,639 --> 00:12:20,470
+function for instance saying that there
+is a given probability of publication
+
+598
+00:12:20,470 --> 00:12:20,480
+is a given probability of publication
+ 
+
+599
+00:12:20,480 --> 00:12:23,430
+is a given probability of publication
+for a p value larger than10 a larger
+
+600
+00:12:23,430 --> 00:12:23,440
+for a p value larger than10 a larger
+ 
+
+601
+00:12:23,440 --> 00:12:25,590
+for a p value larger than10 a larger
+probability for a p value between10 and
+
+602
+00:12:25,590 --> 00:12:25,600
+probability for a p value between10 and
+ 
+
+603
+00:12:25,600 --> 00:12:27,190
+probability for a p value between10 and
+0.05
+
+604
+00:12:27,190 --> 00:12:27,200
+0.05
+ 
+
+605
+00:12:27,200 --> 00:12:29,269
+0.05
+an even larger probability for a p value
+
+606
+00:12:29,269 --> 00:12:29,279
+an even larger probability for a p value
+ 
+
+607
+00:12:29,279 --> 00:12:33,269
+an even larger probability for a p value
+between 0.05 and 0.01 and so on. But you
+
+608
+00:12:33,269 --> 00:12:33,279
+between 0.05 and 0.01 and so on. But you
+ 
+
+609
+00:12:33,279 --> 00:12:35,590
+between 0.05 and 0.01 and so on. But you
+could also use a continuous version in
+
+610
+00:12:35,590 --> 00:12:35,600
+could also use a continuous version in
+ 
+
+611
+00:12:35,600 --> 00:12:37,590
+could also use a continuous version in
+which the probability of publication is
+
+612
+00:12:37,590 --> 00:12:37,600
+which the probability of publication is
+ 
+
+613
+00:12:37,600 --> 00:12:40,870
+which the probability of publication is
+increasing gradually with an increasing
+
+614
+00:12:40,870 --> 00:12:40,880
+increasing gradually with an increasing
+ 
+
+615
+00:12:40,880 --> 00:12:42,949
+increasing gradually with an increasing
+uh p value
+
+616
+00:12:42,949 --> 00:12:42,959
+uh p value
+ 
+
+617
+00:12:42,959 --> 00:12:46,230
+uh p value
+with a decreasing p value. The function
+
+618
+00:12:46,230 --> 00:12:46,240
+with a decreasing p value. The function
+ 
+
+619
+00:12:46,240 --> 00:12:49,190
+with a decreasing p value. The function
+can be defined in advance or one can try
+
+620
+00:12:49,190 --> 00:12:49,200
+can be defined in advance or one can try
+ 
+
+621
+00:12:49,200 --> 00:12:52,949
+can be defined in advance or one can try
+to derive the function using the data.
+
+622
+00:12:52,949 --> 00:12:52,959
+to derive the function using the data.
+ 
+
+623
+00:12:52,959 --> 00:12:54,790
+to derive the function using the data.
+In a meta analysis, one tries to
+
+624
+00:12:54,790 --> 00:12:54,800
+In a meta analysis, one tries to
+ 
+
+625
+00:12:54,800 --> 00:12:56,949
+In a meta analysis, one tries to
+compensate for the under representation
+
+626
+00:12:56,949 --> 00:12:56,959
+compensate for the under representation
+ 
+
+627
+00:12:56,959 --> 00:12:59,590
+compensate for the under representation
+of studies with large p values by giving
+
+628
+00:12:59,590 --> 00:12:59,600
+of studies with large p values by giving
+ 
+
+629
+00:12:59,600 --> 00:13:02,389
+of studies with large p values by giving
+larger weights to studies with larger p
+
+630
+00:13:02,389 --> 00:13:02,399
+larger weights to studies with larger p
+ 
+
+631
+00:13:02,399 --> 00:13:04,870
+larger weights to studies with larger p
+values.
+
+632
+00:13:04,870 --> 00:13:04,880
+values.
+ 
+
+633
+00:13:04,880 --> 00:13:06,710
+values.
+Although this is an interesting approach
+
+634
+00:13:06,710 --> 00:13:06,720
+Although this is an interesting approach
+ 
+
+635
+00:13:06,720 --> 00:13:08,790
+Although this is an interesting approach
+to correct for publication bias, it's
+
+636
+00:13:08,790 --> 00:13:08,800
+to correct for publication bias, it's
+ 
+
+637
+00:13:08,800 --> 00:13:12,069
+to correct for publication bias, it's
+rather complex and tech it's a rather
+
+638
+00:13:12,069 --> 00:13:12,079
+rather complex and tech it's a rather
+ 
+
+639
+00:13:12,079 --> 00:13:13,670
+rather complex and tech it's a rather
+complex and technical approach.
+
+640
+00:13:13,670 --> 00:13:13,680
+complex and technical approach.
+ 
+
+641
+00:13:13,680 --> 00:13:16,069
+complex and technical approach.
+Moreover, there is always the risk that
+
+642
+00:13:16,069 --> 00:13:16,079
+Moreover, there is always the risk that
+ 
+
+643
+00:13:16,079 --> 00:13:17,990
+Moreover, there is always the risk that
+the weight function that links the
+
+644
+00:13:17,990 --> 00:13:18,000
+the weight function that links the
+ 
+
+645
+00:13:18,000 --> 00:13:20,710
+the weight function that links the
+publication probability
+
+646
+00:13:20,710 --> 00:13:20,720
+publication probability
+ 
+
+647
+00:13:20,720 --> 00:13:23,829
+publication probability
+and the p value is misspecified.
+
+648
+00:13:23,829 --> 00:13:23,839
+and the p value is misspecified.
+ 
+
+649
+00:13:23,839 --> 00:13:25,430
+and the p value is misspecified.
+Moreover, especially if you want to
+
+650
+00:13:25,430 --> 00:13:25,440
+Moreover, especially if you want to
+ 
+
+651
+00:13:25,440 --> 00:13:27,269
+Moreover, especially if you want to
+derive the weight function using your
+
+652
+00:13:27,269 --> 00:13:27,279
+derive the weight function using your
+ 
+
+653
+00:13:27,279 --> 00:13:29,590
+derive the weight function using your
+data, you need a large number of
+
+654
+00:13:29,590 --> 00:13:29,600
+data, you need a large number of
+ 
+
+655
+00:13:29,600 --> 00:13:35,509
+data, you need a large number of
+studies, say more than 100.
+
+656
+00:13:35,509 --> 00:13:35,519
+
+ 
+
+657
+00:13:35,519 --> 00:13:37,910
+
+Still another approach is the puniform
+
+658
+00:13:37,910 --> 00:13:37,920
+Still another approach is the puniform
+ 
+
+659
+00:13:37,920 --> 00:13:40,870
+Still another approach is the puniform
+approach. Here the underlying idea is
+
+660
+00:13:40,870 --> 00:13:40,880
+approach. Here the underlying idea is
+ 
+
+661
+00:13:40,880 --> 00:13:43,430
+approach. Here the underlying idea is
+that if there is no publication bias and
+
+662
+00:13:43,430 --> 00:13:43,440
+that if there is no publication bias and
+ 
+
+663
+00:13:43,440 --> 00:13:45,030
+that if there is no publication bias and
+you would test the null hypothesis that
+
+664
+00:13:45,030 --> 00:13:45,040
+you would test the null hypothesis that
+ 
+
+665
+00:13:45,040 --> 00:13:46,870
+you would test the null hypothesis that
+the overall effect size is equal to the
+
+666
+00:13:46,870 --> 00:13:46,880
+the overall effect size is equal to the
+ 
+
+667
+00:13:46,880 --> 00:13:49,590
+the overall effect size is equal to the
+real value, the p values would follow a
+
+668
+00:13:49,590 --> 00:13:49,600
+real value, the p values would follow a
+ 
+
+669
+00:13:49,600 --> 00:13:52,629
+real value, the p values would follow a
+uniform distribution.
+
+670
+00:13:52,629 --> 00:13:52,639
+uniform distribution.
+ 
+
+671
+00:13:52,639 --> 00:13:54,949
+uniform distribution.
+In the puniform approach, we will use
+
+672
+00:13:54,949 --> 00:13:54,959
+In the puniform approach, we will use
+ 
+
+673
+00:13:54,959 --> 00:13:57,269
+In the puniform approach, we will use
+only the data of studies that found
+
+674
+00:13:57,269 --> 00:13:57,279
+only the data of studies that found
+ 
+
+675
+00:13:57,279 --> 00:13:59,670
+only the data of studies that found
+significant results because we can
+
+676
+00:13:59,670 --> 00:13:59,680
+significant results because we can
+ 
+
+677
+00:13:59,680 --> 00:14:01,910
+significant results because we can
+assume that for this set there was no
+
+678
+00:14:01,910 --> 00:14:01,920
+assume that for this set there was no
+ 
+
+679
+00:14:01,920 --> 00:14:04,949
+assume that for this set there was no
+bias. All findings were published. We
+
+680
+00:14:04,949 --> 00:14:04,959
+bias. All findings were published. We
+ 
+
+681
+00:14:04,959 --> 00:14:06,790
+bias. All findings were published. We
+then calculate for these studies the p
+
+682
+00:14:06,790 --> 00:14:06,800
+then calculate for these studies the p
+ 
+
+683
+00:14:06,800 --> 00:14:08,790
+then calculate for these studies the p
+values that would be obtained when
+
+684
+00:14:08,790 --> 00:14:08,800
+values that would be obtained when
+ 
+
+685
+00:14:08,800 --> 00:14:11,910
+values that would be obtained when
+testing that the overall effect size is
+
+686
+00:14:11,910 --> 00:14:11,920
+testing that the overall effect size is
+ 
+
+687
+00:14:11,920 --> 00:14:13,990
+testing that the overall effect size is
+equal to our estimated overall effect
+
+688
+00:14:13,990 --> 00:14:14,000
+equal to our estimated overall effect
+ 
+
+689
+00:14:14,000 --> 00:14:15,910
+equal to our estimated overall effect
+size.
+
+690
+00:14:15,910 --> 00:14:15,920
+size.
+ 
+
+691
+00:14:15,920 --> 00:14:17,750
+size.
+If our overall effect size estimate
+
+692
+00:14:17,750 --> 00:14:17,760
+If our overall effect size estimate
+ 
+
+693
+00:14:17,760 --> 00:14:20,150
+If our overall effect size estimate
+would be unbiased, we therefore can
+
+694
+00:14:20,150 --> 00:14:20,160
+would be unbiased, we therefore can
+ 
+
+695
+00:14:20,160 --> 00:14:22,790
+would be unbiased, we therefore can
+expect that the p values are uniformly
+
+696
+00:14:22,790 --> 00:14:22,800
+expect that the p values are uniformly
+ 
+
+697
+00:14:22,800 --> 00:14:25,590
+expect that the p values are uniformly
+distributed.
+
+698
+00:14:25,590 --> 00:14:25,600
+distributed.
+ 
+
+699
+00:14:25,600 --> 00:14:28,230
+distributed.
+If the distribution of p values deviates
+
+700
+00:14:28,230 --> 00:14:28,240
+If the distribution of p values deviates
+ 
+
+701
+00:14:28,240 --> 00:14:29,990
+If the distribution of p values deviates
+significantly from a uniform
+
+702
+00:14:29,990 --> 00:14:30,000
+significantly from a uniform
+ 
+
+703
+00:14:30,000 --> 00:14:32,069
+significantly from a uniform
+distribution, this is therefore an
+
+704
+00:14:32,069 --> 00:14:32,079
+distribution, this is therefore an
+ 
+
+705
+00:14:32,079 --> 00:14:33,990
+distribution, this is therefore an
+indication that there is publication
+
+706
+00:14:33,990 --> 00:14:34,000
+indication that there is publication
+ 
+
+707
+00:14:34,000 --> 00:14:36,230
+indication that there is publication
+bias.
+
+708
+00:14:36,230 --> 00:14:36,240
+bias.
+ 
+
+709
+00:14:36,240 --> 00:14:38,389
+bias.
+A bi corrected estimate for this overall
+
+710
+00:14:38,389 --> 00:14:38,399
+A bi corrected estimate for this overall
+ 
+
+711
+00:14:38,399 --> 00:14:41,670
+A bi corrected estimate for this overall
+effect size is obtained by investigating
+
+712
+00:14:41,670 --> 00:14:41,680
+effect size is obtained by investigating
+ 
+
+713
+00:14:41,680 --> 00:14:43,750
+effect size is obtained by investigating
+for which value the distribution of p
+
+714
+00:14:43,750 --> 00:14:43,760
+for which value the distribution of p
+ 
+
+715
+00:14:43,760 --> 00:14:46,949
+for which value the distribution of p
+values is closest to a uniform
+
+716
+00:14:46,949 --> 00:14:46,959
+values is closest to a uniform
+ 
+
+717
+00:14:46,959 --> 00:14:52,310
+values is closest to a uniform
+distribution.
+
+718
+00:14:52,310 --> 00:14:52,320
+
+ 
+
+719
+00:14:52,320 --> 00:14:54,389
+
+Another potential issue is the
+
+720
+00:14:54,389 --> 00:14:54,399
+Another potential issue is the
+ 
+
+721
+00:14:54,399 --> 00:14:57,110
+Another potential issue is the
+following. Sometimes we obtain effect
+
+722
+00:14:57,110 --> 00:14:57,120
+following. Sometimes we obtain effect
+ 
+
+723
+00:14:57,120 --> 00:14:59,269
+following. Sometimes we obtain effect
+sizes that are that are far away from
+
+724
+00:14:59,269 --> 00:14:59,279
+sizes that are that are far away from
+ 
+
+725
+00:14:59,279 --> 00:15:02,150
+sizes that are that are far away from
+other effect sizes and these outliers
+
+726
+00:15:02,150 --> 00:15:02,160
+other effect sizes and these outliers
+ 
+
+727
+00:15:02,160 --> 00:15:04,310
+other effect sizes and these outliers
+can have an important impact on our met
+
+728
+00:15:04,310 --> 00:15:04,320
+can have an important impact on our met
+ 
+
+729
+00:15:04,320 --> 00:15:07,110
+can have an important impact on our met
+analytic findings and therefore may give
+
+730
+00:15:07,110 --> 00:15:07,120
+analytic findings and therefore may give
+ 
+
+731
+00:15:07,120 --> 00:15:08,949
+analytic findings and therefore may give
+a biased idea of what is typically
+
+732
+00:15:08,949 --> 00:15:08,959
+a biased idea of what is typically
+ 
+
+733
+00:15:08,959 --> 00:15:12,389
+a biased idea of what is typically
+observed.
+
+734
+00:15:12,389 --> 00:15:12,399
+
+ 
+
+735
+00:15:12,399 --> 00:15:15,350
+
+I have shown this forest plot before.
+
+736
+00:15:15,350 --> 00:15:15,360
+I have shown this forest plot before.
+ 
+
+737
+00:15:15,360 --> 00:15:17,750
+I have shown this forest plot before.
+You see that the effect size that I have
+
+738
+00:15:17,750 --> 00:15:17,760
+You see that the effect size that I have
+ 
+
+739
+00:15:17,760 --> 00:15:21,030
+You see that the effect size that I have
+highlighted is about 1.2 whereas most
+
+740
+00:15:21,030 --> 00:15:21,040
+highlighted is about 1.2 whereas most
+ 
+
+741
+00:15:21,040 --> 00:15:25,910
+highlighted is about 1.2 whereas most
+effect sizes vary between zero and 0.5.
+
+742
+00:15:25,910 --> 00:15:25,920
+effect sizes vary between zero and 0.5.
+ 
+
+743
+00:15:25,920 --> 00:15:27,910
+effect sizes vary between zero and 0.5.
+Such a large value can increase
+
+744
+00:15:27,910 --> 00:15:27,920
+Such a large value can increase
+ 
+
+745
+00:15:27,920 --> 00:15:29,590
+Such a large value can increase
+substantially the mean effect size
+
+746
+00:15:29,590 --> 00:15:29,600
+substantially the mean effect size
+ 
+
+747
+00:15:29,600 --> 00:15:31,670
+substantially the mean effect size
+estimate.
+
+748
+00:15:31,670 --> 00:15:31,680
+estimate.
+ 
+
+749
+00:15:31,680 --> 00:15:34,710
+estimate.
+But here you note that this large effect
+
+750
+00:15:34,710 --> 00:15:34,720
+But here you note that this large effect
+ 
+
+751
+00:15:34,720 --> 00:15:36,550
+But here you note that this large effect
+size also has a broad confidence
+
+752
+00:15:36,550 --> 00:15:36,560
+size also has a broad confidence
+ 
+
+753
+00:15:36,560 --> 00:15:39,509
+size also has a broad confidence
+interval. So probably this effect size
+
+754
+00:15:39,509 --> 00:15:39,519
+interval. So probably this effect size
+ 
+
+755
+00:15:39,519 --> 00:15:42,150
+interval. So probably this effect size
+comes from a small study. Because of the
+
+756
+00:15:42,150 --> 00:15:42,160
+comes from a small study. Because of the
+ 
+
+757
+00:15:42,160 --> 00:15:43,910
+comes from a small study. Because of the
+small precision, the weight that is
+
+758
+00:15:43,910 --> 00:15:43,920
+small precision, the weight that is
+ 
+
+759
+00:15:43,920 --> 00:15:45,590
+small precision, the weight that is
+given to this effect size in the meta
+
+760
+00:15:45,590 --> 00:15:45,600
+given to this effect size in the meta
+ 
+
+761
+00:15:45,600 --> 00:15:48,150
+given to this effect size in the meta
+analysis is not very high. So maybe this
+
+762
+00:15:48,150 --> 00:15:48,160
+analysis is not very high. So maybe this
+ 
+
+763
+00:15:48,160 --> 00:15:50,230
+analysis is not very high. So maybe this
+outlying value does not really have an
+
+764
+00:15:50,230 --> 00:15:50,240
+outlying value does not really have an
+ 
+
+765
+00:15:50,240 --> 00:15:56,310
+outlying value does not really have an
+important impact on the results.
+
+766
+00:15:56,310 --> 00:15:56,320
+
+ 
+
+767
+00:15:56,320 --> 00:15:58,310
+
+Let's look first how you can detect
+
+768
+00:15:58,310 --> 00:15:58,320
+Let's look first how you can detect
+ 
+
+769
+00:15:58,320 --> 00:16:01,509
+Let's look first how you can detect
+outliers. The first way is visually like
+
+770
+00:16:01,509 --> 00:16:01,519
+outliers. The first way is visually like
+ 
+
+771
+00:16:01,519 --> 00:16:02,870
+outliers. The first way is visually like
+we did in the forest plot in the
+
+772
+00:16:02,870 --> 00:16:02,880
+we did in the forest plot in the
+ 
+
+773
+00:16:02,880 --> 00:16:04,790
+we did in the forest plot in the
+previous slide.
+
+774
+00:16:04,790 --> 00:16:04,800
+previous slide.
+ 
+
+775
+00:16:04,800 --> 00:16:07,030
+previous slide.
+In the final funnel plot on this slide,
+
+776
+00:16:07,030 --> 00:16:07,040
+In the final funnel plot on this slide,
+ 
+
+777
+00:16:07,040 --> 00:16:09,430
+In the final funnel plot on this slide,
+you can see that there are four studies
+
+778
+00:16:09,430 --> 00:16:09,440
+you can see that there are four studies
+ 
+
+779
+00:16:09,440 --> 00:16:12,310
+you can see that there are four studies
+with somewhat outlying observed effect
+
+780
+00:16:12,310 --> 00:16:12,320
+with somewhat outlying observed effect
+ 
+
+781
+00:16:12,320 --> 00:16:13,910
+with somewhat outlying observed effect
+sizes.
+
+782
+00:16:13,910 --> 00:16:13,920
+sizes.
+ 
+
+783
+00:16:13,920 --> 00:16:18,230
+sizes.
+Study 8, study 56, and studies 47 and
+
+784
+00:16:18,230 --> 00:16:18,240
+Study 8, study 56, and studies 47 and
+ 
+
+785
+00:16:18,240 --> 00:16:21,990
+Study 8, study 56, and studies 47 and
+48.
+
+786
+00:16:21,990 --> 00:16:22,000
+
+ 
+
+787
+00:16:22,000 --> 00:16:25,030
+
+VBA and Chung proposed to look at the
+
+788
+00:16:25,030 --> 00:16:25,040
+VBA and Chung proposed to look at the
+ 
+
+789
+00:16:25,040 --> 00:16:28,389
+VBA and Chung proposed to look at the
+studentized deleted residuals for the
+
+790
+00:16:28,389 --> 00:16:28,399
+studentized deleted residuals for the
+ 
+
+791
+00:16:28,399 --> 00:16:30,389
+studentized deleted residuals for the
+study. You calculate the difference
+
+792
+00:16:30,389 --> 00:16:30,399
+study. You calculate the difference
+ 
+
+793
+00:16:30,399 --> 00:16:32,470
+study. You calculate the difference
+between the observed effect size and the
+
+794
+00:16:32,470 --> 00:16:32,480
+between the observed effect size and the
+ 
+
+795
+00:16:32,480 --> 00:16:35,189
+between the observed effect size and the
+estimated effect size for that study but
+
+796
+00:16:35,189 --> 00:16:35,199
+estimated effect size for that study but
+ 
+
+797
+00:16:35,199 --> 00:16:37,189
+estimated effect size for that study but
+estimated in a meta analysis without
+
+798
+00:16:37,189 --> 00:16:37,199
+estimated in a meta analysis without
+ 
+
+799
+00:16:37,199 --> 00:16:39,910
+estimated in a meta analysis without
+that study. Hence the minus i in
+
+800
+00:16:39,910 --> 00:16:39,920
+that study. Hence the minus i in
+ 
+
+801
+00:16:39,920 --> 00:16:42,069
+that study. Hence the minus i in
+annotation.
+
+802
+00:16:42,069 --> 00:16:42,079
+annotation.
+ 
+
+803
+00:16:42,079 --> 00:16:44,389
+annotation.
+This deviation is standardized by
+
+804
+00:16:44,389 --> 00:16:44,399
+This deviation is standardized by
+ 
+
+805
+00:16:44,399 --> 00:16:46,150
+This deviation is standardized by
+dividing it by the corresponding
+
+806
+00:16:46,150 --> 00:16:46,160
+dividing it by the corresponding
+ 
+
+807
+00:16:46,160 --> 00:16:49,189
+dividing it by the corresponding
+standard error.
+
+808
+00:16:49,189 --> 00:16:49,199
+standard error.
+ 
+
+809
+00:16:49,199 --> 00:16:51,670
+standard error.
+If you look at all the standardized
+
+810
+00:16:51,670 --> 00:16:51,680
+If you look at all the standardized
+ 
+
+811
+00:16:51,680 --> 00:16:54,790
+If you look at all the standardized
+deleted residuals, you see again that
+
+812
+00:16:54,790 --> 00:16:54,800
+deleted residuals, you see again that
+ 
+
+813
+00:16:54,800 --> 00:17:02,470
+deleted residuals, you see again that
+studies 8, 47, 48, and 56 stand out.
+
+814
+00:17:02,470 --> 00:17:02,480
+studies 8, 47, 48, and 56 stand out.
+ 
+
+815
+00:17:02,480 --> 00:17:04,230
+studies 8, 47, 48, and 56 stand out.
+You can also calculate how much the
+
+816
+00:17:04,230 --> 00:17:04,240
+You can also calculate how much the
+ 
+
+817
+00:17:04,240 --> 00:17:06,949
+You can also calculate how much the
+estim the estimated effect sizes for all
+
+818
+00:17:06,949 --> 00:17:06,959
+estim the estimated effect sizes for all
+ 
+
+819
+00:17:06,959 --> 00:17:09,829
+estim the estimated effect sizes for all
+case studies change when dropping study
+
+820
+00:17:09,829 --> 00:17:09,839
+case studies change when dropping study
+ 
+
+821
+00:17:09,839 --> 00:17:12,710
+case studies change when dropping study
+I. You can calculate the cook's distance
+
+822
+00:17:12,710 --> 00:17:12,720
+I. You can calculate the cook's distance
+ 
+
+823
+00:17:12,720 --> 00:17:16,069
+I. You can calculate the cook's distance
+to express the size of the change.
+
+824
+00:17:16,069 --> 00:17:16,079
+to express the size of the change.
+ 
+
+825
+00:17:16,079 --> 00:17:22,390
+to express the size of the change.
+Again, the same studies pop up.
+
+826
+00:17:22,390 --> 00:17:22,400
+
+ 
+
+827
+00:17:22,400 --> 00:17:24,309
+
+A third way to detect influential
+
+828
+00:17:24,309 --> 00:17:24,319
+A third way to detect influential
+ 
+
+829
+00:17:24,319 --> 00:17:26,789
+A third way to detect influential
+outliers is to look at how much the
+
+830
+00:17:26,789 --> 00:17:26,799
+outliers is to look at how much the
+ 
+
+831
+00:17:26,799 --> 00:17:29,029
+outliers is to look at how much the
+covariance matrix of the parameter
+
+832
+00:17:29,029 --> 00:17:29,039
+covariance matrix of the parameter
+ 
+
+833
+00:17:29,039 --> 00:17:32,150
+covariance matrix of the parameter
+estimates changes. For a random effects
+
+834
+00:17:32,150 --> 00:17:32,160
+estimates changes. For a random effects
+ 
+
+835
+00:17:32,160 --> 00:17:34,390
+estimates changes. For a random effects
+model without moderators, this matrix
+
+836
+00:17:34,390 --> 00:17:34,400
+model without moderators, this matrix
+ 
+
+837
+00:17:34,400 --> 00:17:36,870
+model without moderators, this matrix
+includes only one value, the sampling
+
+838
+00:17:36,870 --> 00:17:36,880
+includes only one value, the sampling
+ 
+
+839
+00:17:36,880 --> 00:17:42,070
+includes only one value, the sampling
+variance of the overall effect estimate.
+
+840
+00:17:42,070 --> 00:17:42,080
+variance of the overall effect estimate.
+ 
+
+841
+00:17:42,080 --> 00:17:44,230
+variance of the overall effect estimate.
+To express the impact of dropping study
+
+842
+00:17:44,230 --> 00:17:44,240
+To express the impact of dropping study
+ 
+
+843
+00:17:44,240 --> 00:17:46,950
+To express the impact of dropping study
+I, you can calculate the ratio of the
+
+844
+00:17:46,950 --> 00:17:46,960
+I, you can calculate the ratio of the
+ 
+
+845
+00:17:46,960 --> 00:17:48,870
+I, you can calculate the ratio of the
+sampling variance of the mean effect
+
+846
+00:17:48,870 --> 00:17:48,880
+sampling variance of the mean effect
+ 
+
+847
+00:17:48,880 --> 00:17:52,310
+sampling variance of the mean effect
+estimate without and with accounting for
+
+848
+00:17:52,310 --> 00:17:52,320
+estimate without and with accounting for
+ 
+
+849
+00:17:52,320 --> 00:17:55,430
+estimate without and with accounting for
+study I. If the ratio is smaller than
+
+850
+00:17:55,430 --> 00:17:55,440
+study I. If the ratio is smaller than
+ 
+
+851
+00:17:55,440 --> 00:17:57,750
+study I. If the ratio is smaller than
+one, this means that the sampling
+
+852
+00:17:57,750 --> 00:17:57,760
+one, this means that the sampling
+ 
+
+853
+00:17:57,760 --> 00:17:59,590
+one, this means that the sampling
+variance is larger when study I is
+
+854
+00:17:59,590 --> 00:17:59,600
+variance is larger when study I is
+ 
+
+855
+00:17:59,600 --> 00:18:01,990
+variance is larger when study I is
+included. In other words, that including
+
+856
+00:18:01,990 --> 00:18:02,000
+included. In other words, that including
+ 
+
+857
+00:18:02,000 --> 00:18:05,430
+included. In other words, that including
+study I reduces the precision.
+
+858
+00:18:05,430 --> 00:18:05,440
+study I reduces the precision.
+ 
+
+859
+00:18:05,440 --> 00:18:08,070
+study I reduces the precision.
+Again, you can see that this is the case
+
+860
+00:18:08,070 --> 00:18:08,080
+Again, you can see that this is the case
+ 
+
+861
+00:18:08,080 --> 00:18:14,310
+Again, you can see that this is the case
+for the same four studies.
+
+862
+00:18:14,310 --> 00:18:14,320
+
+ 
+
+863
+00:18:14,320 --> 00:18:16,150
+
+When there are outlying values in your
+
+864
+00:18:16,150 --> 00:18:16,160
+When there are outlying values in your
+ 
+
+865
+00:18:16,160 --> 00:18:18,789
+When there are outlying values in your
+data set, it's important to reflect on
+
+866
+00:18:18,789 --> 00:18:18,799
+data set, it's important to reflect on
+ 
+
+867
+00:18:18,799 --> 00:18:21,669
+data set, it's important to reflect on
+where they come from. One explanation is
+
+868
+00:18:21,669 --> 00:18:21,679
+where they come from. One explanation is
+ 
+
+869
+00:18:21,679 --> 00:18:23,029
+where they come from. One explanation is
+that you made an error in the
+
+870
+00:18:23,029 --> 00:18:23,039
+that you made an error in the
+ 
+
+871
+00:18:23,039 --> 00:18:25,590
+that you made an error in the
+calculation of the effect size. Another
+
+872
+00:18:25,590 --> 00:18:25,600
+calculation of the effect size. Another
+ 
+
+873
+00:18:25,600 --> 00:18:27,909
+calculation of the effect size. Another
+explanation is that the data that were
+
+874
+00:18:27,909 --> 00:18:27,919
+explanation is that the data that were
+ 
+
+875
+00:18:27,919 --> 00:18:31,110
+explanation is that the data that were
+reported are not correct. In one of our
+
+876
+00:18:31,110 --> 00:18:31,120
+reported are not correct. In one of our
+ 
+
+877
+00:18:31,120 --> 00:18:33,590
+reported are not correct. In one of our
+meta analysis, we wrote to the research
+
+878
+00:18:33,590 --> 00:18:33,600
+meta analysis, we wrote to the research
+ 
+
+879
+00:18:33,600 --> 00:18:35,990
+meta analysis, we wrote to the research
+research team of a paper to ask whether
+
+880
+00:18:35,990 --> 00:18:36,000
+research team of a paper to ask whether
+ 
+
+881
+00:18:36,000 --> 00:18:37,990
+research team of a paper to ask whether
+they could check their data because the
+
+882
+00:18:37,990 --> 00:18:38,000
+they could check their data because the
+ 
+
+883
+00:18:38,000 --> 00:18:39,510
+they could check their data because the
+effect size that we found for their
+
+884
+00:18:39,510 --> 00:18:39,520
+effect size that we found for their
+ 
+
+885
+00:18:39,520 --> 00:18:42,310
+effect size that we found for their
+study was considerably larger than the
+
+886
+00:18:42,310 --> 00:18:42,320
+study was considerably larger than the
+ 
+
+887
+00:18:42,320 --> 00:18:44,789
+study was considerably larger than the
+effect size we found for other papers.
+
+888
+00:18:44,789 --> 00:18:44,799
+effect size we found for other papers.
+ 
+
+889
+00:18:44,799 --> 00:18:47,110
+effect size we found for other papers.
+And indeed, the authors replied that
+
+890
+00:18:47,110 --> 00:18:47,120
+And indeed, the authors replied that
+ 
+
+891
+00:18:47,120 --> 00:18:48,470
+And indeed, the authors replied that
+they found an error in their
+
+892
+00:18:48,470 --> 00:18:48,480
+they found an error in their
+ 
+
+893
+00:18:48,480 --> 00:18:51,270
+they found an error in their
+calculations. So after correcting the
+
+894
+00:18:51,270 --> 00:18:51,280
+calculations. So after correcting the
+ 
+
+895
+00:18:51,280 --> 00:18:53,590
+calculations. So after correcting the
+error, the effect size for their study
+
+896
+00:18:53,590 --> 00:18:53,600
+error, the effect size for their study
+ 
+
+897
+00:18:53,600 --> 00:18:55,510
+error, the effect size for their study
+was very much in line with those of
+
+898
+00:18:55,510 --> 00:18:55,520
+was very much in line with those of
+ 
+
+899
+00:18:55,520 --> 00:18:57,590
+was very much in line with those of
+other studies.
+
+900
+00:18:57,590 --> 00:18:57,600
+other studies.
+ 
+
+901
+00:18:57,600 --> 00:19:00,070
+other studies.
+In these cases, it's of course important
+
+902
+00:19:00,070 --> 00:19:00,080
+In these cases, it's of course important
+ 
+
+903
+00:19:00,080 --> 00:19:03,110
+In these cases, it's of course important
+to correct the errors. If you really
+
+904
+00:19:03,110 --> 00:19:03,120
+to correct the errors. If you really
+ 
+
+905
+00:19:03,120 --> 00:19:04,950
+to correct the errors. If you really
+have strong doubts about the correctness
+
+906
+00:19:04,950 --> 00:19:04,960
+have strong doubts about the correctness
+ 
+
+907
+00:19:04,960 --> 00:19:07,430
+have strong doubts about the correctness
+of data, but correcting the data is not
+
+908
+00:19:07,430 --> 00:19:07,440
+of data, but correcting the data is not
+ 
+
+909
+00:19:07,440 --> 00:19:12,710
+of data, but correcting the data is not
+possible, you can leave out the outlier.
+
+910
+00:19:12,710 --> 00:19:12,720
+possible, you can leave out the outlier.
+ 
+
+911
+00:19:12,720 --> 00:19:14,789
+possible, you can leave out the outlier.
+Another explanation is that a study in
+
+912
+00:19:14,789 --> 00:19:14,799
+Another explanation is that a study in
+ 
+
+913
+00:19:14,799 --> 00:19:16,390
+Another explanation is that a study in
+which an outlying effect size was
+
+914
+00:19:16,390 --> 00:19:16,400
+which an outlying effect size was
+ 
+
+915
+00:19:16,400 --> 00:19:19,029
+which an outlying effect size was
+observed differs substantially from the
+
+916
+00:19:19,029 --> 00:19:19,039
+observed differs substantially from the
+ 
+
+917
+00:19:19,039 --> 00:19:21,110
+observed differs substantially from the
+other studies. For instance, in a
+
+918
+00:19:21,110 --> 00:19:21,120
+other studies. For instance, in a
+ 
+
+919
+00:19:21,120 --> 00:19:23,430
+other studies. For instance, in a
+population of participants or in the
+
+920
+00:19:23,430 --> 00:19:23,440
+population of participants or in the
+ 
+
+921
+00:19:23,440 --> 00:19:25,669
+population of participants or in the
+study setup.
+
+922
+00:19:25,669 --> 00:19:25,679
+study setup.
+ 
+
+923
+00:19:25,679 --> 00:19:27,750
+study setup.
+In this situation, it's probably a good
+
+924
+00:19:27,750 --> 00:19:27,760
+In this situation, it's probably a good
+ 
+
+925
+00:19:27,760 --> 00:19:29,990
+In this situation, it's probably a good
+idea to leave out that paper or to
+
+926
+00:19:29,990 --> 00:19:30,000
+idea to leave out that paper or to
+ 
+
+927
+00:19:30,000 --> 00:19:32,310
+idea to leave out that paper or to
+discuss that paper separately but not
+
+928
+00:19:32,310 --> 00:19:32,320
+discuss that paper separately but not
+ 
+
+929
+00:19:32,320 --> 00:19:37,350
+discuss that paper separately but not
+include it in the meta analysis.
+
+930
+00:19:37,350 --> 00:19:37,360
+
+ 
+
+931
+00:19:37,360 --> 00:19:39,750
+
+Another explanation can however be that
+
+932
+00:19:39,750 --> 00:19:39,760
+Another explanation can however be that
+ 
+
+933
+00:19:39,760 --> 00:19:41,510
+Another explanation can however be that
+an extreme value was found by
+
+934
+00:19:41,510 --> 00:19:41,520
+an extreme value was found by
+ 
+
+935
+00:19:41,520 --> 00:19:44,070
+an extreme value was found by
+coincidence. If effect sizes are indeed
+
+936
+00:19:44,070 --> 00:19:44,080
+coincidence. If effect sizes are indeed
+ 
+
+937
+00:19:44,080 --> 00:19:46,070
+coincidence. If effect sizes are indeed
+normally distributed, it is to be
+
+938
+00:19:46,070 --> 00:19:46,080
+normally distributed, it is to be
+ 
+
+939
+00:19:46,080 --> 00:19:48,150
+normally distributed, it is to be
+expected that from time to time you will
+
+940
+00:19:48,150 --> 00:19:48,160
+expected that from time to time you will
+ 
+
+941
+00:19:48,160 --> 00:19:50,549
+expected that from time to time you will
+find an extreme value. Automatically
+
+942
+00:19:50,549 --> 00:19:50,559
+find an extreme value. Automatically
+ 
+
+943
+00:19:50,559 --> 00:19:52,470
+find an extreme value. Automatically
+dropping effect sizes that are somewhat
+
+944
+00:19:52,470 --> 00:19:52,480
+dropping effect sizes that are somewhat
+ 
+
+945
+00:19:52,480 --> 00:19:55,270
+dropping effect sizes that are somewhat
+larger or smaller therefore may give a
+
+946
+00:19:55,270 --> 00:19:55,280
+larger or smaller therefore may give a
+ 
+
+947
+00:19:55,280 --> 00:19:57,909
+larger or smaller therefore may give a
+biased view on the average effect or
+
+948
+00:19:57,909 --> 00:19:57,919
+biased view on the average effect or
+ 
+
+949
+00:19:57,919 --> 00:19:59,510
+biased view on the average effect or
+especially on the size of the between
+
+950
+00:19:59,510 --> 00:19:59,520
+especially on the size of the between
+ 
+
+951
+00:19:59,520 --> 00:20:03,510
+especially on the size of the between
+study variance.
+
+952
+00:20:03,510 --> 00:20:03,520
+
+ 
+
+953
+00:20:03,520 --> 00:20:06,390
+
+If you find outlying values and you are
+
+954
+00:20:06,390 --> 00:20:06,400
+If you find outlying values and you are
+ 
+
+955
+00:20:06,400 --> 00:20:08,950
+If you find outlying values and you are
+sure that they were correctly calculated
+
+956
+00:20:08,950 --> 00:20:08,960
+sure that they were correctly calculated
+ 
+
+957
+00:20:08,960 --> 00:20:11,350
+sure that they were correctly calculated
+and they come from studies that are
+
+958
+00:20:11,350 --> 00:20:11,360
+and they come from studies that are
+ 
+
+959
+00:20:11,360 --> 00:20:12,950
+and they come from studies that are
+otherwise comparable to the other
+
+960
+00:20:12,950 --> 00:20:12,960
+otherwise comparable to the other
+ 
+
+961
+00:20:12,960 --> 00:20:15,750
+otherwise comparable to the other
+studies, I suggest to do a sensitivity
+
+962
+00:20:15,750 --> 00:20:15,760
+studies, I suggest to do a sensitivity
+ 
+
+963
+00:20:15,760 --> 00:20:18,870
+studies, I suggest to do a sensitivity
+analysis. The idea is that you look at
+
+964
+00:20:18,870 --> 00:20:18,880
+analysis. The idea is that you look at
+ 
+
+965
+00:20:18,880 --> 00:20:21,350
+analysis. The idea is that you look at
+what these outlying values mean for the
+
+966
+00:20:21,350 --> 00:20:21,360
+what these outlying values mean for the
+ 
+
+967
+00:20:21,360 --> 00:20:23,909
+what these outlying values mean for the
+conclusions of your meta analysis.
+
+968
+00:20:23,909 --> 00:20:23,919
+conclusions of your meta analysis.
+ 
+
+969
+00:20:23,919 --> 00:20:26,230
+conclusions of your meta analysis.
+A first kind of sensitivity analysis is
+
+970
+00:20:26,230 --> 00:20:26,240
+A first kind of sensitivity analysis is
+ 
+
+971
+00:20:26,240 --> 00:20:29,270
+A first kind of sensitivity analysis is
+to leave out one study at a time and
+
+972
+00:20:29,270 --> 00:20:29,280
+to leave out one study at a time and
+ 
+
+973
+00:20:29,280 --> 00:20:31,590
+to leave out one study at a time and
+redo the meta analysis. If you would
+
+974
+00:20:31,590 --> 00:20:31,600
+redo the meta analysis. If you would
+ 
+
+975
+00:20:31,600 --> 00:20:35,110
+redo the meta analysis. If you would
+have 100 effect sizes from 100 studies,
+
+976
+00:20:35,110 --> 00:20:35,120
+have 100 effect sizes from 100 studies,
+ 
+
+977
+00:20:35,120 --> 00:20:37,590
+have 100 effect sizes from 100 studies,
+this would mean that you would do 100
+
+978
+00:20:37,590 --> 00:20:37,600
+this would mean that you would do 100
+ 
+
+979
+00:20:37,600 --> 00:20:40,149
+this would mean that you would do 100
+meta analysis each combining 99 effect
+
+980
+00:20:40,149 --> 00:20:40,159
+meta analysis each combining 99 effect
+ 
+
+981
+00:20:40,159 --> 00:20:42,630
+meta analysis each combining 99 effect
+sizes. If you would find that your
+
+982
+00:20:42,630 --> 00:20:42,640
+sizes. If you would find that your
+ 
+
+983
+00:20:42,640 --> 00:20:44,549
+sizes. If you would find that your
+conclusions remain the same, for
+
+984
+00:20:44,549 --> 00:20:44,559
+conclusions remain the same, for
+ 
+
+985
+00:20:44,559 --> 00:20:46,310
+conclusions remain the same, for
+instance, that there is a significant
+
+986
+00:20:46,310 --> 00:20:46,320
+instance, that there is a significant
+ 
+
+987
+00:20:46,320 --> 00:20:48,390
+instance, that there is a significant
+positive effect, that would strengthen
+
+988
+00:20:48,390 --> 00:20:48,400
+positive effect, that would strengthen
+ 
+
+989
+00:20:48,400 --> 00:20:51,590
+positive effect, that would strengthen
+your confidence in this conclusion. If
+
+990
+00:20:51,590 --> 00:20:51,600
+your confidence in this conclusion. If
+ 
+
+991
+00:20:51,600 --> 00:20:54,549
+your confidence in this conclusion. If
+however the conclusions change, for
+
+992
+00:20:54,549 --> 00:20:54,559
+however the conclusions change, for
+ 
+
+993
+00:20:54,559 --> 00:20:56,230
+however the conclusions change, for
+instance, if sometimes the mean effect
+
+994
+00:20:56,230 --> 00:20:56,240
+instance, if sometimes the mean effect
+ 
+
+995
+00:20:56,240 --> 00:20:58,310
+instance, if sometimes the mean effect
+size would be significant, sometimes
+
+996
+00:20:58,310 --> 00:20:58,320
+size would be significant, sometimes
+ 
+
+997
+00:20:58,320 --> 00:21:00,630
+size would be significant, sometimes
+not, you are less certain about your
+
+998
+00:21:00,630 --> 00:21:00,640
+not, you are less certain about your
+ 
+
+999
+00:21:00,640 --> 00:21:03,430
+not, you are less certain about your
+conclusion. In that case, it's also
+
+1000
+00:21:03,430 --> 00:21:03,440
+conclusion. In that case, it's also
+ 
+
+1001
+00:21:03,440 --> 00:21:05,990
+conclusion. In that case, it's also
+important to share your uncertainty with
+
+1002
+00:21:05,990 --> 00:21:06,000
+important to share your uncertainty with
+ 
+
+1003
+00:21:06,000 --> 00:21:10,870
+important to share your uncertainty with
+a reader of your research report.
+
+1004
+00:21:10,870 --> 00:21:10,880
+a reader of your research report.
+ 
+
+1005
+00:21:10,880 --> 00:21:13,110
+a reader of your research report.
+As an alternative sensitivity analysis,
+
+1006
+00:21:13,110 --> 00:21:13,120
+As an alternative sensitivity analysis,
+ 
+
+1007
+00:21:13,120 --> 00:21:15,909
+As an alternative sensitivity analysis,
+you can leave out all outlying values at
+
+1008
+00:21:15,909 --> 00:21:15,919
+you can leave out all outlying values at
+ 
+
+1009
+00:21:15,919 --> 00:21:17,909
+you can leave out all outlying values at
+the same time and compare the results
+
+1010
+00:21:17,909 --> 00:21:17,919
+the same time and compare the results
+ 
+
+1011
+00:21:17,919 --> 00:21:19,909
+the same time and compare the results
+with the results of the analysis,
+
+1012
+00:21:19,909 --> 00:21:19,919
+with the results of the analysis,
+ 
+
+1013
+00:21:19,919 --> 00:21:25,270
+with the results of the analysis,
+including all effect sizes.
+
+1014
+00:21:25,270 --> 00:21:25,280
+
+ 
+
+1015
+00:21:25,280 --> 00:21:27,510
+
+Third, it is important to check whether
+
+1016
+00:21:27,510 --> 00:21:27,520
+Third, it is important to check whether
+ 
+
+1017
+00:21:27,520 --> 00:21:29,990
+Third, it is important to check whether
+the assumptions you made in the analysis
+
+1018
+00:21:29,990 --> 00:21:30,000
+the assumptions you made in the analysis
+ 
+
+1019
+00:21:30,000 --> 00:21:32,390
+the assumptions you made in the analysis
+make sense and to be transparent on
+
+1020
+00:21:32,390 --> 00:21:32,400
+make sense and to be transparent on
+ 
+
+1021
+00:21:32,400 --> 00:21:35,510
+make sense and to be transparent on
+these checks.
+
+1022
+00:21:35,510 --> 00:21:35,520
+these checks.
+ 
+
+1023
+00:21:35,520 --> 00:21:37,990
+these checks.
+First assumption that is made when using
+
+1024
+00:21:37,990 --> 00:21:38,000
+First assumption that is made when using
+ 
+
+1025
+00:21:38,000 --> 00:21:40,870
+First assumption that is made when using
+a fixed effects model is that all
+
+1026
+00:21:40,870 --> 00:21:40,880
+a fixed effects model is that all
+ 
+
+1027
+00:21:40,880 --> 00:21:43,510
+a fixed effects model is that all
+population effects sizes are exactly the
+
+1028
+00:21:43,510 --> 00:21:43,520
+population effects sizes are exactly the
+ 
+
+1029
+00:21:43,520 --> 00:21:46,630
+population effects sizes are exactly the
+same. So that there is no heterogeneity.
+
+1030
+00:21:46,630 --> 00:21:46,640
+same. So that there is no heterogeneity.
+ 
+
+1031
+00:21:46,640 --> 00:21:48,630
+same. So that there is no heterogeneity.
+When including a moderator the
+
+1032
+00:21:48,630 --> 00:21:48,640
+When including a moderator the
+ 
+
+1033
+00:21:48,640 --> 00:21:51,110
+When including a moderator the
+assumption is somewhat relaxed.
+
+1034
+00:21:51,110 --> 00:21:51,120
+assumption is somewhat relaxed.
+ 
+
+1035
+00:21:51,120 --> 00:21:52,950
+assumption is somewhat relaxed.
+Conditionally on the value of the
+
+1036
+00:21:52,950 --> 00:21:52,960
+Conditionally on the value of the
+ 
+
+1037
+00:21:52,960 --> 00:21:55,430
+Conditionally on the value of the
+moderator there is no heterogeneity or
+
+1038
+00:21:55,430 --> 00:21:55,440
+moderator there is no heterogeneity or
+ 
+
+1039
+00:21:55,440 --> 00:21:57,750
+moderator there is no heterogeneity or
+in other words the moderator explains
+
+1040
+00:21:57,750 --> 00:21:57,760
+in other words the moderator explains
+ 
+
+1041
+00:21:57,760 --> 00:22:00,390
+in other words the moderator explains
+all potential heterogeneity.
+
+1042
+00:22:00,390 --> 00:22:00,400
+all potential heterogeneity.
+ 
+
+1043
+00:22:00,400 --> 00:22:02,789
+all potential heterogeneity.
+Of course, you could do a homogeneity
+
+1044
+00:22:02,789 --> 00:22:02,799
+Of course, you could do a homogeneity
+ 
+
+1045
+00:22:02,799 --> 00:22:05,190
+Of course, you could do a homogeneity
+test to test whether there is convincing
+
+1046
+00:22:05,190 --> 00:22:05,200
+test to test whether there is convincing
+ 
+
+1047
+00:22:05,200 --> 00:22:07,110
+test to test whether there is convincing
+evidence of heterogeneity. But
+
+1048
+00:22:07,110 --> 00:22:07,120
+evidence of heterogeneity. But
+ 
+
+1049
+00:22:07,120 --> 00:22:09,669
+evidence of heterogeneity. But
+unfortunately, this test is not without
+
+1050
+00:22:09,669 --> 00:22:09,679
+unfortunately, this test is not without
+ 
+
+1051
+00:22:09,679 --> 00:22:12,310
+unfortunately, this test is not without
+problems. For instance, the power can be
+
+1052
+00:22:12,310 --> 00:22:12,320
+problems. For instance, the power can be
+ 
+
+1053
+00:22:12,320 --> 00:22:15,590
+problems. For instance, the power can be
+low. Therefore, before using a fixed
+
+1054
+00:22:15,590 --> 00:22:15,600
+low. Therefore, before using a fixed
+ 
+
+1055
+00:22:15,600 --> 00:22:17,909
+low. Therefore, before using a fixed
+effects model, it is vital that you
+
+1056
+00:22:17,909 --> 00:22:17,919
+effects model, it is vital that you
+ 
+
+1057
+00:22:17,919 --> 00:22:20,230
+effects model, it is vital that you
+reflect on whether you can re really
+
+1058
+00:22:20,230 --> 00:22:20,240
+reflect on whether you can re really
+ 
+
+1059
+00:22:20,240 --> 00:22:23,190
+reflect on whether you can re really
+expect that there is no heterogeneity.
+
+1060
+00:22:23,190 --> 00:22:23,200
+expect that there is no heterogeneity.
+ 
+
+1061
+00:22:23,200 --> 00:22:25,350
+expect that there is no heterogeneity.
+Only when studies were set up in exactly
+
+1062
+00:22:25,350 --> 00:22:25,360
+Only when studies were set up in exactly
+ 
+
+1063
+00:22:25,360 --> 00:22:28,230
+Only when studies were set up in exactly
+the same way or when you are sure that
+
+1064
+00:22:28,230 --> 00:22:28,240
+the same way or when you are sure that
+ 
+
+1065
+00:22:28,240 --> 00:22:29,990
+the same way or when you are sure that
+study characteristics that may affect
+
+1066
+00:22:29,990 --> 00:22:30,000
+study characteristics that may affect
+ 
+
+1067
+00:22:30,000 --> 00:22:32,149
+study characteristics that may affect
+the size of the effect are included in
+
+1068
+00:22:32,149 --> 00:22:32,159
+the size of the effect are included in
+ 
+
+1069
+00:22:32,159 --> 00:22:34,230
+the size of the effect are included in
+your model, it makes sense to use a
+
+1070
+00:22:34,230 --> 00:22:34,240
+your model, it makes sense to use a
+ 
+
+1071
+00:22:34,240 --> 00:22:36,549
+your model, it makes sense to use a
+fixed effects model. But because this
+
+1072
+00:22:36,549 --> 00:22:36,559
+fixed effects model. But because this
+ 
+
+1073
+00:22:36,559 --> 00:22:39,110
+fixed effects model. But because this
+assumption is very often unlikely, it's
+
+1074
+00:22:39,110 --> 00:22:39,120
+assumption is very often unlikely, it's
+ 
+
+1075
+00:22:39,120 --> 00:22:41,350
+assumption is very often unlikely, it's
+probably better to use a random effects
+
+1076
+00:22:41,350 --> 00:22:41,360
+probably better to use a random effects
+ 
+
+1077
+00:22:41,360 --> 00:22:44,470
+probably better to use a random effects
+model by default.
+
+1078
+00:22:44,470 --> 00:22:44,480
+model by default.
+ 
+
+1079
+00:22:44,480 --> 00:22:46,310
+model by default.
+In the random effects model, on the
+
+1080
+00:22:46,310 --> 00:22:46,320
+In the random effects model, on the
+ 
+
+1081
+00:22:46,320 --> 00:22:48,230
+In the random effects model, on the
+contrary, you do not assume a common
+
+1082
+00:22:48,230 --> 00:22:48,240
+contrary, you do not assume a common
+ 
+
+1083
+00:22:48,240 --> 00:22:50,310
+contrary, you do not assume a common
+population effect size, but rather you
+
+1084
+00:22:50,310 --> 00:22:50,320
+population effect size, but rather you
+ 
+
+1085
+00:22:50,320 --> 00:22:52,149
+population effect size, but rather you
+assume a distribution of population
+
+1086
+00:22:52,149 --> 00:22:52,159
+assume a distribution of population
+ 
+
+1087
+00:22:52,159 --> 00:22:55,110
+assume a distribution of population
+effect sizes. Techniques to estimate the
+
+1088
+00:22:55,110 --> 00:22:55,120
+effect sizes. Techniques to estimate the
+ 
+
+1089
+00:22:55,120 --> 00:22:58,230
+effect sizes. Techniques to estimate the
+model parameters often assume that again
+
+1090
+00:22:58,230 --> 00:22:58,240
+model parameters often assume that again
+ 
+
+1091
+00:22:58,240 --> 00:23:00,549
+model parameters often assume that again
+after correcting for potential moderator
+
+1092
+00:23:00,549 --> 00:23:00,559
+after correcting for potential moderator
+ 
+
+1093
+00:23:00,559 --> 00:23:03,510
+after correcting for potential moderator
+variables, the population effect sizes
+
+1094
+00:23:03,510 --> 00:23:03,520
+variables, the population effect sizes
+ 
+
+1095
+00:23:03,520 --> 00:23:06,230
+variables, the population effect sizes
+follow a normal distribution. To check
+
+1096
+00:23:06,230 --> 00:23:06,240
+follow a normal distribution. To check
+ 
+
+1097
+00:23:06,240 --> 00:23:13,110
+follow a normal distribution. To check
+this, you could make use of a QQ plot.
+
+1098
+00:23:13,110 --> 00:23:13,120
+
+ 
+
+1099
+00:23:13,120 --> 00:23:15,830
+
+Here a QQ plot for the effect sizes from
+
+1100
+00:23:15,830 --> 00:23:15,840
+Here a QQ plot for the effect sizes from
+ 
+
+1101
+00:23:15,840 --> 00:23:17,830
+Here a QQ plot for the effect sizes from
+the teacher expectancy meta analysis of
+
+1102
+00:23:17,830 --> 00:23:17,840
+the teacher expectancy meta analysis of
+ 
+
+1103
+00:23:17,840 --> 00:23:20,630
+the teacher expectancy meta analysis of
+Renbush. On the Y-axis you have the
+
+1104
+00:23:20,630 --> 00:23:20,640
+Renbush. On the Y-axis you have the
+ 
+
+1105
+00:23:20,640 --> 00:23:22,630
+Renbush. On the Y-axis you have the
+standardized deviations of the observed
+
+1106
+00:23:22,630 --> 00:23:22,640
+standardized deviations of the observed
+ 
+
+1107
+00:23:22,640 --> 00:23:25,029
+standardized deviations of the observed
+effect sizes from the mean effect size.
+
+1108
+00:23:25,029 --> 00:23:25,039
+effect sizes from the mean effect size.
+ 
+
+1109
+00:23:25,039 --> 00:23:27,350
+effect sizes from the mean effect size.
+These are the deviations divided by
+
+1110
+00:23:27,350 --> 00:23:27,360
+These are the deviations divided by
+ 
+
+1111
+00:23:27,360 --> 00:23:30,710
+These are the deviations divided by
+their standard error. On the X-axis you
+
+1112
+00:23:30,710 --> 00:23:30,720
+their standard error. On the X-axis you
+ 
+
+1113
+00:23:30,720 --> 00:23:34,230
+their standard error. On the X-axis you
+have the standard normal distribution.
+
+1114
+00:23:34,230 --> 00:23:34,240
+have the standard normal distribution.
+ 
+
+1115
+00:23:34,240 --> 00:23:37,510
+have the standard normal distribution.
+There were 19 studies. So 19 deviations.
+
+1116
+00:23:37,510 --> 00:23:37,520
+There were 19 studies. So 19 deviations.
+ 
+
+1117
+00:23:37,520 --> 00:23:39,510
+There were 19 studies. So 19 deviations.
+For the smallest deviation, the first of
+
+1118
+00:23:39,510 --> 00:23:39,520
+For the smallest deviation, the first of
+ 
+
+1119
+00:23:39,520 --> 00:23:42,310
+For the smallest deviation, the first of
+the 19 deviations, the theoretical
+
+1120
+00:23:42,310 --> 00:23:42,320
+the 19 deviations, the theoretical
+ 
+
+1121
+00:23:42,320 --> 00:23:44,950
+the 19 deviations, the theoretical
+quantile quantile is calculated as the
+
+1122
+00:23:44,950 --> 00:23:44,960
+quantile quantile is calculated as the
+ 
+
+1123
+00:23:44,960 --> 00:23:47,110
+quantile quantile is calculated as the
+ZV valueue from a standard normal
+
+1124
+00:23:47,110 --> 00:23:47,120
+ZV valueue from a standard normal
+ 
+
+1125
+00:23:47,120 --> 00:23:49,029
+ZV valueue from a standard normal
+distribution for which the cumulative
+
+1126
+00:23:49,029 --> 00:23:49,039
+distribution for which the cumulative
+ 
+
+1127
+00:23:49,039 --> 00:23:53,270
+distribution for which the cumulative
+density is equal to 1 minus.5 divided by
+
+1128
+00:23:53,270 --> 00:23:53,280
+density is equal to 1 minus.5 divided by
+ 
+
+1129
+00:23:53,280 --> 00:23:55,510
+density is equal to 1 minus.5 divided by
+19.
+
+1130
+00:23:55,510 --> 00:23:55,520
+19.
+ 
+
+1131
+00:23:55,520 --> 00:23:58,549
+19.
+Similarly, the theoretical quantile for
+
+1132
+00:23:58,549 --> 00:23:58,559
+Similarly, the theoretical quantile for
+ 
+
+1133
+00:23:58,559 --> 00:24:02,950
+Similarly, the theoretical quantile for
+the 18th deviation is 1.41.
+
+1134
+00:24:02,950 --> 00:24:02,960
+the 18th deviation is 1.41.
+ 
+
+1135
+00:24:02,960 --> 00:24:04,950
+the 18th deviation is 1.41.
+If the effect sizes are normally
+
+1136
+00:24:04,950 --> 00:24:04,960
+If the effect sizes are normally
+ 
+
+1137
+00:24:04,960 --> 00:24:08,310
+If the effect sizes are normally
+distributed, you expect that the dots
+
+1138
+00:24:08,310 --> 00:24:08,320
+distributed, you expect that the dots
+ 
+
+1139
+00:24:08,320 --> 00:24:11,350
+distributed, you expect that the dots
+are more or less on one straight line.
+
+1140
+00:24:11,350 --> 00:24:11,360
+are more or less on one straight line.
+ 
+
+1141
+00:24:11,360 --> 00:24:13,669
+are more or less on one straight line.
+Fortunately, the results are quite
+
+1142
+00:24:13,669 --> 00:24:13,679
+Fortunately, the results are quite
+ 
+
+1143
+00:24:13,679 --> 00:24:17,029
+Fortunately, the results are quite
+robust for violation of this normality
+
+1144
+00:24:17,029 --> 00:24:17,039
+robust for violation of this normality
+ 
+
+1145
+00:24:17,039 --> 00:24:20,230
+robust for violation of this normality
+assumption. So unless the QQplot shows
+
+1146
+00:24:20,230 --> 00:24:20,240
+assumption. So unless the QQplot shows
+ 
+
+1147
+00:24:20,240 --> 00:24:22,070
+assumption. So unless the QQplot shows
+an important deviation from a normal
+
+1148
+00:24:22,070 --> 00:24:22,080
+an important deviation from a normal
+ 
+
+1149
+00:24:22,080 --> 00:24:24,549
+an important deviation from a normal
+distribution, you should you do not have
+
+1150
+00:24:24,549 --> 00:24:24,559
+distribution, you should you do not have
+ 
+
+1151
+00:24:24,559 --> 00:24:28,149
+distribution, you should you do not have
+to worry too much. Later on we will see
+
+1152
+00:24:28,149 --> 00:24:28,159
+to worry too much. Later on we will see
+ 
+
+1153
+00:24:28,159 --> 00:24:31,190
+to worry too much. Later on we will see
+how we can obtain robust standard errors
+
+1154
+00:24:31,190 --> 00:24:31,200
+how we can obtain robust standard errors
+ 
+
+1155
+00:24:31,200 --> 00:24:33,110
+how we can obtain robust standard errors
+uh for constructing confidence intervals
+
+1156
+00:24:33,110 --> 00:24:33,120
+uh for constructing confidence intervals
+ 
+
+1157
+00:24:33,120 --> 00:24:35,510
+uh for constructing confidence intervals
+or performing significance tests by
+
+1158
+00:24:35,510 --> 00:24:35,520
+or performing significance tests by
+ 
+
+1159
+00:24:35,520 --> 00:24:38,390
+or performing significance tests by
+using RVE. In this approach we do not
+
+1160
+00:24:38,390 --> 00:24:38,400
+using RVE. In this approach we do not
+ 
+
+1161
+00:24:38,400 --> 00:24:41,110
+using RVE. In this approach we do not
+make the assumption of normality. So it
+
+1162
+00:24:41,110 --> 00:24:41,120
+make the assumption of normality. So it
+ 
+
+1163
+00:24:41,120 --> 00:24:46,549
+make the assumption of normality. So it
+can be a safer approach.
+
+1164
+00:24:46,549 --> 00:24:46,559
+
+ 
+
+1165
+00:24:46,559 --> 00:24:48,950
+
+Further we assume that effect sizes are
+
+1166
+00:24:48,950 --> 00:24:48,960
+Further we assume that effect sizes are
+ 
+
+1167
+00:24:48,960 --> 00:24:50,950
+Further we assume that effect sizes are
+statistically independent which means
+
+1168
+00:24:50,950 --> 00:24:50,960
+statistically independent which means
+ 
+
+1169
+00:24:50,960 --> 00:24:53,350
+statistically independent which means
+that one effect size does not give
+
+1170
+00:24:53,350 --> 00:24:53,360
+that one effect size does not give
+ 
+
+1171
+00:24:53,360 --> 00:24:56,149
+that one effect size does not give
+information on another effect size. The
+
+1172
+00:24:56,149 --> 00:24:56,159
+information on another effect size. The
+ 
+
+1173
+00:24:56,159 --> 00:24:58,710
+information on another effect size. The
+assumption can be violated when you have
+
+1174
+00:24:58,710 --> 00:24:58,720
+assumption can be violated when you have
+ 
+
+1175
+00:24:58,720 --> 00:25:01,029
+assumption can be violated when you have
+multiple effect sizes from one study.
+
+1176
+00:25:01,029 --> 00:25:01,039
+multiple effect sizes from one study.
+ 
+
+1177
+00:25:01,039 --> 00:25:03,750
+multiple effect sizes from one study.
+The effect sizes from the same study are
+
+1178
+00:25:03,750 --> 00:25:03,760
+The effect sizes from the same study are
+ 
+
+1179
+00:25:03,760 --> 00:25:06,149
+The effect sizes from the same study are
+probably more alike in effect sizes from
+
+1180
+00:25:06,149 --> 00:25:06,159
+probably more alike in effect sizes from
+ 
+
+1181
+00:25:06,159 --> 00:25:08,070
+probably more alike in effect sizes from
+different studies because the effect
+
+1182
+00:25:08,070 --> 00:25:08,080
+different studies because the effect
+ 
+
+1183
+00:25:08,080 --> 00:25:10,549
+different studies because the effect
+sizes from one study may be based on the
+
+1184
+00:25:10,549 --> 00:25:10,559
+sizes from one study may be based on the
+ 
+
+1185
+00:25:10,559 --> 00:25:12,789
+sizes from one study may be based on the
+same sample or at least on very similar
+
+1186
+00:25:12,789 --> 00:25:12,799
+same sample or at least on very similar
+ 
+
+1187
+00:25:12,799 --> 00:25:14,789
+same sample or at least on very similar
+samples.
+
+1188
+00:25:14,789 --> 00:25:14,799
+samples.
+ 
+
+1189
+00:25:14,799 --> 00:25:16,950
+samples.
+Similarly, also the dependent and the
+
+1190
+00:25:16,950 --> 00:25:16,960
+Similarly, also the dependent and the
+ 
+
+1191
+00:25:16,960 --> 00:25:18,789
+Similarly, also the dependent and the
+independent variables may be measured in
+
+1192
+00:25:18,789 --> 00:25:18,799
+independent variables may be measured in
+ 
+
+1193
+00:25:18,799 --> 00:25:20,630
+independent variables may be measured in
+a more similar way for the different
+
+1194
+00:25:20,630 --> 00:25:20,640
+a more similar way for the different
+ 
+
+1195
+00:25:20,640 --> 00:25:23,669
+a more similar way for the different
+effect sizes from the same study.
+
+1196
+00:25:23,669 --> 00:25:23,679
+effect sizes from the same study.
+ 
+
+1197
+00:25:23,679 --> 00:25:26,149
+effect sizes from the same study.
+If there is dependency, it is good to
+
+1198
+00:25:26,149 --> 00:25:26,159
+If there is dependency, it is good to
+ 
+
+1199
+00:25:26,159 --> 00:25:27,990
+If there is dependency, it is good to
+account for this dependency. For
+
+1200
+00:25:27,990 --> 00:25:28,000
+account for this dependency. For
+ 
+
+1201
+00:25:28,000 --> 00:25:29,909
+account for this dependency. For
+instance, by using multi-level models
+
+1202
+00:25:29,909 --> 00:25:29,919
+instance, by using multi-level models
+ 
+
+1203
+00:25:29,919 --> 00:25:31,750
+instance, by using multi-level models
+which will be discussed in a later
+
+1204
+00:25:31,750 --> 00:25:31,760
+which will be discussed in a later
+ 
+
+1205
+00:25:31,760 --> 00:25:34,070
+which will be discussed in a later
+screencast.
+
+1206
+00:25:34,070 --> 00:25:34,080
+screencast.
+ 
+
+1207
+00:25:34,080 --> 00:25:35,909
+screencast.
+We also assume that the between study
+
+1208
+00:25:35,909 --> 00:25:35,919
+We also assume that the between study
+ 
+
+1209
+00:25:35,919 --> 00:25:38,149
+We also assume that the between study
+variance is the same for all studies.
+
+1210
+00:25:38,149 --> 00:25:38,159
+variance is the same for all studies.
+ 
+
+1211
+00:25:38,159 --> 00:25:39,830
+variance is the same for all studies.
+Also, in a categorical moderator
+
+1212
+00:25:39,830 --> 00:25:39,840
+Also, in a categorical moderator
+ 
+
+1213
+00:25:39,840 --> 00:25:42,870
+Also, in a categorical moderator
+analysis, we assume typically that the
+
+1214
+00:25:42,870 --> 00:25:42,880
+analysis, we assume typically that the
+ 
+
+1215
+00:25:42,880 --> 00:25:44,710
+analysis, we assume typically that the
+between study variance is the same for
+
+1216
+00:25:44,710 --> 00:25:44,720
+between study variance is the same for
+ 
+
+1217
+00:25:44,720 --> 00:25:47,430
+between study variance is the same for
+all categories. This assumption may be
+
+1218
+00:25:47,430 --> 00:25:47,440
+all categories. This assumption may be
+ 
+
+1219
+00:25:47,440 --> 00:25:49,909
+all categories. This assumption may be
+violated. For instance, suppose you make
+
+1220
+00:25:49,909 --> 00:25:49,919
+violated. For instance, suppose you make
+ 
+
+1221
+00:25:49,919 --> 00:25:51,510
+violated. For instance, suppose you make
+a distinction between studies done in
+
+1222
+00:25:51,510 --> 00:25:51,520
+a distinction between studies done in
+ 
+
+1223
+00:25:51,520 --> 00:25:53,590
+a distinction between studies done in
+the US and studies done in the rest of
+
+1224
+00:25:53,590 --> 00:25:53,600
+the US and studies done in the rest of
+ 
+
+1225
+00:25:53,600 --> 00:25:55,590
+the US and studies done in the rest of
+the world. It's quite possible that the
+
+1226
+00:25:55,590 --> 00:25:55,600
+the world. It's quite possible that the
+ 
+
+1227
+00:25:55,600 --> 00:25:57,590
+the world. It's quite possible that the
+variation between studies in the US is
+
+1228
+00:25:57,590 --> 00:25:57,600
+variation between studies in the US is
+ 
+
+1229
+00:25:57,600 --> 00:25:59,510
+variation between studies in the US is
+smaller than the variation between
+
+1230
+00:25:59,510 --> 00:25:59,520
+smaller than the variation between
+ 
+
+1231
+00:25:59,520 --> 00:26:01,990
+smaller than the variation between
+studies in the rest of the world. In
+
+1232
+00:26:01,990 --> 00:26:02,000
+studies in the rest of the world. In
+ 
+
+1233
+00:26:02,000 --> 00:26:04,789
+studies in the rest of the world. In
+some software packages such as in such
+
+1234
+00:26:04,789 --> 00:26:04,799
+some software packages such as in such
+ 
+
+1235
+00:26:04,799 --> 00:26:06,870
+some software packages such as in such
+as in the comprehensive meta analysis
+
+1236
+00:26:06,870 --> 00:26:06,880
+as in the comprehensive meta analysis
+ 
+
+1237
+00:26:06,880 --> 00:26:08,950
+as in the comprehensive meta analysis
+software, you can choose whether you
+
+1238
+00:26:08,950 --> 00:26:08,960
+software, you can choose whether you
+ 
+
+1239
+00:26:08,960 --> 00:26:11,029
+software, you can choose whether you
+assume a common between study variance
+
+1240
+00:26:11,029 --> 00:26:11,039
+assume a common between study variance
+ 
+
+1241
+00:26:11,039 --> 00:26:13,350
+assume a common between study variance
+in all categories or whether you want to
+
+1242
+00:26:13,350 --> 00:26:13,360
+in all categories or whether you want to
+ 
+
+1243
+00:26:13,360 --> 00:26:15,510
+in all categories or whether you want to
+estimate a between study variance
+
+1244
+00:26:15,510 --> 00:26:15,520
+estimate a between study variance
+ 
+
+1245
+00:26:15,520 --> 00:26:19,909
+estimate a between study variance
+parameter for each category separately.
+
+1246
+00:26:19,909 --> 00:26:19,919
+parameter for each category separately.
+ 
+
+1247
+00:26:19,919 --> 00:26:21,909
+parameter for each category separately.
+Of course, in the last case, you need
+
+1248
+00:26:21,909 --> 00:26:21,919
+Of course, in the last case, you need
+ 
+
+1249
+00:26:21,919 --> 00:26:24,390
+Of course, in the last case, you need
+sufficient studies in each category to
+
+1250
+00:26:24,390 --> 00:26:24,400
+sufficient studies in each category to
+ 
+
+1251
+00:26:24,400 --> 00:26:26,230
+sufficient studies in each category to
+be able to get a good estimate of the
+
+1252
+00:26:26,230 --> 00:26:26,240
+be able to get a good estimate of the
+ 
+
+1253
+00:26:26,240 --> 00:26:30,230
+be able to get a good estimate of the
+category specific variance.
+
+1254
+00:26:30,230 --> 00:26:30,240
+category specific variance.
+ 
+
+1255
+00:26:30,240 --> 00:26:32,070
+category specific variance.
+In this way we arrive to another
+
+1256
+00:26:32,070 --> 00:26:32,080
+In this way we arrive to another
+ 
+
+1257
+00:26:32,080 --> 00:26:34,950
+In this way we arrive to another
+assumption.
+
+1258
+00:26:34,950 --> 00:26:34,960
+assumption.
+ 
+
+1259
+00:26:34,960 --> 00:26:36,630
+assumption.
+The assumption that we have sufficient
+
+1260
+00:26:36,630 --> 00:26:36,640
+The assumption that we have sufficient
+ 
+
+1261
+00:26:36,640 --> 00:26:38,789
+The assumption that we have sufficient
+studies. This is not a problem when
+
+1262
+00:26:38,789 --> 00:26:38,799
+studies. This is not a problem when
+ 
+
+1263
+00:26:38,799 --> 00:26:40,710
+studies. This is not a problem when
+using a fixed effects model. In a fixed
+
+1264
+00:26:40,710 --> 00:26:40,720
+using a fixed effects model. In a fixed
+ 
+
+1265
+00:26:40,720 --> 00:26:42,870
+using a fixed effects model. In a fixed
+effects model you can easily combine the
+
+1266
+00:26:42,870 --> 00:26:42,880
+effects model you can easily combine the
+ 
+
+1267
+00:26:42,880 --> 00:26:45,350
+effects model you can easily combine the
+results of two studies. But when using
+
+1268
+00:26:45,350 --> 00:26:45,360
+results of two studies. But when using
+ 
+
+1269
+00:26:45,360 --> 00:26:47,590
+results of two studies. But when using
+random effects model we are estimating
+
+1270
+00:26:47,590 --> 00:26:47,600
+random effects model we are estimating
+ 
+
+1271
+00:26:47,600 --> 00:26:49,430
+random effects model we are estimating
+the between study variance and this
+
+1272
+00:26:49,430 --> 00:26:49,440
+the between study variance and this
+ 
+
+1273
+00:26:49,440 --> 00:26:53,110
+the between study variance and this
+variance is also used to weight um
+
+1274
+00:26:53,110 --> 00:26:53,120
+variance is also used to weight um
+ 
+
+1275
+00:26:53,120 --> 00:26:55,990
+variance is also used to weight um
+effect sizes and to obtain standard
+
+1276
+00:26:55,990 --> 00:26:56,000
+effect sizes and to obtain standard
+ 
+
+1277
+00:26:56,000 --> 00:26:58,070
+effect sizes and to obtain standard
+errors. And it is clear that with only
+
+1278
+00:26:58,070 --> 00:26:58,080
+errors. And it is clear that with only
+ 
+
+1279
+00:26:58,080 --> 00:27:00,310
+errors. And it is clear that with only
+two studies you cannot obtain a good
+
+1280
+00:27:00,310 --> 00:27:00,320
+two studies you cannot obtain a good
+ 
+
+1281
+00:27:00,320 --> 00:27:03,110
+two studies you cannot obtain a good
+estimate of the between study variance.
+
+1282
+00:27:03,110 --> 00:27:03,120
+estimate of the between study variance.
+ 
+
+1283
+00:27:03,120 --> 00:27:06,149
+estimate of the between study variance.
+Ideally you have at least about 20
+
+1284
+00:27:06,149 --> 00:27:06,159
+Ideally you have at least about 20
+ 
+
+1285
+00:27:06,159 --> 00:27:08,310
+Ideally you have at least about 20
+studies.
+
+1286
+00:27:08,310 --> 00:27:08,320
+studies.
+ 
+
+1287
+00:27:08,320 --> 00:27:10,789
+studies.
+You could also do meta analysis with for
+
+1288
+00:27:10,789 --> 00:27:10,799
+You could also do meta analysis with for
+ 
+
+1289
+00:27:10,799 --> 00:27:13,510
+You could also do meta analysis with for
+instance only 10 studies but then you
+
+1290
+00:27:13,510 --> 00:27:13,520
+instance only 10 studies but then you
+ 
+
+1291
+00:27:13,520 --> 00:27:15,190
+instance only 10 studies but then you
+have to be very prudent with the
+
+1292
+00:27:15,190 --> 00:27:15,200
+have to be very prudent with the
+ 
+
+1293
+00:27:15,200 --> 00:27:17,750
+have to be very prudent with the
+results. And of course if you want to do
+
+1294
+00:27:17,750 --> 00:27:17,760
+results. And of course if you want to do
+ 
+
+1295
+00:27:17,760 --> 00:27:20,870
+results. And of course if you want to do
+moderator analysis 10 studies is likely
+
+1296
+00:27:20,870 --> 00:27:20,880
+moderator analysis 10 studies is likely
+ 
+
+1297
+00:27:20,880 --> 00:27:24,870
+moderator analysis 10 studies is likely
+a too small number of studies.
+
+1298
+00:27:24,870 --> 00:27:24,880
+a too small number of studies.
+ 
+
+1299
+00:27:24,880 --> 00:27:27,110
+a too small number of studies.
+Another assumption is that the observed
+
+1300
+00:27:27,110 --> 00:27:27,120
+Another assumption is that the observed
+ 
+
+1301
+00:27:27,120 --> 00:27:29,590
+Another assumption is that the observed
+effect sizes are unbiased estimates of
+
+1302
+00:27:29,590 --> 00:27:29,600
+effect sizes are unbiased estimates of
+ 
+
+1303
+00:27:29,600 --> 00:27:32,149
+effect sizes are unbiased estimates of
+the population effect sizes. That's the
+
+1304
+00:27:32,149 --> 00:27:32,159
+the population effect sizes. That's the
+ 
+
+1305
+00:27:32,159 --> 00:27:34,710
+the population effect sizes. That's the
+reason why we apply HCH's correction
+
+1306
+00:27:34,710 --> 00:27:34,720
+reason why we apply HCH's correction
+ 
+
+1307
+00:27:34,720 --> 00:27:36,390
+reason why we apply HCH's correction
+factor to the standardized mean
+
+1308
+00:27:36,390 --> 00:27:36,400
+factor to the standardized mean
+ 
+
+1309
+00:27:36,400 --> 00:27:40,630
+factor to the standardized mean
+difference.
+
+1310
+00:27:40,630 --> 00:27:40,640
+
+ 
+
+1311
+00:27:40,640 --> 00:27:42,789
+
+Otherwise, the observed effect sizes are
+
+1312
+00:27:42,789 --> 00:27:42,799
+Otherwise, the observed effect sizes are
+ 
+
+1313
+00:27:42,799 --> 00:27:46,789
+Otherwise, the observed effect sizes are
+somewhat biased for smaller studies.
+
+1314
+00:27:46,789 --> 00:27:46,799
+somewhat biased for smaller studies.
+ 
+
+1315
+00:27:46,799 --> 00:27:48,390
+somewhat biased for smaller studies.
+We also assume that the sampling
+
+1316
+00:27:48,390 --> 00:27:48,400
+We also assume that the sampling
+ 
+
+1317
+00:27:48,400 --> 00:27:50,470
+We also assume that the sampling
+distribution of our observed effect
+
+1318
+00:27:50,470 --> 00:27:50,480
+distribution of our observed effect
+ 
+
+1319
+00:27:50,480 --> 00:27:52,950
+distribution of our observed effect
+sizes is a normal distribution. We have
+
+1320
+00:27:52,950 --> 00:27:52,960
+sizes is a normal distribution. We have
+ 
+
+1321
+00:27:52,960 --> 00:27:54,549
+sizes is a normal distribution. We have
+seen that the sampling distribution of
+
+1322
+00:27:54,549 --> 00:27:54,559
+seen that the sampling distribution of
+ 
+
+1323
+00:27:54,559 --> 00:27:57,750
+seen that the sampling distribution of
+the correlation can be skewed especially
+
+1324
+00:27:57,750 --> 00:27:57,760
+the correlation can be skewed especially
+ 
+
+1325
+00:27:57,760 --> 00:28:00,710
+the correlation can be skewed especially
+for small sample sizes and when the
+
+1326
+00:28:00,710 --> 00:28:00,720
+for small sample sizes and when the
+ 
+
+1327
+00:28:00,720 --> 00:28:02,389
+for small sample sizes and when the
+population correlation is close to
+
+1328
+00:28:02,389 --> 00:28:02,399
+population correlation is close to
+ 
+
+1329
+00:28:02,399 --> 00:28:06,149
+population correlation is close to
+minus1 or + one that also that is also
+
+1330
+00:28:06,149 --> 00:28:06,159
+minus1 or + one that also that is also
+ 
+
+1331
+00:28:06,159 --> 00:28:08,710
+minus1 or + one that also that is also
+the reason why we typically use fisher
+
+1332
+00:28:08,710 --> 00:28:08,720
+the reason why we typically use fisher
+ 
+
+1333
+00:28:08,720 --> 00:28:11,029
+the reason why we typically use fisher
+transformations. This transformation
+
+1334
+00:28:11,029 --> 00:28:11,039
+transformations. This transformation
+ 
+
+1335
+00:28:11,039 --> 00:28:13,029
+transformations. This transformation
+makes the sampling distribution more
+
+1336
+00:28:13,029 --> 00:28:13,039
+makes the sampling distribution more
+ 
+
+1337
+00:28:13,039 --> 00:28:15,430
+makes the sampling distribution more
+symmetric and normal.
+
+1338
+00:28:15,430 --> 00:28:15,440
+symmetric and normal.
+ 
+
+1339
+00:28:15,440 --> 00:28:17,990
+symmetric and normal.
+Similarly, the odds ratio has a skew
+
+1340
+00:28:17,990 --> 00:28:18,000
+Similarly, the odds ratio has a skew
+ 
+
+1341
+00:28:18,000 --> 00:28:20,950
+Similarly, the odds ratio has a skew
+distribution, but the loss ratio has an
+
+1342
+00:28:20,950 --> 00:28:20,960
+distribution, but the loss ratio has an
+ 
+
+1343
+00:28:20,960 --> 00:28:22,950
+distribution, but the loss ratio has an
+approximately normal sampling
+
+1344
+00:28:22,950 --> 00:28:22,960
+approximately normal sampling
+ 
+
+1345
+00:28:22,960 --> 00:28:25,909
+approximately normal sampling
+distribution.
+
+1346
+00:28:25,909 --> 00:28:25,919
+distribution.
+ 
+
+1347
+00:28:25,919 --> 00:28:28,630
+distribution.
+Next, in a systematic review, we
+
+1348
+00:28:28,630 --> 00:28:28,640
+Next, in a systematic review, we
+ 
+
+1349
+00:28:28,640 --> 00:28:31,190
+Next, in a systematic review, we
+typically aim to find all existing
+
+1350
+00:28:31,190 --> 00:28:31,200
+typically aim to find all existing
+ 
+
+1351
+00:28:31,200 --> 00:28:32,950
+typically aim to find all existing
+studies that are relevant for our
+
+1352
+00:28:32,950 --> 00:28:32,960
+studies that are relevant for our
+ 
+
+1353
+00:28:32,960 --> 00:28:35,190
+studies that are relevant for our
+research interest. Of course, we
+
+1354
+00:28:35,190 --> 00:28:35,200
+research interest. Of course, we
+ 
+
+1355
+00:28:35,200 --> 00:28:36,870
+research interest. Of course, we
+probably will not be able to retrieve
+
+1356
+00:28:36,870 --> 00:28:36,880
+probably will not be able to retrieve
+ 
+
+1357
+00:28:36,880 --> 00:28:39,430
+probably will not be able to retrieve
+all relevant studies, but at least we
+
+1358
+00:28:39,430 --> 00:28:39,440
+all relevant studies, but at least we
+ 
+
+1359
+00:28:39,440 --> 00:28:41,510
+all relevant studies, but at least we
+make the assumption that our sample of
+
+1360
+00:28:41,510 --> 00:28:41,520
+make the assumption that our sample of
+ 
+
+1361
+00:28:41,520 --> 00:28:43,750
+make the assumption that our sample of
+studies is a random sample from all
+
+1362
+00:28:43,750 --> 00:28:43,760
+studies is a random sample from all
+ 
+
+1363
+00:28:43,760 --> 00:28:46,870
+studies is a random sample from all
+existing studies. Here you can see a
+
+1364
+00:28:46,870 --> 00:28:46,880
+existing studies. Here you can see a
+ 
+
+1365
+00:28:46,880 --> 00:28:49,430
+existing studies. Here you can see a
+link with publication bias. If you
+
+1366
+00:28:49,430 --> 00:28:49,440
+link with publication bias. If you
+ 
+
+1367
+00:28:49,440 --> 00:28:51,750
+link with publication bias. If you
+include published studies only, then
+
+1368
+00:28:51,750 --> 00:28:51,760
+include published studies only, then
+ 
+
+1369
+00:28:51,760 --> 00:28:53,909
+include published studies only, then
+your sample of studies is not a random
+
+1370
+00:28:53,909 --> 00:28:53,919
+your sample of studies is not a random
+ 
+
+1371
+00:28:53,919 --> 00:28:56,310
+your sample of studies is not a random
+sample from the population of existing
+
+1372
+00:28:56,310 --> 00:28:56,320
+sample from the population of existing
+ 
+
+1373
+00:28:56,320 --> 00:28:59,269
+sample from the population of existing
+studies. This is not a problem in say
+
+1374
+00:28:59,269 --> 00:28:59,279
+studies. This is not a problem in say
+ 
+
+1375
+00:28:59,279 --> 00:29:01,669
+studies. This is not a problem in say
+but when your sample of studies
+
+1376
+00:29:01,669 --> 00:29:01,679
+but when your sample of studies
+ 
+
+1377
+00:29:01,679 --> 00:29:03,430
+but when your sample of studies
+systematically differs from the
+
+1378
+00:29:03,430 --> 00:29:03,440
+systematically differs from the
+ 
+
+1379
+00:29:03,440 --> 00:29:06,310
+systematically differs from the
+population of ex of all existing studies
+
+1380
+00:29:06,310 --> 00:29:06,320
+population of ex of all existing studies
+ 
+
+1381
+00:29:06,320 --> 00:29:08,310
+population of ex of all existing studies
+there is a risk that the effect sizes
+
+1382
+00:29:08,310 --> 00:29:08,320
+there is a risk that the effect sizes
+ 
+
+1383
+00:29:08,320 --> 00:29:11,350
+there is a risk that the effect sizes
+you found are also not representative
+
+1384
+00:29:11,350 --> 00:29:11,360
+you found are also not representative
+ 
+
+1385
+00:29:11,360 --> 00:29:14,149
+you found are also not representative
+for the effect sizes that were observed.
+
+1386
+00:29:14,149 --> 00:29:14,159
+for the effect sizes that were observed.
+ 
+
+1387
+00:29:14,159 --> 00:29:19,190
+for the effect sizes that were observed.
+In other words, there is a risk of bias.
+
+1388
+00:29:19,190 --> 00:29:19,200
+In other words, there is a risk of bias.
+ 
+
+1389
+00:29:19,200 --> 00:29:21,830
+In other words, there is a risk of bias.
+Finally, if you do a meta regression
+
+1390
+00:29:21,830 --> 00:29:21,840
+Finally, if you do a meta regression
+ 
+
+1391
+00:29:21,840 --> 00:29:23,510
+Finally, if you do a meta regression
+analysis, you assume that the
+
+1392
+00:29:23,510 --> 00:29:23,520
+analysis, you assume that the
+ 
+
+1393
+00:29:23,520 --> 00:29:25,510
+analysis, you assume that the
+association between the effect size and
+
+1394
+00:29:25,510 --> 00:29:25,520
+association between the effect size and
+ 
+
+1395
+00:29:25,520 --> 00:29:28,149
+association between the effect size and
+the moderator is linear.
+
+1396
+00:29:28,149 --> 00:29:28,159
+the moderator is linear.
+ 
+
+1397
+00:29:28,159 --> 00:29:30,630
+the moderator is linear.
+It's a good idea to make a regression
+
+1398
+00:29:30,630 --> 00:29:30,640
+It's a good idea to make a regression
+ 
+
+1399
+00:29:30,640 --> 00:29:33,110
+It's a good idea to make a regression
+plot to check this assumption visually.
+
+1400
+00:29:33,110 --> 00:29:33,120
+plot to check this assumption visually.
+ 
+
+1401
+00:29:33,120 --> 00:29:35,750
+plot to check this assumption visually.
+Of course, also here a sufficiently
+
+1402
+00:29:35,750 --> 00:29:35,760
+Of course, also here a sufficiently
+ 
+
+1403
+00:29:35,760 --> 00:29:38,149
+Of course, also here a sufficiently
+large number of effect sizes is needed
+
+1404
+00:29:38,149 --> 00:29:38,159
+large number of effect sizes is needed
+ 
+
+1405
+00:29:38,159 --> 00:29:40,470
+large number of effect sizes is needed
+in order to make a distinction between
+
+1406
+00:29:40,470 --> 00:29:40,480
+in order to make a distinction between
+ 
+
+1407
+00:29:40,480 --> 00:29:44,440
+in order to make a distinction between
+different kinds of association.
+

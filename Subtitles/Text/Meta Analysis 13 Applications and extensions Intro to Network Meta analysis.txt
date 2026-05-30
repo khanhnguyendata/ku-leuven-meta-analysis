@@ -1,0 +1,371 @@
+When we talked about meta analysis of standardized mean differences, we assumed that all studies in our meta analysis are comparing one treatment with control condition.
+
+Although it is possible that there are small differences between studies in the treatment and you can include treatment characteristics as moderator variables in your analysis.
+
+We still assumed that there is one general type of treatment that is uh evaluated in all of the studies.
+
+Sometimes however the same problem can be treated in multiple ways.
+
+For instance, in the study of Linda, they distinguished 23 approaches to treat depression and different studies can study or can evaluate different treatments.
+
+It is even possible that within the same study different treatments are evaluated.
+
+It is also possible that in some studies a treatment is not immediately compared with a control condition but that rather treatments are directly compared to each other.
+
+In the study of Linda, they collected the data of a lot of studies and um you can see in the plot on the left side of the of the slide that uh the nodes refer to the 20 23 treatments of depression and you can see that some of these nodes are connected.
+
+This means that these um nodes or these treatments are directly compared.
+
+The thicker the connection, the more that connection has been studied.
+
+So you see that some of the treatments were uh immediately or were directly compared to each other.
+
+But uh most of the treatments are compared to placebo condition or a usual care uh condition.
+
+Note that not all treatments are immediately compared to each other.
+
+It is indeed very often the case that um studies compare a treatment with a control condition or a placebo condition.
+
+And this can make that if we make a similar plot which is called a network graph that we get a pattern like the right hand side uh graph which is called a starshaped network graph.
+
+In this graph you can see that there are multiple treatments but all of these treatments are compared to one control condition only.
+
+So the treatments are never compared directly with each other.
+
+These types of data can be combined in a network meta analysis.
+
+So in a network meta analysis we can combine the results of multiple studies that not necessarily uh studied the same treatment.
+
+So in total multiple treatments are analyzed possibly um within a primary study also multiple treatments can be studied. interesting in section network meta analysis is that based on the results we can rank the treatments from more effective to less effective.
+
+And so in that way we can compare treatments even if these treatments were not or were never uh studied uh or compared directly in primary studies.
+
+So if you have a starshaped uh network plot even in that situation you can rank as um treatments from less to more effective.
+
+How does it work?
+
+Well suppose that in one study treatment A has been compared to treatment B and suppose the standardized mean difference is 04.
+
+So this means that treatment A looks more effective than treatment B.
+
+In another study, treatment B was compared to treatment C and the observed standardized mean difference was uh 0.3 which means that treatment B was found more effective than treatment C.
+
+So the uh the network graph would look like this.
+
+So you have a treatment B that has been compared to treatment A as well as to treatment C.
+
+But A and C never have has been or have been compared directly.
+
+But still if you know that treatment A was more effective than treatment B and B is more effective than treatment C then you can assume that treatment A will be more effective than treatment C.
+
+So the difference between A and B is 0.4.
+
+A is more effective than B.
+
+The standardized mean difference is 04.
+
+Standardized mean difference between uh treatment C and B is.3.
+
+So that means that the difference between C and A is.7 or the estimated difference between C and A is.7.
+
+So the difference between the means standardized by standard deviation is equal to.7.
+
+So you see that although uh treatment A and C never has been studied or compared directly based on the results of these studies, we can give an estimate of the standardized mean difference or the the treatment effectiveness.
+
+Um we can compare the treatment effectiveness of both treatments.
+
+Um at least of course we have to make an assumption. we make the assumption of transitivity.
+
+So that if A is more effective than B, B is more effective than C, then we conclude that A is also more effective than C.
+
+And more specifically, the standardized mean difference between A and C is equal to the standardized mean difference between A and B plus the standardized mean difference between B and C.
+
+If we have two independent studies, so then the observed effect sizes are also independent of each other.
+
+And therefore the variance of the sum of the two standardized mean differences is equal to the sum of the two variances.
+
+We have seen how we can calculate the the sampling variance of a standardized mean difference.
+
+So based on that formula we can also calculate the variance of the sum of these two observed effect sizes.
+
+But sometimes there are also studies available that directly compare treatment A and C.
+
+And so now we have a closed um closed loop.
+
+So A is connected to B, B with C, but also A is connected with C.
+
+In this situation, we have two kinds of evidence.
+
+We have the indirect comparison of A and C uh by combining the results of study one and two.
+
+But we have also direct evidence uh by looking at results of study three.
+
+And so in the network meta analysis we can combine the two types of evidence direct and indirect evidence. if we would only look direct evidence to say something about uh A versus C, then we could use only the data from study three.
+
+If we also use the indirect evidence, then we also use data or evidence from study one and study two.
+
+So, by combining the direct and the indirect evidence, we use more data.
+
+As a result, the precision of the estimate of the effect or the difference between A and C will be higher.
+
+So the standard error will be smaller.
+
+So the confidence interval will be smaller and the statistical power will be higher.
+
+A second advantage of using indirect evidence as well is that in this way we can also compare treatments that have not been compared before in a direct way.
+
+So look again at the graph uh on this plot on on this slide.
+
+You can see that yeah a lot of treatments have been compared to a no treatment condition or to an alarm condition but uh now not a lot of pairs of treatments have been compared directly.
+
+So if you want to say something about whether psychological therapy or the use of uh the medication immina, which of the two treatments of um noctural and uras is more effective?
+
+We only can use indirect evidence now.
+
+So if we have an open network like in the plot here, we can use the results of a meta analysis on AB studies and a meta analysis of BC studies to obtain an indirect evidence of A versus C.
+
+Sometimes we have closed networks.
+
+So we do not have only indirect evidence but we also have direct evidence.
+
+So we can calculate a weighted average of the indirect estimate from um yeah comparing the results of the uh meta analysis of AB studies and the meta analysis of BC studies.
+
+We can compare or we can combine that uh result with direct estimates from a meta analysis of the AC studies.
+
+So in that way we get an estimate that is a mix of an in of indirect and direct evidence and therefore we also talk about a mixed estimate.
+
+Note that in the two cases we make the assumption of transitivity.
+
+Without that assumption of transitivity, we cannot uh obtain an indirect estimate and therefore also not a mixed estimate.
+
+But does it make sense this transitivity assumption?
+
+Well, the answer is sometimes it does.
+
+In other situations it does not.
+
+Look at this situation or this example.
+
+Suppose in one specific study a BMW was found to be much faster than the Range Rover.
+
+In a second study it was found that the Range Rover is much faster than a Porsche.
+
+So can you then conclude that the BMW is faster than a Porsche?
+
+Well, I guess you can see that this is that this does not make sense.
+
+The issue is here that in the first study a very old Range Rover was used.
+
+So of course the BMW is much faster than that that Range Rover.
+
+In the second study in which the Range Rover was the winner, the Range Rover was a very new Range Rover and moreover it was tested in very muddy conditions in conditions in which a Porsche is not expected to perform well.
+
+So of course the Range Rover will win in that situation.
+
+So you can see that the it's it's yeah the Range Rover in the first study was completely different Range Rover than Range Rover in the second study and it was also tested in completely different conditions.
+
+So therefore we cannot use a transitivity assumption.
+
+We cannot predict that indeed a BMW will be much faster than a Porsche on a highway for instance.
+
+So this transitivity assumption assumes that treatment B is doing equally good in the AB comparison studies compared to the BC comparison studies which is definitely not the case in the example on the previous slide.
+
+So, the Range Rover was not doing equally good when being compared to the the Porsche than when being compared to the BMW because it was an older um or or in comparison with the Porsche.
+
+It was a newer version of Range Rover and it was tested in a condition for which a Range Rover was made.
+
+So in general we can uh think about effect modifiers that are all kinds of characteristics of studies that can have an influence on the performance of a specific treatment.
+
+So for instance participant characteristics, study characteristics, treatment characteristics um and so on.
+
+And so the assumption underlying the transitivity assumption is that these effect modifiers are distributed similarly in studies in which A is compared to B compared to studies in which B is compared to C.
+
+So I think the the example of the cars is straightforward but this can also happen in meta analysis of drugs for instance.
+
+So there would be a problem if a new drug um is studied in studies uh with patients for which we know that the traditional treatments uh will probably not work.
+
+So if that new drug is used on patients for which we know okay there is no other choice that the traditional treatment work does not work so let's try out a new drug and if in other studies the traditional treatment is compared to uh another drug but in these other studies traditional treatments are also applied on patients for which possibly these traditional treatments work.
+
+So in that situation, comparing the new drug with um the other drug will not be a fair comparison because the transitivity assumption cannot be made or I mean an indirect comparison of the new drug and the other drug is not fair.
+
+An issue is that that assumption of transitivity cannot be tested statistically.
+
+But what we can do is we can ask experts to have a look at the different studies and to evaluate whether these potential effect modifiers are indeed equally distributed across these different designs or across these different types of studies. studies comparing A with B and studies comparing B with C.
+
+So the idea is that these studies should be comparable so that we can expect that treatment B will perform equally good in the first type of studies compared to the second type type of studies.
+
+The violation of the transitivity assumption can however lead to inconsistencies in the data.
+
+I mean if you have a closed loop so not uh in the graph that I show here here we do not have a closed loop.
+
+So A is compared with B b with C but A and C are not directly compared.
+
+So we can uh get an estimate an indirect estimate of the effect uh of A versus C but there is no other evidence.
+
+So there cannot be inconsistencies in the data.
+
+But suppose we have a closed loop like here.
+
+Then we can uh get an indirect estimate of the effect of a versus c.
+
+And we can compare that indirect uh evidence with direct evidence of um a versus c.
+
+And so we can look at whether these two estimates are in line with each other.
+
+This is also the case in this graph.
+
+So A and C can be compared indirectly via B but they can also be compared indirectly via D.
+
+So we have two different uh ways in which we can um estimate an indirect um treatment effect or we can indirectly estimate the treatment effect of A versus C.
+
+And we can compare these two indirect estimates.
+
+So if there would be a violation of the assumption of transitivity then it is possible that this is shown in inconsistencies in the data.
+
+So that the different estimates of the treatment effect of A versus C are not in line with each other.
+
+And we can also test these inconsistencies.
+
+So what is an inconsistency?
+
+Well, here we have an example where we have three studies.
+
+A is compared with B, B with C leading to an indirect uh treatment effect estimate of 7 and suppose that in study three uh ASC are compared directly and an observed effect size of.9 was found.
+
+So we have a direct estimate and an indirect estimate and we can compare the two.
+
+So we can evaluate whether these are more or less in line with each other.
+
+Of course you can see here that these two values are not exactly the same.
+
+This does not necessarily mean that there is inconsistency that the transitivity assumption is not correct.
+
+We know that there is always uh yeah sampling variation within studies.
+
+So the result that we obtain the observed effect size we obtain in a specific study is not necessarily exactly equal to the population effect size.
+
+There's the issue of sampling variation that we have seen before.
+
+So that can be an explanation why the 0.9 and 7 are not exactly the same.
+
+Another explanation is that different studies they um often differ in a lot of aspects and so there is heterogeneity between studies in in uh in how studies are set up and so on.
+
+And also these effects or this heterogeneity can possibly explain why.
+
+So again by coincidence in study three a slightly different estimate was obtained than uh the indirect estimate.
+
+A third reason is of course that there is real inconsistency that in studies in which A is compared to C that in these kinds of studies while conditions are different compared to conditions in which A is compared to B or B is compared to C and that this makes that transitivity assumption does not make sense and that Um yeah there are systematic differences between the direct and the indirect um estimates.
+
+There can also be inconsistencies when we have multiple indirect estimates.
+
+So here for instance stud three and four are comparing a with b d and d with c.
+
+So based on that information we can get an indirect estimate of a versus c.
+
+So how can you check transitivity or consistency?
+
+Well, a first way is to check the distribution of the effect modifiers over types of studies.
+
+So we want to know whether in general when BMWs and um Range Rovers are compared to each other, the conditions are different than when Range Rovers are compared with Porsches.
+
+We can also test an inconsistency factor.
+
+So we can uh test the difference between a direct and an indirect estimate.
+
+So this was proposed by Bher.
+
+The glazer and approach is somewhat more complex.
+
+So it can be used to test consistency when you have multiple estimates.
+
+So it's possible that for instance you have one direct estimate and two indirect estimates.
+
+But it's also possible to estimate and test uh model inconsistency in general across all types of um yeah across all pairs of treatments.
+
+For instance, look at the model of lumly.
+
+So a model that can be used if you have um standardized mean differences that's the dependent variable.
+
+So the dependent variable is the the mean difference standardized mean difference um when treatment I is compared with treatment J in study K.
+
+Well, this mean difference is defined to be equal to a difference between the mean the expected value for treatment I minus the expected value for treatment J plus random deviation that is due to study heterogeneity and that can have an effect on um yeah the mean that is um the the the mean for treatment I in that study K or the mean the population the expected value um for treatment J in study K and then and this is important there is an additional term which is a kind of interaction term for modeling the inconsistency so it is the additional effect on the standardized mean difference when treatment I is compared to treatment J and then you have random deviation uh due to sampling variance.
+
+So in this way by estimating uh the variance of that um interaction term we well if there would be no inconsistency then that variance of that interaction term would be equal to zero.
+
+And so in this way we can estimate the amount of inconsistency and we can test uh whether there is inconsistency.
+
+It's also possible even to include characteristics to try to explain this variance in uh this variance component.
+
+So to explain this inconsistency.
+
+So in practice suppose that you have five different treatments.
+
+Well, you could uh make use of four dummy variables.
+
+A dummy variable for treatment two for one for treatment three, one for treatment four, one for treatment five.
+
+And suppose that one treatment two is compared to treatment three.
+
+Then you have a one for the dummy variable x2 and you have a minus one for the dummy variable x3. you have an additional column with the mean differences and so on.
+
+And so based on the use of this model that is shown uh on the slide with these dummy variables included, you can estimate um yeah the means or the expected values for each of the treatments.
+
+Note that for one treatment you do not estimate the mean because uh the dependent variable are mean differences.
+
+So the model would not be defined if you would try to estimate the mean for each of the treatments.
+
+There is one of the treatments that should be used as a reference category otherwise the model is not identified. a remark.
+
+So you can test inconsistency by testing the variance component but this test can be underpowered for instance when you have a small number of studies that give direct evidence or when you have a large heterogeneity a lot of heterogeneity.
+
+So in these situations it is possible that in fact there is inconsistency but that based on your analysis you are not able to confirm the existence of inconsistency.
+
+So you cannot consider a non-significant test of inconsistency as a proof that there is no inconsistency as a proof of the transitivity assumption.
+
+Now suppose that you found that there is inconsistency.
+
+How can can you continue?
+
+Well, if you found inconsistency, so you know that the transitivity assumption may not work.
+
+So maybe in that situation, it is safer to use the direct effect estimates only rather than uh also including indirect estimates.
+
+An alternative approach is to try to explain inconsistency.
+
+So you can look at effect modifiers uh or you can include effect modifiers in your model to try to correct for these effect modifiers and to reduce the variance um component referring to the inconsistency. or you can continue with um your effect estimates.
+
+But then it is important to take into account the variance referring to that inconsistency when um yeah when constructing confidence intervals uh around the um the treatment effects or for testing the treatment effects because this amount of inconsistency adds to the uncertainty about the treatment effects.
+
+Then a final a few final remarks.
+
+So how many treatments can you include in your network?
+
+So the broader you you make your network.
+
+So the more treatments you include in your network, the more interesting your meta analysis can become because then you compare more treatments with each other and um yeah it can be yeah you get more results, you see better what treatments are more effective than what other treatments but at the same time your analysis is becoming much more complex and especially you are making much more comparisons.
+
+So the number of comparisons, the numbers, the number of pairs of treatments that are compared is increasing to to a very large degree by including additional treatments.
+
+So this makes that you are estimating much more parameters and it is possible that at the end um yeah you do not get stable estimates anymore of the different treatment effects.
+
+The suggestion I also want to give is well if you doubt whether to include an additional uh treatment you can also do a sensitivity analysis.
+
+We can look at does the um effect that we estimate um for comparing A with C does it change when we do not include only A, B and C as treatments in our network but also a treatment D.
+
+So in that way you can see how stable your network uh analysis uh results are.
+
+And if you can see that results are not very stable, then it is important to be transparent about it and also warn uh the the reader of your paper that results are not very stable or you can simplify your model and exclude some of the treatments to make the results more stable.
+
+A second remark is that well up to now I assumed that all studies include only one effect.
+
+So that um for instance uh each study is comparing one treatment with a control condition or one treatment with another treatment.
+
+But sometimes um in one and the same study multiple treatments are uh compared directly.
+
+So in that u sense or in that in that situation we talk about a multi-arm study.
+
+So such studies will give multiple effect sizes will give multiple standardized mean differences and so we should take into account that these multiple effect sizes are coming from the same study and so in that sense that there they are not independent of each other or there is some overlap in information.
+
+So we should take into account that correlation between effect sizes coming from the same study.
+
+But I'm not going to give more details about uh the techniques for network meta analysis.

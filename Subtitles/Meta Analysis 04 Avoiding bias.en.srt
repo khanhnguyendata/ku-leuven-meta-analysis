@@ -1,0 +1,4655 @@
+1
+00:00:01,199 --> 00:00:04,150
+
+In the search studies, in the selection
+
+2
+00:00:04,150 --> 00:00:04,160
+In the search studies, in the selection
+ 
+
+3
+00:00:04,160 --> 00:00:06,390
+In the search studies, in the selection
+of the studies and in the interpretation
+
+4
+00:00:06,390 --> 00:00:06,400
+of the studies and in the interpretation
+ 
+
+5
+00:00:06,400 --> 00:00:08,950
+of the studies and in the interpretation
+of the meta analytic results, you have
+
+6
+00:00:08,950 --> 00:00:08,960
+of the meta analytic results, you have
+ 
+
+7
+00:00:08,960 --> 00:00:12,549
+of the meta analytic results, you have
+to be aware of the risk of bias.
+
+8
+00:00:12,549 --> 00:00:12,559
+to be aware of the risk of bias.
+ 
+
+9
+00:00:12,559 --> 00:00:17,349
+to be aware of the risk of bias.
+This is what this screencast is about.
+
+10
+00:00:17,349 --> 00:00:17,359
+
+ 
+
+11
+00:00:17,359 --> 00:00:20,630
+
+The problem is if you include only
+
+12
+00:00:20,630 --> 00:00:20,640
+The problem is if you include only
+ 
+
+13
+00:00:20,640 --> 00:00:23,670
+The problem is if you include only
+papers that are published
+
+14
+00:00:23,670 --> 00:00:23,680
+papers that are published
+ 
+
+15
+00:00:23,680 --> 00:00:26,470
+papers that are published
+then the results may be biased. There
+
+16
+00:00:26,470 --> 00:00:26,480
+then the results may be biased. There
+ 
+
+17
+00:00:26,480 --> 00:00:29,029
+then the results may be biased. There
+can be different kinds of bias. outcome
+
+18
+00:00:29,029 --> 00:00:29,039
+can be different kinds of bias. outcome
+ 
+
+19
+00:00:29,039 --> 00:00:32,150
+can be different kinds of bias. outcome
+reporting bias which refers to the the
+
+20
+00:00:32,150 --> 00:00:32,160
+reporting bias which refers to the the
+ 
+
+21
+00:00:32,160 --> 00:00:35,830
+reporting bias which refers to the the
+idea that maybe researchers
+
+22
+00:00:35,830 --> 00:00:35,840
+idea that maybe researchers
+ 
+
+23
+00:00:35,840 --> 00:00:38,229
+idea that maybe researchers
+will report the results only if the
+
+24
+00:00:38,229 --> 00:00:38,239
+will report the results only if the
+ 
+
+25
+00:00:38,239 --> 00:00:39,750
+will report the results only if the
+results are going in a specific
+
+26
+00:00:39,750 --> 00:00:39,760
+results are going in a specific
+ 
+
+27
+00:00:39,760 --> 00:00:41,350
+results are going in a specific
+direction.
+
+28
+00:00:41,350 --> 00:00:41,360
+direction.
+ 
+
+29
+00:00:41,360 --> 00:00:44,709
+direction.
+So if you include in your meta analysis
+
+30
+00:00:44,709 --> 00:00:44,719
+So if you include in your meta analysis
+ 
+
+31
+00:00:44,719 --> 00:00:47,190
+So if you include in your meta analysis
+only studies that you found in the
+
+32
+00:00:47,190 --> 00:00:47,200
+only studies that you found in the
+ 
+
+33
+00:00:47,200 --> 00:00:50,790
+only studies that you found in the
+literature so that um results that were
+
+34
+00:00:50,790 --> 00:00:50,800
+literature so that um results that were
+ 
+
+35
+00:00:50,800 --> 00:00:53,430
+literature so that um results that were
+reported by the researchers you can get
+
+36
+00:00:53,430 --> 00:00:53,440
+reported by the researchers you can get
+ 
+
+37
+00:00:53,440 --> 00:00:56,150
+reported by the researchers you can get
+a biased view.
+
+38
+00:00:56,150 --> 00:00:56,160
+a biased view.
+ 
+
+39
+00:00:56,160 --> 00:00:59,670
+a biased view.
+Another issue is publication bias which
+
+40
+00:00:59,670 --> 00:00:59,680
+Another issue is publication bias which
+ 
+
+41
+00:00:59,680 --> 00:01:03,590
+Another issue is publication bias which
+refers to the problem that what is
+
+42
+00:01:03,590 --> 00:01:03,600
+refers to the problem that what is
+ 
+
+43
+00:01:03,600 --> 00:01:05,109
+refers to the problem that what is
+published
+
+44
+00:01:05,109 --> 00:01:05,119
+published
+ 
+
+45
+00:01:05,119 --> 00:01:07,990
+published
+may also
+
+46
+00:01:07,990 --> 00:01:08,000
+may also
+ 
+
+47
+00:01:08,000 --> 00:01:10,870
+may also
+yeah give a biased view of um the
+
+48
+00:01:10,870 --> 00:01:10,880
+yeah give a biased view of um the
+ 
+
+49
+00:01:10,880 --> 00:01:15,190
+yeah give a biased view of um the
+results maybe effects that are positive
+
+50
+00:01:15,190 --> 00:01:15,200
+results maybe effects that are positive
+ 
+
+51
+00:01:15,200 --> 00:01:17,910
+results maybe effects that are positive
+and that are large are more likely to be
+
+52
+00:01:17,910 --> 00:01:17,920
+and that are large are more likely to be
+ 
+
+53
+00:01:17,920 --> 00:01:20,630
+and that are large are more likely to be
+p to be published than uh smaller
+
+54
+00:01:20,630 --> 00:01:20,640
+p to be published than uh smaller
+ 
+
+55
+00:01:20,640 --> 00:01:23,749
+p to be published than uh smaller
+effects or negative effects. So if you
+
+56
+00:01:23,749 --> 00:01:23,759
+effects or negative effects. So if you
+ 
+
+57
+00:01:23,759 --> 00:01:26,310
+effects or negative effects. So if you
+look only at public published effects
+
+58
+00:01:26,310 --> 00:01:26,320
+look only at public published effects
+ 
+
+59
+00:01:26,320 --> 00:01:29,350
+look only at public published effects
+then maybe you will overestimate the
+
+60
+00:01:29,350 --> 00:01:29,360
+then maybe you will overestimate the
+ 
+
+61
+00:01:29,360 --> 00:01:31,670
+then maybe you will overestimate the
+size of the effect.
+
+62
+00:01:31,670 --> 00:01:31,680
+size of the effect.
+ 
+
+63
+00:01:31,680 --> 00:01:35,109
+size of the effect.
+Another problem is citation bias.
+
+64
+00:01:35,109 --> 00:01:35,119
+Another problem is citation bias.
+ 
+
+65
+00:01:35,119 --> 00:01:38,149
+Another problem is citation bias.
+So spectacular effects
+
+66
+00:01:38,149 --> 00:01:38,159
+So spectacular effects
+ 
+
+67
+00:01:38,159 --> 00:01:41,749
+So spectacular effects
+very large effects are much likely much
+
+68
+00:01:41,749 --> 00:01:41,759
+very large effects are much likely much
+ 
+
+69
+00:01:41,759 --> 00:01:45,030
+very large effects are much likely much
+more likely to be cited frequently.
+
+70
+00:01:45,030 --> 00:01:45,040
+more likely to be cited frequently.
+ 
+
+71
+00:01:45,040 --> 00:01:47,749
+more likely to be cited frequently.
+And so if effects are cited frequently,
+
+72
+00:01:47,749 --> 00:01:47,759
+And so if effects are cited frequently,
+ 
+
+73
+00:01:47,759 --> 00:01:50,469
+And so if effects are cited frequently,
+if studies are cited frequently, then it
+
+74
+00:01:50,469 --> 00:01:50,479
+if studies are cited frequently, then it
+ 
+
+75
+00:01:50,479 --> 00:01:52,630
+if studies are cited frequently, then it
+is much more likely that you will find
+
+76
+00:01:52,630 --> 00:01:52,640
+is much more likely that you will find
+ 
+
+77
+00:01:52,640 --> 00:01:55,350
+is much more likely that you will find
+that study and that you will include it
+
+78
+00:01:55,350 --> 00:01:55,360
+that study and that you will include it
+ 
+
+79
+00:01:55,360 --> 00:01:58,310
+that study and that you will include it
+in your meta analysis.
+
+80
+00:01:58,310 --> 00:01:58,320
+in your meta analysis.
+ 
+
+81
+00:01:58,320 --> 00:02:01,109
+in your meta analysis.
+If one study has not been cited yet or
+
+82
+00:02:01,109 --> 00:02:01,119
+If one study has not been cited yet or
+ 
+
+83
+00:02:01,119 --> 00:02:03,749
+If one study has not been cited yet or
+has been cited only once for instance,
+
+84
+00:02:03,749 --> 00:02:03,759
+has been cited only once for instance,
+ 
+
+85
+00:02:03,759 --> 00:02:05,590
+has been cited only once for instance,
+then the probability that you will find
+
+86
+00:02:05,590 --> 00:02:05,600
+then the probability that you will find
+ 
+
+87
+00:02:05,600 --> 00:02:08,550
+then the probability that you will find
+that study will be smaller and maybe you
+
+88
+00:02:08,550 --> 00:02:08,560
+that study will be smaller and maybe you
+ 
+
+89
+00:02:08,560 --> 00:02:09,910
+that study will be smaller and maybe you
+will miss that study in your math
+
+90
+00:02:09,910 --> 00:02:09,920
+will miss that study in your math
+ 
+
+91
+00:02:09,920 --> 00:02:13,589
+will miss that study in your math
+analysis. So this will also
+
+92
+00:02:13,589 --> 00:02:13,599
+analysis. So this will also
+ 
+
+93
+00:02:13,599 --> 00:02:17,510
+analysis. So this will also
+uh possibly um induce bias.
+
+94
+00:02:17,510 --> 00:02:17,520
+uh possibly um induce bias.
+ 
+
+95
+00:02:17,520 --> 00:02:19,510
+uh possibly um induce bias.
+Another kind of bias is multiple
+
+96
+00:02:19,510 --> 00:02:19,520
+Another kind of bias is multiple
+ 
+
+97
+00:02:19,520 --> 00:02:22,150
+Another kind of bias is multiple
+publication bias. You know that for
+
+98
+00:02:22,150 --> 00:02:22,160
+publication bias. You know that for
+ 
+
+99
+00:02:22,160 --> 00:02:25,190
+publication bias. You know that for
+researchers it's important to publish as
+
+100
+00:02:25,190 --> 00:02:25,200
+researchers it's important to publish as
+ 
+
+101
+00:02:25,200 --> 00:02:28,070
+researchers it's important to publish as
+much as possible and some researchers
+
+102
+00:02:28,070 --> 00:02:28,080
+much as possible and some researchers
+ 
+
+103
+00:02:28,080 --> 00:02:31,910
+much as possible and some researchers
+when they do when they did a study they
+
+104
+00:02:31,910 --> 00:02:31,920
+when they do when they did a study they
+ 
+
+105
+00:02:31,920 --> 00:02:34,470
+when they do when they did a study they
+try to make multiple publications out of
+
+106
+00:02:34,470 --> 00:02:34,480
+try to make multiple publications out of
+ 
+
+107
+00:02:34,480 --> 00:02:39,190
+try to make multiple publications out of
+that study. And so as a metalist you
+
+108
+00:02:39,190 --> 00:02:39,200
+that study. And so as a metalist you
+ 
+
+109
+00:02:39,200 --> 00:02:42,470
+that study. And so as a metalist you
+have to be very careful especially if
+
+110
+00:02:42,470 --> 00:02:42,480
+have to be very careful especially if
+ 
+
+111
+00:02:42,480 --> 00:02:46,070
+have to be very careful especially if
+you see that um the same author or the
+
+112
+00:02:46,070 --> 00:02:46,080
+you see that um the same author or the
+ 
+
+113
+00:02:46,080 --> 00:02:50,470
+you see that um the same author or the
+same authors published multiple papers
+
+114
+00:02:50,470 --> 00:02:50,480
+same authors published multiple papers
+ 
+
+115
+00:02:50,480 --> 00:02:53,430
+same authors published multiple papers
+then you have to make clear
+
+116
+00:02:53,430 --> 00:02:53,440
+then you have to make clear
+ 
+
+117
+00:02:53,440 --> 00:02:55,190
+then you have to make clear
+you have to make sure that these
+
+118
+00:02:55,190 --> 00:02:55,200
+you have to make sure that these
+ 
+
+119
+00:02:55,200 --> 00:02:58,150
+you have to make sure that these
+multiple papers are publishing on
+
+120
+00:02:58,150 --> 00:02:58,160
+multiple papers are publishing on
+ 
+
+121
+00:02:58,160 --> 00:03:00,710
+multiple papers are publishing on
+different data sets otherwise you can
+
+122
+00:03:00,710 --> 00:03:00,720
+different data sets otherwise you can
+ 
+
+123
+00:03:00,720 --> 00:03:03,750
+different data sets otherwise you can
+include in your meta analysis only one
+
+124
+00:03:03,750 --> 00:03:03,760
+include in your meta analysis only one
+ 
+
+125
+00:03:03,760 --> 00:03:06,390
+include in your meta analysis only one
+of these papers otherwise you will use
+
+126
+00:03:06,390 --> 00:03:06,400
+of these papers otherwise you will use
+ 
+
+127
+00:03:06,400 --> 00:03:09,110
+of these papers otherwise you will use
+the same data multiple times in your
+
+128
+00:03:09,110 --> 00:03:09,120
+the same data multiple times in your
+ 
+
+129
+00:03:09,120 --> 00:03:13,030
+the same data multiple times in your
+math analytic uh study, you will give a
+
+130
+00:03:13,030 --> 00:03:13,040
+math analytic uh study, you will give a
+ 
+
+131
+00:03:13,040 --> 00:03:16,630
+math analytic uh study, you will give a
+larger weight to that study that has
+
+132
+00:03:16,630 --> 00:03:16,640
+larger weight to that study that has
+ 
+
+133
+00:03:16,640 --> 00:03:20,470
+larger weight to that study that has
+been published multiple times.
+
+134
+00:03:20,470 --> 00:03:20,480
+been published multiple times.
+ 
+
+135
+00:03:20,480 --> 00:03:23,750
+been published multiple times.
+There can also be a bias in keywords.
+
+136
+00:03:23,750 --> 00:03:23,760
+There can also be a bias in keywords.
+ 
+
+137
+00:03:23,760 --> 00:03:26,470
+There can also be a bias in keywords.
+Um
+
+138
+00:03:26,470 --> 00:03:26,480
+Um
+ 
+
+139
+00:03:26,480 --> 00:03:30,470
+Um
+so it's possible that a specific word
+
+140
+00:03:30,470 --> 00:03:30,480
+so it's possible that a specific word
+ 
+
+141
+00:03:30,480 --> 00:03:34,070
+so it's possible that a specific word
+um a specific term is used more by
+
+142
+00:03:34,070 --> 00:03:34,080
+um a specific term is used more by
+ 
+
+143
+00:03:34,080 --> 00:03:36,229
+um a specific term is used more by
+specific researchers or in specific
+
+144
+00:03:36,229 --> 00:03:36,239
+specific researchers or in specific
+ 
+
+145
+00:03:36,239 --> 00:03:39,350
+specific researchers or in specific
+subdomains than in other domains. So if
+
+146
+00:03:39,350 --> 00:03:39,360
+subdomains than in other domains. So if
+ 
+
+147
+00:03:39,360 --> 00:03:45,270
+subdomains than in other domains. So if
+you do not try to use um other keywords
+
+148
+00:03:45,270 --> 00:03:45,280
+you do not try to use um other keywords
+ 
+
+149
+00:03:45,280 --> 00:03:48,229
+you do not try to use um other keywords
+um almost synonyms to search for
+
+150
+00:03:48,229 --> 00:03:48,239
+um almost synonyms to search for
+ 
+
+151
+00:03:48,239 --> 00:03:50,550
+um almost synonyms to search for
+literature, it's possible that you miss
+
+152
+00:03:50,550 --> 00:03:50,560
+literature, it's possible that you miss
+ 
+
+153
+00:03:50,560 --> 00:03:53,110
+literature, it's possible that you miss
+part of literature and that you miss
+
+154
+00:03:53,110 --> 00:03:53,120
+part of literature and that you miss
+ 
+
+155
+00:03:53,120 --> 00:03:55,509
+part of literature and that you miss
+systematic
+
+156
+00:03:55,509 --> 00:03:55,519
+systematic
+ 
+
+157
+00:03:55,519 --> 00:03:57,990
+systematic
+um that that your set of studies that
+
+158
+00:03:57,990 --> 00:03:58,000
+um that that your set of studies that
+ 
+
+159
+00:03:58,000 --> 00:04:00,550
+um that that your set of studies that
+you will find is not representative
+
+160
+00:04:00,550 --> 00:04:00,560
+you will find is not representative
+ 
+
+161
+00:04:00,560 --> 00:04:07,910
+you will find is not representative
+anymore for all studies that were done.
+
+162
+00:04:07,910 --> 00:04:07,920
+
+ 
+
+163
+00:04:07,920 --> 00:04:10,149
+
+It's also possible that there is bias in
+
+164
+00:04:10,149 --> 00:04:10,159
+It's also possible that there is bias in
+ 
+
+165
+00:04:10,159 --> 00:04:13,830
+It's also possible that there is bias in
+the sources that uh are used. So if you
+
+166
+00:04:13,830 --> 00:04:13,840
+the sources that uh are used. So if you
+ 
+
+167
+00:04:13,840 --> 00:04:18,789
+the sources that uh are used. So if you
+um if you use only
+
+168
+00:04:18,789 --> 00:04:18,799
+um if you use only
+ 
+
+169
+00:04:18,799 --> 00:04:22,230
+um if you use only
+uh journal articles then possibly so
+
+170
+00:04:22,230 --> 00:04:22,240
+uh journal articles then possibly so
+ 
+
+171
+00:04:22,240 --> 00:04:26,310
+uh journal articles then possibly so
+that are again published uh papers then
+
+172
+00:04:26,310 --> 00:04:26,320
+that are again published uh papers then
+ 
+
+173
+00:04:26,320 --> 00:04:29,030
+that are again published uh papers then
+again this can induce bias. So it's a
+
+174
+00:04:29,030 --> 00:04:29,040
+again this can induce bias. So it's a
+ 
+
+175
+00:04:29,040 --> 00:04:30,950
+again this can induce bias. So it's a
+good idea to use not only journal
+
+176
+00:04:30,950 --> 00:04:30,960
+good idea to use not only journal
+ 
+
+177
+00:04:30,960 --> 00:04:33,430
+good idea to use not only journal
+articles but maybe also look for books
+
+178
+00:04:33,430 --> 00:04:33,440
+articles but maybe also look for books
+ 
+
+179
+00:04:33,440 --> 00:04:36,550
+articles but maybe also look for books
+also look for technical reports and so
+
+180
+00:04:36,550 --> 00:04:36,560
+also look for technical reports and so
+ 
+
+181
+00:04:36,560 --> 00:04:44,230
+also look for technical reports and so
+on or conference proceedings and so on.
+
+182
+00:04:44,230 --> 00:04:44,240
+
+ 
+
+183
+00:04:44,240 --> 00:04:46,230
+
+Um
+
+184
+00:04:46,230 --> 00:04:46,240
+Um
+ 
+
+185
+00:04:46,240 --> 00:04:49,270
+Um
+also make sure that by defining the
+
+186
+00:04:49,270 --> 00:04:49,280
+also make sure that by defining the
+ 
+
+187
+00:04:49,280 --> 00:04:52,469
+also make sure that by defining the
+criteria that you use to decide on
+
+188
+00:04:52,469 --> 00:04:52,479
+criteria that you use to decide on
+ 
+
+189
+00:04:52,479 --> 00:04:55,430
+criteria that you use to decide on
+whether or not include uh individual
+
+190
+00:04:55,430 --> 00:04:55,440
+whether or not include uh individual
+ 
+
+191
+00:04:55,440 --> 00:04:58,629
+whether or not include uh individual
+studies that you make sure that by
+
+192
+00:04:58,629 --> 00:04:58,639
+studies that you make sure that by
+ 
+
+193
+00:04:58,639 --> 00:05:00,550
+studies that you make sure that by
+defining these criteria you do not
+
+194
+00:05:00,550 --> 00:05:00,560
+defining these criteria you do not
+ 
+
+195
+00:05:00,560 --> 00:05:03,909
+defining these criteria you do not
+induce uh bias. For instance, if you if
+
+196
+00:05:03,909 --> 00:05:03,919
+induce uh bias. For instance, if you if
+ 
+
+197
+00:05:03,919 --> 00:05:06,310
+induce uh bias. For instance, if you if
+one of your criteria is that you will
+
+198
+00:05:06,310 --> 00:05:06,320
+one of your criteria is that you will
+ 
+
+199
+00:05:06,320 --> 00:05:08,950
+one of your criteria is that you will
+include only experimental studies, then
+
+200
+00:05:08,950 --> 00:05:08,960
+include only experimental studies, then
+ 
+
+201
+00:05:08,960 --> 00:05:11,990
+include only experimental studies, then
+it's possible that specific studies or
+
+202
+00:05:11,990 --> 00:05:12,000
+it's possible that specific studies or
+ 
+
+203
+00:05:12,000 --> 00:05:14,710
+it's possible that specific studies or
+specific uh questions
+
+204
+00:05:14,710 --> 00:05:14,720
+specific uh questions
+ 
+
+205
+00:05:14,720 --> 00:05:18,950
+specific uh questions
+um will be or specific findings will be
+
+206
+00:05:18,950 --> 00:05:18,960
+um will be or specific findings will be
+ 
+
+207
+00:05:18,960 --> 00:05:23,029
+um will be or specific findings will be
+underrepresented in your meta analysis.
+
+208
+00:05:23,029 --> 00:05:23,039
+underrepresented in your meta analysis.
+ 
+
+209
+00:05:23,039 --> 00:05:25,110
+underrepresented in your meta analysis.
+There can also be geographical or
+
+210
+00:05:25,110 --> 00:05:25,120
+There can also be geographical or
+ 
+
+211
+00:05:25,120 --> 00:05:28,230
+There can also be geographical or
+language bias. For instance, if you um
+
+212
+00:05:28,230 --> 00:05:28,240
+language bias. For instance, if you um
+ 
+
+213
+00:05:28,240 --> 00:05:31,510
+language bias. For instance, if you um
+include only studies that were published
+
+214
+00:05:31,510 --> 00:05:31,520
+include only studies that were published
+ 
+
+215
+00:05:31,520 --> 00:05:34,150
+include only studies that were published
+in English, then maybe you will miss a
+
+216
+00:05:34,150 --> 00:05:34,160
+in English, then maybe you will miss a
+ 
+
+217
+00:05:34,160 --> 00:05:35,670
+in English, then maybe you will miss a
+lot of studies that were done, for
+
+218
+00:05:35,670 --> 00:05:35,680
+lot of studies that were done, for
+ 
+
+219
+00:05:35,680 --> 00:05:37,909
+lot of studies that were done, for
+instance, in China, which are often
+
+220
+00:05:37,909 --> 00:05:37,919
+instance, in China, which are often
+ 
+
+221
+00:05:37,919 --> 00:05:40,870
+instance, in China, which are often
+published in Chinese. Or you may miss a
+
+222
+00:05:40,870 --> 00:05:40,880
+published in Chinese. Or you may miss a
+ 
+
+223
+00:05:40,880 --> 00:05:43,029
+published in Chinese. Or you may miss a
+lot of uh studies that were done in
+
+224
+00:05:43,029 --> 00:05:43,039
+lot of uh studies that were done in
+ 
+
+225
+00:05:43,039 --> 00:05:45,830
+lot of uh studies that were done in
+France or in French-speaking countries
+
+226
+00:05:45,830 --> 00:05:45,840
+France or in French-speaking countries
+ 
+
+227
+00:05:45,840 --> 00:05:47,510
+France or in French-speaking countries
+because they also have their own
+
+228
+00:05:47,510 --> 00:05:47,520
+because they also have their own
+ 
+
+229
+00:05:47,520 --> 00:05:53,110
+because they also have their own
+journals in French language.
+
+230
+00:05:53,110 --> 00:05:53,120
+
+ 
+
+231
+00:05:53,120 --> 00:05:55,189
+
+And it is possible that for instance in
+
+232
+00:05:55,189 --> 00:05:55,199
+And it is possible that for instance in
+ 
+
+233
+00:05:55,199 --> 00:05:58,230
+And it is possible that for instance in
+China or in France or the French
+
+234
+00:05:58,230 --> 00:05:58,240
+China or in France or the French
+ 
+
+235
+00:05:58,240 --> 00:06:00,710
+China or in France or the French
+speakaking countries results are
+
+236
+00:06:00,710 --> 00:06:00,720
+speakaking countries results are
+ 
+
+237
+00:06:00,720 --> 00:06:02,790
+speakaking countries results are
+somewhat different than the results in
+
+238
+00:06:02,790 --> 00:06:02,800
+somewhat different than the results in
+ 
+
+239
+00:06:02,800 --> 00:06:05,029
+somewhat different than the results in
+the English-speaking countries or the
+
+240
+00:06:05,029 --> 00:06:05,039
+the English-speaking countries or the
+ 
+
+241
+00:06:05,039 --> 00:06:07,430
+the English-speaking countries or the
+countries in which a lot of studies were
+
+242
+00:06:07,430 --> 00:06:07,440
+countries in which a lot of studies were
+ 
+
+243
+00:06:07,440 --> 00:06:10,790
+countries in which a lot of studies were
+published in English.
+
+244
+00:06:10,790 --> 00:06:10,800
+published in English.
+ 
+
+245
+00:06:10,800 --> 00:06:15,590
+published in English.
+So there are several sources of bias.
+
+246
+00:06:15,590 --> 00:06:15,600
+So there are several sources of bias.
+ 
+
+247
+00:06:15,600 --> 00:06:18,950
+So there are several sources of bias.
+Let's look at the issue of publication
+
+248
+00:06:18,950 --> 00:06:18,960
+Let's look at the issue of publication
+ 
+
+249
+00:06:18,960 --> 00:06:21,749
+Let's look at the issue of publication
+or reporting bias.
+
+250
+00:06:21,749 --> 00:06:21,759
+or reporting bias.
+ 
+
+251
+00:06:21,759 --> 00:06:23,830
+or reporting bias.
+There are a there is a lot of evidence
+
+252
+00:06:23,830 --> 00:06:23,840
+There are a there is a lot of evidence
+ 
+
+253
+00:06:23,840 --> 00:06:25,990
+There are a there is a lot of evidence
+for this kind of bias. For instance,
+
+254
+00:06:25,990 --> 00:06:26,000
+for this kind of bias. For instance,
+ 
+
+255
+00:06:26,000 --> 00:06:28,309
+for this kind of bias. For instance,
+here Edgar and Schmidt did a met
+
+256
+00:06:28,309 --> 00:06:28,319
+here Edgar and Schmidt did a met
+ 
+
+257
+00:06:28,319 --> 00:06:31,029
+here Edgar and Schmidt did a met
+analysis
+
+258
+00:06:31,029 --> 00:06:31,039
+analysis
+ 
+
+259
+00:06:31,039 --> 00:06:33,830
+analysis
+on studies
+
+260
+00:06:33,830 --> 00:06:33,840
+on studies
+ 
+
+261
+00:06:33,840 --> 00:06:36,790
+on studies
+studying the
+
+262
+00:06:36,790 --> 00:06:36,800
+studying the
+ 
+
+263
+00:06:36,800 --> 00:06:40,870
+studying the
+um yeah monotherapy calculating agent
+
+264
+00:06:40,870 --> 00:06:40,880
+um yeah monotherapy calculating agent
+ 
+
+265
+00:06:40,880 --> 00:06:45,270
+um yeah monotherapy calculating agent
+versus a combination with chemotherapy
+
+266
+00:06:45,270 --> 00:06:45,280
+versus a combination with chemotherapy
+ 
+
+267
+00:06:45,280 --> 00:06:49,909
+versus a combination with chemotherapy
+to treat advanced ovarian cancer.
+
+268
+00:06:49,909 --> 00:06:49,919
+to treat advanced ovarian cancer.
+ 
+
+269
+00:06:49,919 --> 00:06:52,070
+to treat advanced ovarian cancer.
+and they did a meta analysis on
+
+270
+00:06:52,070 --> 00:06:52,080
+and they did a meta analysis on
+ 
+
+271
+00:06:52,080 --> 00:06:54,230
+and they did a meta analysis on
+published trials on published uh
+
+272
+00:06:54,230 --> 00:06:54,240
+published trials on published uh
+ 
+
+273
+00:06:54,240 --> 00:06:57,830
+published trials on published uh
+experimental studies and on average so
+
+274
+00:06:57,830 --> 00:06:57,840
+experimental studies and on average so
+ 
+
+275
+00:06:57,840 --> 00:07:00,550
+experimental studies and on average so
+they calculated the survival ratio for
+
+276
+00:07:00,550 --> 00:07:00,560
+they calculated the survival ratio for
+ 
+
+277
+00:07:00,560 --> 00:07:03,189
+they calculated the survival ratio for
+each study. So if the probability of
+
+278
+00:07:03,189 --> 00:07:03,199
+each study. So if the probability of
+ 
+
+279
+00:07:03,199 --> 00:07:06,710
+each study. So if the probability of
+surviving is equally high for both kinds
+
+280
+00:07:06,710 --> 00:07:06,720
+surviving is equally high for both kinds
+ 
+
+281
+00:07:06,720 --> 00:07:08,870
+surviving is equally high for both kinds
+of treatment
+
+282
+00:07:08,870 --> 00:07:08,880
+of treatment
+ 
+
+283
+00:07:08,880 --> 00:07:11,350
+of treatment
+then the survival ratio will be equal to
+
+284
+00:07:11,350 --> 00:07:11,360
+then the survival ratio will be equal to
+ 
+
+285
+00:07:11,360 --> 00:07:12,950
+then the survival ratio will be equal to
+one.
+
+286
+00:07:12,950 --> 00:07:12,960
+one.
+ 
+
+287
+00:07:12,960 --> 00:07:16,150
+one.
+Now they did a meta analysis and they
+
+288
+00:07:16,150 --> 00:07:16,160
+Now they did a meta analysis and they
+ 
+
+289
+00:07:16,160 --> 00:07:18,390
+Now they did a meta analysis and they
+based on the trials that were published
+
+290
+00:07:18,390 --> 00:07:18,400
+based on the trials that were published
+ 
+
+291
+00:07:18,400 --> 00:07:20,550
+based on the trials that were published
+and they found that on average the
+
+292
+00:07:20,550 --> 00:07:20,560
+and they found that on average the
+ 
+
+293
+00:07:20,560 --> 00:07:23,670
+and they found that on average the
+survival ratio is larger than one. It's
+
+294
+00:07:23,670 --> 00:07:23,680
+survival ratio is larger than one. It's
+ 
+
+295
+00:07:23,680 --> 00:07:26,150
+survival ratio is larger than one. It's
+about 1
+
+296
+00:07:26,150 --> 00:07:26,160
+about 1
+ 
+
+297
+00:07:26,160 --> 00:07:28,550
+about 1
+15 and if you look at the confidence
+
+298
+00:07:28,550 --> 00:07:28,560
+15 and if you look at the confidence
+ 
+
+299
+00:07:28,560 --> 00:07:30,469
+15 and if you look at the confidence
+interval you can see that one is not
+
+300
+00:07:30,469 --> 00:07:30,479
+interval you can see that one is not
+ 
+
+301
+00:07:30,479 --> 00:07:32,629
+interval you can see that one is not
+included in the confidence interval. So
+
+302
+00:07:32,629 --> 00:07:32,639
+included in the confidence interval. So
+ 
+
+303
+00:07:32,639 --> 00:07:34,469
+included in the confidence interval. So
+this means that based on the published
+
+304
+00:07:34,469 --> 00:07:34,479
+this means that based on the published
+ 
+
+305
+00:07:34,479 --> 00:07:38,230
+this means that based on the published
+data, their conclusion is well the
+
+306
+00:07:38,230 --> 00:07:38,240
+data, their conclusion is well the
+ 
+
+307
+00:07:38,240 --> 00:07:40,870
+data, their conclusion is well the
+combination with chemotherapy is more
+
+308
+00:07:40,870 --> 00:07:40,880
+combination with chemotherapy is more
+ 
+
+309
+00:07:40,880 --> 00:07:42,950
+combination with chemotherapy is more
+effective.
+
+310
+00:07:42,950 --> 00:07:42,960
+effective.
+ 
+
+311
+00:07:42,960 --> 00:07:46,870
+effective.
+It's statistically more effective than
+
+312
+00:07:46,870 --> 00:07:46,880
+It's statistically more effective than
+ 
+
+313
+00:07:46,880 --> 00:07:51,589
+It's statistically more effective than
+the monotherapy calculating agent only.
+
+314
+00:07:51,589 --> 00:07:51,599
+the monotherapy calculating agent only.
+ 
+
+315
+00:07:51,599 --> 00:07:55,029
+the monotherapy calculating agent only.
+But they repeated this meta analysis
+
+316
+00:07:55,029 --> 00:07:55,039
+But they repeated this meta analysis
+ 
+
+317
+00:07:55,039 --> 00:07:58,550
+But they repeated this meta analysis
+including all studies that were included
+
+318
+00:07:58,550 --> 00:07:58,560
+including all studies that were included
+ 
+
+319
+00:07:58,560 --> 00:08:00,790
+including all studies that were included
+uh that were registered.
+
+320
+00:08:00,790 --> 00:08:00,800
+uh that were registered.
+ 
+
+321
+00:08:00,800 --> 00:08:05,830
+uh that were registered.
+Um so note that some organizations if
+
+322
+00:08:05,830 --> 00:08:05,840
+Um so note that some organizations if
+ 
+
+323
+00:08:05,840 --> 00:08:08,550
+Um so note that some organizations if
+they give fundings to do research they
+
+324
+00:08:08,550 --> 00:08:08,560
+they give fundings to do research they
+ 
+
+325
+00:08:08,560 --> 00:08:11,589
+they give fundings to do research they
+require that the results are sent
+
+326
+00:08:11,589 --> 00:08:11,599
+require that the results are sent
+ 
+
+327
+00:08:11,599 --> 00:08:14,309
+require that the results are sent
+regardless of what results are and these
+
+328
+00:08:14,309 --> 00:08:14,319
+regardless of what results are and these
+ 
+
+329
+00:08:14,319 --> 00:08:17,670
+regardless of what results are and these
+results will be included in register the
+
+330
+00:08:17,670 --> 00:08:17,680
+results will be included in register the
+ 
+
+331
+00:08:17,680 --> 00:08:19,830
+results will be included in register the
+research register.
+
+332
+00:08:19,830 --> 00:08:19,840
+research register.
+ 
+
+333
+00:08:19,840 --> 00:08:24,710
+research register.
+So you can consider this register or the
+
+334
+00:08:24,710 --> 00:08:24,720
+So you can consider this register or the
+ 
+
+335
+00:08:24,720 --> 00:08:29,270
+So you can consider this register or the
+published trials as a sub set of the
+
+336
+00:08:29,270 --> 00:08:29,280
+published trials as a sub set of the
+ 
+
+337
+00:08:29,280 --> 00:08:32,469
+published trials as a sub set of the
+registered trials. And if you look at
+
+338
+00:08:32,469 --> 00:08:32,479
+registered trials. And if you look at
+ 
+
+339
+00:08:32,479 --> 00:08:35,269
+registered trials. And if you look at
+all trials that were registered then you
+
+340
+00:08:35,269 --> 00:08:35,279
+all trials that were registered then you
+ 
+
+341
+00:08:35,279 --> 00:08:38,149
+all trials that were registered then you
+see that on average the survival ratio
+
+342
+00:08:38,149 --> 00:08:38,159
+see that on average the survival ratio
+ 
+
+343
+00:08:38,159 --> 00:08:40,949
+see that on average the survival ratio
+is only slightly slightly larger than
+
+344
+00:08:40,949 --> 00:08:40,959
+is only slightly slightly larger than
+ 
+
+345
+00:08:40,959 --> 00:08:43,509
+is only slightly slightly larger than
+one and now the confidence interval
+
+346
+00:08:43,509 --> 00:08:43,519
+one and now the confidence interval
+ 
+
+347
+00:08:43,519 --> 00:08:46,870
+one and now the confidence interval
+includes one. So based on all trials, so
+
+348
+00:08:46,870 --> 00:08:46,880
+includes one. So based on all trials, so
+ 
+
+349
+00:08:46,880 --> 00:08:49,829
+includes one. So based on all trials, so
+published and unpublished trials, the
+
+350
+00:08:49,829 --> 00:08:49,839
+published and unpublished trials, the
+ 
+
+351
+00:08:49,839 --> 00:08:53,110
+published and unpublished trials, the
+conclusion is no, we do not see really a
+
+352
+00:08:53,110 --> 00:08:53,120
+conclusion is no, we do not see really a
+ 
+
+353
+00:08:53,120 --> 00:08:55,509
+conclusion is no, we do not see really a
+difference between the monotherapy
+
+354
+00:08:55,509 --> 00:08:55,519
+difference between the monotherapy
+ 
+
+355
+00:08:55,519 --> 00:08:57,829
+difference between the monotherapy
+calculating agent versus combination
+
+356
+00:08:57,829 --> 00:08:57,839
+calculating agent versus combination
+ 
+
+357
+00:08:57,839 --> 00:09:00,550
+calculating agent versus combination
+with chemotherapy.
+
+358
+00:09:00,550 --> 00:09:00,560
+with chemotherapy.
+ 
+
+359
+00:09:00,560 --> 00:09:02,070
+with chemotherapy.
+Whereas if you look at the published
+
+360
+00:09:02,070 --> 00:09:02,080
+Whereas if you look at the published
+ 
+
+361
+00:09:02,080 --> 00:09:04,949
+Whereas if you look at the published
+trials, you can see that difference. So
+
+362
+00:09:04,949 --> 00:09:04,959
+trials, you can see that difference. So
+ 
+
+363
+00:09:04,959 --> 00:09:06,550
+trials, you can see that difference. So
+this could be an indication of
+
+364
+00:09:06,550 --> 00:09:06,560
+this could be an indication of
+ 
+
+365
+00:09:06,560 --> 00:09:09,190
+this could be an indication of
+publication bias in the sense that more
+
+366
+00:09:09,190 --> 00:09:09,200
+publication bias in the sense that more
+ 
+
+367
+00:09:09,200 --> 00:09:11,750
+publication bias in the sense that more
+spectacular results. Studies that found
+
+368
+00:09:11,750 --> 00:09:11,760
+spectacular results. Studies that found
+ 
+
+369
+00:09:11,760 --> 00:09:14,550
+spectacular results. Studies that found
+a large difference between the two are
+
+370
+00:09:14,550 --> 00:09:14,560
+a large difference between the two are
+ 
+
+371
+00:09:14,560 --> 00:09:17,190
+a large difference between the two are
+more likely to be published or
+
+372
+00:09:17,190 --> 00:09:17,200
+more likely to be published or
+ 
+
+373
+00:09:17,200 --> 00:09:19,750
+more likely to be published or
+researchers are more likely to report
+
+374
+00:09:19,750 --> 00:09:19,760
+researchers are more likely to report
+ 
+
+375
+00:09:19,760 --> 00:09:22,470
+researchers are more likely to report
+these results.
+
+376
+00:09:22,470 --> 00:09:22,480
+these results.
+ 
+
+377
+00:09:22,480 --> 00:09:25,110
+these results.
+So this can be an indication of
+
+378
+00:09:25,110 --> 00:09:25,120
+So this can be an indication of
+ 
+
+379
+00:09:25,120 --> 00:09:28,630
+So this can be an indication of
+reporting bias and publication wise.
+
+380
+00:09:28,630 --> 00:09:28,640
+reporting bias and publication wise.
+ 
+
+381
+00:09:28,640 --> 00:09:32,630
+reporting bias and publication wise.
+Another example,
+
+382
+00:09:32,630 --> 00:09:32,640
+
+ 
+
+383
+00:09:32,640 --> 00:09:35,829
+
+Krishnanovski Kanovska
+
+384
+00:09:35,829 --> 00:09:35,839
+Krishnanovski Kanovska
+ 
+
+385
+00:09:35,839 --> 00:09:37,509
+Krishnanovski Kanovska
+uh
+
+386
+00:09:37,509 --> 00:09:37,519
+uh
+ 
+
+387
+00:09:37,519 --> 00:09:43,030
+uh
+looked at the proportion of studies
+
+388
+00:09:43,030 --> 00:09:43,040
+looked at the proportion of studies
+ 
+
+389
+00:09:43,040 --> 00:09:45,590
+looked at the proportion of studies
+that were published after five years
+
+390
+00:09:45,590 --> 00:09:45,600
+that were published after five years
+ 
+
+391
+00:09:45,600 --> 00:09:48,870
+that were published after five years
+after a conference
+
+392
+00:09:48,870 --> 00:09:48,880
+after a conference
+ 
+
+393
+00:09:48,880 --> 00:09:51,269
+after a conference
+conferences of the Society of Clinical
+
+394
+00:09:51,269 --> 00:09:51,279
+conferences of the Society of Clinical
+ 
+
+395
+00:09:51,279 --> 00:09:53,030
+conferences of the Society of Clinical
+Oncology.
+
+396
+00:09:53,030 --> 00:09:53,040
+Oncology.
+ 
+
+397
+00:09:53,040 --> 00:09:55,990
+Oncology.
+And I found that for studies that found
+
+398
+00:09:55,990 --> 00:09:56,000
+And I found that for studies that found
+ 
+
+399
+00:09:56,000 --> 00:09:57,990
+And I found that for studies that found
+significant results, the probability
+
+400
+00:09:57,990 --> 00:09:58,000
+significant results, the probability
+ 
+
+401
+00:09:58,000 --> 00:10:00,470
+significant results, the probability
+that these results will be published
+
+402
+00:10:00,470 --> 00:10:00,480
+that these results will be published
+ 
+
+403
+00:10:00,480 --> 00:10:03,190
+that these results will be published
+after five years after the conference is
+
+404
+00:10:03,190 --> 00:10:03,200
+after five years after the conference is
+ 
+
+405
+00:10:03,200 --> 00:10:05,910
+after five years after the conference is
+81%.
+
+406
+00:10:05,910 --> 00:10:05,920
+81%.
+ 
+
+407
+00:10:05,920 --> 00:10:07,990
+81%.
+Whereas for the non-significant results,
+
+408
+00:10:07,990 --> 00:10:08,000
+Whereas for the non-significant results,
+ 
+
+409
+00:10:08,000 --> 00:10:10,870
+Whereas for the non-significant results,
+only 68% of these studies were published
+
+410
+00:10:10,870 --> 00:10:10,880
+only 68% of these studies were published
+ 
+
+411
+00:10:10,880 --> 00:10:14,949
+only 68% of these studies were published
+after 5 years. So again, this is an
+
+412
+00:10:14,949 --> 00:10:14,959
+after 5 years. So again, this is an
+ 
+
+413
+00:10:14,959 --> 00:10:17,990
+after 5 years. So again, this is an
+indication of outcome
+
+414
+00:10:17,990 --> 00:10:18,000
+indication of outcome
+ 
+
+415
+00:10:18,000 --> 00:10:21,990
+indication of outcome
+uh reporting bias or publication bias.
+
+416
+00:10:21,990 --> 00:10:22,000
+uh reporting bias or publication bias.
+ 
+
+417
+00:10:22,000 --> 00:10:24,470
+uh reporting bias or publication bias.
+So it's possible that researchers did
+
+418
+00:10:24,470 --> 00:10:24,480
+So it's possible that researchers did
+ 
+
+419
+00:10:24,480 --> 00:10:26,949
+So it's possible that researchers did
+not send non-significant results to
+
+420
+00:10:26,949 --> 00:10:26,959
+not send non-significant results to
+ 
+
+421
+00:10:26,959 --> 00:10:29,670
+not send non-significant results to
+journals or if they sent it to journals
+
+422
+00:10:29,670 --> 00:10:29,680
+journals or if they sent it to journals
+ 
+
+423
+00:10:29,680 --> 00:10:33,430
+journals or if they sent it to journals
+maybe these results were not published
+
+424
+00:10:33,430 --> 00:10:33,440
+maybe these results were not published
+ 
+
+425
+00:10:33,440 --> 00:10:39,430
+maybe these results were not published
+because they were not significant.
+
+426
+00:10:39,430 --> 00:10:39,440
+
+ 
+
+427
+00:10:39,440 --> 00:10:43,829
+
+some other indications. Well, um if
+
+428
+00:10:43,829 --> 00:10:43,839
+some other indications. Well, um if
+ 
+
+429
+00:10:43,839 --> 00:10:48,870
+some other indications. Well, um if
+yeah, Finelli uh in 2012 looked at um a
+
+430
+00:10:48,870 --> 00:10:48,880
+yeah, Finelli uh in 2012 looked at um a
+ 
+
+431
+00:10:48,880 --> 00:10:51,910
+yeah, Finelli uh in 2012 looked at um a
+set of papers a large set of papers in
+
+432
+00:10:51,910 --> 00:10:51,920
+set of papers a large set of papers in
+ 
+
+433
+00:10:51,920 --> 00:10:54,389
+set of papers a large set of papers in
+psychology and psych psychiatry and they
+
+434
+00:10:54,389 --> 00:10:54,399
+psychology and psych psychiatry and they
+ 
+
+435
+00:10:54,399 --> 00:10:57,269
+psychology and psych psychiatry and they
+found that in 95% of the test null
+
+436
+00:10:57,269 --> 00:10:57,279
+found that in 95% of the test null
+ 
+
+437
+00:10:57,279 --> 00:10:59,110
+found that in 95% of the test null
+hypothesis
+
+438
+00:10:59,110 --> 00:10:59,120
+hypothesis
+ 
+
+439
+00:10:59,120 --> 00:11:01,990
+hypothesis
+um
+
+440
+00:11:01,990 --> 00:11:02,000
+um
+ 
+
+441
+00:11:02,000 --> 00:11:05,269
+um
+these null hypothesis were rejected.
+
+442
+00:11:05,269 --> 00:11:05,279
+these null hypothesis were rejected.
+ 
+
+443
+00:11:05,279 --> 00:11:08,069
+these null hypothesis were rejected.
+Whereas if you look at the size of uh
+
+444
+00:11:08,069 --> 00:11:08,079
+Whereas if you look at the size of uh
+ 
+
+445
+00:11:08,079 --> 00:11:11,269
+Whereas if you look at the size of uh
+the samples and if you look at what
+
+446
+00:11:11,269 --> 00:11:11,279
+the samples and if you look at what
+ 
+
+447
+00:11:11,279 --> 00:11:13,590
+the samples and if you look at what
+reasonable estimate of population effect
+
+448
+00:11:13,590 --> 00:11:13,600
+reasonable estimate of population effect
+ 
+
+449
+00:11:13,600 --> 00:11:16,069
+reasonable estimate of population effect
+size is then you see that the
+
+450
+00:11:16,069 --> 00:11:16,079
+size is then you see that the
+ 
+
+451
+00:11:16,079 --> 00:11:20,710
+size is then you see that the
+statistical power is only about uh 35%.
+
+452
+00:11:20,710 --> 00:11:20,720
+statistical power is only about uh 35%.
+ 
+
+453
+00:11:20,720 --> 00:11:24,470
+statistical power is only about uh 35%.
+So you would expect that um the
+
+454
+00:11:24,470 --> 00:11:24,480
+So you would expect that um the
+ 
+
+455
+00:11:24,480 --> 00:11:26,150
+So you would expect that um the
+probability of rejecting a null
+
+456
+00:11:26,150 --> 00:11:26,160
+probability of rejecting a null
+ 
+
+457
+00:11:26,160 --> 00:11:29,829
+probability of rejecting a null
+hypothesis is only about 35%.
+
+458
+00:11:29,829 --> 00:11:29,839
+hypothesis is only about 35%.
+ 
+
+459
+00:11:29,839 --> 00:11:32,949
+hypothesis is only about 35%.
+But still in most of the studies that
+
+460
+00:11:32,949 --> 00:11:32,959
+But still in most of the studies that
+ 
+
+461
+00:11:32,959 --> 00:11:35,590
+But still in most of the studies that
+are published the null hypothesis is
+
+462
+00:11:35,590 --> 00:11:35,600
+are published the null hypothesis is
+ 
+
+463
+00:11:35,600 --> 00:11:37,350
+are published the null hypothesis is
+rejected.
+
+464
+00:11:37,350 --> 00:11:37,360
+rejected.
+ 
+
+465
+00:11:37,360 --> 00:11:39,030
+rejected.
+Another
+
+466
+00:11:39,030 --> 00:11:39,040
+Another
+ 
+
+467
+00:11:39,040 --> 00:11:42,150
+Another
+example is uh in the reproducibility
+
+468
+00:11:42,150 --> 00:11:42,160
+example is uh in the reproducibility
+ 
+
+469
+00:11:42,160 --> 00:11:49,350
+example is uh in the reproducibility
+project they found that um
+
+470
+00:11:49,350 --> 00:11:49,360
+
+ 
+
+471
+00:11:49,360 --> 00:11:53,430
+
+that yeah in a lot of large studies um
+
+472
+00:11:53,430 --> 00:11:53,440
+that yeah in a lot of large studies um
+ 
+
+473
+00:11:53,440 --> 00:11:57,590
+that yeah in a lot of large studies um
+significant results were found but um it
+
+474
+00:11:57,590 --> 00:11:57,600
+significant results were found but um it
+ 
+
+475
+00:11:57,600 --> 00:12:02,389
+significant results were found but um it
+was very hard to replicate these uh
+
+476
+00:12:02,389 --> 00:12:02,399
+was very hard to replicate these uh
+ 
+
+477
+00:12:02,399 --> 00:12:05,750
+was very hard to replicate these uh
+significant results. So if other
+
+478
+00:12:05,750 --> 00:12:05,760
+significant results. So if other
+ 
+
+479
+00:12:05,760 --> 00:12:08,389
+significant results. So if other
+research groups were trying to do
+
+480
+00:12:08,389 --> 00:12:08,399
+research groups were trying to do
+ 
+
+481
+00:12:08,399 --> 00:12:12,069
+research groups were trying to do
+exactly the same study very often they
+
+482
+00:12:12,069 --> 00:12:12,079
+exactly the same study very often they
+ 
+
+483
+00:12:12,079 --> 00:12:14,310
+exactly the same study very often they
+did not find a significant result
+
+484
+00:12:14,310 --> 00:12:14,320
+did not find a significant result
+ 
+
+485
+00:12:14,320 --> 00:12:16,870
+did not find a significant result
+anymore. So it is possible that in
+
+486
+00:12:16,870 --> 00:12:16,880
+anymore. So it is possible that in
+ 
+
+487
+00:12:16,880 --> 00:12:20,150
+anymore. So it is possible that in
+reality there was no significant
+
+488
+00:12:20,150 --> 00:12:20,160
+reality there was no significant
+ 
+
+489
+00:12:20,160 --> 00:12:23,590
+reality there was no significant
+uh there is no effect but in a specific
+
+490
+00:12:23,590 --> 00:12:23,600
+uh there is no effect but in a specific
+ 
+
+491
+00:12:23,600 --> 00:12:26,150
+uh there is no effect but in a specific
+study a significant effect was found and
+
+492
+00:12:26,150 --> 00:12:26,160
+study a significant effect was found and
+ 
+
+493
+00:12:26,160 --> 00:12:29,990
+study a significant effect was found and
+this significant effect was uh
+
+494
+00:12:29,990 --> 00:12:30,000
+this significant effect was uh
+ 
+
+495
+00:12:30,000 --> 00:12:32,069
+this significant effect was uh
+uh was submitted to a journal and was
+
+496
+00:12:32,069 --> 00:12:32,079
+uh was submitted to a journal and was
+ 
+
+497
+00:12:32,079 --> 00:12:34,069
+uh was submitted to a journal and was
+published. Whereas in other studies
+
+498
+00:12:34,069 --> 00:12:34,079
+published. Whereas in other studies
+ 
+
+499
+00:12:34,079 --> 00:12:36,230
+published. Whereas in other studies
+maybe no effect was found but these
+
+500
+00:12:36,230 --> 00:12:36,240
+maybe no effect was found but these
+ 
+
+501
+00:12:36,240 --> 00:12:38,629
+maybe no effect was found but these
+results were not published or not sent
+
+502
+00:12:38,629 --> 00:12:38,639
+results were not published or not sent
+ 
+
+503
+00:12:38,639 --> 00:12:41,990
+results were not published or not sent
+to a journal. These results
+
+504
+00:12:41,990 --> 00:12:42,000
+to a journal. These results
+ 
+
+505
+00:12:42,000 --> 00:12:45,350
+to a journal. These results
+one explanation for these results is
+
+506
+00:12:45,350 --> 00:12:45,360
+one explanation for these results is
+ 
+
+507
+00:12:45,360 --> 00:12:48,470
+one explanation for these results is
+that uh researchers fabricated or
+
+508
+00:12:48,470 --> 00:12:48,480
+that uh researchers fabricated or
+ 
+
+509
+00:12:48,480 --> 00:12:51,910
+that uh researchers fabricated or
+falsified or modified the results in
+
+510
+00:12:51,910 --> 00:12:51,920
+falsified or modified the results in
+ 
+
+511
+00:12:51,920 --> 00:12:54,310
+falsified or modified the results in
+order to make sure that the results are
+
+512
+00:12:54,310 --> 00:12:54,320
+order to make sure that the results are
+ 
+
+513
+00:12:54,320 --> 00:12:58,710
+order to make sure that the results are
+statistically significant.
+
+514
+00:12:58,710 --> 00:12:58,720
+
+ 
+
+515
+00:12:58,720 --> 00:13:01,670
+
+A somewhat less pessimistic
+
+516
+00:13:01,670 --> 00:13:01,680
+A somewhat less pessimistic
+ 
+
+517
+00:13:01,680 --> 00:13:06,470
+A somewhat less pessimistic
+um explanation is that researchers
+
+518
+00:13:06,470 --> 00:13:06,480
+um explanation is that researchers
+ 
+
+519
+00:13:06,480 --> 00:13:10,710
+um explanation is that researchers
+um are using B hacking which means that
+
+520
+00:13:10,710 --> 00:13:10,720
+um are using B hacking which means that
+ 
+
+521
+00:13:10,720 --> 00:13:13,190
+um are using B hacking which means that
+well you know as a researcher you can
+
+522
+00:13:13,190 --> 00:13:13,200
+well you know as a researcher you can
+ 
+
+523
+00:13:13,200 --> 00:13:14,949
+well you know as a researcher you can
+you have a lot of freedom in how you
+
+524
+00:13:14,949 --> 00:13:14,959
+you have a lot of freedom in how you
+ 
+
+525
+00:13:14,959 --> 00:13:17,430
+you have a lot of freedom in how you
+analyze the data. You can include
+
+526
+00:13:17,430 --> 00:13:17,440
+analyze the data. You can include
+ 
+
+527
+00:13:17,440 --> 00:13:19,590
+analyze the data. You can include
+coariantss or not include coariantss.
+
+528
+00:13:19,590 --> 00:13:19,600
+coariantss or not include coariantss.
+ 
+
+529
+00:13:19,600 --> 00:13:22,069
+coariantss or not include coariantss.
+You can often do multiple tests. You can
+
+530
+00:13:22,069 --> 00:13:22,079
+You can often do multiple tests. You can
+ 
+
+531
+00:13:22,079 --> 00:13:24,550
+You can often do multiple tests. You can
+uh uh you can for instance use an
+
+532
+00:13:24,550 --> 00:13:24,560
+uh uh you can for instance use an
+ 
+
+533
+00:13:24,560 --> 00:13:26,870
+uh uh you can for instance use an
+analysis of variance, but you can also
+
+534
+00:13:26,870 --> 00:13:26,880
+analysis of variance, but you can also
+ 
+
+535
+00:13:26,880 --> 00:13:31,750
+analysis of variance, but you can also
+use uh regression analysis.
+
+536
+00:13:31,750 --> 00:13:31,760
+use uh regression analysis.
+ 
+
+537
+00:13:31,760 --> 00:13:34,150
+use uh regression analysis.
+And maybe the results or the conclusion
+
+538
+00:13:34,150 --> 00:13:34,160
+And maybe the results or the conclusion
+ 
+
+539
+00:13:34,160 --> 00:13:37,430
+And maybe the results or the conclusion
+will depend slightly on what type of
+
+540
+00:13:37,430 --> 00:13:37,440
+will depend slightly on what type of
+ 
+
+541
+00:13:37,440 --> 00:13:40,150
+will depend slightly on what type of
+analysis you did. And it is possible
+
+542
+00:13:40,150 --> 00:13:40,160
+analysis you did. And it is possible
+ 
+
+543
+00:13:40,160 --> 00:13:44,550
+analysis you did. And it is possible
+that some researchers or it is practice
+
+544
+00:13:44,550 --> 00:13:44,560
+that some researchers or it is practice
+ 
+
+545
+00:13:44,560 --> 00:13:47,750
+that some researchers or it is practice
+that some researchers are doing multiple
+
+546
+00:13:47,750 --> 00:13:47,760
+that some researchers are doing multiple
+ 
+
+547
+00:13:47,760 --> 00:13:51,509
+that some researchers are doing multiple
+analysis and only report the results of
+
+548
+00:13:51,509 --> 00:13:51,519
+analysis and only report the results of
+ 
+
+549
+00:13:51,519 --> 00:13:54,629
+analysis and only report the results of
+analysis that show significant results
+
+550
+00:13:54,629 --> 00:13:54,639
+analysis that show significant results
+ 
+
+551
+00:13:54,639 --> 00:13:59,670
+analysis that show significant results
+and fail to send or report uh the
+
+552
+00:13:59,670 --> 00:13:59,680
+and fail to send or report uh the
+ 
+
+553
+00:13:59,680 --> 00:14:03,509
+and fail to send or report uh the
+non-significant results to a journal. So
+
+554
+00:14:03,509 --> 00:14:03,519
+non-significant results to a journal. So
+ 
+
+555
+00:14:03,519 --> 00:14:05,910
+non-significant results to a journal. So
+this is what is called P hacking. So
+
+556
+00:14:05,910 --> 00:14:05,920
+this is what is called P hacking. So
+ 
+
+557
+00:14:05,920 --> 00:14:08,150
+this is what is called P hacking. So
+people are looking for significant
+
+558
+00:14:08,150 --> 00:14:08,160
+people are looking for significant
+ 
+
+559
+00:14:08,160 --> 00:14:11,030
+people are looking for significant
+results by doing a lot of analysis and
+
+560
+00:14:11,030 --> 00:14:11,040
+results by doing a lot of analysis and
+ 
+
+561
+00:14:11,040 --> 00:14:18,150
+results by doing a lot of analysis and
+only selecting significant results.
+
+562
+00:14:18,150 --> 00:14:18,160
+
+ 
+
+563
+00:14:18,160 --> 00:14:20,470
+
+So to illustrate that this problem of
+
+564
+00:14:20,470 --> 00:14:20,480
+So to illustrate that this problem of
+ 
+
+565
+00:14:20,480 --> 00:14:23,750
+So to illustrate that this problem of
+publication bias
+
+566
+00:14:23,750 --> 00:14:23,760
+publication bias
+ 
+
+567
+00:14:23,760 --> 00:14:26,949
+publication bias
+is a real problem and to illustrate
+
+568
+00:14:26,949 --> 00:14:26,959
+is a real problem and to illustrate
+ 
+
+569
+00:14:26,959 --> 00:14:32,389
+is a real problem and to illustrate
+where it could come from here. Um yeah
+
+570
+00:14:32,389 --> 00:14:32,399
+where it could come from here. Um yeah
+ 
+
+571
+00:14:32,399 --> 00:14:35,509
+where it could come from here. Um yeah
+part of a letter that we received from
+
+572
+00:14:35,509 --> 00:14:35,519
+part of a letter that we received from
+ 
+
+573
+00:14:35,519 --> 00:14:38,389
+part of a letter that we received from
+an editor of a chi scientific journal to
+
+574
+00:14:38,389 --> 00:14:38,399
+an editor of a chi scientific journal to
+ 
+
+575
+00:14:38,399 --> 00:14:41,990
+an editor of a chi scientific journal to
+which we submitted a paper reporting on
+
+576
+00:14:41,990 --> 00:14:42,000
+which we submitted a paper reporting on
+ 
+
+577
+00:14:42,000 --> 00:14:46,069
+which we submitted a paper reporting on
+a study we have done.
+
+578
+00:14:46,069 --> 00:14:46,079
+
+ 
+
+579
+00:14:46,079 --> 00:14:48,629
+
+So when we do a study and we write a
+
+580
+00:14:48,629 --> 00:14:48,639
+So when we do a study and we write a
+ 
+
+581
+00:14:48,639 --> 00:14:51,110
+So when we do a study and we write a
+paper, we send that paper to an editor
+
+582
+00:14:51,110 --> 00:14:51,120
+paper, we send that paper to an editor
+ 
+
+583
+00:14:51,120 --> 00:14:54,069
+paper, we send that paper to an editor
+of a journal. That editor often reads
+
+584
+00:14:54,069 --> 00:14:54,079
+of a journal. That editor often reads
+ 
+
+585
+00:14:54,079 --> 00:14:58,150
+of a journal. That editor often reads
+the paper and then decides um to send
+
+586
+00:14:58,150 --> 00:14:58,160
+the paper and then decides um to send
+ 
+
+587
+00:14:58,160 --> 00:15:01,350
+the paper and then decides um to send
+that paper out to several experts
+
+588
+00:15:01,350 --> 00:15:01,360
+that paper out to several experts
+ 
+
+589
+00:15:01,360 --> 00:15:04,629
+that paper out to several experts
+throughout the world uh to ask the
+
+590
+00:15:04,629 --> 00:15:04,639
+throughout the world uh to ask the
+ 
+
+591
+00:15:04,639 --> 00:15:08,069
+throughout the world uh to ask the
+opinion of these experts on whether this
+
+592
+00:15:08,069 --> 00:15:08,079
+opinion of these experts on whether this
+ 
+
+593
+00:15:08,079 --> 00:15:10,790
+opinion of these experts on whether this
+paper can be published or not. Very
+
+594
+00:15:10,790 --> 00:15:10,800
+paper can be published or not. Very
+ 
+
+595
+00:15:10,800 --> 00:15:12,790
+paper can be published or not. Very
+often experts will give comments, will
+
+596
+00:15:12,790 --> 00:15:12,800
+often experts will give comments, will
+ 
+
+597
+00:15:12,800 --> 00:15:15,350
+often experts will give comments, will
+give suggestions to improve the paper
+
+598
+00:15:15,350 --> 00:15:15,360
+give suggestions to improve the paper
+ 
+
+599
+00:15:15,360 --> 00:15:18,710
+give suggestions to improve the paper
+and then uh the authors revise the paper
+
+600
+00:15:18,710 --> 00:15:18,720
+and then uh the authors revise the paper
+ 
+
+601
+00:15:18,720 --> 00:15:21,509
+and then uh the authors revise the paper
+and submit it again after which maybe
+
+602
+00:15:21,509 --> 00:15:21,519
+and submit it again after which maybe
+ 
+
+603
+00:15:21,519 --> 00:15:24,310
+and submit it again after which maybe
+the paper will be accepted for
+
+604
+00:15:24,310 --> 00:15:24,320
+the paper will be accepted for
+ 
+
+605
+00:15:24,320 --> 00:15:27,030
+the paper will be accepted for
+publication. So, but here we sent our
+
+606
+00:15:27,030 --> 00:15:27,040
+publication. So, but here we sent our
+ 
+
+607
+00:15:27,040 --> 00:15:30,389
+publication. So, but here we sent our
+paper to a journal and the editor mailed
+
+608
+00:15:30,389 --> 00:15:30,399
+paper to a journal and the editor mailed
+ 
+
+609
+00:15:30,399 --> 00:15:32,790
+paper to a journal and the editor mailed
+back to us and he said, "Well, I have
+
+610
+00:15:32,790 --> 00:15:32,800
+back to us and he said, "Well, I have
+ 
+
+611
+00:15:32,800 --> 00:15:35,110
+back to us and he said, "Well, I have
+decided not to send out your manuscript
+
+612
+00:15:35,110 --> 00:15:35,120
+decided not to send out your manuscript
+ 
+
+613
+00:15:35,120 --> 00:15:37,910
+decided not to send out your manuscript
+for full review because the effects you
+
+614
+00:15:37,910 --> 00:15:37,920
+for full review because the effects you
+ 
+
+615
+00:15:37,920 --> 00:15:40,150
+for full review because the effects you
+were you found are very small in
+
+616
+00:15:40,150 --> 00:15:40,160
+were you found are very small in
+ 
+
+617
+00:15:40,160 --> 00:15:42,550
+were you found are very small in
+magnitude and so this could be
+
+618
+00:15:42,550 --> 00:15:42,560
+magnitude and so this could be
+ 
+
+619
+00:15:42,560 --> 00:15:45,430
+magnitude and so this could be
+interpreted as relatively trivial by
+
+620
+00:15:45,430 --> 00:15:45,440
+interpreted as relatively trivial by
+ 
+
+621
+00:15:45,440 --> 00:15:48,629
+interpreted as relatively trivial by
+readers.
+
+622
+00:15:48,629 --> 00:15:48,639
+
+ 
+
+623
+00:15:48,639 --> 00:15:51,829
+
+We replied to the editor that this is
+
+624
+00:15:51,829 --> 00:15:51,839
+We replied to the editor that this is
+ 
+
+625
+00:15:51,839 --> 00:15:53,990
+We replied to the editor that this is
+exactly the problem
+
+626
+00:15:53,990 --> 00:15:54,000
+exactly the problem
+ 
+
+627
+00:15:54,000 --> 00:15:57,189
+exactly the problem
+or this is exactly the process that may
+
+628
+00:15:57,189 --> 00:15:57,199
+or this is exactly the process that may
+ 
+
+629
+00:15:57,199 --> 00:16:00,629
+or this is exactly the process that may
+lead to publication buys. If only
+
+630
+00:16:00,629 --> 00:16:00,639
+lead to publication buys. If only
+ 
+
+631
+00:16:00,639 --> 00:16:04,710
+lead to publication buys. If only
+spectacular effects will be published
+
+632
+00:16:04,710 --> 00:16:04,720
+spectacular effects will be published
+ 
+
+633
+00:16:04,720 --> 00:16:09,829
+spectacular effects will be published
+and small effects are looked at or are
+
+634
+00:16:09,829 --> 00:16:09,839
+and small effects are looked at or are
+ 
+
+635
+00:16:09,839 --> 00:16:12,790
+and small effects are looked at or are
+considered as trivial and therefore not
+
+636
+00:16:12,790 --> 00:16:12,800
+considered as trivial and therefore not
+ 
+
+637
+00:16:12,800 --> 00:16:16,310
+considered as trivial and therefore not
+published. Then we get a biased view
+
+638
+00:16:16,310 --> 00:16:16,320
+published. Then we get a biased view
+ 
+
+639
+00:16:16,320 --> 00:16:18,389
+published. Then we get a biased view
+because as we have seen in our
+
+640
+00:16:18,389 --> 00:16:18,399
+because as we have seen in our
+ 
+
+641
+00:16:18,399 --> 00:16:19,990
+because as we have seen in our
+simulation study and in the other
+
+642
+00:16:19,990 --> 00:16:20,000
+simulation study and in the other
+ 
+
+643
+00:16:20,000 --> 00:16:22,790
+simulation study and in the other
+studies you can expect that if there is
+
+644
+00:16:22,790 --> 00:16:22,800
+studies you can expect that if there is
+ 
+
+645
+00:16:22,800 --> 00:16:26,230
+studies you can expect that if there is
+a population effect that sometimes your
+
+646
+00:16:26,230 --> 00:16:26,240
+a population effect that sometimes your
+ 
+
+647
+00:16:26,240 --> 00:16:27,910
+a population effect that sometimes your
+observed effect will be smaller
+
+648
+00:16:27,910 --> 00:16:27,920
+observed effect will be smaller
+ 
+
+649
+00:16:27,920 --> 00:16:31,030
+observed effect will be smaller
+sometimes it will be larger. So if we if
+
+650
+00:16:31,030 --> 00:16:31,040
+sometimes it will be larger. So if we if
+ 
+
+651
+00:16:31,040 --> 00:16:34,470
+sometimes it will be larger. So if we if
+we if we submit and if we publish only
+
+652
+00:16:34,470 --> 00:16:34,480
+we if we submit and if we publish only
+ 
+
+653
+00:16:34,480 --> 00:16:38,310
+we if we submit and if we publish only
+the largest effects then we we will get
+
+654
+00:16:38,310 --> 00:16:38,320
+the largest effects then we we will get
+ 
+
+655
+00:16:38,320 --> 00:16:41,990
+the largest effects then we we will get
+an overestimate of our population effect
+
+656
+00:16:41,990 --> 00:16:42,000
+an overestimate of our population effect
+ 
+
+657
+00:16:42,000 --> 00:16:44,949
+an overestimate of our population effect
+size when we calculate the mean effect
+
+658
+00:16:44,949 --> 00:16:44,959
+size when we calculate the mean effect
+ 
+
+659
+00:16:44,959 --> 00:16:47,910
+size when we calculate the mean effect
+that we find in the literature. But of
+
+660
+00:16:47,910 --> 00:16:47,920
+that we find in the literature. But of
+ 
+
+661
+00:16:47,920 --> 00:16:50,790
+that we find in the literature. But of
+course the editor did not reply anymore.
+
+662
+00:16:50,790 --> 00:16:50,800
+course the editor did not reply anymore.
+ 
+
+663
+00:16:50,800 --> 00:16:53,590
+course the editor did not reply anymore.
+Um fortunately we sent it to another
+
+664
+00:16:53,590 --> 00:16:53,600
+Um fortunately we sent it to another
+ 
+
+665
+00:16:53,600 --> 00:16:56,389
+Um fortunately we sent it to another
+journal and our paper was was published
+
+666
+00:16:56,389 --> 00:16:56,399
+journal and our paper was was published
+ 
+
+667
+00:16:56,399 --> 00:16:58,550
+journal and our paper was was published
+in the other journal.
+
+668
+00:16:58,550 --> 00:16:58,560
+in the other journal.
+ 
+
+669
+00:16:58,560 --> 00:17:02,310
+in the other journal.
+a very similar experience um which is
+
+670
+00:17:02,310 --> 00:17:02,320
+a very similar experience um which is
+ 
+
+671
+00:17:02,320 --> 00:17:04,870
+a very similar experience um which is
+much more recent
+
+672
+00:17:04,870 --> 00:17:04,880
+much more recent
+ 
+
+673
+00:17:04,880 --> 00:17:07,350
+much more recent
+um so again we submitted the paper to a
+
+674
+00:17:07,350 --> 00:17:07,360
+um so again we submitted the paper to a
+ 
+
+675
+00:17:07,360 --> 00:17:10,230
+um so again we submitted the paper to a
+journal
+
+676
+00:17:10,230 --> 00:17:10,240
+journal
+ 
+
+677
+00:17:10,240 --> 00:17:13,350
+journal
+and the editor said um yeah I'm not
+
+678
+00:17:13,350 --> 00:17:13,360
+and the editor said um yeah I'm not
+ 
+
+679
+00:17:13,360 --> 00:17:15,750
+and the editor said um yeah I'm not
+going to publish this paper there are
+
+680
+00:17:15,750 --> 00:17:15,760
+going to publish this paper there are
+ 
+
+681
+00:17:15,760 --> 00:17:18,150
+going to publish this paper there are
+some issues with that problem with that
+
+682
+00:17:18,150 --> 00:17:18,160
+some issues with that problem with that
+ 
+
+683
+00:17:18,160 --> 00:17:21,669
+some issues with that problem with that
+paper but if your findings had been
+
+684
+00:17:21,669 --> 00:17:21,679
+paper but if your findings had been
+ 
+
+685
+00:17:21,679 --> 00:17:24,309
+paper but if your findings had been
+particularly large or striking then
+
+686
+00:17:24,309 --> 00:17:24,319
+particularly large or striking then
+ 
+
+687
+00:17:24,319 --> 00:17:27,350
+particularly large or striking then
+having only measured engagement once a
+
+688
+00:17:27,350 --> 00:17:27,360
+having only measured engagement once a
+ 
+
+689
+00:17:27,360 --> 00:17:32,630
+having only measured engagement once a
+year might not have been a concern.
+
+690
+00:17:32,630 --> 00:17:32,640
+
+ 
+
+691
+00:17:32,640 --> 00:17:36,150
+
+So again based on the size of the effect
+
+692
+00:17:36,150 --> 00:17:36,160
+So again based on the size of the effect
+ 
+
+693
+00:17:36,160 --> 00:17:38,950
+So again based on the size of the effect
+the editor made a decision.
+
+694
+00:17:38,950 --> 00:17:38,960
+the editor made a decision.
+ 
+
+695
+00:17:38,960 --> 00:17:40,870
+the editor made a decision.
+So again
+
+696
+00:17:40,870 --> 00:17:40,880
+So again
+ 
+
+697
+00:17:40,880 --> 00:17:42,870
+So again
+this is
+
+698
+00:17:42,870 --> 00:17:42,880
+this is
+ 
+
+699
+00:17:42,880 --> 00:17:45,909
+this is
+disappointing. This is um the underlying
+
+700
+00:17:45,909 --> 00:17:45,919
+disappointing. This is um the underlying
+ 
+
+701
+00:17:45,919 --> 00:17:54,150
+disappointing. This is um the underlying
+process of publication bias.
+
+702
+00:17:54,150 --> 00:17:54,160
+
+ 
+
+703
+00:17:54,160 --> 00:17:59,270
+
+So to summarize, there is no reason why
+
+704
+00:17:59,270 --> 00:17:59,280
+So to summarize, there is no reason why
+ 
+
+705
+00:17:59,280 --> 00:18:01,750
+So to summarize, there is no reason why
+an effect size that is not statistically
+
+706
+00:18:01,750 --> 00:18:01,760
+an effect size that is not statistically
+ 
+
+707
+00:18:01,760 --> 00:18:04,070
+an effect size that is not statistically
+significant is less interesting as an
+
+708
+00:18:04,070 --> 00:18:04,080
+significant is less interesting as an
+ 
+
+709
+00:18:04,080 --> 00:18:06,549
+significant is less interesting as an
+effect that is not that is statistically
+
+710
+00:18:06,549 --> 00:18:06,559
+effect that is not that is statistically
+ 
+
+711
+00:18:06,559 --> 00:18:09,190
+effect that is not that is statistically
+significant. On the contrary, if in
+
+712
+00:18:09,190 --> 00:18:09,200
+significant. On the contrary, if in
+ 
+
+713
+00:18:09,200 --> 00:18:11,830
+significant. On the contrary, if in
+reality there is no effect, then I want
+
+714
+00:18:11,830 --> 00:18:11,840
+reality there is no effect, then I want
+ 
+
+715
+00:18:11,840 --> 00:18:14,310
+reality there is no effect, then I want
+to know that there is no effect. There
+
+716
+00:18:14,310 --> 00:18:14,320
+to know that there is no effect. There
+ 
+
+717
+00:18:14,320 --> 00:18:17,430
+to know that there is no effect. There
+is a problem that in the situation in
+
+718
+00:18:17,430 --> 00:18:17,440
+is a problem that in the situation in
+ 
+
+719
+00:18:17,440 --> 00:18:20,630
+is a problem that in the situation in
+the scenario where there is no effect
+
+720
+00:18:20,630 --> 00:18:20,640
+the scenario where there is no effect
+ 
+
+721
+00:18:20,640 --> 00:18:22,950
+the scenario where there is no effect
+but sometimes by coincidence a study
+
+722
+00:18:22,950 --> 00:18:22,960
+but sometimes by coincidence a study
+ 
+
+723
+00:18:22,960 --> 00:18:26,070
+but sometimes by coincidence a study
+finds a an effect and only these studies
+
+724
+00:18:26,070 --> 00:18:26,080
+finds a an effect and only these studies
+ 
+
+725
+00:18:26,080 --> 00:18:29,510
+finds a an effect and only these studies
+are published. In that way people will
+
+726
+00:18:29,510 --> 00:18:29,520
+are published. In that way people will
+ 
+
+727
+00:18:29,520 --> 00:18:32,789
+are published. In that way people will
+think that there is an effect.
+
+728
+00:18:32,789 --> 00:18:32,799
+think that there is an effect.
+ 
+
+729
+00:18:32,799 --> 00:18:35,190
+think that there is an effect.
+So it's equally important to publish
+
+730
+00:18:35,190 --> 00:18:35,200
+So it's equally important to publish
+ 
+
+731
+00:18:35,200 --> 00:18:38,870
+So it's equally important to publish
+non-significant effects.
+
+732
+00:18:38,870 --> 00:18:38,880
+non-significant effects.
+ 
+
+733
+00:18:38,880 --> 00:18:40,950
+non-significant effects.
+But of course if there is if you do not
+
+734
+00:18:40,950 --> 00:18:40,960
+But of course if there is if you do not
+ 
+
+735
+00:18:40,960 --> 00:18:43,270
+But of course if there is if you do not
+find a significant effect this can also
+
+736
+00:18:43,270 --> 00:18:43,280
+find a significant effect this can also
+ 
+
+737
+00:18:43,280 --> 00:18:45,430
+find a significant effect this can also
+be due to other reasons which may be
+
+738
+00:18:45,430 --> 00:18:45,440
+be due to other reasons which may be
+ 
+
+739
+00:18:45,440 --> 00:18:47,270
+be due to other reasons which may be
+good reasons for not publishing your
+
+740
+00:18:47,270 --> 00:18:47,280
+good reasons for not publishing your
+ 
+
+741
+00:18:47,280 --> 00:18:50,230
+good reasons for not publishing your
+results. For instance it's possible that
+
+742
+00:18:50,230 --> 00:18:50,240
+results. For instance it's possible that
+ 
+
+743
+00:18:50,240 --> 00:18:52,310
+results. For instance it's possible that
+uh you have a very very underpowered
+
+744
+00:18:52,310 --> 00:18:52,320
+uh you have a very very underpowered
+ 
+
+745
+00:18:52,320 --> 00:18:55,830
+uh you have a very very underpowered
+study. So you have a very small study
+
+746
+00:18:55,830 --> 00:18:55,840
+study. So you have a very small study
+ 
+
+747
+00:18:55,840 --> 00:18:59,350
+study. So you have a very small study
+and therefore um your results are very
+
+748
+00:18:59,350 --> 00:18:59,360
+and therefore um your results are very
+ 
+
+749
+00:18:59,360 --> 00:19:01,430
+and therefore um your results are very
+inaccurate. Your estimate is very
+
+750
+00:19:01,430 --> 00:19:01,440
+inaccurate. Your estimate is very
+ 
+
+751
+00:19:01,440 --> 00:19:03,909
+inaccurate. Your estimate is very
+inaccurate imprecise.
+
+752
+00:19:03,909 --> 00:19:03,919
+inaccurate imprecise.
+ 
+
+753
+00:19:03,919 --> 00:19:07,190
+inaccurate imprecise.
+uh the statistical power is very small
+
+754
+00:19:07,190 --> 00:19:07,200
+uh the statistical power is very small
+ 
+
+755
+00:19:07,200 --> 00:19:09,029
+uh the statistical power is very small
+and therefore the probability of finding
+
+756
+00:19:09,029 --> 00:19:09,039
+and therefore the probability of finding
+ 
+
+757
+00:19:09,039 --> 00:19:11,750
+and therefore the probability of finding
+a statistically significant effect is
+
+758
+00:19:11,750 --> 00:19:11,760
+a statistically significant effect is
+ 
+
+759
+00:19:11,760 --> 00:19:13,590
+a statistically significant effect is
+very small.
+
+760
+00:19:13,590 --> 00:19:13,600
+very small.
+ 
+
+761
+00:19:13,600 --> 00:19:15,430
+very small.
+It's also possible that you are looking
+
+762
+00:19:15,430 --> 00:19:15,440
+It's also possible that you are looking
+ 
+
+763
+00:19:15,440 --> 00:19:17,510
+It's also possible that you are looking
+at an hypothesis that simply does not
+
+764
+00:19:17,510 --> 00:19:17,520
+at an hypothesis that simply does not
+ 
+
+765
+00:19:17,520 --> 00:19:19,830
+at an hypothesis that simply does not
+make sense. For instance, if you would
+
+766
+00:19:19,830 --> 00:19:19,840
+make sense. For instance, if you would
+ 
+
+767
+00:19:19,840 --> 00:19:23,830
+make sense. For instance, if you would
+do a study studying whether drinking one
+
+768
+00:19:23,830 --> 00:19:23,840
+do a study studying whether drinking one
+ 
+
+769
+00:19:23,840 --> 00:19:27,510
+do a study studying whether drinking one
+glass of water water each morning after
+
+770
+00:19:27,510 --> 00:19:27,520
+glass of water water each morning after
+ 
+
+771
+00:19:27,520 --> 00:19:32,470
+glass of water water each morning after
+two years will lead to larger ears.
+
+772
+00:19:32,470 --> 00:19:32,480
+two years will lead to larger ears.
+ 
+
+773
+00:19:32,480 --> 00:19:35,110
+two years will lead to larger ears.
+Why would you expect such an uh such an
+
+774
+00:19:35,110 --> 00:19:35,120
+Why would you expect such an uh such an
+ 
+
+775
+00:19:35,120 --> 00:19:37,510
+Why would you expect such an uh such an
+association? If you do not have reasons
+
+776
+00:19:37,510 --> 00:19:37,520
+association? If you do not have reasons
+ 
+
+777
+00:19:37,520 --> 00:19:40,630
+association? If you do not have reasons
+to expect such an association, then it
+
+778
+00:19:40,630 --> 00:19:40,640
+to expect such an association, then it
+ 
+
+779
+00:19:40,640 --> 00:19:44,150
+to expect such an association, then it
+also does not make sense to study this
+
+780
+00:19:44,150 --> 00:19:44,160
+also does not make sense to study this
+ 
+
+781
+00:19:44,160 --> 00:19:48,950
+also does not make sense to study this
+association
+
+782
+00:19:48,950 --> 00:19:48,960
+
+ 
+
+783
+00:19:48,960 --> 00:19:52,870
+
+and it may not be worthwhile to publish
+
+784
+00:19:52,870 --> 00:19:52,880
+and it may not be worthwhile to publish
+ 
+
+785
+00:19:52,880 --> 00:19:55,909
+and it may not be worthwhile to publish
+these kinds of studies.
+
+786
+00:19:55,909 --> 00:19:55,919
+these kinds of studies.
+ 
+
+787
+00:19:55,919 --> 00:19:57,669
+these kinds of studies.
+Or it's possible that your treatment
+
+788
+00:19:57,669 --> 00:19:57,679
+Or it's possible that your treatment
+ 
+
+789
+00:19:57,679 --> 00:20:01,110
+Or it's possible that your treatment
+that you are study studying is not uh
+
+790
+00:20:01,110 --> 00:20:01,120
+that you are study studying is not uh
+ 
+
+791
+00:20:01,120 --> 00:20:04,150
+that you are study studying is not uh
+implemented in a good way and that this
+
+792
+00:20:04,150 --> 00:20:04,160
+implemented in a good way and that this
+ 
+
+793
+00:20:04,160 --> 00:20:05,990
+implemented in a good way and that this
+is the reason why you do not find an
+
+794
+00:20:05,990 --> 00:20:06,000
+is the reason why you do not find an
+ 
+
+795
+00:20:06,000 --> 00:20:08,630
+is the reason why you do not find an
+effect of this treatment. So there can
+
+796
+00:20:08,630 --> 00:20:08,640
+effect of this treatment. So there can
+ 
+
+797
+00:20:08,640 --> 00:20:12,870
+effect of this treatment. So there can
+be reasons why studies should not be
+
+798
+00:20:12,870 --> 00:20:12,880
+be reasons why studies should not be
+ 
+
+799
+00:20:12,880 --> 00:20:14,470
+be reasons why studies should not be
+published
+
+800
+00:20:14,470 --> 00:20:14,480
+published
+ 
+
+801
+00:20:14,480 --> 00:20:17,110
+published
+but there is a problem if a study of
+
+802
+00:20:17,110 --> 00:20:17,120
+but there is a problem if a study of
+ 
+
+803
+00:20:17,120 --> 00:20:19,830
+but there is a problem if a study of
+high quality is not published because
+
+804
+00:20:19,830 --> 00:20:19,840
+high quality is not published because
+ 
+
+805
+00:20:19,840 --> 00:20:21,830
+high quality is not published because
+the results are statistically not
+
+806
+00:20:21,830 --> 00:20:21,840
+the results are statistically not
+ 
+
+807
+00:20:21,840 --> 00:20:24,549
+the results are statistically not
+significant.
+
+808
+00:20:24,549 --> 00:20:24,559
+significant.
+ 
+
+809
+00:20:24,559 --> 00:20:27,830
+significant.
+to illustrate citation bias. Um well, we
+
+810
+00:20:27,830 --> 00:20:27,840
+to illustrate citation bias. Um well, we
+ 
+
+811
+00:20:27,840 --> 00:20:31,029
+to illustrate citation bias. Um well, we
+have done um a meta analysis uh yeah
+
+812
+00:20:31,029 --> 00:20:31,039
+have done um a meta analysis uh yeah
+ 
+
+813
+00:20:31,039 --> 00:20:32,789
+have done um a meta analysis uh yeah
+several years ago on the effects of
+
+814
+00:20:32,789 --> 00:20:32,799
+several years ago on the effects of
+ 
+
+815
+00:20:32,799 --> 00:20:35,110
+several years ago on the effects of
+early prevention programs for families
+
+816
+00:20:35,110 --> 00:20:35,120
+early prevention programs for families
+ 
+
+817
+00:20:35,120 --> 00:20:37,669
+early prevention programs for families
+with young children at risk for physical
+
+818
+00:20:37,669 --> 00:20:37,679
+with young children at risk for physical
+ 
+
+819
+00:20:37,679 --> 00:20:40,710
+with young children at risk for physical
+child abuse and neglect.
+
+820
+00:20:40,710 --> 00:20:40,720
+child abuse and neglect.
+ 
+
+821
+00:20:40,720 --> 00:20:43,350
+child abuse and neglect.
+As I look at the distribution of all the
+
+822
+00:20:43,350 --> 00:20:43,360
+As I look at the distribution of all the
+ 
+
+823
+00:20:43,360 --> 00:20:45,909
+As I look at the distribution of all the
+observed effect sizes
+
+824
+00:20:45,909 --> 00:20:45,919
+observed effect sizes
+ 
+
+825
+00:20:45,919 --> 00:20:49,350
+observed effect sizes
+so in bold we have our uh mean effect
+
+826
+00:20:49,350 --> 00:20:49,360
+so in bold we have our uh mean effect
+ 
+
+827
+00:20:49,360 --> 00:20:51,350
+so in bold we have our uh mean effect
+size with confidence interval. You can
+
+828
+00:20:51,350 --> 00:20:51,360
+size with confidence interval. You can
+ 
+
+829
+00:20:51,360 --> 00:20:52,870
+size with confidence interval. You can
+see that the mean effect size was
+
+830
+00:20:52,870 --> 00:20:52,880
+see that the mean effect size was
+ 
+
+831
+00:20:52,880 --> 00:20:55,909
+see that the mean effect size was
+around30
+
+832
+00:20:55,909 --> 00:20:55,919
+
+ 
+
+833
+00:20:55,919 --> 00:20:58,950
+
+um which is considered a small effect or
+
+834
+00:20:58,950 --> 00:20:58,960
+um which is considered a small effect or
+ 
+
+835
+00:20:58,960 --> 00:21:01,190
+um which is considered a small effect or
+a moderate effect. But there was one
+
+836
+00:21:01,190 --> 00:21:01,200
+a moderate effect. But there was one
+ 
+
+837
+00:21:01,200 --> 00:21:03,590
+a moderate effect. But there was one
+study with an observed effect size that
+
+838
+00:21:03,590 --> 00:21:03,600
+study with an observed effect size that
+ 
+
+839
+00:21:03,600 --> 00:21:10,470
+study with an observed effect size that
+was very large about 1.2
+
+840
+00:21:10,470 --> 00:21:10,480
+
+ 
+
+841
+00:21:10,480 --> 00:21:12,950
+
+and it was striking when we were looking
+
+842
+00:21:12,950 --> 00:21:12,960
+and it was striking when we were looking
+ 
+
+843
+00:21:12,960 --> 00:21:15,350
+and it was striking when we were looking
+at the literature that that one single
+
+844
+00:21:15,350 --> 00:21:15,360
+at the literature that that one single
+ 
+
+845
+00:21:15,360 --> 00:21:18,390
+at the literature that that one single
+study was cited a lot of times. So very
+
+846
+00:21:18,390 --> 00:21:18,400
+study was cited a lot of times. So very
+ 
+
+847
+00:21:18,400 --> 00:21:21,029
+study was cited a lot of times. So very
+often it was said that prevention
+
+848
+00:21:21,029 --> 00:21:21,039
+often it was said that prevention
+ 
+
+849
+00:21:21,039 --> 00:21:22,710
+often it was said that prevention
+programs
+
+850
+00:21:22,710 --> 00:21:22,720
+programs
+ 
+
+851
+00:21:22,720 --> 00:21:25,909
+programs
+um are effective and then this single
+
+852
+00:21:25,909 --> 00:21:25,919
+um are effective and then this single
+ 
+
+853
+00:21:25,919 --> 00:21:28,470
+um are effective and then this single
+study was cited.
+
+854
+00:21:28,470 --> 00:21:28,480
+study was cited.
+ 
+
+855
+00:21:28,480 --> 00:21:31,190
+study was cited.
+So because in this single study a large
+
+856
+00:21:31,190 --> 00:21:31,200
+So because in this single study a large
+ 
+
+857
+00:21:31,200 --> 00:21:34,870
+So because in this single study a large
+effect was found uh this study was uh
+
+858
+00:21:34,870 --> 00:21:34,880
+effect was found uh this study was uh
+ 
+
+859
+00:21:34,880 --> 00:21:38,310
+effect was found uh this study was uh
+cited much more.
+
+860
+00:21:38,310 --> 00:21:38,320
+cited much more.
+ 
+
+861
+00:21:38,320 --> 00:21:41,990
+cited much more.
+So again, readers of the literature can
+
+862
+00:21:41,990 --> 00:21:42,000
+So again, readers of the literature can
+ 
+
+863
+00:21:42,000 --> 00:21:45,430
+So again, readers of the literature can
+get a biased view
+
+864
+00:21:45,430 --> 00:21:45,440
+get a biased view
+ 
+
+865
+00:21:45,440 --> 00:21:48,310
+get a biased view
+because this is the study that receives
+
+866
+00:21:48,310 --> 00:21:48,320
+because this is the study that receives
+ 
+
+867
+00:21:48,320 --> 00:21:50,070
+because this is the study that receives
+a lot of attention and therefore people
+
+868
+00:21:50,070 --> 00:21:50,080
+a lot of attention and therefore people
+ 
+
+869
+00:21:50,080 --> 00:21:52,710
+a lot of attention and therefore people
+may think that the effect indeed is very
+
+870
+00:21:52,710 --> 00:21:52,720
+may think that the effect indeed is very
+ 
+
+871
+00:21:52,720 --> 00:21:55,669
+may think that the effect indeed is very
+large. But the reality it seems that the
+
+872
+00:21:55,669 --> 00:21:55,679
+large. But the reality it seems that the
+ 
+
+873
+00:21:55,679 --> 00:21:58,390
+large. But the reality it seems that the
+effect is much smaller than the effect
+
+874
+00:21:58,390 --> 00:21:58,400
+effect is much smaller than the effect
+ 
+
+875
+00:21:58,400 --> 00:22:01,590
+effect is much smaller than the effect
+found in that single study. And probably
+
+876
+00:22:01,590 --> 00:22:01,600
+found in that single study. And probably
+ 
+
+877
+00:22:01,600 --> 00:22:03,270
+found in that single study. And probably
+this
+
+878
+00:22:03,270 --> 00:22:03,280
+this
+ 
+
+879
+00:22:03,280 --> 00:22:05,510
+this
+it may be due to coincidence that in
+
+880
+00:22:05,510 --> 00:22:05,520
+it may be due to coincidence that in
+ 
+
+881
+00:22:05,520 --> 00:22:07,430
+it may be due to coincidence that in
+that study such a large effect was
+
+882
+00:22:07,430 --> 00:22:07,440
+that study such a large effect was
+ 
+
+883
+00:22:07,440 --> 00:22:09,350
+that study such a large effect was
+found.
+
+884
+00:22:09,350 --> 00:22:09,360
+found.
+ 
+
+885
+00:22:09,360 --> 00:22:11,750
+found.
+In coming videos we will see that there
+
+886
+00:22:11,750 --> 00:22:11,760
+In coming videos we will see that there
+ 
+
+887
+00:22:11,760 --> 00:22:13,430
+In coming videos we will see that there
+are some techniques that can be used to
+
+888
+00:22:13,430 --> 00:22:13,440
+are some techniques that can be used to
+ 
+
+889
+00:22:13,440 --> 00:22:16,710
+are some techniques that can be used to
+detect bias and to correct for bias.
+
+890
+00:22:16,710 --> 00:22:16,720
+detect bias and to correct for bias.
+ 
+
+891
+00:22:16,720 --> 00:22:18,710
+detect bias and to correct for bias.
+Unfortunately these techniques do not
+
+892
+00:22:18,710 --> 00:22:18,720
+Unfortunately these techniques do not
+ 
+
+893
+00:22:18,720 --> 00:22:21,830
+Unfortunately these techniques do not
+always work well. For instance the type
+
+894
+00:22:21,830 --> 00:22:21,840
+always work well. For instance the type
+ 
+
+895
+00:22:21,840 --> 00:22:24,789
+always work well. For instance the type
+one erate may not be under control and
+
+896
+00:22:24,789 --> 00:22:24,799
+one erate may not be under control and
+ 
+
+897
+00:22:24,799 --> 00:22:27,510
+one erate may not be under control and
+the power may be low.
+
+898
+00:22:27,510 --> 00:22:27,520
+the power may be low.
+ 
+
+899
+00:22:27,520 --> 00:22:30,710
+the power may be low.
+Therefore, it is better to avoid bias.
+
+900
+00:22:30,710 --> 00:22:30,720
+Therefore, it is better to avoid bias.
+ 
+
+901
+00:22:30,720 --> 00:22:33,590
+Therefore, it is better to avoid bias.
+To that end, you can try to find also
+
+902
+00:22:33,590 --> 00:22:33,600
+To that end, you can try to find also
+ 
+
+903
+00:22:33,600 --> 00:22:37,029
+To that end, you can try to find also
+unpublished literature, also called gray
+
+904
+00:22:37,029 --> 00:22:37,039
+unpublished literature, also called gray
+ 
+
+905
+00:22:37,039 --> 00:22:38,950
+unpublished literature, also called gray
+literature.
+
+906
+00:22:38,950 --> 00:22:38,960
+literature.
+ 
+
+907
+00:22:38,960 --> 00:22:41,510
+literature.
+For instance, by making use of databases
+
+908
+00:22:41,510 --> 00:22:41,520
+For instance, by making use of databases
+ 
+
+909
+00:22:41,520 --> 00:22:43,990
+For instance, by making use of databases
+that are exactly developed with that
+
+910
+00:22:43,990 --> 00:22:44,000
+that are exactly developed with that
+ 
+
+911
+00:22:44,000 --> 00:22:46,710
+that are exactly developed with that
+goal.
+
+912
+00:22:46,710 --> 00:22:46,720
+goal.
+ 
+
+913
+00:22:46,720 --> 00:22:48,950
+goal.
+You can also contact research groups
+
+914
+00:22:48,950 --> 00:22:48,960
+You can also contact research groups
+ 
+
+915
+00:22:48,960 --> 00:22:51,350
+You can also contact research groups
+that are active in the domain to ask
+
+916
+00:22:51,350 --> 00:22:51,360
+that are active in the domain to ask
+ 
+
+917
+00:22:51,360 --> 00:22:53,510
+that are active in the domain to ask
+whether they have done other studies
+
+918
+00:22:53,510 --> 00:22:53,520
+whether they have done other studies
+ 
+
+919
+00:22:53,520 --> 00:22:56,149
+whether they have done other studies
+that were not published and if so, if
+
+920
+00:22:56,149 --> 00:22:56,159
+that were not published and if so, if
+ 
+
+921
+00:22:56,159 --> 00:23:01,029
+that were not published and if so, if
+they're willing to share the results.
+
+922
+00:23:01,029 --> 00:23:01,039
+
+ 
+
+923
+00:23:01,039 --> 00:23:03,430
+
+And of course, it's important that you
+
+924
+00:23:03,430 --> 00:23:03,440
+And of course, it's important that you
+ 
+
+925
+00:23:03,440 --> 00:23:06,789
+And of course, it's important that you
+try to avoid bias in your own research.
+
+926
+00:23:06,789 --> 00:23:06,799
+try to avoid bias in your own research.
+ 
+
+927
+00:23:06,799 --> 00:23:10,310
+try to avoid bias in your own research.
+Therefore, report all findings regarding
+
+928
+00:23:10,310 --> 00:23:10,320
+Therefore, report all findings regarding
+ 
+
+929
+00:23:10,320 --> 00:23:12,630
+Therefore, report all findings regarding
+your research interest or questions
+
+930
+00:23:12,630 --> 00:23:12,640
+your research interest or questions
+ 
+
+931
+00:23:12,640 --> 00:23:16,880
+your research interest or questions
+regardless of their significance.
+

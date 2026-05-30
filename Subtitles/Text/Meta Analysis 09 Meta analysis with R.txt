@@ -1,0 +1,477 @@
+In this video, I will show how you can analyze a meta analytic data set using R.
+
+I will demonstrate the use of R for meta analysis uh by this example.
+
+So we have discussed this example during the workshop.
+
+This is a data set that was collected by Steve Rodenbush. um a data set consisting of 19 studies evaluating the teacher expectancy effect.
+
+In all these studies, the teacher was told by the researcher that some students were relatively strong students and other students were relatively weak students without there being a real difference between these two groups of students.
+
+And then after a certain period of time it was assessed whether the teacher gave higher scores to the so-called strong students.
+
+So in these studies um it was evaluated whether the expectancies that teachers have about their students affect their uh scores their gradings of these students.
+
+In this table you can see the results of these 19 studies.
+
+So the column G refers to the standardized mean difference with a positive G referring to an an effect going in the direction that was expected.
+
+So a positive G means that students that were called strong students indeed got higher grades than uh students called weaker students.
+
+In the last column, you can see the standard error or the standard deviation of a sampling distribution of the effect size.
+
+As rule of thumb, if G is at least twice as large as its standard error, then this means that this observed effect size is statistically significant at the 0.05 05 significance level which is not often case as you can see in this this set this set of 19 studies.
+
+Let's analyze this data.
+
+You can install R and you can install R studio on your own computer by downloading uh these programs for free uh from these websites.
+
+So we are going to use R studio.
+
+If you installed RNR studio and you open studio then you get this window on the left side in the the left upper corner you can you get uh a script which is empty for now.
+
+You can type in commands in this script and save these commands so that you can use these commands afterwards in the next session.
+
+If you type in a command and your cursor is in that line and you push on controll enter then this command will be automatically copied to the window below the so-called console and this command will be executed and you will see or sometimes you will see output in this console.
+
+I have already prepared an R script for you with all the commands that we are going to use to analyze the data set crowd bush with a uh the 19 step.
+
+You can open the R script.
+
+You can find the R script on Toledo under course documents software R.
+
+So please um save this R script on your own computer and then open it in R by using file open file and so on.
+
+Next we are going to make use of the package metaphor.
+
+A lot of people prepared packages. packages that are meant to do specific analysis.
+
+We are going to use the package metaphor, a package that was developed by Holang Vikpower from the University of Mr. to perform meta analysis.
+
+To use this or to install this package, you click on packages, then you click on install.
+
+You type in the name of the package metaphor and you install that package.
+
+Once you have installed a package, you have to tell R that you want to use this package.
+
+So you can do this um by typing the command library metaphor.
+
+You can see this command in uh the R studio script Renbush.
+
+So you go with your cursor on that line and you push controll enter.
+
+So in that way you will see that uh the li the metaphor package is loaded.
+
+So it is ready for use.
+
+Now you have to install a package only once.
+
+So once you have installed the package you can use it in next sessions as well.
+
+But for each session in which you want to use the package metaphor, you have to reload the package metaphor.
+
+So you have to execute again the line library metaphor.
+
+Next, I also prepared a data set including the data um a data set called Renom Bush.
+
+It's an an Excel file.
+
+You can find this Excel file as well on Toledo under course documents software R.
+
+So go to or or save that uh Excel sheet on your own computer and then import data set in R studio by clicking on import data set next from Excel and so on.
+
+You open the data set.
+
+So you you import the data set and by importing the data set you immediately see how the data set set looks like.
+
+So you have four columns.
+
+A column with a study number, a column with a weeks of prior contact.
+
+I will talk more about that later.
+
+A column with a standardized mean differences and a column with the standard errors.
+
+Now what we need to perform a meta analysis using the metaphor package is at least two columns.
+
+We need a column with the effect sizes.
+
+So here column G.
+
+But we also need a column with the sampling variances.
+
+So the variance of the sampling distribution of the effect sizes.
+
+We do not have that column here.
+
+But what we have instead here is the standard error which is the square root of the sampling variance.
+
+So in the next step we are going to make a new variable variable with a sampling variances and this new variable should be equal to the squared standard errors.
+
+So this is what is done in the next lines um included in the R script.
+
+So routen bush dollar sign var refers to a new variable to be created a variable called var which is part of the data set which will be part of the data set bush and this new variable is equal to and you can see that in r we also uh sometimes write um an arrow instead of an equal sign.
+
+So the new variable var in the data set Ren bush is equal to the variable standard error from the data set Ren bush squared.
+
+So the head two means squared by exe line you see that in the data set automatically a new variable is added.
+
+So now we are ready to analyze or met analyze the data set.
+
+Let's look at the first analysis.
+
+So I use the command RMA which is a function within the package metaphor.
+
+The analysis should be done on the dependent variable G.
+
+So that's a variable including the um the v the the effect sizes.
+
+A var refers to the sampling variances.
+
+The data can be found in a data set called trrowen bush.
+
+The method we are going to use in this first analysis is the fixed effects method.
+
+So we are going to use a fixed effects model assuming that the population effect size is exactly the same in all 19 studies.
+
+And this analysis I am going to give a name to this analysis.
+
+More specifically I'm going to give it the name FEM fixed effects model.
+
+So FEM is a name I gave myself to this analysis.
+
+By running this line, the analysis will be done.
+
+But you will not immediately see output.
+
+To see the output, you can also execute the line summary and then between parenthesis FM.
+
+If you do so, you get uh for instance this output.
+
+You can see that the estimate which refers to the estimate of the overall population effect size, the estimate is equal to 0.06.
+
+Think back of the guidelines of Cohen.
+
+Cohen set well standardized mean difference of 20 can be called a small effect 50 a moderate effect and 80 a large effect.
+
+So this means that on average the effect seems to be very very small.
+
+You also get the standard error of these estimates.
+
+Dividing the estimate by the standard error gives us a value of 1.65.
+
+You can can compare this value to a standard normal distribution to assess the statistical significance.
+
+When testing the null hypothesis that the effect is equal to zero, this ratio of estimate divided by the standard error will follow a standard normal distribution.
+
+So you get a value of 1.65 which is not very very large.
+
+Um so you have a probability of almost 10% to obtain a ZV valueue that is even farther away from zero if the null hypothesis is true.
+
+So we conclude this p value is not very small.
+
+So this result is statistically not significant.
+
+Um so on average we do not have enough evidence to say that there is a teacher expectancy effect.
+
+You also get a confidence interval a 95% confidence interval with uh limits uh equal to minus.01 and plus.13.
+
+So you see that zero is included in the confidence interval confirming again that zero can be possibly uh the real population value so that we doubt or or that we do not have enough evidence to reject the null hypothesis.
+
+So on average we do not see really see an effect a teacher expectancy effect by typing forest and then between the parentheses is the name of the analysis you get a forest plot for this fixed effects model analysis.
+
+Um so you get for each of the 19 studies a confidence interval around the observed effect size.
+
+Um you can see that in most of the studies zero is included in the confidence interval.
+
+So in most of the studies we do not really have evidence for uh a teacher expectancy effect if you take all evidence together you get a mean effect of 0.06 but with a confidence interval that includes zero.
+
+So again this says we do not have really convincing evidence of a teacher expectancy if but as we have seen during the workshop very often there are a lot of differences between studies.
+
+There can be differences in the kind of participants in the study context in the outcome variable in the way the independent variable or the treatment is operationalized in the design and so on.
+
+So there can be a lot of differences between studies.
+
+Probably here there are as well some differences between the 19 studies.
+
+And it is maybe unlikely that none of these differences affect the size of the effect.
+
+So maybe the assumption that we made when using a fixed effects model, the assumption that all population effect sizes for all 19 studies are exactly the same.
+
+Maybe this assumption is not real.
+
+Maybe each study has its own population effect size.
+
+So maybe there is a a distribution of population effect sizes.
+
+So this would mean that now we say well maybe there are two sources of variation.
+
+On top of the sampling variation, there is also variation between the true effect sizes, between the population effect sizes.
+
+You can test this hypothesis.
+
+This hypothesis that all population effect sizes are exactly the same.
+
+So the hypothesis of homogeneity.
+
+The alternative hypothesis is that not all population effect sizes are the same.
+
+So that at least one population effect size differs from at least at least one other population effect size.
+
+We have seen how we can test this.
+
+We can use a Q statistic which is a kind of weighted uh sum of squares.
+
+And if the null hypothesis is correct then this Q statistic follows a k square distribution with degrees of freedom equal to uh the number of studies minus one.
+
+In fact, when we did the analysis in R, um the result of this statistical analysis is also included in the output.
+
+You can see that the Q uh statistic is has a value equal to 35.83 with uh 18 degrees of freedom.
+
+This gives us a p value that is very small.
+
+P value equal to 0.0074.
+
+So based on this homogeneity test, yeah, we are likely to going to reject the null hypothesis and we are going to conclude that there is systematic heterogeneity that there is variance between population effect sizes.
+
+So that it is not a good idea to use a fixed effects model.
+
+Maybe it's a better idea to use a random effects model. a random effects model that assumes that population effect sizes that can differ from each other and more specifically that there is a normal distribution of population effect sizes.
+
+So when using such a random effects model we are going to estimate the mean of this red distribution.
+
+So the mean population effect size as well as the variation between the population effect sizes.
+
+You can see that commands uh look very similar as when using a fixed effects model but instead now we say method is equal to raml.
+
+Raml stands for restricted maximum likelihood and that's one way to estimate um the between study variance.
+
+Now in the output you can see that you get uh somewhat similar output but on top of that you also get an estimate of the of to squared which refers to uh the estimate of the variance between population effect sizes.
+
+So the variance between population effect sizes is estimated to be equal to 0.019 with a standard error of 0.050.
+
+You also get I squared.
+
+I squar refers to the proportion of the variance of the total variance that is due to variance between population effect sizes.
+
+So about 42% of the total variance and the total variance is equal to the population uh the variance in population effect sizes plus the sampling variance.
+
+So about 42% of this variance is variance between population effect sizes and so about 58% is sampling variance.
+
+So this um yeah proportion is relatively large.
+
+So again it's an indication that yeah maybe it was not a good idea to use a fixed effects model and it may be better to use a random effects model.
+
+But then if you look at the the results or the estimate uh which is the estimate of the mean population effect size you can see that this effect size is rather similar than uh the estimate we have seen before.
+
+Now it is 0.08 with a standard error of 0.05.
+
+Again the z value is not that large.
+
+It is 1.62 which gives a p value again close to 10.
+
+So again the conclusion is we do not have really enough evidence to conclude that there is on average a teacher expectancy effect.
+
+So in this forest plot you can see that that I made uh in Excel.
+
+You can see um confidence intervals for each individual study but also the result of the fixed effects model and the results of the analysis using a random effects model.
+
+But there is an additional column in the data set weeks of prior contact.
+
+In some of the studies, the teacher did not know the students before the start of the study.
+
+And you can imagine that in these studies, maybe the induced teacher expectancy effect better succeeded.
+
+So it it was easier for researchers to convince teachers that indeed some of these students were stronger than some other students.
+
+Whereas if students were already known for several weeks by the teacher probably the effect that the that the researcher has on the teacher expectancy will be smaller.
+
+So the teacher will not be convinced when the researcher is saying these and these students are strong students and these and these students are weaker students.
+
+So you could expect that if teachers are influenced by their expecties that this will be most um clearly visible in studies in which there was no prior contact between teachers and students.
+
+So when the weeks of prior contact was equal to zero rather than one, two or three and by the way three means three weeks or more than three weeks of prior contact.
+
+In this plot I ordered the effect sizes according to the weeks of prior contact.
+
+And indeed you can see that by visual inspection that when there was no prior contact the effect was not that small.
+
+It was positive.
+
+With one week of prior contact, the effect on in on average is somewhat smaller.
+
+After two weeks, it is still somewhat smaller and after 3 weeks, it is about zero or even slightly negative.
+
+Let's do another meta analysis including the weeks of prior contact as a moderator variable.
+
+So in the first model we use the weeks of prior contact as a categorical moderator and we assume that within categories so within studies with zero weeks of prior contact or within a category with one week of prior contact and so on there are no differences between population effect sizes.
+
+So therefore we still call this model a fixed effects model but this time with a categorical moderator.
+
+So within categories we assume that population effect sizes are the same but possibly there are differences between the between the categories.
+
+We can also fit a model a random effects model with a categorical moderator.
+
+In this situation, we say well there can be differences between categories but on top of that within categories there can still be differences between population effect sizes.
+
+So now in fact we have three sources of variation.
+
+We have the variation due to the category.
+
+We have variation due to differences between population effect sizes within categories.
+
+And a third source of variation is the sampling variation.
+
+Population effect size for a specific study is not a exact not necessarily um be equal to the observed effect size in that study because in that study only a sample was used.
+
+Take into account um the number of weeks of prior contact.
+
+There are no differences anymore.
+
+There is no heterogenity. when using random effects model.
+
+Well, first look at the estimates.
+
+You get exactly the same estimates as before.
+
+Why is this?
+
+Well, this is because and this you can see on top because the estimated to squar is equal to zero.
+
+So indeed there are no differences anymore within categories.
+
+We explained all variance between population effect sizes and therefore the fixed effects model with the categorical moderator gives us exactly the same results as the random effects model with a categorical moderator.
+
+By the way, this is not a very common situation.
+
+Very often when we include a moderator or even when we include multiple moderators we succeed in explaining part of the variance but it is very unlikely that we will explain all variance.
+
+So typically to squar is still somewhat larger than zero.
+
+We hope that we can explain as much as possible but it is seldomly the case that we explain everything.
+
+So here everything is explained R squar is equal to 100%. we can also include uh weeks of prior contact as a continuous moderator variable.
+
+So the advantage so and perform a kind of regression analysis.
+
+The advantage is that now um yeah we only have two parameters to estimate. we have to estimate the intercept as well as the slope of the regression line.
+
+Whereas before when we use weeks of prior contact as a categorical variable, we had to estimate four parameters.
+
+We had to estimate the intercept.
+
+So the expected effect in the reference category as well as um yeah the contrast between the three other categories compared to the reference category.
+
+So this is a more yeah it's a simpler model but a drawback of this model is that maybe this model is not very realistic.
+
+Maybe the trend is not a linear trend but as you can see in this scatter plot the trend looks indeed more or less linear.
+
+So it's not such a bad idea to use a regression model in this sit.
+
+The syntax looks very similar as before, but this time we do not say that weeks is a categorical variable.
+
+So we do not say that it is a factor.
+
+We simply write mods is equal to weeks.
+
+You can see the intercept of 41 which is the expected standardized mean difference if there was no prior contact.
+
+So if the weeks of prior contact is equal to zero.
+
+If there was one week of prior contact the expected effect is decreasing with 16.
+
+So after one week the expected effect is 41 minus 16.
+
+After 2 weeks the expected effect is 41 minus 2 * 16 and so on.
+
+You can al also use random effects model with a continuous moderator.
+
+But now again the the results are exactly the same as before.
+
+And why is this?
+
+This is because the to squar estimate is equal to zero.
+
+So it seems that we explained all variation between population effect sizes by including weeks as a continuous variable.
+
+So there is no residual variance no population no variance anymore between population effect sizes after accounting for the weeks of prior contact.
+
+So the random effects model simplifies or reduces to a fixed effects model.
+
+So we have discussed six models.
+
+Fixed effects models and random effects models without moderators with weeks of prior contact as a categorical moderator or with weeks of prior contact as a continuous moderator.
+
+And in these analysis, yeah, we have answered the basic or the yeah the most common metalic questions.
+
+Is there an overall effect?
+
+How large is the effect?
+
+Is the effect the same in all studies?
+
+So, is there an overall effect?
+
+No, apparently not.
+
+We do not have enough evidence that on average there is an effect.
+
+How large is the effect?
+
+We estimated size of the effect when using random effects model. 08.
+
+Is the effect the same in all studies?
+
+No, apparently not.
+
+Our homogeneity test concluded that there are systematic differences between population effect sizes.
+
+So it's not a good idea to use a fixed effects model without moderators.
+
+Uh so it's a better idea to use a random effects model.
+
+But when using a random effects model without moderators, you simply can estimate the variance between population effect sizes.
+
+But it's a good idea to try to explain this variation.
+
+By the way, we found and this is the fourth question, we found that the variation between studies was about 0.09.
+
+And finally, when we try to explain this variation, we found that um if we include weeks of prior contacts as a categorical variable or as a continuous variable, we found that this variable indeed moderated the size of the effect.
+
+So the size of the effect depends of the on the weeks of prior contact.
+
+So the more prior contact there was the smaller the size of the effect that was found in the studies and we even uh yeah managed to um explain 100% of the between study heterogenity.
+
+Final remark.
+
+As explained in one of the videos, it is good idea to do some checks to assess the credibility of your results.
+
+First, it is good to check whether there is evidence for publication buys.
+
+By typing funnel with the name of your analysis, you get a funnel plot.
+
+The plot suggests that there may be publication buys.
+
+Without publication buys, you would expect a symmetric plot with on top of the plot.
+
+This is for larger studies.
+
+Less variation than at the bottom of the plot.
+
+This is for smaller studies, but with observed effect sizes varying around the same value regardless of the sample size.
+
+Here however we see that for small studies the observed effect sizes are generally larger which indicates that small studies with small effect sizes or even negative effect sizes are missing in our metalytic data set on to you will also find the R codes for making a period plot to calculate a rank correlation perform a regression test and apply the trim and fill method to correct for bias.
+
+In the same script, you can see how you can make several plots to detect outline and influential studies.
+
+For instance, by replacing the dots by numbers in the final plot, you see that studies four and 10 are relatively outlying.
+
+This is confirmed in plots with a standardized residuals, the cook's distances and the co-variance ratios.
+
+Leaving out these two studies, study four and study 10 also gives a somewhat different results.
+
+Also reflect on the assumptions that are made.
+
+It is probably a good idea to make a QQ plot as well.
+
+Here the distribution looks reasonably normal.

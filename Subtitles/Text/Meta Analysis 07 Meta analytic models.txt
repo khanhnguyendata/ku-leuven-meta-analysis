@@ -1,0 +1,967 @@
+In this session, we will look at statistical models that can be used to combine and compare the results of several studies.
+
+More specifically, we will look at how you can investigate and model heterogeneity.
+
+In a typical meta analysis, the following steps can be distinguished.
+
+We formulate our research question.
+
+We plan our study.
+
+We start looking for studies that possibly could be relevant for our meta analysis.
+
+We make a selection of the relevant studies based on inclusion and exclusion criteria.
+
+We start extracting data that are relevant for a met analysis.
+
+This is we look at outcome variables.
+
+We look at the study characteristics that possibly are related to the outcomes and we look at the quality of the studies.
+
+We convert all the data to a common effect size measure and then we combine and compare the effect sizes.
+
+We look for moderator variables and finally we discuss and report the results.
+
+In this session we will look especially to um step seven and eight the combination and comparison of effect sizes and looking for moderator variables.
+
+First the fixed effects model.
+
+In the fixed effects model, we say that an observed effect size and here I use the symbol t to refer to whatever uh type of effect size we have at hand.
+
+So that can be standardized mean differences but that can also be correlation coefficients or loss ratios or any other type of effect size.
+
+So in this model we say well an observed effect size is equal to the population effect size plus a random deviation.
+
+And very often in a meta analysis we use an effect size from which we know that the sampling distribution is a normal distribution.
+
+In other words, in this model R is assumed to follow a normal distribution with mean equal to zero and with a specific variance.
+
+Moreover, for commonly used effect size measures, the sampling variance, so the variance of R is known.
+
+For instance, for the standardized mean difference, we have seen that the sampling variance is more or less equal to 4 divided by n.
+
+So, uh four divided by the total sample size.
+
+So, we can estimate the sampling variance before we start our meta analysis.
+
+So, therefore, sampling variances are assumed or are considered as known in our meta analysis.
+
+So the observed effect size is equal equal to the population effect size plus a random deviation.
+
+We assume that that random deviation is normally distributed with variance equal to uh sigma squar r which is equal to the standard error squared which is equal to the sampling variance.
+
+In a fixed effects model that can be used for meta analysis, we say that if we have a set of observed effect sizes, then we say that each observed effect size is equal to a population effect size plus random deviation.
+
+And moreover, we say that all the population effect sizes for all the studies are exactly the same.
+
+So theta_1 is equal to theta 2 is equal to theta in general.
+
+Therefore this model is also called a fixed effects model.
+
+So we assume that the population effect is the same for all studies.
+
+It's fixed.
+
+It's not random.
+
+So if we have m multiple uh study studies then the effect sizes are assumed to follow a normal distribution around a population effect size theta and this variation is only due to sampling variance because in a specific study we take a sample rather than study the whole population and therefore there is that random uh deviation R.
+
+And so in another study we take another sample and therefore we have another residual R.
+
+And so all these residuals are assumed to follow a normal distribution.
+
+If we would have samples that are infinitely large then these residuals would be equal to zero.
+
+Then our observed effect size is equal to the population effect size.
+
+And because all the population effect sizes are the same for all studies, all observed effect sizes would be exactly the same.
+
+How can we estimate uh the common population effect size?
+
+Well, we can calculate an average of all the observed effect sizes.
+
+So we sum all the observed effect sizes and we divide this sum by the number of effect sizes or the number of studies um g the sampling variance of this uh average effect size is equal to the sampling variance of an individual effect size divided by k.
+
+So what does it mean?
+
+So the more studies we combine, so the more effect sizes we combine, the smaller the sampling variance of the estimate will become.
+
+So the more we are sure that our estimate is close to the population effect size theta.
+
+Of course, even if you use a fixed effects model, uh very often population um studies are not of exactly the same size.
+
+So you may have small studies, you may have larger studies and therefore the sampling variance is probably not the same for all these studies.
+
+For a large study, the sampling variance is small and so we have a small sampling distribution.
+
+For a small study, the sampling variance is large.
+
+So we have a large sampling distribution.
+
+But in a fixed effects model, we assume that all means of these sampling distributions are equal to each other, they're equal to the common population effect size.
+
+So if in such a situation where the sample sizes of the studies can vary, it's not a good idea to use a simple mean, a simple average of the of the observed effect sizes in order to estimate uh the common population effect size.
+
+It's more efficient if we use precision weighted mean.
+
+This is a mean of the observed effect sizes with weights equal to the precision of the observed effect size and the precision of an observed effect size is defined as one over the sampling variance of that uh individual effect size.
+
+So for a small study the sampling variance will be large and therefore the weight so the precision will be small.
+
+So the weight that will be given to that small study will be small.
+
+The sampling variance of this estimate now is equal to one over the sum of the precisions of the individual estimates.
+
+What does this mean?
+
+It means that if we have very precise estimates of the population effect size from our individual studies.
+
+So this is in case we have large individual studies then the precision will be large for these individual studies.
+
+So if we sum all these precisions we will get a large value.
+
+If we take one over the sum of the precisions, we get a small value.
+
+So if you combine the results of very precise estimates, then the sampling variance will become the sampling variance of the average observed effect size will become small. which means that the observed that the mean of the observed effect sizes uh will be a precise estimate of um the common population effect size.
+
+Note also that the more studies we combine, the more terms we add.
+
+So the sum of the precisions will become larger the more effect sizes we have because we sum more precisions and all these precisions are positive.
+
+So the more studies the more effect sizes we combine the larger the sum of the precisions and therefore one over the sum of the precisions will become smaller and so the sampling variance of our new estimate will become smaller.
+
+So we will get a more precise estimate of the population effect.
+
+The more studies we combine and the more precise each of these individual studies are, it can be shown that the sampling variance of our estimate is indeed smallest if we combine the observed effect sizes by using a precision weighted mean.
+
+If the observed effect sizes follow a normal distribution with mean the population effect size and with a specific variance then the mean of the observed effect sizes will also follow a normal distribution with the same mean so with the same uh population effect size as the mean and with a variance which is equal to uh one over the sum of the precisions.
+
+So therefore a standardized estimate will follow a standard normal distribution.
+
+And why is this interesting?
+
+Well, we can use it in two ways.
+
+First to test a null hypothesis.
+
+Suppose that you your null hypothesis is that theta so the population effect size is equal to a specific value theta 0.
+
+In that case if that would be true.
+
+So under the assumption that the null hypothesis is true.
+
+This would mean that the estimate minus the theta under the null hypothesis divided by the sampling uh by the standard deviation of the sampling distribution follows a standard normal distribution.
+
+Note that theta 0 is defined or is um specified under the null hypothesis.
+
+And we also know the standard deviation of our estimate.
+
+The standard deviation of our estimate is the square root of one over the sum of the precisions of the individual effect sizes.
+
+And we know how precise each of the individual effect sizes are.
+
+For instance, for the standardized mean difference, the precision of one standardized mean difference is one over the sampling variance.
+
+It's 1 over 4 / n.
+
+So it's n / 4.
+
+So we know in advance what the precision is of individual effect sizes and therefore we can also derive what the precision is of um our mean estimate.
+
+And so we can calculate that test statistic.
+
+If our test statistic um has a very large value or a very small value then we will reject the null hypothesis that theta is equal to theta 0.
+
+We can also use the fact that uh our standardized um estimate follows a normal distribution or a standard normal distribution, we can also use this property or this feature to construct a 95% confidence interval.
+
+So if we take our estimate and we subtract and we add 1.96 times the standard deviation of the sampling distribution then we obtain the under and upper limit of a 95% confidence interval assessing heterogeneity.
+
+We discussed a fixed effects model. fixed effects model that assumes that the population effect size is the same for all studies so that we have one common theta.
+
+If this is not the case then the way we estimated that theta and the way we test that theta is not valid and very often that assumption is a very strong assumption which probably is violated often in practice.
+
+For instance, there can be a lot of differences between studies.
+
+For instance, in the kind of participants in study context in the outcome variable and how the outcome variable is measured in the independent variable or the treatment and how this treatment is operationalized in the study design and so on.
+
+So there can be many differences differences between studies and it's unlikely that none of these differences so none of these stud characteristics affect the size of the population effect.
+
+So therefore using a fixed effects model may not be a good idea.
+
+You can say well maybe sometimes it is not as uh such a bad idea to assume that the population effect size is the same in all studies but look for instance at the many labs projects.
+
+So in this projects the idea was let's try to replicate um some studies in several laboratories around the world.
+
+So different research groups are trying to replicate exactly the findings that were found in in specific studies.
+
+And it was found that in in many of these replications, the effect sizes that were found were not the same.
+
+But not only not the same, there were varying more than you would expect based on samp sampling variance alone.
+
+So we cannot explain the variation in effect sizes that was found um over all these research groups by thinking about sampling variance alone.
+
+Probably there were systematic differences between these studies.
+
+So even if you try to replicate perfectly studies then still it seems that there still are some small uh systematic differences between studies that affect um the effect that is studied.
+
+So maybe the use of a fixed effects model is not very often or maybe hardly maybe never a good idea.
+
+But how can you know whether the assumption that the population effect size is the same for all studies?
+
+How can you know this assumption makes sense?
+
+Well, one possibility is to do a homogeneity test.
+
+The null hypothesis is that all population effect sizes are exactly the same.
+
+The alternative hypothesis is not that all population effect sizes are different, but the alternative hypothesis is that they're not all the same.
+
+So it could mean that at least that that one uh population effect size differs from the others.
+
+But it's also possible that two differ from each other or defer from the others or they're very um there are many uh alternative scenarios.
+
+But in general the alternative hypothesis says they're not all the same.
+
+So at least one effect size differs from uh another.
+
+How can we test this assumption of homogeneity?
+
+Well, we can use the Q statistic.
+
+And if you look at the Q statistic, then you see that it is a kind it looks like a kind of variance.
+
+So you look at a deviation between observed effect sizes and the mean effect size.
+
+And these deviations of course these can be positive these can be negative but you square these deviations so that all deviations become positive.
+
+Then you sum these squared deviations and note that you also weight the squared deviations.
+
+So you will especially look at um studies from uh effect sizes from large studies.
+
+So if for a large study there is a deviation of the observed effect size from the population effect size, well this deviation will count much more than the deviation for a small study.
+
+And so by summing all these weighted square deviations, you get of course a positive value.
+
+And the more variation there is in observed effect sizes, the larger that Q statistic.
+
+It can be shown that under the null hypothesis that all population effect sizes are the same, the Q statistic will follow a k square distribution.
+
+A k square distribution with k minus one degrees of freedom.
+
+Note that k refers here to the number of studies or the number of effect sizes. we will reject the null hypothesis if we obtain a very large Q statistic.
+
+So if our Q statistic is really in the right tail of that K square distribution.
+
+So for instance in the 5% largest uh or more extreme values of that k square distribution So we have seen that often a fixed effects model is or using a fixed effects model is not a good idea because very often the assumption that population effect sizes are the same is likely to be violated.
+
+You can test whether this uh assumption is violated but yeah a problem with that homogeneity test is that the power is not very high.
+
+So it is possible that you do not reject the null hypothesis that all population effect sizes are the same but still that there are differences between population effect sizes.
+
+So in that case it's it's still not a good idea to use a fixed effects model although the null hypothesis that population effect sizes are the same is not rejected.
+
+Maybe it's a better idea to say from the beginning that maybe population effect sizes can vary over studies.
+
+This is what is done is in a random effects model.
+
+The observed effect size TJ is assumed to be equal to the population effect size for that study J plus a random deviation.
+
+And again the random deviation RJ is assumed to follow a a normal distribution and for most common effect sizes uh like standardized mean differences locals ratios and so on we can already estimate the variance of R.
+
+But now there is a second equation.
+
+A second equation that says the population effect size in study J is assumed to be equal to a mean effect size theta plus a random deviation that is typical for that study that is specific for that study.
+
+So the UJ so the UJ is a difference or the deviation of the population effect size in study J from the mean effect size over all studies and also this residual UJ is assumed to follow a normal distribution.
+
+So in this model we assume that each uh study can have its own population effect size.
+
+Of course it's possible that in some of the studies population effect size is exactly the same.
+
+And moreover we assume that these population effect sizes follow a normal distribution.
+
+So a normal distribution with mean equal to theta and with variance equal to the variance of u.
+
+Of course this does not mean that um in a specific study the observed effect size is equal to the population effect size.
+
+So on top of the variation between population effect sizes, we have also variation of observed effect sizes around population effect sizes.
+
+So for instance, in study five, the mean or the population effect size is equal to theta 5, but the observed effect size T5 can be somewhat smaller or somewhat larger than theta 5. comparing the fixed effects model and the random effects model.
+
+So here you can see again the fixed effects model.
+
+The observed effect size is equal to a common population effect size plus random deviation due to the fact that within that study only a sample is taken.
+
+In the random effects model, we say the observed effect size is equal to a population effect size that is typical to that study J plus a random deviation due to sampling variance.
+
+And the population effect size of that study is equal to a mean population effect size plus a deviation specific for that study.
+
+Or we can write the two equations in one equation.
+
+So the observed effect size in study J is equal to an overall mean effect size over all studies plus the deviation of the population effect size from study J from the mean population effect size and plus a random deviation of the observed effect size from the population effect size from that study J.
+
+So note that in two in the two models so both in the fixed effects model and random effects model we have uh our theta but the theta now has a different interpretation in both models.
+
+In a fixed effects model, the theta refers to the overall no sorry to the common population effect size common population effect size for all studies.
+
+Whereas in the random effects model, the theta refers to the mean population effect size.
+
+So the mean of that normal distribution of population effect sizes.
+
+Note that in a fixed effects model, there is only one parameter to be estimated, more specifically theta.
+
+We want to estimate the common population effect size.
+
+We do not have to estimate the variance of R because we already know this variance before we start our meta analysis.
+
+Again for uh an observed uh standardized mean difference the sampling variance is about 4 divided by n.
+
+So we do not have to estimate this parameter.
+
+It's not an unknown parameter.
+
+In the random effects model there are two unknown parameters.
+
+We have to estimate the mean population effect size theta.
+
+But on top of that we also will estimate the variance between studies in the population effect sizes.
+
+So we also want to estimate the variance of the use.
+
+Again the variance in the Rs uh does not have to be estimated anymore.
+
+We already know them before starting our meta analysis.
+
+Meta analysis sometimes has been have been criticized because and especially random effects model uh meta analysis because you are estimating a mean uh a mean effect the mean population effect sizes overall population effect sizes.
+
+And the idea is well if the population effect size can vary over studies because studies differ in a lot of aspects.
+
+So does it make sense to combine all these effect sizes?
+
+Are we not mixing apples and oranges?
+
+And I think the answer of Jean Claus who started um or who invented um the idea of meta analysis the answer of Jean Claus was well it's not interesting uh to combine apples with apples or oranges with oranges.
+
+It's much more interesting to combine apples and oranges because in that way you can compare apples and oranges.
+
+So to explain this somewhat further, the advantage of combining the results of studies that are not done in exactly the same way and for which the population effect sizes may be not exactly the same.
+
+Well, what is interesting about such meta analysis is that we can test whether there is hetrogenity, whether there is homogeneity and suppose that we see that population effect sizes are very similar despite the fact that um uh that the studies were set up in in various ways or that the treatments were done operationalized in different ways or that population studied were not exactly the same in all studies.
+
+So despite these differences between studies, if despite these differences between studies, we still find the same population effect then this is an interesting finding then this means that we can generalize this effect to a variety of situations.
+
+If on the contrary we find that there is heterogeneity so that population effect sizes are not the same.
+
+Well then an an additional interesting question is why are there differences?
+
+Can we study in what situations for what types of studies the effect is larger than for what other types of studies.
+
+So in this way we can study much more questions and can be answered by individual studies.
+
+So for instance, we can study whether the effect is larger in the United States compared to Europe and so on.
+
+An additional advantage of combining the results of studies even if these studies um do not exactly do exactly the same things is that in this way we can increase the size of our metalic data set.
+
+And so by increasing the size of our metal analytic data set, so by increasing the number of effect sizes in our meta analysis, we can increase the accuracy or we can increase the precision of our mean estimate and at the same time we can increase the statistical power in doing statistical tests.
+
+So there are several advantages of uh combining even heterogeneous study results.
+
+Of course, it does not make sense to combine whatever numbers.
+
+So if you want to combine the results of several studies, you have to look at or you have to evaluate whether there is a common ground in these studies.
+
+Do these studies uh study more or less the same research question?
+
+So to give an example of a of meta analysis that was done by glass.
+
+So class did a huge meta analysis uh studying the effect of psychological treatments but there are different types of psychological treatments.
+
+And so he has been criticized because he was combining effects of a variety of types of psychological treatments.
+
+And based on the meta analysis, he was saying something about the average effect of a psychological treatment.
+
+But people were saying, well, there is not such a typical psychological treatment.
+
+So what is the meaning of this mean population effect size for psychological treatments?
+
+But what was interesting in the meta analysis of of class is that in this way he could compare different types of treatments.
+
+He could study whether for instance psychotherapy gave better or worse results compared to um client center therapy and so on comparing the fixed effects model and random effects model.
+
+So in a random effects model, if we want to estimate um uh the mean population effect size using the results of several studies, so using multiple observed effect sizes, we can again calculate uh a mean of these observed effect sizes uh precision weighted mean.
+
+So you can see that formula here is exactly the same as for the fixed effects model.
+
+But there is a difference.
+
+The difference is that the precision is now different.
+
+Precision is one over the variance of the observed effect size.
+
+But the difference is in a fixed effects model the variance of observed effect sizes is simply the sampling variance.
+
+So it's the variance of the R.
+
+Whereas in a random effects model we say no there are two residuals there are two deviations two types of deviations.
+
+An observed effect size can be smaller than other observed effect sizes because by coincidence we have taken a sample and in that sample the observed effect size is smaller than the population effect size.
+
+But it's also possible that the population effect size in that study was smaller than the population effect size than the mean population effect size.
+
+So in fact the variation in observed effect sizes is now due to these two sources of uh deviations.
+
+So it's equal to the sampling variance plus the variance in the use and in the metalic literature.
+
+Very often the symbol toao squared is used to refer to this variance in population effect sizes.
+
+What is a consequence for a mean effect?
+
+Well, it can go in a two directions.
+
+So in general, the fixed effects model and the random effects model estimate of theta is somewhat similar.
+
+But if you look at the weights that are given, the weights in the random effects model will be more similar to each other.
+
+So the weights are equal to one over the precision and the precision depends in a random effects model both on the to squared which is the same for all studies and on the sampling variance which is different for different studies.
+
+In a fixed effects model, um the precision only depends on the sampling variance which is different for each study.
+
+So in a fixed effects model, the weights can differ a lot over studies.
+
+In the random effects model, the rates are more similar.
+
+And I think this makes sense.
+
+This makes sense in because in if we uh assume that population effect sizes may not be exactly the same in all studies.
+
+So that there is a distribution of population effect sizes and we want to say something about the mean of that distribution.
+
+We are going to give enough weight also to smaller studies.
+
+Okay.
+
+In smaller studies there is a lot of sampling variance.
+
+So we we give less weight to that study compared to a large study.
+
+But still we want to give enough weight to that effect size from that study because in that study an other population effect size is estimated compared to other studies and therefore we also want to give enough weight to that individual study.
+
+What about the precision?
+
+So again the precision of our estimate when using a random effects model is equal to one over the sampling variance.
+
+So it's equal to the sum of the precisions of um all observed effect sizes.
+
+So it's again exactly the same formula as for a fixed effects model but again the difference is in that variance of t.
+
+In fixed effects model, it's the s the sampling variance only.
+
+In the random effects model, this variance of t is equal to the sum of two uh types of variance sampling variance and the uh the true variance or the variance in population effect sizes to squar.
+
+So this means that in a random effects model, the precision of an individual effect size of an individual observed effect size is smaller and therefore the precision of our weight of sorry the precision of our mean is also smaller.
+
+And again I think this makes sense.
+
+Um now we take into account the additional uncertainty.
+
+We say well each study has its own population effect size and we want to say something about the mean of the population of effect sizes but we only have a sample of studies.
+
+And so if we had observed an effect size in an additional study, maybe in that additional study another population effect size would have been estimated.
+
+And so because now we have an additional uncertainty because we do not have information on many possible um yeah about many population effect sizes of studies that could have been performed. an example.
+
+So here we can see the results of a small meta analysis done by uh Borenstein HS and Rostein.
+
+So a meta analysis of about uh six studies look at the mean effect size.
+
+The mean effect size is equal to 0.397.
+
+Standard error is equal to 0062 when using a fixed effects model.
+
+Also look at the size of the dots in the confidence intervals.
+
+The size of the dots is pre uh proportional to the weight that is given to that effect size.
+
+So you can see that the study of dunuts so the fourth study has a very large dot.
+
+This means that a lot of weight is given to that individual study probably because this is a large study.
+
+So the sample size is large.
+
+Therefore you can also see that the confidence interval is uh smaller.
+
+So it's a more precise estimate and so more weight is given to that study.
+
+Now look at the results of the random effects model.
+
+You can see that the mean effect now is so much similar but standard error is much larger.
+
+It used to be 0 062.
+
+Now it's 0 107.
+
+So it's almost twice as large.
+
+So the standard error is larger.
+
+So the the sampling variance is larger.
+
+The precision is smaller.
+
+The confidence interval is also larger.
+
+So this indicates that we take into account the additional uncertainty.
+
+Also look at the size of the dots.
+
+Before the study of donut had a much larger dot than the other studies.
+
+Whereas now this dot is still somewhat larger than for the other studies.
+
+But the size of the dots are uh more similar.
+
+This is because we are using more similar weights in our random effects model because in our weights we also take into account the to squared and the to squar is the same for all studies.
+
+So it's a constant.
+
+How can we test and uh and calculate interval estimates for theta?
+
+Well, again the same slide as before.
+
+The only difference now is that the standard deviation of theta hat.
+
+So the standard the sample yeah the standard deviation of the sampling distribution of our estimate of the mean population effect size now is the sum or is equal to the square root of the sum of two variances rather than the square root of one uh variance.
+
+So I said the precision or the accuracy is smaller when using a random effects model.
+
+So our confidence interval will be larger.
+
+It also means that the power is smaller.
+
+If our confidence is larger then the probability that for instance a value of zero is included in a confidence interval will be larger.
+
+So the probability that we will reject the null hypothesis that an effect is equal to zero will become smaller.
+
+So when we use a random effects model the power is smaller and we have a smaller accuracy.
+
+You may wonder this is not what we want.
+
+So why not using a fixed effects model?
+
+So the reason is simple.
+
+The fixed effects model is only appropriate if population effect sizes are exactly the same.
+
+So if population effect sizes are not the same in all studies then the results of the fixed effects model is simply wrong are simply wrong.
+
+And so indeed we have more power and the confidence interval indeed are smaller when using a fixed effects model.
+
+But this is because we do not take into account the additional uncertainty we have about the mean effect size when population effect sizes are not exactly the same.
+
+So the power and the accuracy is artificially higher when using a fixed effects model.
+
+The next question is well we have seen in our weights we have to use to squar um we have to use to squar as well to calculate the precision of our estimate and so to do significance tests and to calculate confidence intervals.
+
+But how can you obtain to squar before we do the meta analysis?
+
+We can already estimate or calculate the sampling variance but to squar cannot be calculated before our meta analysis.
+
+We have to estimate this in our meta analysis.
+
+And how can we estimate to squ?
+
+Because in the random effects model we have seen the observed effect size in study J is equal to a mean population effect size plus a residual and plus another residual.
+
+So we have two residuals.
+
+For each observed effect size we have two residuals.
+
+So how can we disentangle these two sources of variance?
+
+Well, the reason is simple because we already know the variance of R.
+
+So the variance in the observed effect sizes is the sum of the variance of U.
+
+So to squar plus the sampling variance because we know the sampling variance.
+
+So we know the variance of R. we can calculate and then we also see how much variation there is in the observed effect sizes.
+
+We can um subtract um the variance in observed we can take the variance in the observed effect sizes and subtract the sampling variance to get an uh an estimate of the variance of the use or to squared.
+
+Of course, the sampling variance or the variance of R is not the same for all studies.
+
+So for larger studies, the sampling variance will be smaller than for smaller studies.
+
+So a solution could be that we can that we calculate the mean of these sampling variances.
+
+So we sum we sum all the sampling variances and we divide it by the number of studies.
+
+So this is what was proposed by hatches and 1985.
+
+So the estimate of to squar is the variance in or the observed variance in the observed effect sizes minus the mean estimated sampling variance.
+
+Note that sometimes a conditional random effects model approach is used which means well one starts from a fixed effects model one performs a homogeneity test and if the homogeneity test shows that the null hypothesis of homogeneity can be rejected.
+
+So if there is evidence for heterogeneity then one says okay fix using a fixed effects model was not a good idea let's continue with a random effects model.
+
+I want to mention very clearly that this conditional random effects model is not a good approach.
+
+The problem is that the power of the homogeneity test is not very good.
+
+So it is possible that the assumption that all population effect sizes are the same that this assumption is simply wrong.
+
+But still that this assumption is not rejected in our homogeneity test.
+
+And in that case in a conditional random effects model approach one would continue using a fixed effects model whereas a random effects model would be more appropriate.
+
+So my suggestion is to use always random effects model.
+
+So a random effects model does not assume that uh population effect sizes are the same for all studies.
+
+But it is allowed that population effect sizes are the same for all studies.
+
+In that situation the variance that we estimate the variance in population effect sizes will be probably um very small.
+
+So our estimate of the variance between population effect sizes.
+
+So the variance of u so the to squar probably will be very small or even equal to zero.
+
+There is still some discussion about whether it is a good idea to use a random effects model.
+
+So a first issue is yeah does it make sense to consider our sample of studies or the sample of effect sizes as a random sample of a population of effect sizes.
+
+So our thetas from our set of studies, we consider these thetas as a random sample from that normal distribution of thetas.
+
+But does it make sense to consider studies as a random sample?
+
+Another issue is well are we interested in that population of population effect sizes?
+
+Maybe we are only interested in these specific treatments that were studied in the studies we have.
+
+So maybe we do not want to generalize to other population effect sizes than the population effect sizes that were studied in our set of studies.
+
+Another question is does it make sense to assume that population effect sizes are normally distributed?
+
+Maybe this does not make sense.
+
+Of course, we can test whether these effect sizes are normally distributed.
+
+But the problem is very often in a meta analysis we do not have a lot of effect sizes.
+
+We do not have a lot of studies.
+
+Say um suppose that we only have 10 or 20 or even 30 studies.
+
+That's not enough to test with enough power the null hypothesis that our uh effect sizes stem from a normal distribution.
+
+And then a final issue is if we use random effects model then we are giving more or less the same weight to all studies.
+
+So we give uh relatively a lot of weight to small studies as well.
+
+In a fixed effects model we give we do not give a lot of weight to small studies.
+
+And we have seen in the first session that publication bias is especially apparent for small studies.
+
+In small studies, there is a lot of variation in effect sizes.
+
+So probably only the largest effect sizes for small studies will be published or reported because only the largest effect sizes will be statistically significant.
+
+So therefore the problem of publication bias will be will have a larger effect on the results of a meta analysis if we are giving uh relatively large weights to the small studies which is done in the random effects model.
+
+In a fixed effects model small studies are downweighted much more.
+
+So for if there is publication bias, this will most be most apparent when using a random effects model, which is another argument against the use of random effects model.
+
+So there are still some questions that are asked um or still some critiques that are given on the use of random effects model.
+
+So suppose that you find that there is indeed heterogeneity that population effect sizes are not the same for all studies.
+
+Of course this is not a very interesting finding.
+
+It's or or it raises another question.
+
+Why is there variation between studies?
+
+Can we explain why in some studies the effect size is larger than in other studies?
+
+And one possibility is to uh use a model with a categorical um predictor, a categorical variable, a categorical study characteristic.
+
+So that's a characteristic that divides studies in categories.
+
+For instance, maybe you say or you think that there can be differences in the effects um of studies done in the United States uh compared to um effects of studies done in Europe.
+
+So then we have two categories of studies and in the simplest model we say well within these categories population effect sizes are the same but it is possible that population effect sizes differ over categories.
+
+Of course this does not mean that within categories observed effect sizes will be exactly the same because again you have that sampling variance.
+
+So a population effect size or an observed effect size in a specific study can still be somewhat smaller or somewhat larger than the population effect size from that study.
+
+But in this model, from study J in category I is equal to the population effect size for that category I plus random deviation.
+
+Random deviation due to sampling variance and again sampling variance can be estimated.
+
+So what uh population parameters we have to estimate here are the population effect sizes for all these categories.
+
+So the theta I look at the Q statistic that we have seen before. we can calculate exactly the same Q statistic but now I used uh two summation marks because yeah we have um effect sizes from multiple studies from multiple categories.
+
+What we can do is so I said before the Q can be considered as a kind of variance or a statistic that expresses how much variation there is um of the observed effect sizes around the overall mean effect size.
+
+We can do a kind of analysis of variance by splitting this total variability in observed effect sizes in two parts.
+
+We can say well observed effect sizes can vary around the overall mean because of two um there are two explanations or there can be two explanations.
+
+The first explanation is that there are differences between the population means of different categories and a second explanation is well within categories the observed effect sizes can vary.
+
+So we can split um the the Q statistic that we have seen before in two separate Q statistics and I will give uh the formulas in on the next slide but note that we that each of these Q statistics follow a kiquare distribution.
+
+So the Q total is in fact um if we use this Q total and compare this Q statistic to a K square distribution then we are performing a homogeneated test the same test as the one that we have done before.
+
+The Q between tests whether there is variability between categories.
+
+So it's a kind of moderator test.
+
+So it tests whether the size of the effect depends on the category.
+
+If the size of the effect depends on the category, then the category or the categorical variable is called a moderator variable.
+
+The category moderates the effect of the intervention.
+
+Within categories, there still can be variability.
+
+So it's again a kind of homogeneity test but it's testing the homogeneity within categories.
+
+So because now we are splitting the total variance in two parts.
+
+Um this is a kind of analysis of variance.
+
+But note a difference with an ordinary analysis of variance is that now we are going to give weights.
+
+We are going to look especially um at larger studies. they are going to give more weight to larger studies.
+
+So this is a weighted analysis.
+
+How does the formulas look like?
+
+Well, Q total, we have already seen this Q total.
+
+This Q total is split in two Q's.
+
+The Q between expresses the size of variation between category uh population effect sizes or category means.
+
+So we look at the mean population effect size estimate within each category I and we calculate the deviation with the overall estimate or the overall mean estimate.
+
+We square this um deviation.
+
+We wait this deviation this squared deviation and we sum this overall categories.
+
+Note that the weight that is given to each category is equal to the sum of the weights um of all these studies within that category.
+
+The Q within is calculated by calculating the Q within for each category separately and then summing all these Q withins.
+
+And how is the Q within for a specific category I calculated?
+
+Well, we look at the squared deviations of the observed effect sizes from the mean effect size from this category.
+
+We multiply it by the weight um and we sum everything um overall observed effect sizes within that category.
+
+Note that if we found that the categorical variable has a moderating effect so that there are differences between categories of studies then uh an interesting question is between which two or between what pairs of categories there are differences.
+
+I'm not going to discuss this but you can look at the paper of hatches and pickot um to look at um how you can test contrasts in much the same way as in ordinary analysis of variance you can calculate or test contrasts between pairs of categories an example let's go back to the example of Steve Stefan Renbush about the teacher expectancy effects So we have our 19 observed effect sizes together with their standard error.
+
+So the square of the sampling variances and we have different categories of studies.
+
+In some studies there was no prior contact between uh students and teachers.
+
+In other studies there was one week of prior contact other studies two weeks or in still other studies three or more than three weeks.
+
+I've done a met meta analysis using a fixed effects model and using a random effects model.
+
+So on the right side of this graph you can see the results of the fixed effects model and the random effects model analysis.
+
+Note that the estimate of theta is somewhat similar for the two approaches.
+
+But for the random effects model, the confidence interval is much larger than for the fixed effects model because now we take into account that there may be systematic variation between studies.
+
+So there may be variation between population effect sizes.
+
+Here I ordered the effect sizes according to the number of weeks of prior contact.
+
+And what is interesting is that in the first category, the first category of studies in which there was no prior contact, observed effect sizes were relatively large.
+
+If there was one week of prior contact, on average, effect sizes were somewhat smaller.
+
+After two weeks of prior contact, effect sizes were still smaller and after three weeks of prior contact, effect sizes were around zero or even on average somewhat negative.
+
+So apparently um there are differences between these categories of studies.
+
+So we can use a weighted analysis of variance to test whether these differences that we see here are statistically significant. here the results.
+
+So if we use uh the overall Q or the total Q statistic so to test whether in general there is homogeneity we see that this null hypothesis is rejected.
+
+So we have a Q statistic equal to 35.83 with 18 degrees of freedom.
+
+This gives us a p value that is smaller than 0.05 even smaller than 0.01.
+
+So we can reject the null hypothesis that all population effect sizes are the same.
+
+The second test, the Q between test tests whether there are differences between categories.
+
+Again you can see that we obtain a very small p value.
+
+So again we reject the null hypothesis and we conclude yes there are differences between categories of studies.
+
+And then the third test using the Q within statistic does not give a small p value.
+
+On the contrary, the p value is relatively large.
+
+It's equal to 42.
+
+So we do not reject the null hypothesis.
+
+The null hypothesis stating that all population effect sizes within categories are the same.
+
+So we conclude yes there are differences between population effect sizes but these differences can be explained completely by the number of weeks of prior contact.
+
+If we take into account that categorical variable there is no heterogenity anymore.
+
+So the Q within test shows that the variation we still see within categories can be explained completely by random variation.
+
+So by sampling variance maybe you can have a look at the Excel sheet that is on to called routenbush example.
+
+In this Excel sheet I did all these calculations.
+
+So I used uh fixed effects model to estimate and to test uh the theta so the common population effect size.
+
+I also used random effects model to test and to estimate the mean population effect size.
+
+I also used a Q uh statistic and I also performed a weighted analysis of variance.
+
+So the calculations that were done to obtain Q total, Q between and Q within are shown in that Excel sheet.
+
+So I recommend you to have a look at this Excel sheet and to try to understand how these results were obtained.
+
+A note um simulation studies have shown that maybe the Q statistic is not the best statistic to use.
+
+The Hartung test um brings better under control the type one erate.
+
+Another approach to take into account differences between studies is by using not a weighted analysis of variance but a weighted regression analysis.
+
+So the idea now is the observed effect size in study J is equal to the population effect size in study J plus a residual due to sampling variance.
+
+But the the population effect sizes of the studies now are described using a regression equation.
+
+So it's equal to the population effect size in study J is equal to a constant an intercept plus a regression weight times um yeah the value on a specific stat characteristic for this study and so on.
+
+Note that in this regression equation there is no residual.
+
+So we assume that based on this regression equation we can perfectly describe what the population effect size is in a specific study.
+
+So there is no random variation.
+
+It's completely fixed. is completely the population effect size is completely determined by the characteristics of the study.
+
+So therefore we still talk about the fixed effects model but it's a fixed effects model including uh moderator variables in regression model.
+
+So it's called fixed effects regression model.
+
+Note that this is not an ordinary regression analysis.
+
+It's a weighted regression analysis.
+
+Again, we are going to give um or we are going to use the precision as weights and like in an ordinary regression analysis.
+
+Um you get the estimates of uh the regression weights, you get estimates of um the standard errors of these uh estimates.
+
+And so the estimates divided by the standard errors follow a normal distribution or standard normal distribution.
+
+So if um the estimates are at least twice as large as a standard error, we know that we can reject another hypothesis at the 5% significance level.
+
+So we have seen random effects models.
+
+We also have seen how if there is variation in population effect sizes, how we can include moderators, how we can include a categorical moderator and perform an analysis of variance or how we can include um a moderator in a regression model.
+
+But in both models that we have seen there was no residual no residual U.
+
+So which means that we assumed in that analysis of variance that there may be differences between categories of studies but within categories population effect sizes are the same.
+
+We can also define a model where we say well maybe there are specific population effect size or mean effect sizes for each category.
+
+But on top of that maybe a population effect size of a study can defer from the mean in the category to which that population effect size belongs.
+
+So we can include an additional uh residual u.
+
+So here we combine effects the random effects model and uh the fixed effects model with a categorical moderator variable.
+
+Also the regression model can be extended by including an additional residual U to say that maybe we can based on the characteristics of the study we can predict the population effect size from that study but maybe the population effect size from that study still differs from what we predicted.
+
+So that's the meaning of that residual U.
+
+And so in uh analysis in meta analysis using these models we are going to estimate well in the first model we are going to estimate the theta I so the mean effects for the different categories but on top of that we are going to estimate the variance of the use.
+
+So the variance between studies within categories in a regression model we are going to estimate the regression coefficients.
+
+So the betas and uh as well as the variance in the use.
+
+So which is the variance between population effect sizes after taking into account um the effects of the study characteristics to illustrate the random effects model with a moderator um using that uh analysis of variance model.
+
+So here we assume that we have multiple categories.
+
+Here we have for instance two categories.
+
+But within these categories population effect sizes can still vary and we assume that this variation is according to a normal distribution.
+
+Of course on top of that variation um so yeah we we have to we still have the sampling variation.
+
+So now we have three sources of variation.
+
+We have variation between categories in the population in the mean population effect sizes.
+
+We have variation within categories um between population effect sizes.
+
+And on top of that we have the sampling variation the variation of observed effect sizes around the population effect sizes.
+
+So because in this model we have a combination of random variation and fixed variation or variation that can be predicted uh using our moderator variables.
+
+We also call this mix of random and and fixed effects.
+
+We call it a mixed effects model.
+
+Note that this model is the least restrictive model.
+
+It's a more general model.
+
+Um, if you use this model and it turns out that the variance of U is equal to zero, then this model automatically simplifies to a fixed effects model with a moderator.
+
+Or suppose that the moderator variable is not having an effect.
+
+In that situation, the the mixed effects model um reduces or simplifies to random effects model or if there is no effect of the moderator.
+
+And if there is also no random variation in population effect sizes, then the mixed effects model automatically simplifies to the first model we started from.
+
+The fixed effects model without moderators.
+
+So a final remark I want to make about these analysis of variance models is that very often it is assumed that within categories the between study variance so the variance of u is exactly the same.
+
+So we are going to estimate only one parameter the variance of u or the to squared.
+
+But some software um packages also allow to assume that possibly the variance of u depends on the category.
+
+In that situation of course you estimate much more variance components.
+
+For instance, in the software Refman or in um this is done uh by default in the software CMA, you have the choice.
+
+A simulation study showed that if in reality all variances between population effect sizes are the same for all categories, then it's a better idea to uh yeah to ask only or to use only one estimate of this common uh between study variance.
+
+So it's a good idea to use a pulled estimate over categories.
+
+If not, it's better to obtain or to ask um uh for yeah for a separate uh variance estimates one for each category otherwise you will get flawed results.
+
+So to summarize this session we have seen six types of models.
+
+We started from a fixed effects model without moderator.
+
+Then we looked at random effects model without moderators.
+
+We said well if there is random variation maybe it's a good idea to include a moderator and we have seen um how we can extend the fixed effects model as well as the random effects model by including a a categorical moderator.
+
+So resulting in analysis of variance models or including continuous moderators resulting in fixed effects or random effects regression models.

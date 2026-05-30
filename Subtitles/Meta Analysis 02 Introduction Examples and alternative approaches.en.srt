@@ -1,0 +1,3565 @@
+1
+00:00:01,600 --> 00:00:03,909
+
+In the first part of the introduction,
+
+2
+00:00:03,909 --> 00:00:03,919
+In the first part of the introduction,
+ 
+
+3
+00:00:03,919 --> 00:00:05,749
+In the first part of the introduction,
+we looked at the principles of meta
+
+4
+00:00:05,749 --> 00:00:05,759
+we looked at the principles of meta
+ 
+
+5
+00:00:05,759 --> 00:00:08,470
+we looked at the principles of meta
+analysis. Let's look now at some
+
+6
+00:00:08,470 --> 00:00:08,480
+analysis. Let's look now at some
+ 
+
+7
+00:00:08,480 --> 00:00:12,870
+analysis. Let's look now at some
+examples and alternatives.
+
+8
+00:00:12,870 --> 00:00:12,880
+
+ 
+
+9
+00:00:12,880 --> 00:00:16,950
+
+First, we look at two examples.
+
+10
+00:00:16,950 --> 00:00:16,960
+First, we look at two examples.
+ 
+
+11
+00:00:16,960 --> 00:00:19,429
+First, we look at two examples.
+First, an example in education. Let's
+
+12
+00:00:19,429 --> 00:00:19,439
+First, an example in education. Let's
+ 
+
+13
+00:00:19,439 --> 00:00:21,429
+First, an example in education. Let's
+look at a meta analysis that was done
+
+14
+00:00:21,429 --> 00:00:21,439
+look at a meta analysis that was done
+ 
+
+15
+00:00:21,439 --> 00:00:25,590
+look at a meta analysis that was done
+already in 1984 by Stephenbush. He did a
+
+16
+00:00:25,590 --> 00:00:25,600
+already in 1984 by Stephenbush. He did a
+ 
+
+17
+00:00:25,600 --> 00:00:29,029
+already in 1984 by Stephenbush. He did a
+study on teacher expectancy effects. In
+
+18
+00:00:29,029 --> 00:00:29,039
+study on teacher expectancy effects. In
+ 
+
+19
+00:00:29,039 --> 00:00:31,429
+study on teacher expectancy effects. In
+several experiments, 19 experiments in
+
+20
+00:00:31,429 --> 00:00:31,439
+several experiments, 19 experiments in
+ 
+
+21
+00:00:31,439 --> 00:00:34,229
+several experiments, 19 experiments in
+total, teachers were told that part of
+
+22
+00:00:34,229 --> 00:00:34,239
+total, teachers were told that part of
+ 
+
+23
+00:00:34,239 --> 00:00:36,229
+total, teachers were told that part of
+the students of their class were weak
+
+24
+00:00:36,229 --> 00:00:36,239
+the students of their class were weak
+ 
+
+25
+00:00:36,239 --> 00:00:38,630
+the students of their class were weak
+students. Another part of the students
+
+26
+00:00:38,630 --> 00:00:38,640
+students. Another part of the students
+ 
+
+27
+00:00:38,640 --> 00:00:41,430
+students. Another part of the students
+were called strong students without
+
+28
+00:00:41,430 --> 00:00:41,440
+were called strong students without
+ 
+
+29
+00:00:41,440 --> 00:00:43,270
+were called strong students without
+there being a real difference between
+
+30
+00:00:43,270 --> 00:00:43,280
+there being a real difference between
+ 
+
+31
+00:00:43,280 --> 00:00:47,430
+there being a real difference between
+these two groups of students.
+
+32
+00:00:47,430 --> 00:00:47,440
+
+ 
+
+33
+00:00:47,440 --> 00:00:49,910
+
+After a while, the researchers looked at
+
+34
+00:00:49,910 --> 00:00:49,920
+After a while, the researchers looked at
+ 
+
+35
+00:00:49,920 --> 00:00:51,670
+After a while, the researchers looked at
+the grades that were given by the
+
+36
+00:00:51,670 --> 00:00:51,680
+the grades that were given by the
+ 
+
+37
+00:00:51,680 --> 00:00:55,350
+the grades that were given by the
+teachers to these students.
+
+38
+00:00:55,350 --> 00:00:55,360
+teachers to these students.
+ 
+
+39
+00:00:55,360 --> 00:00:57,830
+teachers to these students.
+The researchers were interested in the
+
+40
+00:00:57,830 --> 00:00:57,840
+The researchers were interested in the
+ 
+
+41
+00:00:57,840 --> 00:00:59,750
+The researchers were interested in the
+question whether teachers would give
+
+42
+00:00:59,750 --> 00:00:59,760
+question whether teachers would give
+ 
+
+43
+00:00:59,760 --> 00:01:02,150
+question whether teachers would give
+higher grades to the so-called strong
+
+44
+00:01:02,150 --> 00:01:02,160
+higher grades to the so-called strong
+ 
+
+45
+00:01:02,160 --> 00:01:04,710
+higher grades to the so-called strong
+students. If this is the case, this
+
+46
+00:01:04,710 --> 00:01:04,720
+students. If this is the case, this
+ 
+
+47
+00:01:04,720 --> 00:01:08,550
+students. If this is the case, this
+would be an indication of the expectancy
+
+48
+00:01:08,550 --> 00:01:08,560
+would be an indication of the expectancy
+ 
+
+49
+00:01:08,560 --> 00:01:11,429
+would be an indication of the expectancy
+that teachers had
+
+50
+00:01:11,429 --> 00:01:11,439
+that teachers had
+ 
+
+51
+00:01:11,439 --> 00:01:13,990
+that teachers had
+sorry this would be this would indicate
+
+52
+00:01:13,990 --> 00:01:14,000
+sorry this would be this would indicate
+ 
+
+53
+00:01:14,000 --> 00:01:15,990
+sorry this would be this would indicate
+that the expectancy that teachers had
+
+54
+00:01:15,990 --> 00:01:16,000
+that the expectancy that teachers had
+ 
+
+55
+00:01:16,000 --> 00:01:17,990
+that the expectancy that teachers had
+regarding their students influenced
+
+56
+00:01:17,990 --> 00:01:18,000
+regarding their students influenced
+ 
+
+57
+00:01:18,000 --> 00:01:21,270
+regarding their students influenced
+their scores. This is called a teacher
+
+58
+00:01:21,270 --> 00:01:21,280
+their scores. This is called a teacher
+ 
+
+59
+00:01:21,280 --> 00:01:24,230
+their scores. This is called a teacher
+expectancy effect. In all these
+
+60
+00:01:24,230 --> 00:01:24,240
+expectancy effect. In all these
+ 
+
+61
+00:01:24,240 --> 00:01:26,789
+expectancy effect. In all these
+experiments, we had two groups and based
+
+62
+00:01:26,789 --> 00:01:26,799
+experiments, we had two groups and based
+ 
+
+63
+00:01:26,799 --> 00:01:28,789
+experiments, we had two groups and based
+on the data, we can calculate a
+
+64
+00:01:28,789 --> 00:01:28,799
+on the data, we can calculate a
+ 
+
+65
+00:01:28,799 --> 00:01:31,190
+on the data, we can calculate a
+standardized mean difference which you
+
+66
+00:01:31,190 --> 00:01:31,200
+standardized mean difference which you
+ 
+
+67
+00:01:31,200 --> 00:01:35,030
+standardized mean difference which you
+can see in the column called G here. A
+
+68
+00:01:35,030 --> 00:01:35,040
+can see in the column called G here. A
+ 
+
+69
+00:01:35,040 --> 00:01:37,749
+can see in the column called G here. A
+positive G refers to an effect in a
+
+70
+00:01:37,749 --> 00:01:37,759
+positive G refers to an effect in a
+ 
+
+71
+00:01:37,759 --> 00:01:40,469
+positive G refers to an effect in a
+direction that was expected in the sense
+
+72
+00:01:40,469 --> 00:01:40,479
+direction that was expected in the sense
+ 
+
+73
+00:01:40,479 --> 00:01:43,590
+direction that was expected in the sense
+that teachers are given giving higher
+
+74
+00:01:43,590 --> 00:01:43,600
+that teachers are given giving higher
+ 
+
+75
+00:01:43,600 --> 00:01:46,550
+that teachers are given giving higher
+grades to the so-called strong students.
+
+76
+00:01:46,550 --> 00:01:46,560
+grades to the so-called strong students.
+ 
+
+77
+00:01:46,560 --> 00:01:49,350
+grades to the so-called strong students.
+A negative effect size, a negative G,
+
+78
+00:01:49,350 --> 00:01:49,360
+A negative effect size, a negative G,
+ 
+
+79
+00:01:49,360 --> 00:01:51,590
+A negative effect size, a negative G,
+would mean that the opposite difference
+
+80
+00:01:51,590 --> 00:01:51,600
+would mean that the opposite difference
+ 
+
+81
+00:01:51,600 --> 00:01:53,990
+would mean that the opposite difference
+is observed or specifically that
+
+82
+00:01:53,990 --> 00:01:54,000
+is observed or specifically that
+ 
+
+83
+00:01:54,000 --> 00:01:56,469
+is observed or specifically that
+teachers give higher grades to the
+
+84
+00:01:56,469 --> 00:01:56,479
+teachers give higher grades to the
+ 
+
+85
+00:01:56,479 --> 00:01:58,550
+teachers give higher grades to the
+so-called weak students, which is
+
+86
+00:01:58,550 --> 00:01:58,560
+so-called weak students, which is
+ 
+
+87
+00:01:58,560 --> 00:02:01,990
+so-called weak students, which is
+definitely not what you would expect.
+
+88
+00:02:01,990 --> 00:02:02,000
+definitely not what you would expect.
+ 
+
+89
+00:02:02,000 --> 00:02:04,310
+definitely not what you would expect.
+Now, if you look at the cheese, then you
+
+90
+00:02:04,310 --> 00:02:04,320
+Now, if you look at the cheese, then you
+ 
+
+91
+00:02:04,320 --> 00:02:06,389
+Now, if you look at the cheese, then you
+can see that often these GS are
+
+92
+00:02:06,389 --> 00:02:06,399
+can see that often these GS are
+ 
+
+93
+00:02:06,399 --> 00:02:08,630
+can see that often these GS are
+positive, but sometimes they're
+
+94
+00:02:08,630 --> 00:02:08,640
+positive, but sometimes they're
+ 
+
+95
+00:02:08,640 --> 00:02:12,229
+positive, but sometimes they're
+negative. Further, you can see that in
+
+96
+00:02:12,229 --> 00:02:12,239
+negative. Further, you can see that in
+ 
+
+97
+00:02:12,239 --> 00:02:14,710
+negative. Further, you can see that in
+general, these GS are relatively small.
+
+98
+00:02:14,710 --> 00:02:14,720
+general, these GS are relatively small.
+ 
+
+99
+00:02:14,720 --> 00:02:17,830
+general, these GS are relatively small.
+Remember the guidelines of cone with
+
+100
+00:02:17,830 --> 00:02:17,840
+Remember the guidelines of cone with
+ 
+
+101
+00:02:17,840 --> 00:02:21,110
+Remember the guidelines of cone with
+0.20 called a small effect, 050 a
+
+102
+00:02:21,110 --> 00:02:21,120
+0.20 called a small effect, 050 a
+ 
+
+103
+00:02:21,120 --> 00:02:23,750
+0.20 called a small effect, 050 a
+moderate effect, and 0.80 a large
+
+104
+00:02:23,750 --> 00:02:23,760
+moderate effect, and 0.80 a large
+ 
+
+105
+00:02:23,760 --> 00:02:26,869
+moderate effect, and 0.80 a large
+effect. Very often, the effect sizes
+
+106
+00:02:26,869 --> 00:02:26,879
+effect. Very often, the effect sizes
+ 
+
+107
+00:02:26,879 --> 00:02:29,190
+effect. Very often, the effect sizes
+that were observed were even smaller
+
+108
+00:02:29,190 --> 00:02:29,200
+that were observed were even smaller
+ 
+
+109
+00:02:29,200 --> 00:02:32,150
+that were observed were even smaller
+than 0.20.
+
+110
+00:02:32,150 --> 00:02:32,160
+than 0.20.
+ 
+
+111
+00:02:32,160 --> 00:02:33,990
+than 0.20.
+In the last column, you can see the
+
+112
+00:02:33,990 --> 00:02:34,000
+In the last column, you can see the
+ 
+
+113
+00:02:34,000 --> 00:02:36,229
+In the last column, you can see the
+standard error of these estimates. In
+
+114
+00:02:36,229 --> 00:02:36,239
+standard error of these estimates. In
+ 
+
+115
+00:02:36,239 --> 00:02:38,229
+standard error of these estimates. In
+other words, the square root of the
+
+116
+00:02:38,229 --> 00:02:38,239
+other words, the square root of the
+ 
+
+117
+00:02:38,239 --> 00:02:41,670
+other words, the square root of the
+sampling variance. We have seen that for
+
+118
+00:02:41,670 --> 00:02:41,680
+sampling variance. We have seen that for
+ 
+
+119
+00:02:41,680 --> 00:02:43,670
+sampling variance. We have seen that for
+the standardized mean difference this
+
+120
+00:02:43,670 --> 00:02:43,680
+the standardized mean difference this
+ 
+
+121
+00:02:43,680 --> 00:02:45,750
+the standardized mean difference this
+variance of the sampling distribution is
+
+122
+00:02:45,750 --> 00:02:45,760
+variance of the sampling distribution is
+ 
+
+123
+00:02:45,760 --> 00:02:49,190
+variance of the sampling distribution is
+about 4 divided by n. There is another
+
+124
+00:02:49,190 --> 00:02:49,200
+about 4 divided by n. There is another
+ 
+
+125
+00:02:49,200 --> 00:02:52,630
+about 4 divided by n. There is another
+column called weeks of prior contact.
+
+126
+00:02:52,630 --> 00:02:52,640
+column called weeks of prior contact.
+ 
+
+127
+00:02:52,640 --> 00:02:54,790
+column called weeks of prior contact.
+In some studies, there was no prior
+
+128
+00:02:54,790 --> 00:02:54,800
+In some studies, there was no prior
+ 
+
+129
+00:02:54,800 --> 00:02:57,110
+In some studies, there was no prior
+contact between teachers and students.
+
+130
+00:02:57,110 --> 00:02:57,120
+contact between teachers and students.
+ 
+
+131
+00:02:57,120 --> 00:02:59,430
+contact between teachers and students.
+So teachers did not know the students
+
+132
+00:02:59,430 --> 00:02:59,440
+So teachers did not know the students
+ 
+
+133
+00:02:59,440 --> 00:03:02,470
+So teachers did not know the students
+yet at the start of the study. In other
+
+134
+00:03:02,470 --> 00:03:02,480
+yet at the start of the study. In other
+ 
+
+135
+00:03:02,480 --> 00:03:04,790
+yet at the start of the study. In other
+studies, teachers already knew their
+
+136
+00:03:04,790 --> 00:03:04,800
+studies, teachers already knew their
+ 
+
+137
+00:03:04,800 --> 00:03:07,430
+studies, teachers already knew their
+students for one, two, or three weeks
+
+138
+00:03:07,430 --> 00:03:07,440
+students for one, two, or three weeks
+ 
+
+139
+00:03:07,440 --> 00:03:09,830
+students for one, two, or three weeks
+before the study took place.
+
+140
+00:03:09,830 --> 00:03:09,840
+before the study took place.
+ 
+
+141
+00:03:09,840 --> 00:03:12,309
+before the study took place.
+The value three refers to three weeks or
+
+142
+00:03:12,309 --> 00:03:12,319
+The value three refers to three weeks or
+ 
+
+143
+00:03:12,319 --> 00:03:17,350
+The value three refers to three weeks or
+more than three weeks of prior contact.
+
+144
+00:03:17,350 --> 00:03:17,360
+
+ 
+
+145
+00:03:17,360 --> 00:03:19,990
+
+Here the results of the meta analysis.
+
+146
+00:03:19,990 --> 00:03:20,000
+Here the results of the meta analysis.
+ 
+
+147
+00:03:20,000 --> 00:03:21,670
+Here the results of the meta analysis.
+It was found that on average the
+
+148
+00:03:21,670 --> 00:03:21,680
+It was found that on average the
+ 
+
+149
+00:03:21,680 --> 00:03:26,070
+It was found that on average the
+observed effect size is equal to 0.084.
+
+150
+00:03:26,070 --> 00:03:26,080
+observed effect size is equal to 0.084.
+ 
+
+151
+00:03:26,080 --> 00:03:28,309
+observed effect size is equal to 0.084.
+Remember the guidelines. This effect can
+
+152
+00:03:28,309 --> 00:03:28,319
+Remember the guidelines. This effect can
+ 
+
+153
+00:03:28,319 --> 00:03:31,350
+Remember the guidelines. This effect can
+be called a very small effect and the
+
+154
+00:03:31,350 --> 00:03:31,360
+be called a very small effect and the
+ 
+
+155
+00:03:31,360 --> 00:03:34,550
+be called a very small effect and the
+corresponding p value is1.
+
+156
+00:03:34,550 --> 00:03:34,560
+corresponding p value is1.
+ 
+
+157
+00:03:34,560 --> 00:03:36,789
+corresponding p value is1.
+Therefore the effect is statistically
+
+158
+00:03:36,789 --> 00:03:36,799
+Therefore the effect is statistically
+ 
+
+159
+00:03:36,799 --> 00:03:39,270
+Therefore the effect is statistically
+not significant. Conclusion would be
+
+160
+00:03:39,270 --> 00:03:39,280
+not significant. Conclusion would be
+ 
+
+161
+00:03:39,280 --> 00:03:41,750
+not significant. Conclusion would be
+that in general there is no teacher
+
+162
+00:03:41,750 --> 00:03:41,760
+that in general there is no teacher
+ 
+
+163
+00:03:41,760 --> 00:03:44,949
+that in general there is no teacher
+expectancy effect. Maybe in some studies
+
+164
+00:03:44,949 --> 00:03:44,959
+expectancy effect. Maybe in some studies
+ 
+
+165
+00:03:44,959 --> 00:03:46,949
+expectancy effect. Maybe in some studies
+the effect was positive and in other
+
+166
+00:03:46,949 --> 00:03:46,959
+the effect was positive and in other
+ 
+
+167
+00:03:46,959 --> 00:03:49,270
+the effect was positive and in other
+studies negative. But on average the
+
+168
+00:03:49,270 --> 00:03:49,280
+studies negative. But on average the
+ 
+
+169
+00:03:49,280 --> 00:03:51,670
+studies negative. But on average the
+effect is close to zero and it is
+
+170
+00:03:51,670 --> 00:03:51,680
+effect is close to zero and it is
+ 
+
+171
+00:03:51,680 --> 00:03:53,509
+effect is close to zero and it is
+statistically not significantly
+
+172
+00:03:53,509 --> 00:03:53,519
+statistically not significantly
+ 
+
+173
+00:03:53,519 --> 00:03:57,030
+statistically not significantly
+different from zero.
+
+174
+00:03:57,030 --> 00:03:57,040
+different from zero.
+ 
+
+175
+00:03:57,040 --> 00:03:59,110
+different from zero.
+But performing a met analysis with a
+
+176
+00:03:59,110 --> 00:03:59,120
+But performing a met analysis with a
+ 
+
+177
+00:03:59,120 --> 00:04:01,270
+But performing a met analysis with a
+regression model including the weeks of
+
+178
+00:04:01,270 --> 00:04:01,280
+regression model including the weeks of
+ 
+
+179
+00:04:01,280 --> 00:04:03,509
+regression model including the weeks of
+prior contact as a predictor gives
+
+180
+00:04:03,509 --> 00:04:03,519
+prior contact as a predictor gives
+ 
+
+181
+00:04:03,519 --> 00:04:06,550
+prior contact as a predictor gives
+interesting results.
+
+182
+00:04:06,550 --> 00:04:06,560
+interesting results.
+ 
+
+183
+00:04:06,560 --> 00:04:09,350
+interesting results.
+The intercept can be interpreted as the
+
+184
+00:04:09,350 --> 00:04:09,360
+The intercept can be interpreted as the
+ 
+
+185
+00:04:09,360 --> 00:04:11,429
+The intercept can be interpreted as the
+expected effect when there was no prior
+
+186
+00:04:11,429 --> 00:04:11,439
+expected effect when there was no prior
+ 
+
+187
+00:04:11,439 --> 00:04:13,990
+expected effect when there was no prior
+contact. So when the prior contact was
+
+188
+00:04:13,990 --> 00:04:14,000
+contact. So when the prior contact was
+ 
+
+189
+00:04:14,000 --> 00:04:16,789
+contact. So when the prior contact was
+equal to zero, the estimate of the
+
+190
+00:04:16,789 --> 00:04:16,799
+equal to zero, the estimate of the
+ 
+
+191
+00:04:16,799 --> 00:04:19,909
+equal to zero, the estimate of the
+intercept is equal to 0.41.
+
+192
+00:04:19,909 --> 00:04:19,919
+intercept is equal to 0.41.
+ 
+
+193
+00:04:19,919 --> 00:04:22,550
+intercept is equal to 0.41.
+So if there was no prior contact, this
+
+194
+00:04:22,550 --> 00:04:22,560
+So if there was no prior contact, this
+ 
+
+195
+00:04:22,560 --> 00:04:26,870
+So if there was no prior contact, this
+is a moderate teacher expectancy effect.
+
+196
+00:04:26,870 --> 00:04:26,880
+is a moderate teacher expectancy effect.
+ 
+
+197
+00:04:26,880 --> 00:04:29,110
+is a moderate teacher expectancy effect.
+Moreover, the p value is very small,
+
+198
+00:04:29,110 --> 00:04:29,120
+Moreover, the p value is very small,
+ 
+
+199
+00:04:29,120 --> 00:04:30,870
+Moreover, the p value is very small,
+which means that we can conclude that
+
+200
+00:04:30,870 --> 00:04:30,880
+which means that we can conclude that
+ 
+
+201
+00:04:30,880 --> 00:04:34,550
+which means that we can conclude that
+the effect is really there.
+
+202
+00:04:34,550 --> 00:04:34,560
+the effect is really there.
+ 
+
+203
+00:04:34,560 --> 00:04:36,710
+the effect is really there.
+The estimated regression rate of the
+
+204
+00:04:36,710 --> 00:04:36,720
+The estimated regression rate of the
+ 
+
+205
+00:04:36,720 --> 00:04:40,469
+The estimated regression rate of the
+number of weeks is minus 0.16.
+
+206
+00:04:40,469 --> 00:04:40,479
+number of weeks is minus 0.16.
+ 
+
+207
+00:04:40,479 --> 00:04:42,469
+number of weeks is minus 0.16.
+Which means that with each additional
+
+208
+00:04:42,469 --> 00:04:42,479
+Which means that with each additional
+ 
+
+209
+00:04:42,479 --> 00:04:45,430
+Which means that with each additional
+week of prior contact, the expected
+
+210
+00:04:45,430 --> 00:04:45,440
+week of prior contact, the expected
+ 
+
+211
+00:04:45,440 --> 00:04:48,710
+week of prior contact, the expected
+effect decreases with 0.6.
+
+212
+00:04:48,710 --> 00:04:48,720
+effect decreases with 0.6.
+ 
+
+213
+00:04:48,720 --> 00:04:51,030
+effect decreases with 0.6.
+A decrease that is also statistically
+
+214
+00:04:51,030 --> 00:04:51,040
+A decrease that is also statistically
+ 
+
+215
+00:04:51,040 --> 00:04:53,749
+A decrease that is also statistically
+significant. This makes sense. It is
+
+216
+00:04:53,749 --> 00:04:53,759
+significant. This makes sense. It is
+ 
+
+217
+00:04:53,759 --> 00:04:56,550
+significant. This makes sense. It is
+indeed hard to make a teacher believe
+
+218
+00:04:56,550 --> 00:04:56,560
+indeed hard to make a teacher believe
+ 
+
+219
+00:04:56,560 --> 00:04:58,390
+indeed hard to make a teacher believe
+that one group is smarter than the other
+
+220
+00:04:58,390 --> 00:04:58,400
+that one group is smarter than the other
+ 
+
+221
+00:04:58,400 --> 00:04:59,909
+that one group is smarter than the other
+group when there is no difference
+
+222
+00:04:59,909 --> 00:04:59,919
+group when there is no difference
+ 
+
+223
+00:04:59,919 --> 00:05:02,550
+group when there is no difference
+between these two groups if the teacher
+
+224
+00:05:02,550 --> 00:05:02,560
+between these two groups if the teacher
+ 
+
+225
+00:05:02,560 --> 00:05:08,070
+between these two groups if the teacher
+already knows the students.
+
+226
+00:05:08,070 --> 00:05:08,080
+
+ 
+
+227
+00:05:08,080 --> 00:05:10,230
+
+A second example, an example from
+
+228
+00:05:10,230 --> 00:05:10,240
+A second example, an example from
+ 
+
+229
+00:05:10,240 --> 00:05:13,510
+A second example, an example from
+medical research. Kieran and Chen
+
+230
+00:05:13,510 --> 00:05:13,520
+medical research. Kieran and Chen
+ 
+
+231
+00:05:13,520 --> 00:05:16,230
+medical research. Kieran and Chen
+performed a meta analysis of some
+
+232
+00:05:16,230 --> 00:05:16,240
+performed a meta analysis of some
+ 
+
+233
+00:05:16,240 --> 00:05:19,510
+performed a meta analysis of some
+randomized controlled trials, RCTs,
+
+234
+00:05:19,510 --> 00:05:19,520
+randomized controlled trials, RCTs,
+ 
+
+235
+00:05:19,520 --> 00:05:22,310
+randomized controlled trials, RCTs,
+comparing long course and short course
+
+236
+00:05:22,310 --> 00:05:22,320
+comparing long course and short course
+ 
+
+237
+00:05:22,320 --> 00:05:25,029
+comparing long course and short course
+antibiotic therapy for urinary tract
+
+238
+00:05:25,029 --> 00:05:25,039
+antibiotic therapy for urinary tract
+ 
+
+239
+00:05:25,039 --> 00:05:28,790
+antibiotic therapy for urinary tract
+infections.
+
+240
+00:05:28,790 --> 00:05:28,800
+
+ 
+
+241
+00:05:28,800 --> 00:05:30,629
+
+The measure that was used is the
+
+242
+00:05:30,629 --> 00:05:30,639
+The measure that was used is the
+ 
+
+243
+00:05:30,639 --> 00:05:33,670
+The measure that was used is the
+relative risk or the risk ratio which is
+
+244
+00:05:33,670 --> 00:05:33,680
+relative risk or the risk ratio which is
+ 
+
+245
+00:05:33,680 --> 00:05:35,909
+relative risk or the risk ratio which is
+the probability that the treatment does
+
+246
+00:05:35,909 --> 00:05:35,919
+the probability that the treatment does
+ 
+
+247
+00:05:35,919 --> 00:05:38,870
+the probability that the treatment does
+not work if a short course antibiotic
+
+248
+00:05:38,870 --> 00:05:38,880
+not work if a short course antibiotic
+ 
+
+249
+00:05:38,880 --> 00:05:41,110
+not work if a short course antibiotic
+therapy was given divided by the
+
+250
+00:05:41,110 --> 00:05:41,120
+therapy was given divided by the
+ 
+
+251
+00:05:41,120 --> 00:05:43,749
+therapy was given divided by the
+probability that the treatment fails if
+
+252
+00:05:43,749 --> 00:05:43,759
+probability that the treatment fails if
+ 
+
+253
+00:05:43,759 --> 00:05:45,749
+probability that the treatment fails if
+a long course antibiotic therapy was
+
+254
+00:05:45,749 --> 00:05:45,759
+a long course antibiotic therapy was
+ 
+
+255
+00:05:45,759 --> 00:05:47,830
+a long course antibiotic therapy was
+given.
+
+256
+00:05:47,830 --> 00:05:47,840
+given.
+ 
+
+257
+00:05:47,840 --> 00:05:49,909
+given.
+Suppose that the short course therapy is
+
+258
+00:05:49,909 --> 00:05:49,919
+Suppose that the short course therapy is
+ 
+
+259
+00:05:49,919 --> 00:05:51,990
+Suppose that the short course therapy is
+equally effective
+
+260
+00:05:51,990 --> 00:05:52,000
+equally effective
+ 
+
+261
+00:05:52,000 --> 00:05:54,469
+equally effective
+as the long course therapy. then the
+
+262
+00:05:54,469 --> 00:05:54,479
+as the long course therapy. then the
+ 
+
+263
+00:05:54,479 --> 00:05:56,390
+as the long course therapy. then the
+probability that the treatment would
+
+264
+00:05:56,390 --> 00:05:56,400
+probability that the treatment would
+ 
+
+265
+00:05:56,400 --> 00:05:58,790
+probability that the treatment would
+fail is equal in both conditions and
+
+266
+00:05:58,790 --> 00:05:58,800
+fail is equal in both conditions and
+ 
+
+267
+00:05:58,800 --> 00:06:00,629
+fail is equal in both conditions and
+then the ratio of the two probabilities
+
+268
+00:06:00,629 --> 00:06:00,639
+then the ratio of the two probabilities
+ 
+
+269
+00:06:00,639 --> 00:06:04,230
+then the ratio of the two probabilities
+will be more or less equal to one. So
+
+270
+00:06:04,230 --> 00:06:04,240
+will be more or less equal to one. So
+ 
+
+271
+00:06:04,240 --> 00:06:07,110
+will be more or less equal to one. So
+here no effect means that the relative
+
+272
+00:06:07,110 --> 00:06:07,120
+here no effect means that the relative
+ 
+
+273
+00:06:07,120 --> 00:06:10,870
+here no effect means that the relative
+risk is equal to one. If the ratio is
+
+274
+00:06:10,870 --> 00:06:10,880
+risk is equal to one. If the ratio is
+ 
+
+275
+00:06:10,880 --> 00:06:13,189
+risk is equal to one. If the ratio is
+far from one then this is an indication
+
+276
+00:06:13,189 --> 00:06:13,199
+far from one then this is an indication
+ 
+
+277
+00:06:13,199 --> 00:06:15,189
+far from one then this is an indication
+that one of the two lengths is more
+
+278
+00:06:15,189 --> 00:06:15,199
+that one of the two lengths is more
+ 
+
+279
+00:06:15,199 --> 00:06:17,830
+that one of the two lengths is more
+effective.
+
+280
+00:06:17,830 --> 00:06:17,840
+effective.
+ 
+
+281
+00:06:17,840 --> 00:06:20,150
+effective.
+An estimate of this relative risk in a
+
+282
+00:06:20,150 --> 00:06:20,160
+An estimate of this relative risk in a
+ 
+
+283
+00:06:20,160 --> 00:06:23,270
+An estimate of this relative risk in a
+study is the observed risk ratio which
+
+284
+00:06:23,270 --> 00:06:23,280
+study is the observed risk ratio which
+ 
+
+285
+00:06:23,280 --> 00:06:25,830
+study is the observed risk ratio which
+is the ratio of the proportions of
+
+286
+00:06:25,830 --> 00:06:25,840
+is the ratio of the proportions of
+ 
+
+287
+00:06:25,840 --> 00:06:28,550
+is the ratio of the proportions of
+patients in both conditions for which
+
+288
+00:06:28,550 --> 00:06:28,560
+patients in both conditions for which
+ 
+
+289
+00:06:28,560 --> 00:06:33,189
+patients in both conditions for which
+the treatment failed.
+
+290
+00:06:33,189 --> 00:06:33,199
+
+ 
+
+291
+00:06:33,199 --> 00:06:35,350
+
+Here the results. Let's look first at
+
+292
+00:06:35,350 --> 00:06:35,360
+Here the results. Let's look first at
+ 
+
+293
+00:06:35,360 --> 00:06:37,590
+Here the results. Let's look first at
+the observed effect sizes given with
+
+294
+00:06:37,590 --> 00:06:37,600
+the observed effect sizes given with
+ 
+
+295
+00:06:37,600 --> 00:06:40,469
+the observed effect sizes given with
+dots in the confidence intervals. You
+
+296
+00:06:40,469 --> 00:06:40,479
+dots in the confidence intervals. You
+ 
+
+297
+00:06:40,479 --> 00:06:42,550
+dots in the confidence intervals. You
+can see that the observed effect sizes
+
+298
+00:06:42,550 --> 00:06:42,560
+can see that the observed effect sizes
+ 
+
+299
+00:06:42,560 --> 00:06:45,110
+can see that the observed effect sizes
+are typically larger than one. But
+
+300
+00:06:45,110 --> 00:06:45,120
+are typically larger than one. But
+ 
+
+301
+00:06:45,120 --> 00:06:47,270
+are typically larger than one. But
+confidence intervals most often include
+
+302
+00:06:47,270 --> 00:06:47,280
+confidence intervals most often include
+ 
+
+303
+00:06:47,280 --> 00:06:50,469
+confidence intervals most often include
+one. This means that in most of these
+
+304
+00:06:50,469 --> 00:06:50,479
+one. This means that in most of these
+ 
+
+305
+00:06:50,479 --> 00:06:53,029
+one. This means that in most of these
+studies, no convincing EV uh difference
+
+306
+00:06:53,029 --> 00:06:53,039
+studies, no convincing EV uh difference
+ 
+
+307
+00:06:53,039 --> 00:06:55,510
+studies, no convincing EV uh difference
+between the short course therapy and the
+
+308
+00:06:55,510 --> 00:06:55,520
+between the short course therapy and the
+ 
+
+309
+00:06:55,520 --> 00:06:58,309
+between the short course therapy and the
+long course therapy was was observed.
+
+310
+00:06:58,309 --> 00:06:58,319
+long course therapy was was observed.
+ 
+
+311
+00:06:58,319 --> 00:07:00,550
+long course therapy was was observed.
+And therefore, it was concluded that the
+
+312
+00:07:00,550 --> 00:07:00,560
+And therefore, it was concluded that the
+ 
+
+313
+00:07:00,560 --> 00:07:02,309
+And therefore, it was concluded that the
+short course therapy is equally
+
+314
+00:07:02,309 --> 00:07:02,319
+short course therapy is equally
+ 
+
+315
+00:07:02,319 --> 00:07:05,110
+short course therapy is equally
+effective as the long course therapy.
+
+316
+00:07:05,110 --> 00:07:05,120
+effective as the long course therapy.
+ 
+
+317
+00:07:05,120 --> 00:07:09,029
+effective as the long course therapy.
+only in two out of the 12 studies a zero
+
+318
+00:07:09,029 --> 00:07:09,039
+only in two out of the 12 studies a zero
+ 
+
+319
+00:07:09,039 --> 00:07:10,950
+only in two out of the 12 studies a zero
+was not included in the confidence
+
+320
+00:07:10,950 --> 00:07:10,960
+was not included in the confidence
+ 
+
+321
+00:07:10,960 --> 00:07:13,189
+was not included in the confidence
+interval and therefore the null
+
+322
+00:07:13,189 --> 00:07:13,199
+interval and therefore the null
+ 
+
+323
+00:07:13,199 --> 00:07:16,070
+interval and therefore the null
+hypothesis was rejected. Therefore, it
+
+324
+00:07:16,070 --> 00:07:16,080
+hypothesis was rejected. Therefore, it
+ 
+
+325
+00:07:16,080 --> 00:07:17,670
+hypothesis was rejected. Therefore, it
+looks like there is no difference
+
+326
+00:07:17,670 --> 00:07:17,680
+looks like there is no difference
+ 
+
+327
+00:07:17,680 --> 00:07:20,309
+looks like there is no difference
+between the two conditions.
+
+328
+00:07:20,309 --> 00:07:20,319
+between the two conditions.
+ 
+
+329
+00:07:20,319 --> 00:07:21,990
+between the two conditions.
+But you get another conclusion if you
+
+330
+00:07:21,990 --> 00:07:22,000
+But you get another conclusion if you
+ 
+
+331
+00:07:22,000 --> 00:07:24,070
+But you get another conclusion if you
+combine all these observed effect sizes
+
+332
+00:07:24,070 --> 00:07:24,080
+combine all these observed effect sizes
+ 
+
+333
+00:07:24,080 --> 00:07:26,710
+combine all these observed effect sizes
+in a meta analysis. The weighted average
+
+334
+00:07:26,710 --> 00:07:26,720
+in a meta analysis. The weighted average
+ 
+
+335
+00:07:26,720 --> 00:07:30,150
+in a meta analysis. The weighted average
+of all these effect sizes is 1.94,
+
+336
+00:07:30,150 --> 00:07:30,160
+of all these effect sizes is 1.94,
+ 
+
+337
+00:07:30,160 --> 00:07:32,309
+of all these effect sizes is 1.94,
+which means that the risk of failure is
+
+338
+00:07:32,309 --> 00:07:32,319
+which means that the risk of failure is
+ 
+
+339
+00:07:32,319 --> 00:07:35,110
+which means that the risk of failure is
+almost twice as large when using a short
+
+340
+00:07:35,110 --> 00:07:35,120
+almost twice as large when using a short
+ 
+
+341
+00:07:35,120 --> 00:07:38,070
+almost twice as large when using a short
+course therapy. The 95% confidence
+
+342
+00:07:38,070 --> 00:07:38,080
+course therapy. The 95% confidence
+ 
+
+343
+00:07:38,080 --> 00:07:42,950
+course therapy. The 95% confidence
+interval from 1.19 to 3.15 does not
+
+344
+00:07:42,950 --> 00:07:42,960
+interval from 1.19 to 3.15 does not
+ 
+
+345
+00:07:42,960 --> 00:07:46,390
+interval from 1.19 to 3.15 does not
+include one anymore. So whereas in most
+
+346
+00:07:46,390 --> 00:07:46,400
+include one anymore. So whereas in most
+ 
+
+347
+00:07:46,400 --> 00:07:47,990
+include one anymore. So whereas in most
+of the individual studies the conclusion
+
+348
+00:07:47,990 --> 00:07:48,000
+of the individual studies the conclusion
+ 
+
+349
+00:07:48,000 --> 00:07:50,150
+of the individual studies the conclusion
+was that we do not see a difference
+
+350
+00:07:50,150 --> 00:07:50,160
+was that we do not see a difference
+ 
+
+351
+00:07:50,160 --> 00:07:52,390
+was that we do not see a difference
+between the conditions
+
+352
+00:07:52,390 --> 00:07:52,400
+between the conditions
+ 
+
+353
+00:07:52,400 --> 00:07:54,629
+between the conditions
+combining the data gives us convincing
+
+354
+00:07:54,629 --> 00:07:54,639
+combining the data gives us convincing
+ 
+
+355
+00:07:54,639 --> 00:07:56,710
+combining the data gives us convincing
+evidence that the short course therapy
+
+356
+00:07:56,710 --> 00:07:56,720
+evidence that the short course therapy
+ 
+
+357
+00:07:56,720 --> 00:07:59,029
+evidence that the short course therapy
+is less effective than the long course
+
+358
+00:07:59,029 --> 00:07:59,039
+is less effective than the long course
+ 
+
+359
+00:07:59,039 --> 00:08:01,990
+is less effective than the long course
+therapy. What we see here in this data
+
+360
+00:08:01,990 --> 00:08:02,000
+therapy. What we see here in this data
+ 
+
+361
+00:08:02,000 --> 00:08:04,469
+therapy. What we see here in this data
+set looks very similar to what we have
+
+362
+00:08:04,469 --> 00:08:04,479
+set looks very similar to what we have
+ 
+
+363
+00:08:04,479 --> 00:08:06,869
+set looks very similar to what we have
+seen in the simulation. Individual
+
+364
+00:08:06,869 --> 00:08:06,879
+seen in the simulation. Individual
+ 
+
+365
+00:08:06,879 --> 00:08:09,029
+seen in the simulation. Individual
+studies are small making confidence
+
+366
+00:08:09,029 --> 00:08:09,039
+studies are small making confidence
+ 
+
+367
+00:08:09,039 --> 00:08:11,270
+studies are small making confidence
+intervals large and statistical power
+
+368
+00:08:11,270 --> 00:08:11,280
+intervals large and statistical power
+ 
+
+369
+00:08:11,280 --> 00:08:12,869
+intervals large and statistical power
+small.
+
+370
+00:08:12,869 --> 00:08:12,879
+small.
+ 
+
+371
+00:08:12,879 --> 00:08:15,350
+small.
+But by combining the data the interval
+
+372
+00:08:15,350 --> 00:08:15,360
+But by combining the data the interval
+ 
+
+373
+00:08:15,360 --> 00:08:17,749
+But by combining the data the interval
+becomes much smaller and the power
+
+374
+00:08:17,749 --> 00:08:17,759
+becomes much smaller and the power
+ 
+
+375
+00:08:17,759 --> 00:08:21,909
+becomes much smaller and the power
+higher.
+
+376
+00:08:21,909 --> 00:08:21,919
+
+ 
+
+377
+00:08:21,919 --> 00:08:23,350
+
+Here are the conclusions of the
+
+378
+00:08:23,350 --> 00:08:23,360
+Here are the conclusions of the
+ 
+
+379
+00:08:23,360 --> 00:08:26,070
+Here are the conclusions of the
+researchers. They remark that very often
+
+380
+00:08:26,070 --> 00:08:26,080
+researchers. They remark that very often
+ 
+
+381
+00:08:26,080 --> 00:08:28,790
+researchers. They remark that very often
+in individual studies no statistically
+
+382
+00:08:28,790 --> 00:08:28,800
+in individual studies no statistically
+ 
+
+383
+00:08:28,800 --> 00:08:30,390
+in individual studies no statistically
+significant difference between the two
+
+384
+00:08:30,390 --> 00:08:30,400
+significant difference between the two
+ 
+
+385
+00:08:30,400 --> 00:08:32,949
+significant difference between the two
+treatments was found and therefore it
+
+386
+00:08:32,949 --> 00:08:32,959
+treatments was found and therefore it
+ 
+
+387
+00:08:32,959 --> 00:08:34,790
+treatments was found and therefore it
+was concluded that the short course
+
+388
+00:08:34,790 --> 00:08:34,800
+was concluded that the short course
+ 
+
+389
+00:08:34,800 --> 00:08:37,750
+was concluded that the short course
+therapy was equally effective.
+
+390
+00:08:37,750 --> 00:08:37,760
+therapy was equally effective.
+ 
+
+391
+00:08:37,760 --> 00:08:40,870
+therapy was equally effective.
+But they also note that the fact there
+
+392
+00:08:40,870 --> 00:08:40,880
+But they also note that the fact there
+ 
+
+393
+00:08:40,880 --> 00:08:43,110
+But they also note that the fact there
+was no statistical significance can be
+
+394
+00:08:43,110 --> 00:08:43,120
+was no statistical significance can be
+ 
+
+395
+00:08:43,120 --> 00:08:46,150
+was no statistical significance can be
+due to the lack of statistical power. By
+
+396
+00:08:46,150 --> 00:08:46,160
+due to the lack of statistical power. By
+ 
+
+397
+00:08:46,160 --> 00:08:48,230
+due to the lack of statistical power. By
+combining the results over all studies,
+
+398
+00:08:48,230 --> 00:08:48,240
+combining the results over all studies,
+ 
+
+399
+00:08:48,240 --> 00:08:51,670
+combining the results over all studies,
+we get a risk ratio of 1.94, which means
+
+400
+00:08:51,670 --> 00:08:51,680
+we get a risk ratio of 1.94, which means
+ 
+
+401
+00:08:51,680 --> 00:08:53,829
+we get a risk ratio of 1.94, which means
+that the probability that the treatment
+
+402
+00:08:53,829 --> 00:08:53,839
+that the probability that the treatment
+ 
+
+403
+00:08:53,839 --> 00:08:58,230
+that the probability that the treatment
+will fail is 94% larger if you would use
+
+404
+00:08:58,230 --> 00:08:58,240
+will fail is 94% larger if you would use
+ 
+
+405
+00:08:58,240 --> 00:09:03,030
+will fail is 94% larger if you would use
+short course therapy.
+
+406
+00:09:03,030 --> 00:09:03,040
+
+ 
+
+407
+00:09:03,040 --> 00:09:04,550
+
+These were some examples of met
+
+408
+00:09:04,550 --> 00:09:04,560
+These were some examples of met
+ 
+
+409
+00:09:04,560 --> 00:09:06,870
+These were some examples of met
+analysis. What are alternative
+
+410
+00:09:06,870 --> 00:09:06,880
+analysis. What are alternative
+ 
+
+411
+00:09:06,880 --> 00:09:09,910
+analysis. What are alternative
+procedures?
+
+412
+00:09:09,910 --> 00:09:09,920
+
+ 
+
+413
+00:09:09,920 --> 00:09:11,990
+
+One procedure that is very often used is
+
+414
+00:09:11,990 --> 00:09:12,000
+One procedure that is very often used is
+ 
+
+415
+00:09:12,000 --> 00:09:14,710
+One procedure that is very often used is
+a so-called vote counting procedure. The
+
+416
+00:09:14,710 --> 00:09:14,720
+a so-called vote counting procedure. The
+ 
+
+417
+00:09:14,720 --> 00:09:16,949
+a so-called vote counting procedure. The
+idea is very simple. You collect the
+
+418
+00:09:16,949 --> 00:09:16,959
+idea is very simple. You collect the
+ 
+
+419
+00:09:16,959 --> 00:09:19,190
+idea is very simple. You collect the
+data of all studies that already were
+
+420
+00:09:19,190 --> 00:09:19,200
+data of all studies that already were
+ 
+
+421
+00:09:19,200 --> 00:09:22,230
+data of all studies that already were
+done on a specific research question.
+
+422
+00:09:22,230 --> 00:09:22,240
+done on a specific research question.
+ 
+
+423
+00:09:22,240 --> 00:09:24,710
+done on a specific research question.
+You count how many studies found no
+
+424
+00:09:24,710 --> 00:09:24,720
+You count how many studies found no
+ 
+
+425
+00:09:24,720 --> 00:09:26,790
+You count how many studies found no
+effect, how many studies found a
+
+426
+00:09:26,790 --> 00:09:26,800
+effect, how many studies found a
+ 
+
+427
+00:09:26,800 --> 00:09:28,870
+effect, how many studies found a
+negative effect, and how many studies
+
+428
+00:09:28,870 --> 00:09:28,880
+negative effect, and how many studies
+ 
+
+429
+00:09:28,880 --> 00:09:31,350
+negative effect, and how many studies
+found a positive effect.
+
+430
+00:09:31,350 --> 00:09:31,360
+found a positive effect.
+ 
+
+431
+00:09:31,360 --> 00:09:33,910
+found a positive effect.
+The category that is largest is the
+
+432
+00:09:33,910 --> 00:09:33,920
+The category that is largest is the
+ 
+
+433
+00:09:33,920 --> 00:09:36,470
+The category that is largest is the
+winner. Therefore, if the majority of
+
+434
+00:09:36,470 --> 00:09:36,480
+winner. Therefore, if the majority of
+ 
+
+435
+00:09:36,480 --> 00:09:38,870
+winner. Therefore, if the majority of
+studies did not find an effect, then the
+
+436
+00:09:38,870 --> 00:09:38,880
+studies did not find an effect, then the
+ 
+
+437
+00:09:38,880 --> 00:09:40,870
+studies did not find an effect, then the
+conclusion would be that there is no
+
+438
+00:09:40,870 --> 00:09:40,880
+conclusion would be that there is no
+ 
+
+439
+00:09:40,880 --> 00:09:44,550
+conclusion would be that there is no
+effect.
+
+440
+00:09:44,550 --> 00:09:44,560
+
+ 
+
+441
+00:09:44,560 --> 00:09:46,949
+
+The advantage of this procedure is that
+
+442
+00:09:46,949 --> 00:09:46,959
+The advantage of this procedure is that
+ 
+
+443
+00:09:46,959 --> 00:09:50,389
+The advantage of this procedure is that
+it is a relatively simple procedure.
+
+444
+00:09:50,389 --> 00:09:50,399
+it is a relatively simple procedure.
+ 
+
+445
+00:09:50,399 --> 00:09:53,110
+it is a relatively simple procedure.
+Everybody can understand this procedure.
+
+446
+00:09:53,110 --> 00:09:53,120
+Everybody can understand this procedure.
+ 
+
+447
+00:09:53,120 --> 00:09:55,670
+Everybody can understand this procedure.
+Yet, there are some drawbacks and these
+
+448
+00:09:55,670 --> 00:09:55,680
+Yet, there are some drawbacks and these
+ 
+
+449
+00:09:55,680 --> 00:09:57,509
+Yet, there are some drawbacks and these
+drawbacks are clear from what we have
+
+450
+00:09:57,509 --> 00:09:57,519
+drawbacks are clear from what we have
+ 
+
+451
+00:09:57,519 --> 00:10:00,230
+drawbacks are clear from what we have
+seen before. Think of the last example
+
+452
+00:10:00,230 --> 00:10:00,240
+seen before. Think of the last example
+ 
+
+453
+00:10:00,240 --> 00:10:01,829
+seen before. Think of the last example
+we have seen, the example of the meta
+
+454
+00:10:01,829 --> 00:10:01,839
+we have seen, the example of the meta
+ 
+
+455
+00:10:01,839 --> 00:10:05,030
+we have seen, the example of the meta
+analysis of Kieran Chen. It's possible
+
+456
+00:10:05,030 --> 00:10:05,040
+analysis of Kieran Chen. It's possible
+ 
+
+457
+00:10:05,040 --> 00:10:07,350
+analysis of Kieran Chen. It's possible
+that the power in individual studies is
+
+458
+00:10:07,350 --> 00:10:07,360
+that the power in individual studies is
+ 
+
+459
+00:10:07,360 --> 00:10:10,070
+that the power in individual studies is
+low and therefore we can expect that in
+
+460
+00:10:10,070 --> 00:10:10,080
+low and therefore we can expect that in
+ 
+
+461
+00:10:10,080 --> 00:10:11,990
+low and therefore we can expect that in
+a lot of individual studies we will not
+
+462
+00:10:11,990 --> 00:10:12,000
+a lot of individual studies we will not
+ 
+
+463
+00:10:12,000 --> 00:10:14,310
+a lot of individual studies we will not
+find an effect even if in reality there
+
+464
+00:10:14,310 --> 00:10:14,320
+find an effect even if in reality there
+ 
+
+465
+00:10:14,320 --> 00:10:17,910
+find an effect even if in reality there
+is an effect. Therefore the power of the
+
+466
+00:10:17,910 --> 00:10:17,920
+is an effect. Therefore the power of the
+ 
+
+467
+00:10:17,920 --> 00:10:21,670
+is an effect. Therefore the power of the
+vote counting procedure can be very low.
+
+468
+00:10:21,670 --> 00:10:21,680
+vote counting procedure can be very low.
+ 
+
+469
+00:10:21,680 --> 00:10:24,310
+vote counting procedure can be very low.
+Moreover, the power will not increase if
+
+470
+00:10:24,310 --> 00:10:24,320
+Moreover, the power will not increase if
+ 
+
+471
+00:10:24,320 --> 00:10:26,710
+Moreover, the power will not increase if
+you add more small studies to your data
+
+472
+00:10:26,710 --> 00:10:26,720
+you add more small studies to your data
+ 
+
+473
+00:10:26,720 --> 00:10:29,670
+you add more small studies to your data
+set. On the contrary, it can become even
+
+474
+00:10:29,670 --> 00:10:29,680
+set. On the contrary, it can become even
+ 
+
+475
+00:10:29,680 --> 00:10:31,509
+set. On the contrary, it can become even
+more unlikely that the majority of
+
+476
+00:10:31,509 --> 00:10:31,519
+more unlikely that the majority of
+ 
+
+477
+00:10:31,519 --> 00:10:34,150
+more unlikely that the majority of
+studies will show a significant effect
+
+478
+00:10:34,150 --> 00:10:34,160
+studies will show a significant effect
+ 
+
+479
+00:10:34,160 --> 00:10:35,670
+studies will show a significant effect
+and therefore the power of the vote
+
+480
+00:10:35,670 --> 00:10:35,680
+and therefore the power of the vote
+ 
+
+481
+00:10:35,680 --> 00:10:38,310
+and therefore the power of the vote
+counting procedure can even decrease by
+
+482
+00:10:38,310 --> 00:10:38,320
+counting procedure can even decrease by
+ 
+
+483
+00:10:38,320 --> 00:10:41,990
+counting procedure can even decrease by
+adding additional studies.
+
+484
+00:10:41,990 --> 00:10:42,000
+adding additional studies.
+ 
+
+485
+00:10:42,000 --> 00:10:44,069
+adding additional studies.
+Another drawback is that in this
+
+486
+00:10:44,069 --> 00:10:44,079
+Another drawback is that in this
+ 
+
+487
+00:10:44,079 --> 00:10:47,030
+Another drawback is that in this
+procedure all studies are given the same
+
+488
+00:10:47,030 --> 00:10:47,040
+procedure all studies are given the same
+ 
+
+489
+00:10:47,040 --> 00:10:50,150
+procedure all studies are given the same
+weight whereas we have seen that smaller
+
+490
+00:10:50,150 --> 00:10:50,160
+weight whereas we have seen that smaller
+ 
+
+491
+00:10:50,160 --> 00:10:52,150
+weight whereas we have seen that smaller
+studies will give less precise
+
+492
+00:10:52,150 --> 00:10:52,160
+studies will give less precise
+ 
+
+493
+00:10:52,160 --> 00:10:54,230
+studies will give less precise
+information on the population effect
+
+494
+00:10:54,230 --> 00:10:54,240
+information on the population effect
+ 
+
+495
+00:10:54,240 --> 00:10:57,190
+information on the population effect
+size and therefore it is better to give
+
+496
+00:10:57,190 --> 00:10:57,200
+size and therefore it is better to give
+ 
+
+497
+00:10:57,200 --> 00:11:01,110
+size and therefore it is better to give
+a larger weight to larger studies.
+
+498
+00:11:01,110 --> 00:11:01,120
+a larger weight to larger studies.
+ 
+
+499
+00:11:01,120 --> 00:11:03,269
+a larger weight to larger studies.
+A final drawback is that based on the
+
+500
+00:11:03,269 --> 00:11:03,279
+A final drawback is that based on the
+ 
+
+501
+00:11:03,279 --> 00:11:05,670
+A final drawback is that based on the
+vote counting procedure we only give an
+
+502
+00:11:05,670 --> 00:11:05,680
+vote counting procedure we only give an
+ 
+
+503
+00:11:05,680 --> 00:11:07,590
+vote counting procedure we only give an
+answer to the question whether there is
+
+504
+00:11:07,590 --> 00:11:07,600
+answer to the question whether there is
+ 
+
+505
+00:11:07,600 --> 00:11:10,630
+answer to the question whether there is
+an effect in meta analysis. On the other
+
+506
+00:11:10,630 --> 00:11:10,640
+an effect in meta analysis. On the other
+ 
+
+507
+00:11:10,640 --> 00:11:13,509
+an effect in meta analysis. On the other
+hand, we can answer much more questions.
+
+508
+00:11:13,509 --> 00:11:13,519
+hand, we can answer much more questions.
+ 
+
+509
+00:11:13,519 --> 00:11:15,829
+hand, we can answer much more questions.
+We can also say something about how
+
+510
+00:11:15,829 --> 00:11:15,839
+We can also say something about how
+ 
+
+511
+00:11:15,839 --> 00:11:18,389
+We can also say something about how
+large the effect is. We can test whether
+
+512
+00:11:18,389 --> 00:11:18,399
+large the effect is. We can test whether
+ 
+
+513
+00:11:18,399 --> 00:11:20,230
+large the effect is. We can test whether
+the effect size is the same in all
+
+514
+00:11:20,230 --> 00:11:20,240
+the effect size is the same in all
+ 
+
+515
+00:11:20,240 --> 00:11:23,190
+the effect size is the same in all
+studies. And we can investigate whether
+
+516
+00:11:23,190 --> 00:11:23,200
+studies. And we can investigate whether
+ 
+
+517
+00:11:23,200 --> 00:11:25,190
+studies. And we can investigate whether
+the effect size depends on
+
+518
+00:11:25,190 --> 00:11:25,200
+the effect size depends on
+ 
+
+519
+00:11:25,200 --> 00:11:30,790
+the effect size depends on
+characteristics of the studies.
+
+520
+00:11:30,790 --> 00:11:30,800
+
+ 
+
+521
+00:11:30,800 --> 00:11:33,110
+
+Another alternative procedure is the
+
+522
+00:11:33,110 --> 00:11:33,120
+Another alternative procedure is the
+ 
+
+523
+00:11:33,120 --> 00:11:35,990
+Another alternative procedure is the
+combination of p values. For instance,
+
+524
+00:11:35,990 --> 00:11:36,000
+combination of p values. For instance,
+ 
+
+525
+00:11:36,000 --> 00:11:38,150
+combination of p values. For instance,
+look at the stufur method. What is the
+
+526
+00:11:38,150 --> 00:11:38,160
+look at the stufur method. What is the
+ 
+
+527
+00:11:38,160 --> 00:11:40,550
+look at the stufur method. What is the
+idea? Well, suppose that the null
+
+528
+00:11:40,550 --> 00:11:40,560
+idea? Well, suppose that the null
+ 
+
+529
+00:11:40,560 --> 00:11:43,190
+idea? Well, suppose that the null
+hypothesis is true in a specific primary
+
+530
+00:11:43,190 --> 00:11:43,200
+hypothesis is true in a specific primary
+ 
+
+531
+00:11:43,200 --> 00:11:46,870
+hypothesis is true in a specific primary
+study. In that case, all one-sided p
+
+532
+00:11:46,870 --> 00:11:46,880
+study. In that case, all one-sided p
+ 
+
+533
+00:11:46,880 --> 00:11:49,829
+study. In that case, all one-sided p
+values between 0ero and one are equally
+
+534
+00:11:49,829 --> 00:11:49,839
+values between 0ero and one are equally
+ 
+
+535
+00:11:49,839 --> 00:11:52,230
+values between 0ero and one are equally
+likely. For instance, the probability
+
+536
+00:11:52,230 --> 00:11:52,240
+likely. For instance, the probability
+ 
+
+537
+00:11:52,240 --> 00:11:54,230
+likely. For instance, the probability
+that we will find the p value smaller
+
+538
+00:11:54,230 --> 00:11:54,240
+that we will find the p value smaller
+ 
+
+539
+00:11:54,240 --> 00:11:58,150
+that we will find the p value smaller
+than 0.05 is exactly equal to 0.05 or
+
+540
+00:11:58,150 --> 00:11:58,160
+than 0.05 is exactly equal to 0.05 or
+ 
+
+541
+00:11:58,160 --> 00:12:00,069
+than 0.05 is exactly equal to 0.05 or
+the probability that our p value will be
+
+542
+00:12:00,069 --> 00:12:00,079
+the probability that our p value will be
+ 
+
+543
+00:12:00,079 --> 00:12:04,630
+the probability that our p value will be
+larger than 050 is 50.
+
+544
+00:12:04,630 --> 00:12:04,640
+larger than 050 is 50.
+ 
+
+545
+00:12:04,640 --> 00:12:06,550
+larger than 050 is 50.
+Indeed, when the null hypothesis is
+
+546
+00:12:06,550 --> 00:12:06,560
+Indeed, when the null hypothesis is
+ 
+
+547
+00:12:06,560 --> 00:12:09,269
+Indeed, when the null hypothesis is
+true, the p values follow a norm a
+
+548
+00:12:09,269 --> 00:12:09,279
+true, the p values follow a norm a
+ 
+
+549
+00:12:09,279 --> 00:12:12,150
+true, the p values follow a norm a
+uniform distribution with limits zero
+
+550
+00:12:12,150 --> 00:12:12,160
+uniform distribution with limits zero
+ 
+
+551
+00:12:12,160 --> 00:12:15,590
+uniform distribution with limits zero
+and one.
+
+552
+00:12:15,590 --> 00:12:15,600
+and one.
+ 
+
+553
+00:12:15,600 --> 00:12:18,230
+and one.
+We can normalize the p values by
+
+554
+00:12:18,230 --> 00:12:18,240
+We can normalize the p values by
+ 
+
+555
+00:12:18,240 --> 00:12:20,470
+We can normalize the p values by
+calculating the z value from a standard
+
+556
+00:12:20,470 --> 00:12:20,480
+calculating the z value from a standard
+ 
+
+557
+00:12:20,480 --> 00:12:22,310
+calculating the z value from a standard
+normal distribution that has a
+
+558
+00:12:22,310 --> 00:12:22,320
+normal distribution that has a
+ 
+
+559
+00:12:22,320 --> 00:12:24,790
+normal distribution that has a
+cumulative density corresponding to that
+
+560
+00:12:24,790 --> 00:12:24,800
+cumulative density corresponding to that
+ 
+
+561
+00:12:24,800 --> 00:12:26,870
+cumulative density corresponding to that
+p value.
+
+562
+00:12:26,870 --> 00:12:26,880
+p value.
+ 
+
+563
+00:12:26,880 --> 00:12:29,430
+p value.
+For instance, suppose you find a p value
+
+564
+00:12:29,430 --> 00:12:29,440
+For instance, suppose you find a p value
+ 
+
+565
+00:12:29,440 --> 00:12:31,829
+For instance, suppose you find a p value
+of 0.025.
+
+566
+00:12:31,829 --> 00:12:31,839
+of 0.025.
+ 
+
+567
+00:12:31,839 --> 00:12:33,350
+of 0.025.
+Then you look for the ZV value in a
+
+568
+00:12:33,350 --> 00:12:33,360
+Then you look for the ZV value in a
+ 
+
+569
+00:12:33,360 --> 00:12:35,509
+Then you look for the ZV value in a
+standard normal distribution for which a
+
+570
+00:12:35,509 --> 00:12:35,519
+standard normal distribution for which a
+ 
+
+571
+00:12:35,519 --> 00:12:38,069
+standard normal distribution for which a
+probability that you will find the value
+
+572
+00:12:38,069 --> 00:12:38,079
+probability that you will find the value
+ 
+
+573
+00:12:38,079 --> 00:12:42,550
+probability that you will find the value
+smaller than this value is. 025.
+
+574
+00:12:42,550 --> 00:12:42,560
+smaller than this value is. 025.
+ 
+
+575
+00:12:42,560 --> 00:12:47,110
+smaller than this value is. 025.
+This ZV valueue is minus 1.96.
+
+576
+00:12:47,110 --> 00:12:47,120
+This ZV valueue is minus 1.96.
+ 
+
+577
+00:12:47,120 --> 00:12:49,670
+This ZV valueue is minus 1.96.
+If the null hypothesis is true, the
+
+578
+00:12:49,670 --> 00:12:49,680
+If the null hypothesis is true, the
+ 
+
+579
+00:12:49,680 --> 00:12:52,150
+If the null hypothesis is true, the
+resulting ZV values follow a standard
+
+580
+00:12:52,150 --> 00:12:52,160
+resulting ZV values follow a standard
+ 
+
+581
+00:12:52,160 --> 00:12:55,750
+resulting ZV values follow a standard
+normal distribution.
+
+582
+00:12:55,750 --> 00:12:55,760
+
+ 
+
+583
+00:12:55,760 --> 00:12:57,670
+
+Now suppose that we have multiple p
+
+584
+00:12:57,670 --> 00:12:57,680
+Now suppose that we have multiple p
+ 
+
+585
+00:12:57,680 --> 00:13:00,310
+Now suppose that we have multiple p
+values from multiple studies and that in
+
+586
+00:13:00,310 --> 00:13:00,320
+values from multiple studies and that in
+ 
+
+587
+00:13:00,320 --> 00:13:02,710
+values from multiple studies and that in
+all these individual studies the null
+
+588
+00:13:02,710 --> 00:13:02,720
+all these individual studies the null
+ 
+
+589
+00:13:02,720 --> 00:13:06,629
+all these individual studies the null
+hypothesis is true. In that case all z
+
+590
+00:13:06,629 --> 00:13:06,639
+hypothesis is true. In that case all z
+ 
+
+591
+00:13:06,639 --> 00:13:10,230
+hypothesis is true. In that case all z
+values would follow a standard normal
+
+592
+00:13:10,230 --> 00:13:10,240
+values would follow a standard normal
+ 
+
+593
+00:13:10,240 --> 00:13:13,509
+values would follow a standard normal
+distribution. The mean z value this is
+
+594
+00:13:13,509 --> 00:13:13,519
+distribution. The mean z value this is
+ 
+
+595
+00:13:13,519 --> 00:13:15,509
+distribution. The mean z value this is
+the sum divided by the number of studies
+
+596
+00:13:15,509 --> 00:13:15,519
+the sum divided by the number of studies
+ 
+
+597
+00:13:15,519 --> 00:13:18,230
+the sum divided by the number of studies
+k therefore will follow a normal
+
+598
+00:13:18,230 --> 00:13:18,240
+k therefore will follow a normal
+ 
+
+599
+00:13:18,240 --> 00:13:20,949
+k therefore will follow a normal
+distribution with zero mean and variance
+
+600
+00:13:20,949 --> 00:13:20,959
+distribution with zero mean and variance
+ 
+
+601
+00:13:20,959 --> 00:13:23,829
+distribution with zero mean and variance
+1 over k.
+
+602
+00:13:23,829 --> 00:13:23,839
+1 over k.
+ 
+
+603
+00:13:23,839 --> 00:13:25,750
+1 over k.
+Therefore,
+
+604
+00:13:25,750 --> 00:13:25,760
+Therefore,
+ 
+
+605
+00:13:25,760 --> 00:13:28,150
+Therefore,
+if we divide the sum of the Z values by
+
+606
+00:13:28,150 --> 00:13:28,160
+if we divide the sum of the Z values by
+ 
+
+607
+00:13:28,160 --> 00:13:31,509
+if we divide the sum of the Z values by
+the square root of K instead of by K, we
+
+608
+00:13:31,509 --> 00:13:31,519
+the square root of K instead of by K, we
+ 
+
+609
+00:13:31,519 --> 00:13:36,069
+the square root of K instead of by K, we
+get a standard normal distribution.
+
+610
+00:13:36,069 --> 00:13:36,079
+get a standard normal distribution.
+ 
+
+611
+00:13:36,079 --> 00:13:38,550
+get a standard normal distribution.
+If however there is a study or few
+
+612
+00:13:38,550 --> 00:13:38,560
+If however there is a study or few
+ 
+
+613
+00:13:38,560 --> 00:13:40,310
+If however there is a study or few
+studies that show in effect in one
+
+614
+00:13:40,310 --> 00:13:40,320
+studies that show in effect in one
+ 
+
+615
+00:13:40,320 --> 00:13:42,629
+studies that show in effect in one
+direction, the one-sided P values from
+
+616
+00:13:42,629 --> 00:13:42,639
+direction, the one-sided P values from
+ 
+
+617
+00:13:42,639 --> 00:13:44,949
+direction, the one-sided P values from
+these studies will go in one direction
+
+618
+00:13:44,949 --> 00:13:44,959
+these studies will go in one direction
+ 
+
+619
+00:13:44,959 --> 00:13:48,069
+these studies will go in one direction
+and hence also the Z values will go in
+
+620
+00:13:48,069 --> 00:13:48,079
+and hence also the Z values will go in
+ 
+
+621
+00:13:48,079 --> 00:13:50,389
+and hence also the Z values will go in
+one direction and our test statistic
+
+622
+00:13:50,389 --> 00:13:50,399
+one direction and our test statistic
+ 
+
+623
+00:13:50,399 --> 00:13:53,910
+one direction and our test statistic
+will go away from zero. We reject our
+
+624
+00:13:53,910 --> 00:13:53,920
+will go away from zero. We reject our
+ 
+
+625
+00:13:53,920 --> 00:13:56,550
+will go away from zero. We reject our
+null hypothesis if our test statistic is
+
+626
+00:13:56,550 --> 00:13:56,560
+null hypothesis if our test statistic is
+ 
+
+627
+00:13:56,560 --> 00:13:59,189
+null hypothesis if our test statistic is
+situated in the tail of the standard
+
+628
+00:13:59,189 --> 00:13:59,199
+situated in the tail of the standard
+ 
+
+629
+00:13:59,199 --> 00:14:05,509
+situated in the tail of the standard
+normal distribution.
+
+630
+00:14:05,509 --> 00:14:05,519
+
+ 
+
+631
+00:14:05,519 --> 00:14:07,910
+
+Again, this procedure has some
+
+632
+00:14:07,910 --> 00:14:07,920
+Again, this procedure has some
+ 
+
+633
+00:14:07,920 --> 00:14:10,389
+Again, this procedure has some
+advantages and disadvantages.
+
+634
+00:14:10,389 --> 00:14:10,399
+advantages and disadvantages.
+ 
+
+635
+00:14:10,399 --> 00:14:13,110
+advantages and disadvantages.
+One advantage is that we can use this
+
+636
+00:14:13,110 --> 00:14:13,120
+One advantage is that we can use this
+ 
+
+637
+00:14:13,120 --> 00:14:15,590
+One advantage is that we can use this
+approach whenever we have p values from
+
+638
+00:14:15,590 --> 00:14:15,600
+approach whenever we have p values from
+ 
+
+639
+00:14:15,600 --> 00:14:18,870
+approach whenever we have p values from
+multiple studies. Indeed, we can combine
+
+640
+00:14:18,870 --> 00:14:18,880
+multiple studies. Indeed, we can combine
+ 
+
+641
+00:14:18,880 --> 00:14:21,430
+multiple studies. Indeed, we can combine
+P values even if the if these come from
+
+642
+00:14:21,430 --> 00:14:21,440
+P values even if the if these come from
+ 
+
+643
+00:14:21,440 --> 00:14:24,470
+P values even if the if these come from
+different statistical tests.
+
+644
+00:14:24,470 --> 00:14:24,480
+different statistical tests.
+ 
+
+645
+00:14:24,480 --> 00:14:26,310
+different statistical tests.
+Therefore, the procedure can be used for
+
+646
+00:14:26,310 --> 00:14:26,320
+Therefore, the procedure can be used for
+ 
+
+647
+00:14:26,320 --> 00:14:28,550
+Therefore, the procedure can be used for
+instance if some of the P p values come
+
+648
+00:14:28,550 --> 00:14:28,560
+instance if some of the P p values come
+ 
+
+649
+00:14:28,560 --> 00:14:31,189
+instance if some of the P p values come
+from non-parametric tests, some come
+
+650
+00:14:31,189 --> 00:14:31,199
+from non-parametric tests, some come
+ 
+
+651
+00:14:31,199 --> 00:14:33,269
+from non-parametric tests, some come
+from analysis of variance and still
+
+652
+00:14:33,269 --> 00:14:33,279
+from analysis of variance and still
+ 
+
+653
+00:14:33,279 --> 00:14:35,509
+from analysis of variance and still
+others come from t tests for the
+
+654
+00:14:35,509 --> 00:14:35,519
+others come from t tests for the
+ 
+
+655
+00:14:35,519 --> 00:14:39,670
+others come from t tests for the
+difference between means and so on.
+
+656
+00:14:39,670 --> 00:14:39,680
+difference between means and so on.
+ 
+
+657
+00:14:39,680 --> 00:14:42,310
+difference between means and so on.
+Another advantage is that we do not make
+
+658
+00:14:42,310 --> 00:14:42,320
+Another advantage is that we do not make
+ 
+
+659
+00:14:42,320 --> 00:14:44,629
+Another advantage is that we do not make
+assumptions. Of course, maybe in an
+
+660
+00:14:44,629 --> 00:14:44,639
+assumptions. Of course, maybe in an
+ 
+
+661
+00:14:44,639 --> 00:14:46,629
+assumptions. Of course, maybe in an
+individual study, assumptions were made
+
+662
+00:14:46,629 --> 00:14:46,639
+individual study, assumptions were made
+ 
+
+663
+00:14:46,639 --> 00:14:49,590
+individual study, assumptions were made
+to obtain the p value from that study.
+
+664
+00:14:49,590 --> 00:14:49,600
+to obtain the p value from that study.
+ 
+
+665
+00:14:49,600 --> 00:14:51,910
+to obtain the p value from that study.
+But when combining the p values, we do
+
+666
+00:14:51,910 --> 00:14:51,920
+But when combining the p values, we do
+ 
+
+667
+00:14:51,920 --> 00:14:54,790
+But when combining the p values, we do
+not make additional assumptions anymore
+
+668
+00:14:54,790 --> 00:14:54,800
+not make additional assumptions anymore
+ 
+
+669
+00:14:54,800 --> 00:14:58,550
+not make additional assumptions anymore
+about the distributions.
+
+670
+00:14:58,550 --> 00:14:58,560
+about the distributions.
+ 
+
+671
+00:14:58,560 --> 00:15:02,230
+about the distributions.
+There are however also drawbacks.
+
+672
+00:15:02,230 --> 00:15:02,240
+There are however also drawbacks.
+ 
+
+673
+00:15:02,240 --> 00:15:04,790
+There are however also drawbacks.
+One drawback is that the interpretation
+
+674
+00:15:04,790 --> 00:15:04,800
+One drawback is that the interpretation
+ 
+
+675
+00:15:04,800 --> 00:15:06,870
+One drawback is that the interpretation
+of the results is not straightforward.
+
+676
+00:15:06,870 --> 00:15:06,880
+of the results is not straightforward.
+ 
+
+677
+00:15:06,880 --> 00:15:09,350
+of the results is not straightforward.
+The null hypothesis is that in all
+
+678
+00:15:09,350 --> 00:15:09,360
+The null hypothesis is that in all
+ 
+
+679
+00:15:09,360 --> 00:15:11,509
+The null hypothesis is that in all
+individual studies, the null hypothesis
+
+680
+00:15:11,509 --> 00:15:11,519
+individual studies, the null hypothesis
+ 
+
+681
+00:15:11,519 --> 00:15:13,110
+individual studies, the null hypothesis
+is true.
+
+682
+00:15:13,110 --> 00:15:13,120
+is true.
+ 
+
+683
+00:15:13,120 --> 00:15:15,590
+is true.
+The alternative hypothesis is that at
+
+684
+00:15:15,590 --> 00:15:15,600
+The alternative hypothesis is that at
+ 
+
+685
+00:15:15,600 --> 00:15:18,550
+The alternative hypothesis is that at
+least in one of at least one of the null
+
+686
+00:15:18,550 --> 00:15:18,560
+least in one of at least one of the null
+ 
+
+687
+00:15:18,560 --> 00:15:21,750
+least in one of at least one of the null
+hypothesis is not correct. If we reject
+
+688
+00:15:21,750 --> 00:15:21,760
+hypothesis is not correct. If we reject
+ 
+
+689
+00:15:21,760 --> 00:15:24,790
+hypothesis is not correct. If we reject
+the null hypothesis, we cannot conclude
+
+690
+00:15:24,790 --> 00:15:24,800
+the null hypothesis, we cannot conclude
+ 
+
+691
+00:15:24,800 --> 00:15:27,509
+the null hypothesis, we cannot conclude
+that on average there is an effect.
+
+692
+00:15:27,509 --> 00:15:27,519
+that on average there is an effect.
+ 
+
+693
+00:15:27,519 --> 00:15:29,590
+that on average there is an effect.
+Instead, we have to conclude that in at
+
+694
+00:15:29,590 --> 00:15:29,600
+Instead, we have to conclude that in at
+ 
+
+695
+00:15:29,600 --> 00:15:31,509
+Instead, we have to conclude that in at
+least one of the studies there is an
+
+696
+00:15:31,509 --> 00:15:31,519
+least one of the studies there is an
+ 
+
+697
+00:15:31,519 --> 00:15:33,509
+least one of the studies there is an
+effect. But the procedure will not tell
+
+698
+00:15:33,509 --> 00:15:33,519
+effect. But the procedure will not tell
+ 
+
+699
+00:15:33,519 --> 00:15:36,150
+effect. But the procedure will not tell
+us in what specific studies there is an
+
+700
+00:15:36,150 --> 00:15:36,160
+us in what specific studies there is an
+ 
+
+701
+00:15:36,160 --> 00:15:38,470
+us in what specific studies there is an
+effect.
+
+702
+00:15:38,470 --> 00:15:38,480
+effect.
+ 
+
+703
+00:15:38,480 --> 00:15:42,230
+effect.
+Moreover, again we cannot answer other
+
+704
+00:15:42,230 --> 00:15:42,240
+Moreover, again we cannot answer other
+ 
+
+705
+00:15:42,240 --> 00:15:44,870
+Moreover, again we cannot answer other
+questions like how large is the effect?
+
+706
+00:15:44,870 --> 00:15:44,880
+questions like how large is the effect?
+ 
+
+707
+00:15:44,880 --> 00:15:47,829
+questions like how large is the effect?
+Is the effect the same in all studies?
+
+708
+00:15:47,829 --> 00:15:47,839
+Is the effect the same in all studies?
+ 
+
+709
+00:15:47,839 --> 00:15:50,069
+Is the effect the same in all studies?
+When does the effect show up? And is the
+
+710
+00:15:50,069 --> 00:15:50,079
+When does the effect show up? And is the
+ 
+
+711
+00:15:50,079 --> 00:15:52,069
+When does the effect show up? And is the
+effect related to characteristics of the
+
+712
+00:15:52,069 --> 00:15:52,079
+effect related to characteristics of the
+ 
+
+713
+00:15:52,079 --> 00:15:55,079
+effect related to characteristics of the
+studies.
+

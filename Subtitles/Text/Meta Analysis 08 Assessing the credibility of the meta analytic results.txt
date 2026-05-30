@@ -1,0 +1,473 @@
+After performing your meta analysis, it's important that you look critically at the value of your analysis and that you are very transparent about the quality of the results.
+
+In this screencast, we will look at three aspects.
+
+First, the assessment and correction of publication bias.
+
+Second, checks of potential outliers and their impact.
+
+And third, checks of the assumptions that are made during the analysis.
+
+First, publication bias.
+
+We have already discussed where publication bias can come from.
+
+In many fields, the probability that a finding is reported and published is higher when the finding is statistically significant.
+
+Therefore, one way to detect publication bias is to compare the overall effect size for published and unpublished results.
+
+You could, for instance, do a moderator analysis with the publication status as a dummy moderator.
+
+If the regression weights of this moderator variable is statistically significant, this is an indication that there is publication bias.
+
+Possible issue is is the statistical power because it may be hard to find sufficient unpublished studies to do this moderator analysis.
+
+An alternative approach is to make use of plots.
+
+A funnel plot is a scatter plot which on the with on the x-axis the observed effect size and on the y-axis the sample size.
+
+You would expect a pattern like this one.
+
+We have seen that observed effect sizes vary around the true effect size.
+
+But for large studies the sampling variance is smaller and for than for small studies.
+
+This is exactly why you see what you see in this scatter plot at the top.
+
+So for large studies the observed effect sizes do not vary a lot.
+
+Whereas at the bottom for small studies there is much more variation.
+
+In this way you get a pattern of an inverse funnel.
+
+Hence the name funnel plot.
+
+In this example the population effect size is probably somewhere around 0.10.
+
+But look at the funnel plot that I made for the bush met analysis on the teacher expectancy effect.
+
+You can see that the pattern is not a symmetric triangle anymore.
+
+In the left corner, there are no dots.
+
+Maybe there were some small studies that found a very negative observed effect size, but a negative effect size is not what we would expect here because a negative effect size would mean that teachers are giving higher grades to the so-called weak students.
+
+It's therefore possible that researchers, reviewers, or journal editors were surprised by the negative effect size and attributed this unexpected result to coincidence because of the small sample size and therefore decided not to report or publish the findings.
+
+In the right corner, on the contrary, you can see multiple dots.
+
+It is possible that exactly because of the small sample size in some studies researchers obtained by coincidence a very large observed effect size.
+
+Maybe researchers and reviewers were enthusiastic that they found such a spectacular effect size that may even be statistically significant despite a small sample size and therefore reported and published these study results.
+
+Note that in this way publication bias leads to a negative correlation between the sample size and the observed effect size.
+
+In general, the larger the studies, the smaller on average the observed effect size.
+
+An alternative plot is a contour enhanced funnel plot.
+
+Again on the x-axis you have the observed effect size and on the y-axis the standard error with a smallest value on the top.
+
+First look at the dots.
+
+You can see that the pattern is not symmetric which is an indication of publication bias.
+
+Now look at the triangles.
+
+In contrast to an ordinary funnel plot, this time the middle of the triangle is not the average effect size, but rather zero.
+
+With different colors, the areas are indicating what would lead to statistically significant results.
+
+Here the white area refers to observed effect sizes that are statistically not significant.
+
+The light gray area refers to values that would give a p value smaller than 0.05.
+
+Dark gray smaller than 0.01.
+
+And outside the dark gray area, P values smaller than uh 0.001.
+
+What you can see is that in this extreme example, the data set includes only observed effect sizes that were statistically significant, mainly with P values smaller than 0.01.
+
+The asymmetry is clearly related to the size of the p value.
+
+A similar plot is a radial plot or a gold braid plot which is illustrated here for the round bush data on the teacher expectancy effects.
+
+A scatter plot is made with the effect size divided by the standard error on the yaxis and one over the standard error on the x-axis.
+
+An unweighted regression analysis is done with the intercept constraint to zero.
+
+The slope now can be interpreted as the overall effect which is indicated on the arc with a confidence interval.
+
+If there is no publication bias, the dots are supposed to be symmetrically distributed around the regression line.
+
+Here we see that on the left side so for the smaller studies the dots are typically above the regression line which is an indication of publication bias.
+
+Note that in addition confidence interval lines are drawn.
+
+It can be expected that 95% of the Z values are within these intervals.
+
+The plot therefore can also be used to detect outliers.
+
+We have seen that publication bias may lead to a negative association between the observed effect sizes and sample sizes.
+
+Therefore, another way to assess publication bias and to test for publication bias is to estimate and test a measure of association between effect sizes and the size of the study.
+
+Measures that are often used are Kendall tow or Spearmman's rank correlation.
+
+Still another approach is to include the standard error as a predictor in the model.
+
+In other words, to study the moderating effect of the standard error.
+
+An important remark, however, is that a negative correlation does not necessarily mean that there is publication bias.
+
+Of course, it's possible that by coincidence you will find the correlation between observed effect sizes and sample sizes.
+
+But measures and tests for association also often ignore completely the between study heterogeneity and therefore ignores a source of variation or uncertainty about the effect sizes resulting in an inflated type one error rate.
+
+Moreover, it's possible that in small studies the treatment is longer, more intensive or more personalized exactly because this is more feasible if the number of participants is limited.
+
+And this may be the reason for finding larger effect sizes in smaller studies.
+
+For instance, typically much larger effect sizes are found in single case experimental studies compared to group comparison studies.
+
+In some a negative correlation or an asymmetric funnel plot may be an indication of publication bias, but definitely not a proof.
+
+Note that for some effect sizes such as a standardized mean difference G, the sampling variance depends on the size of the effect and hence you can expect a correlation between the standard error and the observed effect size even without publication bias.
+
+Hisan described the variance stabilizing transformation of G which makes that the sampling variance of the resulting effect sizes does not depend on the size of the effect sizes anymore.
+
+Using the transformed effect sizes improves the results of Edgar's regression test.
+
+Similarly, transforming correlations to Fisher Z values makes that the sampling variance depends on the sample size only, not on the size of the effect size anymore.
+
+There are also several approaches to correct for publication bias.
+
+The first approach is a trim and fill method.
+
+Here we see another funnel plot.
+
+There is some asymmetry which may be due to publication bias.
+
+On your right side, you see some observed effect sizes that are relatively large.
+
+Especially the observed effect size of plus 4.5 is striking.
+
+On the left side, there seems to be a gap because without publication bias, we would expect a symmetric funnel.
+
+In the first step, we will drop some dots in order to make the funnel symmetric.
+
+In the trim and fill method, this is done in an iterative way.
+
+If asymmetry is found, the most extreme dot is removed and the symmetry is tested again.
+
+This continues until there is no significant asymmetry anymore.
+
+This is the trimming phase.
+
+At the end of this phase, the overall effect size is estimated again, an estimate that is supposed to be unbiased.
+
+In the second step, the filling phase, the dots that were dropped are reinserted again.
+
+But for each dot that is reinserted at the right side, a dot at the left side is added as well.
+
+A dot that deviates to the same extent from the new overall effect size estimate.
+
+The idea is that the dots that are added on the left side could have been the results of studies that were not reported or published because these effects were unexpected and statistically not significant.
+
+Here you see the results.
+
+The black dots are the dots that are added based on the black diamond at the bottom of the plot.
+
+You see that the overall effect size estimate now is so much smaller than before.
+
+Yet it still is statistically significant.
+
+But of course, adding effect sizes that were in fact not found in the literature can be tricky.
+
+Therefore, the trim and fill method should be used with care.
+
+For instance, you can use it as a kind of sensitivity analysis.
+
+You explore whether the trim and fill method would change your conclusions.
+
+If so, you have to warn the reader that there may be an issue of publication bias that would affect your conclusion.
+
+But if not, it makes you more confident that your conclusions are credible.
+
+A drawback of the trim and fill method, however, is that it can lead to wrong conclusions if there is heterogeneity.
+
+Also aggressive regression can be used to obtain a bias corrected estimate because a standard error is used as a predictor in the regression model.
+
+The intercept can be interpreted as the expected effect size if the standard error is zero.
+
+So for infinitely large studies.
+
+Therefore the intercept can be considered as an estimate of the mean effect size that is free of publication bias.
+
+Another approach is the use of selection models in which we account for the process of selecting studies for publication.
+
+The starting point is the assumption that the the larger the p value, the harder it is to publish the results.
+
+Studies with large p values therefore may be under represented in the metalytic data set.
+
+In this approach, we try to describe this relationship.
+
+You can use a discrete function for instance saying that there is a given probability of publication for a p value larger than10 a larger probability for a p value between10 and 0.05 an even larger probability for a p value between 0.05 and 0.01 and so on.
+
+But you could also use a continuous version in which the probability of publication is increasing gradually with an increasing uh p value with a decreasing p value.
+
+The function can be defined in advance or one can try to derive the function using the data.
+
+In a meta analysis, one tries to compensate for the under representation of studies with large p values by giving larger weights to studies with larger p values.
+
+Although this is an interesting approach to correct for publication bias, it's rather complex and tech it's a rather complex and technical approach.
+
+Moreover, there is always the risk that the weight function that links the publication probability and the p value is misspecified.
+
+Moreover, especially if you want to derive the weight function using your data, you need a large number of studies, say more than 100.
+
+Still another approach is the puniform approach.
+
+Here the underlying idea is that if there is no publication bias and you would test the null hypothesis that the overall effect size is equal to the real value, the p values would follow a uniform distribution.
+
+In the puniform approach, we will use only the data of studies that found significant results because we can assume that for this set there was no bias.
+
+All findings were published.
+
+We then calculate for these studies the p values that would be obtained when testing that the overall effect size is equal to our estimated overall effect size.
+
+If our overall effect size estimate would be unbiased, we therefore can expect that the p values are uniformly distributed.
+
+If the distribution of p values deviates significantly from a uniform distribution, this is therefore an indication that there is publication bias.
+
+A bi corrected estimate for this overall effect size is obtained by investigating for which value the distribution of p values is closest to a uniform distribution.
+
+Another potential issue is the following.
+
+Sometimes we obtain effect sizes that are that are far away from other effect sizes and these outliers can have an important impact on our met analytic findings and therefore may give a biased idea of what is typically observed.
+
+I have shown this forest plot before.
+
+You see that the effect size that I have highlighted is about 1.2 whereas most effect sizes vary between zero and 0.5.
+
+Such a large value can increase substantially the mean effect size estimate.
+
+But here you note that this large effect size also has a broad confidence interval.
+
+So probably this effect size comes from a small study.
+
+Because of the small precision, the weight that is given to this effect size in the meta analysis is not very high.
+
+So maybe this outlying value does not really have an important impact on the results.
+
+Let's look first how you can detect outliers.
+
+The first way is visually like we did in the forest plot in the previous slide.
+
+In the final funnel plot on this slide, you can see that there are four studies with somewhat outlying observed effect sizes.
+
+Study 8, study 56, and studies 47 and 48.
+
+VBA and Chung proposed to look at the studentized deleted residuals for the study.
+
+You calculate the difference between the observed effect size and the estimated effect size for that study but estimated in a meta analysis without that study.
+
+Hence the minus i in annotation.
+
+This deviation is standardized by dividing it by the corresponding standard error.
+
+If you look at all the standardized deleted residuals, you see again that studies 8, 47, 48, and 56 stand out.
+
+You can also calculate how much the estim the estimated effect sizes for all case studies change when dropping study I.
+
+You can calculate the cook's distance to express the size of the change.
+
+Again, the same studies pop up.
+
+A third way to detect influential outliers is to look at how much the covariance matrix of the parameter estimates changes.
+
+For a random effects model without moderators, this matrix includes only one value, the sampling variance of the overall effect estimate.
+
+To express the impact of dropping study I, you can calculate the ratio of the sampling variance of the mean effect estimate without and with accounting for study I.
+
+If the ratio is smaller than one, this means that the sampling variance is larger when study I is included.
+
+In other words, that including study I reduces the precision.
+
+Again, you can see that this is the case for the same four studies.
+
+When there are outlying values in your data set, it's important to reflect on where they come from.
+
+One explanation is that you made an error in the calculation of the effect size.
+
+Another explanation is that the data that were reported are not correct.
+
+In one of our meta analysis, we wrote to the research research team of a paper to ask whether they could check their data because the effect size that we found for their study was considerably larger than the effect size we found for other papers.
+
+And indeed, the authors replied that they found an error in their calculations.
+
+So after correcting the error, the effect size for their study was very much in line with those of other studies.
+
+In these cases, it's of course important to correct the errors.
+
+If you really have strong doubts about the correctness of data, but correcting the data is not possible, you can leave out the outlier.
+
+Another explanation is that a study in which an outlying effect size was observed differs substantially from the other studies.
+
+For instance, in a population of participants or in the study setup.
+
+In this situation, it's probably a good idea to leave out that paper or to discuss that paper separately but not include it in the meta analysis.
+
+Another explanation can however be that an extreme value was found by coincidence.
+
+If effect sizes are indeed normally distributed, it is to be expected that from time to time you will find an extreme value.
+
+Automatically dropping effect sizes that are somewhat larger or smaller therefore may give a biased view on the average effect or especially on the size of the between study variance.
+
+If you find outlying values and you are sure that they were correctly calculated and they come from studies that are otherwise comparable to the other studies, I suggest to do a sensitivity analysis.
+
+The idea is that you look at what these outlying values mean for the conclusions of your meta analysis.
+
+A first kind of sensitivity analysis is to leave out one study at a time and redo the meta analysis.
+
+If you would have 100 effect sizes from 100 studies, this would mean that you would do 100 meta analysis each combining 99 effect sizes.
+
+If you would find that your conclusions remain the same, for instance, that there is a significant positive effect, that would strengthen your confidence in this conclusion.
+
+If however the conclusions change, for instance, if sometimes the mean effect size would be significant, sometimes not, you are less certain about your conclusion.
+
+In that case, it's also important to share your uncertainty with a reader of your research report.
+
+As an alternative sensitivity analysis, you can leave out all outlying values at the same time and compare the results with the results of the analysis, including all effect sizes.
+
+Third, it is important to check whether the assumptions you made in the analysis make sense and to be transparent on these checks.
+
+First assumption that is made when using a fixed effects model is that all population effects sizes are exactly the same.
+
+So that there is no heterogeneity.
+
+When including a moderator the assumption is somewhat relaxed.
+
+Conditionally on the value of the moderator there is no heterogeneity or in other words the moderator explains all potential heterogeneity.
+
+Of course, you could do a homogeneity test to test whether there is convincing evidence of heterogeneity.
+
+But unfortunately, this test is not without problems.
+
+For instance, the power can be low.
+
+Therefore, before using a fixed effects model, it is vital that you reflect on whether you can re really expect that there is no heterogeneity.
+
+Only when studies were set up in exactly the same way or when you are sure that study characteristics that may affect the size of the effect are included in your model, it makes sense to use a fixed effects model.
+
+But because this assumption is very often unlikely, it's probably better to use a random effects model by default.
+
+In the random effects model, on the contrary, you do not assume a common population effect size, but rather you assume a distribution of population effect sizes.
+
+Techniques to estimate the model parameters often assume that again after correcting for potential moderator variables, the population effect sizes follow a normal distribution.
+
+To check this, you could make use of a QQ plot.
+
+Here a QQ plot for the effect sizes from the teacher expectancy meta analysis of Renbush.
+
+On the Y-axis you have the standardized deviations of the observed effect sizes from the mean effect size.
+
+These are the deviations divided by their standard error.
+
+On the X-axis you have the standard normal distribution.
+
+There were 19 studies.
+
+So 19 deviations.
+
+For the smallest deviation, the first of the 19 deviations, the theoretical quantile quantile is calculated as the ZV valueue from a standard normal distribution for which the cumulative density is equal to 1 minus.5 divided by 19.
+
+Similarly, the theoretical quantile for the 18th deviation is 1.41.
+
+If the effect sizes are normally distributed, you expect that the dots are more or less on one straight line.
+
+Fortunately, the results are quite robust for violation of this normality assumption.
+
+So unless the QQplot shows an important deviation from a normal distribution, you should you do not have to worry too much.
+
+Later on we will see how we can obtain robust standard errors uh for constructing confidence intervals or performing significance tests by using RVE.
+
+In this approach we do not make the assumption of normality.
+
+So it can be a safer approach.
+
+Further we assume that effect sizes are statistically independent which means that one effect size does not give information on another effect size.
+
+The assumption can be violated when you have multiple effect sizes from one study.
+
+The effect sizes from the same study are probably more alike in effect sizes from different studies because the effect sizes from one study may be based on the same sample or at least on very similar samples.
+
+Similarly, also the dependent and the independent variables may be measured in a more similar way for the different effect sizes from the same study.
+
+If there is dependency, it is good to account for this dependency.
+
+For instance, by using multi-level models which will be discussed in a later screencast.
+
+We also assume that the between study variance is the same for all studies.
+
+Also, in a categorical moderator analysis, we assume typically that the between study variance is the same for all categories.
+
+This assumption may be violated.
+
+For instance, suppose you make a distinction between studies done in the US and studies done in the rest of the world.
+
+It's quite possible that the variation between studies in the US is smaller than the variation between studies in the rest of the world.
+
+In some software packages such as in such as in the comprehensive meta analysis software, you can choose whether you assume a common between study variance in all categories or whether you want to estimate a between study variance parameter for each category separately.
+
+Of course, in the last case, you need sufficient studies in each category to be able to get a good estimate of the category specific variance.
+
+In this way we arrive to another assumption.
+
+The assumption that we have sufficient studies.
+
+This is not a problem when using a fixed effects model.
+
+In a fixed effects model you can easily combine the results of two studies.
+
+But when using random effects model we are estimating the between study variance and this variance is also used to weight um effect sizes and to obtain standard errors.
+
+And it is clear that with only two studies you cannot obtain a good estimate of the between study variance.
+
+Ideally you have at least about 20 studies.
+
+You could also do meta analysis with for instance only 10 studies but then you have to be very prudent with the results.
+
+And of course if you want to do moderator analysis 10 studies is likely a too small number of studies.
+
+Another assumption is that the observed effect sizes are unbiased estimates of the population effect sizes.
+
+That's the reason why we apply HCH's correction factor to the standardized mean difference.
+
+Otherwise, the observed effect sizes are somewhat biased for smaller studies.
+
+We also assume that the sampling distribution of our observed effect sizes is a normal distribution.
+
+We have seen that the sampling distribution of the correlation can be skewed especially for small sample sizes and when the population correlation is close to minus1 or + one that also that is also the reason why we typically use fisher transformations.
+
+This transformation makes the sampling distribution more symmetric and normal.
+
+Similarly, the odds ratio has a skew distribution, but the loss ratio has an approximately normal sampling distribution.
+
+Next, in a systematic review, we typically aim to find all existing studies that are relevant for our research interest.
+
+Of course, we probably will not be able to retrieve all relevant studies, but at least we make the assumption that our sample of studies is a random sample from all existing studies.
+
+Here you can see a link with publication bias.
+
+If you include published studies only, then your sample of studies is not a random sample from the population of existing studies.
+
+This is not a problem in say but when your sample of studies systematically differs from the population of ex of all existing studies there is a risk that the effect sizes you found are also not representative for the effect sizes that were observed.
+
+In other words, there is a risk of bias.
+
+Finally, if you do a meta regression analysis, you assume that the association between the effect size and the moderator is linear.
+
+It's a good idea to make a regression plot to check this assumption visually.
+
+Of course, also here a sufficiently large number of effect sizes is needed in order to make a distinction between different kinds of association.

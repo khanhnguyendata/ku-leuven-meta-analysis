@@ -1,0 +1,897 @@
+In this session, we will look at the effect size calculation.
+
+The calculation of effect sizes is one of the most important and one of the most difficult steps in the in the execution of a meta analysis.
+
+Very often we are combining the results of several studies that are reported in the literature and very often the raw data are not reported.
+
+Instead we calculate effect sizes effect sizes that summarize uh the results of these individual studies.
+
+In our meta analysis effect sizes are the dependent variable.
+
+For instance, if you are doing an analysis of variance or regression analysis in your meta analysis, you are going to predict uh the size of the effect.
+
+So the effect size is a dependent variable in our meta analysis.
+
+Very often we use a standardized effect size because we want to compare the results over studies.
+
+There are a lot of effect size measures.
+
+We already used before the standardized mean difference.
+
+We also looked already at the risk ratio.
+
+But there are many other effect size indices.
+
+For instance, the correlation coefficient, odds ratio, the loss ratio and so on.
+
+Before we can combine effect sizes in a meta analysis, we have to make sure that the same effect size is used for all studies.
+
+So we have to convert the data or the results to one common measure.
+
+Why do we use effect sizes?
+
+Look at this example.
+
+So suppose in a specific study one tests the difference in the size of tumors in an experimental and a control group.
+
+If people see that the p value that is testing this difference is equal to.11 a lot of persons would conclude no there is no there is no difference uh in the size of tumors.
+
+This is however not a correct conclusion.
+
+So the p value states so the the relatively large p value states that there is not enough evidence against the null hypothesis to conclude that the null hypothesis is not true but this does not mean that the null hypothesis is true and one um one common problem in studies is a lack of power.
+
+So it is possible that the p value is not very small.
+
+Not because there is no effect and maybe the effect that was observed in the study was also not very small but rather because the study was a relatively small study and so the confidence interval is relatively large and the confidence interval therefore includes zero.
+
+So concluding if we cannot reject the null hypothesis, concluding that the null hypothesis is correct is not a good conclusion.
+
+And what about this p value?
+
+So suppose that the p value is very small, smaller than 0.001.
+
+Very often researchers conclude there is a large differences difference in the size of tumors between an experimental and a control group.
+
+Also this conclusion is not the correct conclusion.
+
+Suppose that you have a very large study so that you have two very large groups large experimental and a large control group.
+
+In that situation, the confidence interval will be very small.
+
+And even if the difference between uh the the sizes of the tumors or the mean size and tumors is relatively small, still this difference can be highly significant if the two experimental and control groups are very large.
+
+So a very small p value does not necessarily mean that there is a large difference in the size of tumors.
+
+It can also mean that we simply have a very large uh study and therefore we are highly convinced that there is a difference but this does not necessarily mean that the difference is large.
+
+So these are the two uh misconceptions.
+
+So a failure to reject the null hypothesis implies that there is no effect that the null hypothesis is true.
+
+Another common misconception is that a statistically significant p value implies a large effect and the larger the p value the larger the effect.
+
+As I tried to make clear already, this is not true because the test or the results of a significance test also depends on the size of the study.
+
+So look at this formula or this um this equation presented by Rosenal.
+
+He said well a test statistic is function of the size of the effect and the size of the study.
+
+To make this more um concrete, look at the t value from a two sample t test.
+
+So the t statistic is calculated by um calculating the difference between the sample means.
+
+We divide it by the pool standard deviation multiplied by the square root of 1 / n + 1 / n c.
+
+So, NE and 1 C uh and C are the sample sizes of the two groups.
+
+We already looked at the observed effect size, the observed standardized mean difference which is defined as a difference between the sample means divided by the pulled standard deviation.
+
+So it is clear that there is a strong relationship between the t statistic and the standardized mean difference.
+
+More specifically the t statistic is equal to effect the effect size times 1 / the square root of 1 / n + 1 / n c.
+
+So indeed this is an illustration of the formula of rotal.
+
+So the t statistic depends on the effect size as well as on uh the size of the study.
+
+The larger the study, the larger t, the larger the effect size, the larger t.
+
+And so this makes that if we have a very large study, then even for small standardized mean differences, the t value can be large. the other way around.
+
+It's possible that um even for very large effects, observed effect sizes, the t statistic will not be large and so the p value will not be uh very small in case of small sample sizes.
+
+I do not want to say that test statistics are not important or that they're not valuable.
+
+On the contrary, they are very valuable.
+
+But at the same time, we do not only want to say something about whether there is an effect, but we also want to estimate the size of the effect.
+
+And therefore, more and more uh journals, but also for instance the APA publication manual stresses the importance of also mentioning reporting effect size measures.
+
+So the effect size to summarize expresses the magnitude of the effect or the relationship between variables and independently of the size of the study.
+
+A remark regarding the name effect sizes.
+
+Effect sizes sometimes express the size of the effect in experimental and quasy experimental studies.
+
+So in studies in which u an independent variable a treatment variable is manipulated.
+
+So for instance in a group comparison design with an experimental control and a experimental group and a control group in which um the treatment is given in the experimental group and no treatment or placebo is given in the control group or in within subject design in which um one group of subjects receives multiple treatments.
+
+So first for instance is uh the group is measured without the treatment and then the treatment starts and the group is measured again.
+
+So in these situations it makes sense to express or to talk about effect sizes because in this situation it is clear that if we find a correlation or an association between the condition and the outcome variable then it makes sense to assume that this association is due to the treatment.
+
+However, the term effect sizes is also used to refer to assessation measures in non-experimental studies.
+
+For instance, to compare existing groups.
+
+For instance, we already looked at the difference between male and female students in the performance on a mathematics exam.
+
+An alternative scenario is where you express the association between continuous variable variables.
+
+For instance, you can uh use a correlation coefficient to express the relationship between school size and the performance.
+
+Also in this situation, these association measures are often called effect sizes.
+
+But here we have to be very prudent.
+
+I mean suppose that um we find that correlation between school size and performance is negative in the sense that in smaller schools students perform worse or that's a positive correlation.
+
+Can we talk about an effect?
+
+We have to be very prudent in interpreting this correlation.
+
+It is possible that it's not because the school is small that students perform worse.
+
+It is possible for instance that smaller schools often are found in rural areas in which um parents have a lower educational level.
+
+It's also possible that in the these rural areas um there is a much less offer of cultural activities and all these factors can make that students perform worse.
+
+So it's maybe not due to the fact that the school is small that students perform worse.
+
+It's possible that uh students perform worse because the school size is associated with other variables and that are these other variables that affect the performance.
+
+So if we observe a correlation, we have to make sure that we interpret this correlation correctly that we do not immediately interpret this correlation as an effect.
+
+But still in a metalytic literature very often correlations and and other measures of association are called effect sizes.
+
+So pay attention with the term effect sizes.
+
+It's okay to use the term effect sizes, but keep in mind that this does not necessarily mean that there is indeed in an effect of one variable on the other variable.
+
+Sometimes in a meta analysis we are combining for instance chromebox alphas.
+
+So these are measures that express um to what extent um a test is reliable to what extent different items of a of an instrument are related to each other.
+
+So here it does not make sense to talk about an effect but still in metaic literature we uh often chromach alphas are called effect sizes as well and in some analysis we even do not look at the association between two variables.
+
+For instance suppose that you are interested in the prevalence rate of dyslexia.
+
+So maybe this has or probably this has been studied in multiple studies and you can combine all these prevalence rates and you can study whether um there is heterogeneity in rates and if there is heterogeneity you can study you can explore whether you can find characteristics of the studies that are related to the prevalence rates.
+
+So you can again do a meta analysis on these metrics in much the same way as we um can do a meta analysis on correlations or standardized mean differences.
+
+But here the metric is a characteristic or is a a statistic regarding one single variable and not the association between variables.
+
+So again this is very important association is not the same as a causal relationship.
+
+So before you conclude based on correlation coefficient for instance based on an observed association that there is one variable that is influencing the other variable you have to check clearly the internal validity of your design.
+
+You have to make sure that there are no compounding variables that can explain the association.
+
+How can you interpret effect sizes?
+
+Well, sometimes unstandardized effect sizes are used because sometimes interpretation of effect sizes is clear from the beginning.
+
+Suppose for instance um you start a campaign um a campaign to try to reduce um the smoking in uh in youngsters.
+
+You can express the effect of that campaign by looking at the number of cigarettes that are were smoked before the campaign and the number of cigarettes per person that were smoked after the campaign.
+
+You do not have to standardize this mean difference.
+
+It's clear immediately for all readers of your report what you mean by this mean difference.
+
+And if in multiple studies exactly the same measure is used.
+
+So in in multiple studies they look at the mean difference in the number of cigarettes smoked. then you do not have to standardize this in effect size before combining them in a meta analysis.
+
+Some people still find it hard to interpret a standardized mean difference.
+
+If you look at this website, if you go to this website, you can see how you can uh interpret a standardized mean difference of for instance two.
+
+One interpretation is well suppose that you have two normal distributions, two normal population distributions.
+
+If the difference the standardized mean difference is equal to two, then this means that 98% about 98% of the scores of the light blue distribution is larger than the mean of the dark blue distribution.
+
+Another interpretation is there is about 32% of overlap between the two population distributions.
+
+A third interpretation is suppose that you would take randomly one person from the control condition and randomly one person from the treatment condition.
+
+Then there is a probability of about 92% that the person from the treatment condition will have a higher score than the person from the control condition.
+
+And then the final interpretation is that suppose that you consider the 20% highest scores of the control condition as scores that are okay.
+
+So that you use a specific cutoff score above which 20% of the control condition is situated.
+
+Then you have to treat 148 people from that control condition to have an expected number of persons above that uh above that cutoff equal to 100.
+
+So if you want to bring 100 persons above that cut cutoff then you have to treat 148 of these of uh people from the control condition. also for the correlation coefficient.
+
+Um this site can be used to look at how you can interpret correlations.
+
+Thanks to the fact that these that effect sizes are standardized, we can use rules of temp.
+
+So Cohen for instance uh suggested several rules of terms by looking at um how effect sizes were interpreted by researchers in a lot of studies in the behavioral sciences.
+
+And he found that if the the standardized mean difference is about 20 that very often authors called u the observed effect relatively small.
+
+If the effect size was equal to 0 50 then this effect is often called medium and if the effect size is equal to 80 then often researchers call uh the mean difference a large difference.
+
+You can also see um correlations and uh the proportions of variance explained.
+
+Um so R and R squared and you can see um what values correspond to small effects, medium effects and large effects, Note that sometimes small effects can still be impressive and I recommend you to read the paper of Brenta Miller because it's uh yeah it's a very interesting paper.
+
+So they argue that sometimes small effects are indeed impressive and they give some um examples.
+
+For instance, they give an example of an experiment experiment in which um students sitting in a library.
+
+Some students are given a cookie.
+
+Other students are not given a cookie.
+
+And then afterwards when these students come out of the library, there is an old woman who wants to cross the street and and apparently has problems in uh in crossing the street.
+
+And it was found that students who got before one simple cookie, they were more willing to help that old lady than students who were not given a cookie.
+
+The effect was not huge, but apprentice and Miller conclude that this effect is impressive.
+
+It's impressive that by giving a very small cookie to persons, these persons are more willing to help other people.
+
+So you would not expect that there is an effect, but still there is an effect.
+
+It's a small effect, but because you do not expect it, it's still impressive.
+
+Another example, they also give the example of um of an of experiments or an experiment in which um members of a jury in a trial in court seems to be affected by the physical attractiveness of the defendants.
+
+So it's an experiment.
+
+Um so it was not it was a fake trial but of course the people from the jury did not know that it was a fake trial and in one group um the defendant was a very physical attractive women woman in another group the defendant was not attractive at all and it was found that the jury members uh judged differently so were apparently affected by the physical attraction effectiveness of the defendant.
+
+Again, the effect was not very large, but still it is uh it is an impressive effect because again, you would not expect that there is an effect.
+
+You would expect that people are doing their best um the best they can to remain objective and and probably they did their best to be objective, but still they were affected by the physical attractiveness of the defendants.
+
+So note that the size of the effect is not equal to the practical significance.
+
+So we have seen that you have the statistical significance.
+
+This is not the same as the size of the effect the effect size because uh the statistical significance also depends on the size of the study.
+
+But very often in the literature people say well you have statistical significance and you have practical significance which is which is expressed uh in a measure of effect size but the size of the effect still is not the same as a practical significance because the practical significance also depends on for instance the cost of the treatment.
+
+So suppose that by washing hands you can you can have a small effect um or or you can by washing your hands you can have a large effect on uh the number of cases with flu versus by vaccination you can have the same effect.
+
+So the size of the effect can be the same in the two situations for the two treatments.
+
+But still the practical significance of washing your hands is larger because it's it's a very easy measure to take.
+
+It's it does not cost money.
+
+Everybody can do it.
+
+So the practical significance of this treatment is larger.
+
+Another example severity of the problem under investigation.
+
+Suppose that by washing your hands you can avoid having flu or um um being affected by the corona virus on one hand or by washing your hands you can avoid common colds.
+
+Suppose that the effect is the same.
+
+The size of the effect is the same.
+
+In that case, the practical significance is larger for corona virus because this problem is a larger problem is is more severe.
+
+The same is true for the extent of the problem.
+
+If we can tackle um a very extensive problem, a problem that is uh that is everywhere with a simple solution.
+
+The practical significance of this solution or this treatment is larger than if you can uh help um um solving a problem that is not very common.
+
+Calculation of effect sizes.
+
+Um, there are a lot of effect sizes.
+
+We already have seen a few effect sizes, but I tried to make an overview of some effect sizes of commonly used effect sizes, but this is not um an exhaustive overview.
+
+There are much more effect sizes than the ones I mentioned here.
+
+So I try to to categorize effect sizes according to uh the measurement level of the dependent variable and the measurement level of the independent variable.
+
+Let's look first at a situation where you have two dichotomus variables.
+
+So suppose for instance you want to predict using a test whether somebody will fail or succeed in the final exam at university. and you collect data.
+
+Suppose that these are the data then you hope that based on your predictive test you can predict as good as possible the final exam score.
+
+So you can predict whether the person will uh fail or not.
+
+So suppose that one stands for success and zero stands for a failure.
+
+Same for the predictive test.
+
+Is there an association between the two tests?
+
+Or in other words, can you predict whether somebody will fail or succeed on the final exam based on the result of the predictive test?
+
+If you look at the data, then apparently this is the case.
+
+If one you can see that 150 persons uh succeeded on the predictive test and the majority of them also succeeded on the final exam.
+
+So 130 people from these 150 people uh succeeded from the 50 people who failed the predictive test also a majority but a small majority succeeded on the final exam.
+
+So there seems to be an association between the two.
+
+This is more easy uh to see this if you calculate uh proportions.
+
+So you can see that from all people who succeeded on the predictive test, 87% succeeded on the final exam.
+
+Whereas this is only the case for 60% of the people who uh failed on the predictive test.
+
+So how can we calculate a measure that expresses the size of association between the two variables?
+
+One possible way is to calculate the difference in risks.
+
+Uh so the difference in the probability of succeeding the final exam for the two uh conditions for uh people who did not fail and people who failed on the predictive test.
+
+And you can see that the probability is 27% higher uh for people who succeeded on the predictive test.
+
+So this is the difference between the risks.
+
+An alternative measure that is also very often used and that we already uh have seen before in the first session is the relative risk or the risk ratio.
+
+So it is 87 uh 87% divided by 60%.
+
+Which gives us a value ratio of 1.45.
+
+So this means that if one succeeded on the uh predictive test then the probability is 1.4. 45 times higher that the person will also succeed on the final exam compared to people who did not succeed on the predictive test.
+
+Note that these are two measures for exactly the same data but the values are completely different 27 and 1.45.
+
+Still another measure that is very often used is a fi coefficient. five coefficient giving a value of 29 again another value.
+
+Another measure that is very often used is odds ratio.
+
+This odds ratio gives a value of 4.33 and also very often used is the lo odds ratio which is a natural logarithm of the odds ratio giving a value of 1.47.
+
+So you see for the same situation for the same kinds of data you can calculate multiple metrics and it's important to note here that these different measures also give different values.
+
+So you cannot simply say that the effect size for this data is for instance 1.45.
+
+You have to mention what type of effect size you calculated or what measure of effect size, what measure of assessation you calculated.
+
+If you would have um from multiple studies effect size metrics for these kinds of data for 2x two tables, then you have to make sure that the effect size metric that is used in all these studies is exactly the same.
+
+Otherwise it does not make sense to combine these effect sizes over studies.
+
+Another situation suppose you have an ordinal or an interval dependent variable and a dichomous independent variable.
+
+So suppose you have two groups and you compare these two you compare the scores on an ordinal or interval variable in these two groups.
+
+We already have seen the standardized mean difference calculated as the difference between the sample means divided by the pulled standard deviation.
+
+Pooling standard deviations make sense if we can assume that there is a common population standard deviation so that in both uh conditions the standard deviation of the population is exactly the same.
+
+If this is not the case and and this for instance suppose that the treatment has an effect has has not the same effect on all persons then this could make that in the treatment condition the variation between persons in the performance on the outcome variable is larger than in the control condition.
+
+In that situation it does not make sense to use pulled standard deviation to calculate a standardized mean difference.
+
+An alternative that was proposed by class is uh to standardize uh the mean difference by dividing by the standard deviation from the control group only.
+
+Still another situation suppose that you have one group that is measured before and after a treatment.
+
+What is sometimes used is a standardized mean difference uh based on gain scores.
+
+So the the mean gain for for each person the gain or the difference is calculated between um the score after a treatment and the score before the treatment.
+
+And then a mean difference score is calculated and this is divided by the standard deviation of these different scores.
+
+An alternative measure is a standardized mean difference in which you calculate the difference between the post mean and the pre-mean and you divide it by the standard deviation of the precores.
+
+Sometimes you have a combination of these two two designs.
+
+You have two groups an experimental group and a control group.
+
+But the experimental group and the control group is measured before sorry in the beginning of the experiment and after the treatment uh started.
+
+So here in this situation you can calculate this uh standardized mean difference.
+
+So in fact you calculate uh for both conditions first standardized mean difference and then you calculate the difference between these two standardized mean differences.
+
+Still other measures are nonparametric and robust measures.
+
+For instance, sometimes uh or some people proposed to use the the difference between medians rather than the difference between means because medians are more robust against uh outlying values.
+
+Still another measure is a point by serial correlation coefficient.
+
+So it's it's a correlation coefficient calculated between um a dichomous variable 01 variable on one side and um the scores on uh the dependent or the yeah a continuous variable on the other side.
+
+Another group of measures um can be used in in a situation where you have a nominal dependent variable and a nominal independent variable.
+
+So again there are multiple measures that can be calculated.
+
+I'm not going to uh to give details on these measures.
+
+But what I want to say is suppose that you have a table like this.
+
+So you have two nominal uh or categorical variables and based on this table this frequency table it looks like the experimental condition performs better.
+
+So the treatments seems to have a positive effect in the sense that a lot of people um have less symptoms of the illness in the uh experimental condition whereas in the control condition uh for a lot of people the amount of uh symptoms remain the same during the experiment.
+
+So in this table it seems that there is a positive effect of the treatment.
+
+You can calculate uh a couple of measures measures that were included in the table that I've shown on the previous slide.
+
+But look at this situation here.
+
+I changed control.
+
+I switched the labels of control and experimental.
+
+So based on this data, the conclusion would be no, the experimental condition or the treatment is making the situation worse compared to the control condition.
+
+But if you would calculate the measures that were given on the previous slide, then for the two tables, you would obtain exactly the same values.
+
+So this is a real problem um especially for met analysis.
+
+If you would uh use measures of effect for uh expressing the size of assessation between two categorical variables.
+
+These measures do not give a direction.
+
+They do not say in what direction the effect is observed.
+
+And here in the third table again you would get exactly the same values uh for the the matrix whereas again the situation is different.
+
+Here I switched um uh the labels better and same.
+
+So again the interpretation of the effect size is different but the value for the effect size is exactly the same.
+
+So this is problematic for math analysis.
+
+Suppose that you would uh uh find in one study the first table in the second study the second table.
+
+So in the two studies you would find the same effect size measure.
+
+Um so if you would in your meta analysis calculate the mean effect then the mean effect would be equal to um yeah the the effect size that you found in the two studies.
+
+But because the effect is going in the two in two different directions in the two studies, the conclusion should rather be that there is no effect at all on average.
+
+What if you have a nominal or categorical independent variable and an ordinal or interval variable uh as a dependent variable?
+
+Well, in this, so for instance, what if you would uh have an analysis of variance in a specific study?
+
+Well, what you could do is you could calculate multiple standardized mean differences.
+
+So for each pair of groups, for each pair of categories, you can calculate uh the mean difference and you can standardize it by dividing this stand this mean difference by a pulled standard deviation or you can look at the proportion of variance that is um that is explained by the categorical uh independent variable.
+
+What if you have uh two interval variables?
+
+In that situation again you can calculate multiple measures uh for instance correlation coefficient of Pearson.
+
+But if you have ordinal uh variables then it's better to use a Spearman correlation and so on.
+
+What effect size can you use in case uh regression analysis was done?
+
+Look first at a simple linear regression analysis.
+
+So with Y being regressed on a predictor X.
+
+In this situation, the regression weight of X can be estimated as the correlation between X and Y multiplied by the ratio of the standard deviations.
+
+So note that if X and Y would be standardized then the standard deviations would become one and then B would become equal to the correlation.
+
+So a correlation coefficient which is very often used as a measure of association or measure of effect is in fact a regression coefficient. it's a standardized regression coefficient.
+
+But if there is no need to standardize the data, then also uh regression coefficients can be considered as effect size measures.
+
+Suppose that X the predictor variable is not continuous but dichomous with zero for instance for the control condition, one for the experimental condition. then the estimate of B is equal to the difference between the sample means.
+
+So again you can see that a mean difference which is often used as a measure of effect is in fact a regression coefficient and a standardized mean difference therefore is equal to a standardized regression coefficient.
+
+If your dependent variable would be uh divided by uh the standard deviation of E, so the residual standard deviation, then your regression rate uh of X would be a standardized mean difference.
+
+Suppose that your dependent variable is a dichotomus variable.
+
+In that case, you can use logistic regression analysis.
+
+So your dependent variable now is the logit of the probability that y is equal to 1.
+
+So the logit which is equal to the natural logarithm of the odds odds which is equal to b the probability that y is equal to 1 divided by the probability that y is equal to zero.
+
+So the lo odds is equal uh in our model to a + b x.
+
+What is now b? b is in fact a lo odds ratio.
+
+So b is the difference between um the lo odds for the experimental condition and the control condition.
+
+And the difference between two logarithms is a logarithm of the ratio.
+
+Um so the difference between lo odds is equal to the log of the ratio of the two odds.
+
+So it's it's the lo odds ratio.
+
+So the lo odds ratio which is very often used especially in biomedical sciences is also regression coefficient.
+
+Now the sampling distribution of effect sizes.
+
+Why is this important for a meta analysis?
+
+Well, it's important to know what a sampling distribution is of an effect size measure for multiple reasons.
+
+First reason is that typical metalytic uh techniques assume that the effect size uh that is used follows a normal distribution so that the sampling distribution is a normal distribution.
+
+A second reason is that we need to have an idea of what the precision is of the effect size measure before we combine effect size measures in a math analysis.
+
+Because a precision is used to weight effect sizes in the meta analysis and it's also used to calculate the precision of our uh final mean estimate.
+
+Look at the standardized mean difference.
+
+Indeed, a standardized mean difference follows a normal or the sampling distribution of the standardized mean difference is a normal distribution with mean equal to the population standardized mean difference and with a variance.
+
+A variance that can be estimated.
+
+Variance is equal to the ratio between um of necid * nc plus the delta squared.
+
+So the population effect size divided by two times the total sample size.
+
+Of course we cannot calculate this sampling variance but because we do not know delta.
+
+But what is very often done in meta analysis is you replace delta uh by G.
+
+So you replace the population effect size by the observed effect size and then you get a rather good estimate of the sampling variance of G of an observed effect size.
+
+So if the group sizes are equal and if the group sizes are relatively large compared to the standardized mean difference itself then the sampling variance is more or less equal to 4 divided by the total sample size.
+
+What about correlation coefficient?
+
+Well also the correlation coefficient has a sampling distribution that is more or less normal.
+
+The mean of the sampling distribution is the population correlation coefficient and the variance is equal to 1 minus r row squared squared divided by the total sample size.
+
+Now there are several problems however with this uh uh association measure.
+
+The first problem is that sampling distribution is only approximate approximately normal especially if row is close to zero uh uh close to minus one or + one.
+
+Suppose that the population correlation coefficient is 95.
+
+In that situation, observed correlation coefficients cannot be much larger than the population correlation because u correlation coefficients cannot be larger by definition than one.
+
+But observed correlations can be much smaller than the population correlation of 95.
+
+So the sampling distribution will become skewed especially if you have small samples.
+
+So the sampling distribution is only approximately normal.
+
+A second problem is there is some bias.
+
+The expected value of um the observed correlation is not exactly equal to the population correlation.
+
+And the third problem is the bias but also the sampling variance depends strongly on the um the population correlation.
+
+So here again to estimate the sampling variance we could replace row by r.
+
+But here this a small deviation of R from the population correlation can result in a in a large difference in the estimate of the sampling variance.
+
+A solution is to calculate a Fiser Z transformation transformed value. and fishery set is equal to.5 * the natural logarithm of 1 + the observed correlation divided by one minus the correlation.
+
+So the advantage is that the sampling distribution of the fisher z value is more or less equal to a normal distribution.
+
+Another another advantage is that the sampling variance now is can be easily estimated. it is equal to 1 divided by the sample size minus 3.
+
+Note that now the sampling variance does not depend anymore on the size of the effect.
+
+So what is very often done if uh in multiple studies correlations were observed and we want to combine these correlations.
+
+Well, we first uh perform um or we use a fisher set transformation to convert these correlations to the fisher z scores.
+
+We perform a met analysis on the fisher z values.
+
+So you calculate the the mean fisher z for instance and then afterwards you and and you also calculate an a confidence interval around uh the fisher z the mean fisher z value and then afterwards you back transform these values.
+
+So you back transform the confidence limits and you back transform the mean fisher set towards the r scale.
+
+A third measure that is very often used is the odds ratio.
+
+So odds ratio that can be calculated if you have a 2x2 table.
+
+So um suppose that you that the cells are a b c and d then the odds ratio is equal to a * d divided by b * c.
+
+Again we have the problem that odds ratio has a asymmetric distribution.
+
+So suppose that um suppose that there is no association at all in the population.
+
+So in that situation um the odds ratio in the population will be equal to one.
+
+But the observed odds ratios can be smaller than one and can be larger than one.
+
+But obser cannot be smaller than zero.
+
+So about half of the observed effect sizes would be uh values between zero and one whereas the other half would be values between one and plus infinity.
+
+So again you have a skewed distribution.
+
+Another drawback is that the standard error formula is also a complex uh formula. solution is here again to perform a transformation.
+
+More specifically, very often the natural logarithm is taken of the odds ratio.
+
+The advantage is that the sampling distribution now becomes more or less normal.
+
+So symmetric and normal and that the sampling variance is uh easily be estimated more specifically.
+
+It's equal to 1 / a plus 1 / b + 1 / c plus 1 / d. choosing a measure.
+
+So we have seen that there are a lot of measures.
+
+I did not ex um explain all the measures from the table and on top of that there are much more additional measures.
+
+How do you choose a measure?
+
+So first of course the measure you use depends on the design.
+
+For instance if you have two uh and on the measurement level for instance if you have two continuous variables then you can use correlation coefficient.
+
+If you have two dichoamous variables, you can use a loss ratio.
+
+Secondly, it's often a good idea to use a standardized measure to make sure that you can compare the values over multiple studies.
+
+Third, you have to be aware that sometimes assumptions are made.
+
+We already looked at the standardized mean difference um in which the standardization was done by dividing by a pulled standard deviation.
+
+This only makes sense if the assumption that the two population standard deviations are the same is reasonable otherwise it may be better to use classes delta.
+
+So dividing the mean difference by uh the standard deviation from from the control condition.
+
+A fourth criterion is a popularity.
+
+So standardized mean differences loss ratios correlation coefficients are very often used.
+
+People are familiar with these values with these measures.
+
+So it can be a good idea to use these measures in your meta analysis.
+
+Fifth, simplicity of a measure.
+
+The lost for instance is somewhat hard to interpret.
+
+The risk difference is much easier to understand.
+
+So that could be an argument to choose for a risk difference.
+
+Another criterion is that it is a good idea to use a directional effect size.
+
+So if um if for instance you are looking at two continuous variables then it's a good idea to use R but it's not a good idea to use R squar R R squar would uh give an idea of what the proportion of variance would be if you would predict one of the variables based on the other variables based on the other variable.
+
+But a drawback of R squar is that it is not directional.
+
+So it's possible that in one study a negative correlation was found.
+
+In another study a positive correlation was found.
+
+So on average there is no correlation.
+
+There's no association.
+
+But if you would use R squar then in both studies uh you would get a positive value and the mean of these R squared would be positive of course as well suggesting that there is on average an effect and then seventh the simplicity of the sampling distribution.
+
+We look for measures that have a normal sampling distribution with um if possible a sampling variance that can be easily estimated.
+
+A remark on the comparability of effect size measures.
+
+I already said that in the same situation for the same types of data you sometimes can calculate multiple measures and sometimes these measures are comparable but sometimes they are not comparable.
+
+For instance, look at um um the standardized mean difference for independent groups and the standardized mean difference uh uh based on gain scores.
+
+So for independent groups, the standardized mean difference is the difference between the two population means divided by the common standard deviation or at least we assume that there is a common population standard deviation.
+
+The G for gain scores is equal to the mean difference score divided by the standard deviation of the different scores.
+
+So it is equal to the mean of the post- test scores minus the mean of the pre-est scores divided by so the standard deviation of the difference scores is equal to the square root of the variance of the post- test scores plus the variance of the pre-est scores minus 2 * the correlation uh between pre and post test um times the standard deviation of the pre-EST scores times the standard deviation of the post- test scores.
+
+If we can assume that the treatment does not have an effect or that that the treatment has the same effect on all persons.
+
+In that situation the variance um um of the post- test scores will be the same as the variance of the post pre-est scores.
+
+So in that situation this variance can be um the variance is equal to sigma squared.
+
+We can put sigma in front of the square root and so we have the difference between the uh the means divided by sigma times the square root of 2 * 1 minus row.
+
+And assuming that the mean of the post- test scores is the same as the mean that would have been observed in a group that was measured only after a treatment.
+
+And assuming that the mean of the pre-est scores is the same as the mean of a control group of control condition in that situation you can use the formula that you see at the bottom of this slide to convert or to express the relationship between the um the effect size for gain scores and the effect size for independent groups.
+
+So why do I why did I explain this derivation?
+
+I explained this derivation to make clear that sometimes we can express the relationship um between two measures and this relationship can be used to convert one measure to the other measure.
+
+But it's also important to see based on this derivation that for deriving this conversion formula we made some assumptions.
+
+We made the assumption that the means of uh the um the the post- test and the pre-est are comparable to the means of uh an experimental uh group and a control group.
+
+And we also made the assumption that the treatment effect is the same for all persons.
+
+So that the variance of the post- test scores is the same as the variance of the pre-est scores.
+
+So based on these assumptions, you can derive this uh conversion formula.
+
+And so if you would uh have an observed effect size um from independent groups and for another study you would have an observed effect size from gain scores where you can convert one observed effect size to the other type of effect size before you combine them in a meta analysis.
+
+Sometimes such a conversion is not pos is not needed.
+
+So for instance, if you look at the observed effect size um the difference between effect sizes sorry the difference between sample means divided by a pulled standard deviation that can be used in the situation where uh the standard deviation of the populations can be assumed to be the same.
+
+But in the same situation, it's also possible to calculate classes delta.
+
+And classes delta estimates exactly the same population value.
+
+Classes delta is the mean is the difference between the sample means divided by the standard deviation of the control group.
+
+So also the standard deviation of the control group is estimating the standard deviation the common standard deviation of the two populations.
+
+So these two effect sizes in fact are estimating the same population effect size.
+
+So they can be combined in the same meta analysis.
+
+You do not have to convert one measure to the other measure.
+
+But what is important here to note is that glasses delta is slightly less precise because you are estimating the common standard deviation sigma by using only the standard deviation of the control group.
+
+So this estimate is less precise and therefore that estimate of the population standard deviation sorry the estimate of the population standardized mean difference is also somewhat uh more uh somewhat less precise.
+
+So this means that standardized mean differences in which the mean uh difference or the difference between the sample means is divided by the bullet standard deviation should be given a somewhat larger weight than classes deltas in a met analysis.
+
+How can you calculate effect sizes?
+
+Well, we have seen that several that that you can derive conversion formulas.
+
+Um, I'm going very fast over the next slides.
+
+So, that were slides that I uh retrieved uh from a website of David Wilson.
+
+So David Wilson said well to calculate an effect size value and here if they talk about if he talks about the effect size value he refers to the standardized mean difference.
+
+So if you would calculate would like to calculate the standardized mean difference then there are several ways or several approaches that can be followed.
+
+Some of these approaches are very good approaches, others are less good and some approaches are poor approaches.
+
+So a great approach is the direct calculation.
+
+So if you would have the sample means and if you would have the standard deviations and the sample sizes, then you can calculate the standardized mean difference using this formula.
+
+We also have seen that there is a clear relationship between the G the standardized mean difference and the t statistic from uh a two sample t test.
+
+Um so you can derive exactly um the standardized mean difference from the t statistic at least if you have um the sample sizes.
+
+Note that if you if an analysis of variance is used uh to compare two groups the f statistic that you obtain is equal to the square of t.
+
+So if you take the square root of f then you get the t value and so again you can derive the standardized mean difference from this f value.
+
+Suppose that you have for a specific study a correlation coefficient, but for other studies you have standardized mean differences.
+
+You can convert the correlation coefficient to that standardized main difference using this formula.
+
+For instance, if you have uh results of an analysis of variance with more than two groups and you have the means of the different categories, but you do not have the standard deviations of each um uh category.
+
+In that situation, you can use you can calculate the standardized mean difference for a pair of means by dividing the difference between the means by a pulled standard deviation um being equal to the square root of the mean squared error that is very often reported uh in such an analysis of variance.
+
+Note that this mean squared error is based on uh the deviations in each of the three groups and not only in these two groups.
+
+So it's not exactly um the value that you would obtain um when calculating a standardized mean difference if you would have the standard deviations of each of the categories separately.
+
+But probably the value you obtain will be very close.
+
+What if you have a twoway factorial ANOVA?
+
+You can see the formula here or if you have anova.
+
+So these were fine or good ways.
+
+Somewhat less good is approximations based on dichoamous data.
+
+Have a formula here.
+
+I'm not going to explain it in detail or this formula to convert a loss ratio to a standardized mean difference or this formula to convert a k square value from a 2x2 contingency table to a standardized mean difference or to convert convert the f coefficient to a standardized mean So to do these calculations you can make use of the website of David Wilson.
+
+Uh I've put the link on this slide.
+
+You can also use um the package ESC from R that is um in in which the same formulas are implemented as in the online tool of David Wilson.
+
+You can also use a metaphor package that we will use later in the practical session.
+
+Other software can be used as well.
+
+For instance, CMA which stands for comprehensive meta analysis or uh you can also use Excel.
+
+But in that case, you will have to yeah to write uh the formulas or implement the formulas yourself.
+
+In the handbook that is online on Toledo, you can also find a lot of formulas that can be used to convert one metric to another metric.
+
+Some threats of effect size measures.
+
+The first threat is of course if you have bad data, if you do not have uh data of a good quality, then of course your effect size metric can also be wrong.
+
+For instance, what is very often the case is that small typing errors are made in data sets and um or also typing errors in research reports um such as in P values or in D values or test statistics or in effect size uh effect sizes that are reported.
+
+So if you use these statistics or draw data to calculate an effect size measure then of course you will get a bad effect size metric if the data you started from were not correct.
+
+Another problem is measurement error.
+
+So suppose your dependent variable in an experimental design is not measured in a very accurate way.
+
+In this situation, the standard deviation that you obtain will be larger.
+
+And so think about the standardized mean difference.
+
+So if the standard deviation will be larger because of measurement error, then the observed effect size will become smaller.
+
+So you can get biased results by having an imprecise measurement of your dependent variable.
+
+By dichotomizing continuous variables, often the effect size becomes smaller.
+
+It's also possible that your variable is not measured that that you are not really measuring exactly what you want to measure.
+
+So that your outcome variable or your independent variable is somewhat biased in the sense that you may that you measure something slightly different.
+
+So this can increase the association between the two variables or it can decrease the association depending on what exactly you are measuring.
+
+It's also possible that there is bias in your estimator.
+
+For instance, I said that the standardized mean difference is more or less unbiased.
+
+So that the mean of the sampling distribution of the standardized mean difference is the population standardized mean difference.
+
+This is not exactly the case.
+
+This is not exactly true.
+
+So Hatches proposed um a correction factor to correct for small sample bias.
+
+So instead of using G, it's better to multiply G by 1 minus 3 / 4 times the sample size - 9.
+
+You can see that if N is large, so if you have a large study, then that correction factor will be more or less equal to one.
+
+So in that situation the correction factor does not correct a lot or or uh the corrected G is almost equal to the original G.
+
+So this correction factor is especially important uh to be used.
+
+It's important to use this correction factor especially if your sample size is small.
+
+Another threat is range restriction.
+
+I'm going to explain this on the next slide.
+
+So more information on these threads is given in the book of Hunan Schmidt.
+
+So they discuss in detail each of these threads and they also discuss in detail how you can correct your effect sizes for these threads.
+
+What about range restriction?
+
+So I have here a scatter plot between two continuous variables.
+
+In fact, these are the scores on two exams from a large group of students.
+
+And it's clear that there is a high correlation between the two variables, a high positive correlation.
+
+So students who performed well on the first exam also performed well on the second exam in general and the other way around.
+
+But suppose that I restrict the range that I only uh keep students who performed between five and 15 on the first exam.
+
+I made a new scatter plot based on only these students.
+
+And if you look at this scatter plot, you can see that the association between the two variables disappeared largely.
+
+So maybe there is still a correlation a positive correlation but this correlation will be very small.
+
+So this is an illustration that the range restriction typically reduces the size of association between two variables.
+
+So again this can induce bias.

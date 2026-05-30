@@ -1,0 +1,281 @@
+In this screencast we will look at metaanalytic structural equation modeling MAM.
+
+First I will give more details about structural equation modeling SAM and illustrate SAM with an example.
+
+Next I will tell you more about its extension to the modeling of data from multiple studies and again we use an example to illustrate such a mimm analysis.
+
+First, structural equation modeling.
+
+A SM model combines two kinds of models.
+
+A structural model and a measurement model.
+
+The structural model describes the relationship between multiple variables.
+
+These variables can be observed variables like for instance the length of a person.
+
+But it's also possible to work with latent variables.
+
+These are theoretical variables that cannot be observed directly.
+
+Examples of latent variables are motivation or emotional intelligence.
+
+Whereas motivation cannot be observed directly, it can be derived from observed behaviors.
+
+For instance, indicators of the motivation of a student are the number of questions the student asks during a lecture or the number of exercises the student makes at home.
+
+A measurement model is used to link latent variables to observed variables.
+
+In other words, to clarify based on which manifest variables one gets information on latent variables.
+
+Let's look first at structural models or the structural component of structural equation models.
+
+Various traditional models like multiple regression models can be considered as special cases of structural equation models.
+
+Suppose two predictors X1 and X2 are used to predict the criterion variable Y and that all three variables are observed variables.
+
+In structural equation modeling, it's common to present a model in a graphical way using a so-called path diagram.
+
+Observed variables are presented with rectangular boxes.
+
+Here in regression model, the two predictor variables can have an effect on the criterion variable.
+
+Single-headed arrows between boxes refer to causal relationships or in the SAM model to regression weights.
+
+Note that by default, an intercept is estimated but not shown in the output of a SAM analysis.
+
+A circular arrow refers to the variance of a variable.
+
+Double-headed arrows between boxes refer to covariances.
+
+For the criterion variable Y, part of the variance is explained by the predictors.
+
+Part of the variance is not explained.
+
+Also, the unexplained variance therefore is a parameter that should be estimated.
+
+Structural equation modeling has two purposes.
+
+Estimating the parameters. here the betas the covariance between predictors and the residual variance.
+
+The second purpose is to test the fit of the model.
+
+One can fit various models for instance a multiple regression model with two predictors and a model with only one predictor and then compare the model fit to evaluate whether the inclusion of the second predictor is significantly improving the predictions.
+
+If you would standard, if you would use standardized data, the variances of the predictors become one.
+
+The co-variance between the predictors then is the correlation between them.
+
+The residual variance is the proportion of the variance that is not explained and the regression weights are standardized weights.
+
+Another example of a structural model is an ANOVA model.
+
+The triangle stands for a constant.
+
+Here a constant one.
+
+In this plot, we have two groups with different regression weights for the constant referring to the expected values in the two groups.
+
+The variance of the outcome variable can be group specific.
+
+Although it's also possible to assume homogeneity which means that only one variance is to be estimated.
+
+An advantage of using structural models is that we can fit more complex models.
+
+For instance, models with intervening or mediating variables that at the same time play the role of a predictor and criterion variable.
+
+In this way, you can fit for instance models to investigate to what extent the effect on of X on Y is a direct effect or an indirect effect via the mediator variable M.
+
+Now let's look at the second component of structural equation models, the measurement model.
+
+As an example of a measurement model, look at the confirmatory factor analysis model.
+
+Observed variables indicated with rectangles are supposed to measure latent factors indicated using ellipses.
+
+The double-headed arrow between the two factors indicates that the factors can be correlated.
+
+The single-headed arrows uh from the latent factors to the observed variables represent regression weights or factor loadings to make the model identified.
+
+Typically for each factor, one loading is constrained to one.
+
+In addition, there are the variance parameters for the latent and observed variables.
+
+For observed variables, the variance refers to the variance that is not explained by the latent factors.
+
+Again, we could fit multiple models.
+
+For instance, this model with two factors and a model with only one general factor on which all observed variables load and compare the model fit in order to choose the best fitting model.
+
+Some models can combine both structural and measurement models.
+
+For example, a latent variable L3 can be requested on two other latent variables L1 and L2.
+
+This is a structural part of the model.
+
+All three latent variables may be measured using a set of observed variables which is modeled in the measurement part of this SAM model.
+
+An example as input for a sum analysis you have to specify a model.
+
+This implies that you specify the measurement part.
+
+So you specify what observed variables load on what latent variables and you further have to specify the structural relations between the variables.
+
+Further indicate what variables can be correlated and clarify possible constraints.
+
+For instance, assume you want to do a multiple regression analysis with two observed predictor variables X1 and X2 that can be correlated and that are assumed to have an impact on the criterion variable Y.
+
+An important remark is that in a SEM analysis on data from a cross-sectional observational study, this is a study in which several variables are measured at the same time and no variables are experimentally manipulated.
+
+We can estimate parameters of the model and compare the model fit of various models but we do not prove that the assumed direction of the effects is correct.
+
+The same analysis can be done on raw data but it's also possible to use a coariance or a correlation matrix.
+
+Suppose this is the correlation matrix you obtained based on 120 observations.
+
+Both predictors X1 and X2 correlate positively with a criterion variable Y and there is also a positive correlation between the two predictors.
+
+This will give the following output.
+
+Note that you can replicate the results using the R syntax prepared for this screencast.
+
+Here the output is given in a visual way with estimates of the variances, co-variances and regression weights.
+
+Because here correlation matrix is used as input, the variances of the predictors are equal to one and the residual variance refers to the proportion of variance that is not explained by the model.
+
+You see that the two predictors explain 19% of the variance.
+
+Whereas the observed variance of Y is equal to one.
+
+The residual variance of Y appears to be 81.
+
+Further you see that the correlation between the predictors is equal to 50.
+
+A correlation that was already given as input and the regression weights are equal to 030 and 0.20.
+
+You can also look at the output in a table format.
+
+If you look at the standard errors and ZV values, you see that both coefficients are statistically significant at the 0.05 significance level, which means that each predictor improves the model even if the other predictor was already included in the model.
+
+Note that in principle, you can also test the model fit, but here you use six values as input to estimate six parameters.
+
+So there are no degrees of freedom left for testing the model.
+
+The six input var val values are the three variances of one and the three correlations.
+
+The six parameters that are estimated are the two regression weights, the correlation between the predictors, the two variances equal to one for the predictors and the residual variance of y.
+
+After this short introduction in SAM, let us now look at a metanalytic sum analysis and at metanalytic sum analysis or mayam analysis.
+
+In a metalytic sum, we estimate the sum model parameters using combined information from multiple studies.
+
+This can be done in two steps.
+
+In the first step, we combine the data from multiple studies to estimate an overall correlation matrix.
+
+And in the second step, we do the sum analysis based on this combined correlation matrix.
+
+Alternatively, a MSM analysis can be done in one step.
+
+Am analysis combines advantages from met analysis and from structural equation modeling.
+
+By combining data from multiple studies like in other meta analysis, you can increase the statistical power when testing hypothesis and the precision when estimating the parameters of interest.
+
+It also allows estimating and testing moderating effects of study characteristics.
+
+MSM also has a flexibility of SAM in general.
+
+You can estimate various kinds of models with latent and observed variables.
+
+Here we will look only at two-stage mason analysis.
+
+In the first stage, we combine the correlations from multiple studies to obtain an overall correlation matrix.
+
+Note that studies can differ in the size of the sample used and hence in the precision of their estimates and therefore observed correlations should be weighted in the meta analysis.
+
+Note that it is not required that all studies report on all correlations.
+
+If you want to fit a multiple regression model with two predictors, you need estimates of three correlations, but also studies that report on only one or two of these correlations can contribute information to the meta analysis.
+
+As a result, not all pulled correlations will have the same precision, which should be accounted for in the second stage.
+
+It's also important to note that we will not do separate univariat math analysis for the different correlations because in that way we would not account for the dependence of correlations from the same study.
+
+For instance, if in a study the sample has some atypical values for the variable X, this will affect both the correlation between X and Y and the correlation between X and Z.
+
+Therefore, we do a multivariate meta analysis and we can use robust variance estimation or RVE to fully account for the dependence.
+
+The first stage will result in a correlation matrix across studies together with a sampling variance or the squared standard error of each bullet correlation.
+
+The sampling variance gives us an idea of the precision of the estimates but also the sampling coariances are estimated which gives us an idea of the association between correlations within studies.
+
+In the second stage, the matrix with a pulled correlations is then used to estimate the SM model.
+
+But in contrast to an ordinary SE analysis, we are now also accounting for the matrix with the corresponding variances and co-variances of the pulled correlations.
+
+There is discussion in the literature on whether dehumanizing a group, for instance, calling a group cockroaches or rats, can contribute to violence against that group.
+
+Some people suggest that dehumanization is strongly related to disliking the other group and that it is the dislike that contributes to violence rather than the dehumanization.
+
+In a recent study, we did a meta analysis on studies that studied violence, deumanization, and dislike to investigate whether there is still an association between deumanization and violence after correcting for dislike.
+
+The model we fitted was a multiple regression model.
+
+Violence is regressed on dislike and dehumanization.
+
+Two predictors that can be correlated.
+
+The regression weights of the two predictors represent the effect of the predictor on violence after correcting for the other predictor.
+
+In the first stage, we did a multivaried meta analysis applying RVE.
+
+Again the data and R syntax are made available so that you can replicate this analysis.
+
+This first stage resulted in a first matrix with a pulled correlations across studies.
+
+We found that overall violence is more strongly correlated with deumanization than with dislike.
+
+We also found as expected that dislike and deumanization are positively correlated.
+
+A second matrix is a coariance matrix because there are three correlations.
+
+We have in the coariance matrix 3 * 3 cells.
+
+On the diagonal we have the sampling variances.
+
+You see that the correlation between dislike and violence is estimated with less precision than the two other correlations.
+
+Off the diagonal you have the sampling covariances.
+
+For instance, the positive uh sampling coariance between the deumanization violence correlation and the dislike violence correlation means that in studies in which a relatively large deumanization violence correlation is observed in general also a large a relatively large dislike violence correlation is found.
+
+In the second stage, the correlations are used to fit the same model parameters.
+
+We found that after correcting for the effect of dislike, the effect of dehumanization is still statistically significant.
+
+To test this coefficient, we calculated the 95% confidence interval and we compared the model fit of this model with a model that constrained the coefficient of dehumanization to zero.
+
+The opposite is not true.
+
+If we account for the effect of dehumanization, there is no statistically significant additional effect of dislike anymore.
+
+Together, the two predictors explain about 19% of of the variance in the amount of violence.
+
+We also did a series of sensitivity analysis in which we corrected for a few additional predictors.
+
+But we found that results are robust for all these additional models.
+
+We found that dehumanization is statistically significantly related to violence even after accounting for the effect of dislike.
+
+To conclude, an important strength of MSAM is its flexibility.
+
+Messa models can include observed but also latent variables.
+
+They can include multiple levels, multiple predictors, multiple outcome variables, mediators, moderators and so on.
+
+In fact, all met analytic models that we have seen so far can be considered as special cases of a Mason model.
+
+Yet, Mason is a recently developed approach that is not fully developed yet.
+
+More research is needed on the possibilities and the performance of the approach.
+
+Finally, here's some references to the work of March Chung and Susanna Yak on Mason.

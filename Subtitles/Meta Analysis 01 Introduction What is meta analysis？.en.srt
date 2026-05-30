@@ -1,0 +1,6895 @@
+1
+00:00:02,000 --> 00:00:04,390
+
+In this screencast, I will introduce the
+
+2
+00:00:04,390 --> 00:00:04,400
+In this screencast, I will introduce the
+ 
+
+3
+00:00:04,400 --> 00:00:08,390
+In this screencast, I will introduce the
+principles of meta analysis.
+
+4
+00:00:08,390 --> 00:00:08,400
+principles of meta analysis.
+ 
+
+5
+00:00:08,400 --> 00:00:10,790
+principles of meta analysis.
+To do so, I will start from a simulation
+
+6
+00:00:10,790 --> 00:00:10,800
+To do so, I will start from a simulation
+ 
+
+7
+00:00:10,800 --> 00:00:12,790
+To do so, I will start from a simulation
+to explain the problem of failures to
+
+8
+00:00:12,790 --> 00:00:12,800
+to explain the problem of failures to
+ 
+
+9
+00:00:12,800 --> 00:00:15,829
+to explain the problem of failures to
+replicate and to show how meta analysis
+
+10
+00:00:15,829 --> 00:00:15,839
+replicate and to show how meta analysis
+ 
+
+11
+00:00:15,839 --> 00:00:19,189
+replicate and to show how meta analysis
+can help us out. Next, we will look at
+
+12
+00:00:19,189 --> 00:00:19,199
+can help us out. Next, we will look at
+ 
+
+13
+00:00:19,199 --> 00:00:21,429
+can help us out. Next, we will look at
+more complex scenarios than the one from
+
+14
+00:00:21,429 --> 00:00:21,439
+more complex scenarios than the one from
+ 
+
+15
+00:00:21,439 --> 00:00:24,630
+more complex scenarios than the one from
+the simulation. And finally, I will give
+
+16
+00:00:24,630 --> 00:00:24,640
+the simulation. And finally, I will give
+ 
+
+17
+00:00:24,640 --> 00:00:26,790
+the simulation. And finally, I will give
+an overview of questions that are often
+
+18
+00:00:26,790 --> 00:00:26,800
+an overview of questions that are often
+ 
+
+19
+00:00:26,800 --> 00:00:29,429
+an overview of questions that are often
+studied in met analysis and of the steps
+
+20
+00:00:29,429 --> 00:00:29,439
+studied in met analysis and of the steps
+ 
+
+21
+00:00:29,439 --> 00:00:34,069
+studied in met analysis and of the steps
+that are typically involved.
+
+22
+00:00:34,069 --> 00:00:34,079
+
+ 
+
+23
+00:00:34,079 --> 00:00:35,830
+
+First, the problem of failures to
+
+24
+00:00:35,830 --> 00:00:35,840
+First, the problem of failures to
+ 
+
+25
+00:00:35,840 --> 00:00:39,750
+First, the problem of failures to
+replicate.
+
+26
+00:00:39,750 --> 00:00:39,760
+
+ 
+
+27
+00:00:39,760 --> 00:00:41,750
+
+Suppose there is an association between
+
+28
+00:00:41,750 --> 00:00:41,760
+Suppose there is an association between
+ 
+
+29
+00:00:41,760 --> 00:00:43,590
+Suppose there is an association between
+gender and the scores on the mathematics
+
+30
+00:00:43,590 --> 00:00:43,600
+gender and the scores on the mathematics
+ 
+
+31
+00:00:43,600 --> 00:00:45,830
+gender and the scores on the mathematics
+exam in the sense that female students
+
+32
+00:00:45,830 --> 00:00:45,840
+exam in the sense that female students
+ 
+
+33
+00:00:45,840 --> 00:00:48,630
+exam in the sense that female students
+perform better than male students.
+
+34
+00:00:48,630 --> 00:00:48,640
+perform better than male students.
+ 
+
+35
+00:00:48,640 --> 00:00:51,990
+perform better than male students.
+Suppose that both uh for female and male
+
+36
+00:00:51,990 --> 00:00:52,000
+Suppose that both uh for female and male
+ 
+
+37
+00:00:52,000 --> 00:00:53,670
+Suppose that both uh for female and male
+students the scores follow a normal
+
+38
+00:00:53,670 --> 00:00:53,680
+students the scores follow a normal
+ 
+
+39
+00:00:53,680 --> 00:00:55,270
+students the scores follow a normal
+distribution with a common standard
+
+40
+00:00:55,270 --> 00:00:55,280
+distribution with a common standard
+ 
+
+41
+00:00:55,280 --> 00:00:57,430
+distribution with a common standard
+deviation but that female students
+
+42
+00:00:57,430 --> 00:00:57,440
+deviation but that female students
+ 
+
+43
+00:00:57,440 --> 00:00:59,910
+deviation but that female students
+perform on average half a point better
+
+44
+00:00:59,910 --> 00:00:59,920
+perform on average half a point better
+ 
+
+45
+00:00:59,920 --> 00:01:01,990
+perform on average half a point better
+than male students.
+
+46
+00:01:01,990 --> 00:01:02,000
+than male students.
+ 
+
+47
+00:01:02,000 --> 00:01:04,310
+than male students.
+A measure that we can use to express a
+
+48
+00:01:04,310 --> 00:01:04,320
+A measure that we can use to express a
+ 
+
+49
+00:01:04,320 --> 00:01:06,070
+A measure that we can use to express a
+size of the association between gender
+
+50
+00:01:06,070 --> 00:01:06,080
+size of the association between gender
+ 
+
+51
+00:01:06,080 --> 00:01:08,469
+size of the association between gender
+and met is the difference between the
+
+52
+00:01:08,469 --> 00:01:08,479
+and met is the difference between the
+ 
+
+53
+00:01:08,479 --> 00:01:12,230
+and met is the difference between the
+means which here is 050.
+
+54
+00:01:12,230 --> 00:01:12,240
+means which here is 050.
+ 
+
+55
+00:01:12,240 --> 00:01:14,550
+means which here is 050.
+A drawback of this measure, however, is
+
+56
+00:01:14,550 --> 00:01:14,560
+A drawback of this measure, however, is
+ 
+
+57
+00:01:14,560 --> 00:01:17,109
+A drawback of this measure, however, is
+that its size depends on the way the
+
+58
+00:01:17,109 --> 00:01:17,119
+that its size depends on the way the
+ 
+
+59
+00:01:17,119 --> 00:01:19,510
+that its size depends on the way the
+variable is measured. Suppose that the
+
+60
+00:01:19,510 --> 00:01:19,520
+variable is measured. Suppose that the
+ 
+
+61
+00:01:19,520 --> 00:01:22,310
+variable is measured. Suppose that the
+exam is not measured. It's not an exam
+
+62
+00:01:22,310 --> 00:01:22,320
+exam is not measured. It's not an exam
+ 
+
+63
+00:01:22,320 --> 00:01:25,429
+exam is not measured. It's not an exam
+with scores on a scale from 0 to 10, but
+
+64
+00:01:25,429 --> 00:01:25,439
+with scores on a scale from 0 to 10, but
+ 
+
+65
+00:01:25,439 --> 00:01:27,990
+with scores on a scale from 0 to 10, but
+rather with scores on a scale from 0 to
+
+66
+00:01:27,990 --> 00:01:28,000
+rather with scores on a scale from 0 to
+ 
+
+67
+00:01:28,000 --> 00:01:30,630
+rather with scores on a scale from 0 to
+100. Then maybe on average, female
+
+68
+00:01:30,630 --> 00:01:30,640
+100. Then maybe on average, female
+ 
+
+69
+00:01:30,640 --> 00:01:33,030
+100. Then maybe on average, female
+students will perform 85 and male
+
+70
+00:01:33,030 --> 00:01:33,040
+students will perform 85 and male
+ 
+
+71
+00:01:33,040 --> 00:01:35,190
+students will perform 85 and male
+students 80.
+
+72
+00:01:35,190 --> 00:01:35,200
+students 80.
+ 
+
+73
+00:01:35,200 --> 00:01:37,270
+students 80.
+Therefore, the difference would be five
+
+74
+00:01:37,270 --> 00:01:37,280
+Therefore, the difference would be five
+ 
+
+75
+00:01:37,280 --> 00:01:40,630
+Therefore, the difference would be five
+points instead of half a point.
+
+76
+00:01:40,630 --> 00:01:40,640
+points instead of half a point.
+ 
+
+77
+00:01:40,640 --> 00:01:42,710
+points instead of half a point.
+In other words, talking about the
+
+78
+00:01:42,710 --> 00:01:42,720
+In other words, talking about the
+ 
+
+79
+00:01:42,720 --> 00:01:44,390
+In other words, talking about the
+difference between the means to express
+
+80
+00:01:44,390 --> 00:01:44,400
+difference between the means to express
+ 
+
+81
+00:01:44,400 --> 00:01:46,789
+difference between the means to express
+a size of the association only makes
+
+82
+00:01:46,789 --> 00:01:46,799
+a size of the association only makes
+ 
+
+83
+00:01:46,799 --> 00:01:48,950
+a size of the association only makes
+sense if you know on what scale the
+
+84
+00:01:48,950 --> 00:01:48,960
+sense if you know on what scale the
+ 
+
+85
+00:01:48,960 --> 00:01:51,510
+sense if you know on what scale the
+variable is measured.
+
+86
+00:01:51,510 --> 00:01:51,520
+variable is measured.
+ 
+
+87
+00:01:51,520 --> 00:01:53,749
+variable is measured.
+To solve that problem, very often a
+
+88
+00:01:53,749 --> 00:01:53,759
+To solve that problem, very often a
+ 
+
+89
+00:01:53,759 --> 00:01:55,270
+To solve that problem, very often a
+standardized mean difference is
+
+90
+00:01:55,270 --> 00:01:55,280
+standardized mean difference is
+ 
+
+91
+00:01:55,280 --> 00:01:57,749
+standardized mean difference is
+calculated.
+
+92
+00:01:57,749 --> 00:01:57,759
+calculated.
+ 
+
+93
+00:01:57,759 --> 00:02:00,069
+calculated.
+The difference between the means is
+
+94
+00:02:00,069 --> 00:02:00,079
+The difference between the means is
+ 
+
+95
+00:02:00,079 --> 00:02:01,910
+The difference between the means is
+standardized by dividing this difference
+
+96
+00:02:01,910 --> 00:02:01,920
+standardized by dividing this difference
+ 
+
+97
+00:02:01,920 --> 00:02:05,109
+standardized by dividing this difference
+by the standard deviation.
+
+98
+00:02:05,109 --> 00:02:05,119
+by the standard deviation.
+ 
+
+99
+00:02:05,119 --> 00:02:07,510
+by the standard deviation.
+In this example, the standardized mean
+
+100
+00:02:07,510 --> 00:02:07,520
+In this example, the standardized mean
+ 
+
+101
+00:02:07,520 --> 00:02:10,229
+In this example, the standardized mean
+difference is a difference of 050
+
+102
+00:02:10,229 --> 00:02:10,239
+difference is a difference of 050
+ 
+
+103
+00:02:10,239 --> 00:02:12,150
+difference is a difference of 050
+divided by the standard deviation of
+
+104
+00:02:12,150 --> 00:02:12,160
+divided by the standard deviation of
+ 
+
+105
+00:02:12,160 --> 00:02:13,670
+divided by the standard deviation of
+1.5.
+
+106
+00:02:13,670 --> 00:02:13,680
+1.5.
+ 
+
+107
+00:02:13,680 --> 00:02:15,510
+1.5.
+Therefore, the standardized mean
+
+108
+00:02:15,510 --> 00:02:15,520
+Therefore, the standardized mean
+ 
+
+109
+00:02:15,520 --> 00:02:21,750
+Therefore, the standardized mean
+difference is equal to 0.33.
+
+110
+00:02:21,750 --> 00:02:21,760
+
+ 
+
+111
+00:02:21,760 --> 00:02:24,229
+
+This measure was already introduced in
+
+112
+00:02:24,229 --> 00:02:24,239
+This measure was already introduced in
+ 
+
+113
+00:02:24,239 --> 00:02:28,309
+This measure was already introduced in
+1969 by con. Note that we are talking
+
+114
+00:02:28,309 --> 00:02:28,319
+1969 by con. Note that we are talking
+ 
+
+115
+00:02:28,319 --> 00:02:31,030
+1969 by con. Note that we are talking
+here about the population of female and
+
+116
+00:02:31,030 --> 00:02:31,040
+here about the population of female and
+ 
+
+117
+00:02:31,040 --> 00:02:34,150
+here about the population of female and
+me and male students. That's also why I
+
+118
+00:02:34,150 --> 00:02:34,160
+me and male students. That's also why I
+ 
+
+119
+00:02:34,160 --> 00:02:36,710
+me and male students. That's also why I
+use Greek symbols to refer to the means
+
+120
+00:02:36,710 --> 00:02:36,720
+use Greek symbols to refer to the means
+ 
+
+121
+00:02:36,720 --> 00:02:38,949
+use Greek symbols to refer to the means
+and to the standard deviation and why I
+
+122
+00:02:38,949 --> 00:02:38,959
+and to the standard deviation and why I
+ 
+
+123
+00:02:38,959 --> 00:02:42,229
+and to the standard deviation and why I
+use the Greek symbol delta to refer to
+
+124
+00:02:42,229 --> 00:02:42,239
+use the Greek symbol delta to refer to
+ 
+
+125
+00:02:42,239 --> 00:02:45,350
+use the Greek symbol delta to refer to
+the standardized mean difference.
+
+126
+00:02:45,350 --> 00:02:45,360
+the standardized mean difference.
+ 
+
+127
+00:02:45,360 --> 00:02:48,869
+the standardized mean difference.
+Now suppose that in a study samples are
+
+128
+00:02:48,869 --> 00:02:48,879
+Now suppose that in a study samples are
+ 
+
+129
+00:02:48,879 --> 00:02:51,830
+Now suppose that in a study samples are
+drawn from these populations
+
+130
+00:02:51,830 --> 00:02:51,840
+drawn from these populations
+ 
+
+131
+00:02:51,840 --> 00:02:55,110
+drawn from these populations
+based on the scores
+
+132
+00:02:55,110 --> 00:02:55,120
+based on the scores
+ 
+
+133
+00:02:55,120 --> 00:02:57,030
+based on the scores
+you observe in these samples. You can
+
+134
+00:02:57,030 --> 00:02:57,040
+you observe in these samples. You can
+ 
+
+135
+00:02:57,040 --> 00:02:58,949
+you observe in these samples. You can
+also calculate a standardized mean
+
+136
+00:02:58,949 --> 00:02:58,959
+also calculate a standardized mean
+ 
+
+137
+00:02:58,959 --> 00:03:01,350
+also calculate a standardized mean
+difference. More specifically, you can
+
+138
+00:03:01,350 --> 00:03:01,360
+difference. More specifically, you can
+ 
+
+139
+00:03:01,360 --> 00:03:03,910
+difference. More specifically, you can
+calculate a difference in sample means
+
+140
+00:03:03,910 --> 00:03:03,920
+calculate a difference in sample means
+ 
+
+141
+00:03:03,920 --> 00:03:05,670
+calculate a difference in sample means
+and standardize this difference by
+
+142
+00:03:05,670 --> 00:03:05,680
+and standardize this difference by
+ 
+
+143
+00:03:05,680 --> 00:03:08,309
+and standardize this difference by
+dividing it by a kind of pulled or
+
+144
+00:03:08,309 --> 00:03:08,319
+dividing it by a kind of pulled or
+ 
+
+145
+00:03:08,319 --> 00:03:11,830
+dividing it by a kind of pulled or
+averaged standard deviation which I will
+
+146
+00:03:11,830 --> 00:03:11,840
+averaged standard deviation which I will
+ 
+
+147
+00:03:11,840 --> 00:03:15,670
+averaged standard deviation which I will
+explain later in this course.
+
+148
+00:03:15,670 --> 00:03:15,680
+explain later in this course.
+ 
+
+149
+00:03:15,680 --> 00:03:18,149
+explain later in this course.
+We will call the statistic calculated
+
+150
+00:03:18,149 --> 00:03:18,159
+We will call the statistic calculated
+ 
+
+151
+00:03:18,159 --> 00:03:20,390
+We will call the statistic calculated
+based on the sample data an observed
+
+152
+00:03:20,390 --> 00:03:20,400
+based on the sample data an observed
+ 
+
+153
+00:03:20,400 --> 00:03:22,149
+based on the sample data an observed
+standardized mean difference or an
+
+154
+00:03:22,149 --> 00:03:22,159
+standardized mean difference or an
+ 
+
+155
+00:03:22,159 --> 00:03:25,270
+standardized mean difference or an
+observed effect size. And this observed
+
+156
+00:03:25,270 --> 00:03:25,280
+observed effect size. And this observed
+ 
+
+157
+00:03:25,280 --> 00:03:27,030
+observed effect size. And this observed
+standardized mean difference can be used
+
+158
+00:03:27,030 --> 00:03:27,040
+standardized mean difference can be used
+ 
+
+159
+00:03:27,040 --> 00:03:29,509
+standardized mean difference can be used
+to estimate the population standardized
+
+160
+00:03:29,509 --> 00:03:29,519
+to estimate the population standardized
+ 
+
+161
+00:03:29,519 --> 00:03:32,309
+to estimate the population standardized
+mean difference also called the true
+
+162
+00:03:32,309 --> 00:03:32,319
+mean difference also called the true
+ 
+
+163
+00:03:32,319 --> 00:03:35,110
+mean difference also called the true
+standardized mean difference. In other
+
+164
+00:03:35,110 --> 00:03:35,120
+standardized mean difference. In other
+ 
+
+165
+00:03:35,120 --> 00:03:38,229
+standardized mean difference. In other
+words, G is used as an estimate of
+
+166
+00:03:38,229 --> 00:03:38,239
+words, G is used as an estimate of
+ 
+
+167
+00:03:38,239 --> 00:03:40,470
+words, G is used as an estimate of
+delta.
+
+168
+00:03:40,470 --> 00:03:40,480
+delta.
+ 
+
+169
+00:03:40,480 --> 00:03:43,990
+delta.
+Note that thanks to the standardizing it
+
+170
+00:03:43,990 --> 00:03:44,000
+Note that thanks to the standardizing it
+ 
+
+171
+00:03:44,000 --> 00:03:45,910
+Note that thanks to the standardizing it
+becomes possible to say something about
+
+172
+00:03:45,910 --> 00:03:45,920
+becomes possible to say something about
+ 
+
+173
+00:03:45,920 --> 00:03:47,589
+becomes possible to say something about
+whether a specific value can be
+
+174
+00:03:47,589 --> 00:03:47,599
+whether a specific value can be
+ 
+
+175
+00:03:47,599 --> 00:03:50,309
+whether a specific value can be
+considered as high or small because this
+
+176
+00:03:50,309 --> 00:03:50,319
+considered as high or small because this
+ 
+
+177
+00:03:50,319 --> 00:03:54,710
+considered as high or small because this
+does not depend on the scale anymore.
+
+178
+00:03:54,710 --> 00:03:54,720
+does not depend on the scale anymore.
+ 
+
+179
+00:03:54,720 --> 00:03:56,390
+does not depend on the scale anymore.
+Cohen gave us guidelines for
+
+180
+00:03:56,390 --> 00:03:56,400
+Cohen gave us guidelines for
+ 
+
+181
+00:03:56,400 --> 00:03:57,910
+Cohen gave us guidelines for
+interpreting standardized mean
+
+182
+00:03:57,910 --> 00:03:57,920
+interpreting standardized mean
+ 
+
+183
+00:03:57,920 --> 00:04:00,390
+interpreting standardized mean
+differences in the behavioral sciences
+
+184
+00:04:00,390 --> 00:04:00,400
+differences in the behavioral sciences
+ 
+
+185
+00:04:00,400 --> 00:04:02,149
+differences in the behavioral sciences
+by calculating standardized mean
+
+186
+00:04:02,149 --> 00:04:02,159
+by calculating standardized mean
+ 
+
+187
+00:04:02,159 --> 00:04:03,990
+by calculating standardized mean
+differences for a large number of
+
+188
+00:04:03,990 --> 00:04:04,000
+differences for a large number of
+ 
+
+189
+00:04:04,000 --> 00:04:05,509
+differences for a large number of
+studies and looking at the
+
+190
+00:04:05,509 --> 00:04:05,519
+studies and looking at the
+ 
+
+191
+00:04:05,519 --> 00:04:07,509
+studies and looking at the
+interpretation the authors of these
+
+192
+00:04:07,509 --> 00:04:07,519
+interpretation the authors of these
+ 
+
+193
+00:04:07,519 --> 00:04:10,550
+interpretation the authors of these
+studies gave to the effects they found
+
+194
+00:04:10,550 --> 00:04:10,560
+studies gave to the effects they found
+ 
+
+195
+00:04:10,560 --> 00:04:12,630
+studies gave to the effects they found
+based on the guidelines of con a
+
+196
+00:04:12,630 --> 00:04:12,640
+based on the guidelines of con a
+ 
+
+197
+00:04:12,640 --> 00:04:14,949
+based on the guidelines of con a
+standardized mean difference of 0.20 20
+
+198
+00:04:14,949 --> 00:04:14,959
+standardized mean difference of 0.20 20
+ 
+
+199
+00:04:14,959 --> 00:04:17,830
+standardized mean difference of 0.20 20
+is considered a small effect.
+
+200
+00:04:17,830 --> 00:04:17,840
+is considered a small effect.
+ 
+
+201
+00:04:17,840 --> 00:04:20,710
+is considered a small effect.
+A standardized mean difference of 050 a
+
+202
+00:04:20,710 --> 00:04:20,720
+A standardized mean difference of 050 a
+ 
+
+203
+00:04:20,720 --> 00:04:24,550
+A standardized mean difference of 050 a
+moderate effect and 0.80 is considered a
+
+204
+00:04:24,550 --> 00:04:24,560
+moderate effect and 0.80 is considered a
+ 
+
+205
+00:04:24,560 --> 00:04:28,629
+moderate effect and 0.80 is considered a
+large effect.
+
+206
+00:04:28,629 --> 00:04:28,639
+
+ 
+
+207
+00:04:28,639 --> 00:04:31,350
+
+Now back to the example we have seen
+
+208
+00:04:31,350 --> 00:04:31,360
+Now back to the example we have seen
+ 
+
+209
+00:04:31,360 --> 00:04:33,189
+Now back to the example we have seen
+that in the that the population
+
+210
+00:04:33,189 --> 00:04:33,199
+that in the that the population
+ 
+
+211
+00:04:33,199 --> 00:04:36,950
+that in the that the population
+standardized mean difference is 0.33.
+
+212
+00:04:36,950 --> 00:04:36,960
+standardized mean difference is 0.33.
+ 
+
+213
+00:04:36,960 --> 00:04:39,749
+standardized mean difference is 0.33.
+Of course in reality we often do not
+
+214
+00:04:39,749 --> 00:04:39,759
+Of course in reality we often do not
+ 
+
+215
+00:04:39,759 --> 00:04:41,510
+Of course in reality we often do not
+know the population means and standard
+
+216
+00:04:41,510 --> 00:04:41,520
+know the population means and standard
+ 
+
+217
+00:04:41,520 --> 00:04:43,270
+know the population means and standard
+deviation.
+
+218
+00:04:43,270 --> 00:04:43,280
+deviation.
+ 
+
+219
+00:04:43,280 --> 00:04:45,749
+deviation.
+What we have instead in a typical study
+
+220
+00:04:45,749 --> 00:04:45,759
+What we have instead in a typical study
+ 
+
+221
+00:04:45,759 --> 00:04:47,830
+What we have instead in a typical study
+is a sample of scores from both
+
+222
+00:04:47,830 --> 00:04:47,840
+is a sample of scores from both
+ 
+
+223
+00:04:47,840 --> 00:04:49,749
+is a sample of scores from both
+populations.
+
+224
+00:04:49,749 --> 00:04:49,759
+populations.
+ 
+
+225
+00:04:49,759 --> 00:04:52,070
+populations.
+Still, we can use these two samples to
+
+226
+00:04:52,070 --> 00:04:52,080
+Still, we can use these two samples to
+ 
+
+227
+00:04:52,080 --> 00:04:54,070
+Still, we can use these two samples to
+say something about the standardized
+
+228
+00:04:54,070 --> 00:04:54,080
+say something about the standardized
+ 
+
+229
+00:04:54,080 --> 00:04:57,430
+say something about the standardized
+mean difference from the population. I
+
+230
+00:04:57,430 --> 00:04:57,440
+mean difference from the population. I
+ 
+
+231
+00:04:57,440 --> 00:04:59,830
+mean difference from the population. I
+simulated this process by asking the
+
+232
+00:04:59,830 --> 00:04:59,840
+simulated this process by asking the
+ 
+
+233
+00:04:59,840 --> 00:05:01,909
+simulated this process by asking the
+computer to give me a sample of 20
+
+234
+00:05:01,909 --> 00:05:01,919
+computer to give me a sample of 20
+ 
+
+235
+00:05:01,919 --> 00:05:04,469
+computer to give me a sample of 20
+scores from a normal distribution with
+
+236
+00:05:04,469 --> 00:05:04,479
+scores from a normal distribution with
+ 
+
+237
+00:05:04,479 --> 00:05:08,150
+scores from a normal distribution with
+mean 8 and standard deviation 1.5
+
+238
+00:05:08,150 --> 00:05:08,160
+mean 8 and standard deviation 1.5
+ 
+
+239
+00:05:08,160 --> 00:05:10,150
+mean 8 and standard deviation 1.5
+and to give me also a random sample of
+
+240
+00:05:10,150 --> 00:05:10,160
+and to give me also a random sample of
+ 
+
+241
+00:05:10,160 --> 00:05:12,710
+and to give me also a random sample of
+20 scores from the female population
+
+242
+00:05:12,710 --> 00:05:12,720
+20 scores from the female population
+ 
+
+243
+00:05:12,720 --> 00:05:16,310
+20 scores from the female population
+with a normal distribution with mean 8.5
+
+244
+00:05:16,310 --> 00:05:16,320
+with a normal distribution with mean 8.5
+ 
+
+245
+00:05:16,320 --> 00:05:19,670
+with a normal distribution with mean 8.5
+and standard deviation 1.5.
+
+246
+00:05:19,670 --> 00:05:19,680
+and standard deviation 1.5.
+ 
+
+247
+00:05:19,680 --> 00:05:21,909
+and standard deviation 1.5.
+Here you see the results for the fe for
+
+248
+00:05:21,909 --> 00:05:21,919
+Here you see the results for the fe for
+ 
+
+249
+00:05:21,919 --> 00:05:24,390
+Here you see the results for the fe for
+the male students. The average score is
+
+250
+00:05:24,390 --> 00:05:24,400
+the male students. The average score is
+ 
+
+251
+00:05:24,400 --> 00:05:26,390
+the male students. The average score is
+somewhat higher than the population
+
+252
+00:05:26,390 --> 00:05:26,400
+somewhat higher than the population
+ 
+
+253
+00:05:26,400 --> 00:05:29,350
+somewhat higher than the population
+mean. We obtained the sample mean of
+
+254
+00:05:29,350 --> 00:05:29,360
+mean. We obtained the sample mean of
+ 
+
+255
+00:05:29,360 --> 00:05:31,909
+mean. We obtained the sample mean of
+8.10 whereas the population mean was
+
+256
+00:05:31,909 --> 00:05:31,919
+8.10 whereas the population mean was
+ 
+
+257
+00:05:31,919 --> 00:05:34,070
+8.10 whereas the population mean was
+equal to 8.
+
+258
+00:05:34,070 --> 00:05:34,080
+equal to 8.
+ 
+
+259
+00:05:34,080 --> 00:05:36,310
+equal to 8.
+That on average the scores were a little
+
+260
+00:05:36,310 --> 00:05:36,320
+That on average the scores were a little
+ 
+
+261
+00:05:36,320 --> 00:05:37,909
+That on average the scores were a little
+bit higher than the mean of the
+
+262
+00:05:37,909 --> 00:05:37,919
+bit higher than the mean of the
+ 
+
+263
+00:05:37,919 --> 00:05:41,590
+bit higher than the mean of the
+population is due to coincidence.
+
+264
+00:05:41,590 --> 00:05:41,600
+population is due to coincidence.
+ 
+
+265
+00:05:41,600 --> 00:05:44,070
+population is due to coincidence.
+In a sample of 20 scores for female
+
+266
+00:05:44,070 --> 00:05:44,080
+In a sample of 20 scores for female
+ 
+
+267
+00:05:44,080 --> 00:05:46,390
+In a sample of 20 scores for female
+students, I obtained an average score of
+
+268
+00:05:46,390 --> 00:05:46,400
+students, I obtained an average score of
+ 
+
+269
+00:05:46,400 --> 00:05:48,550
+students, I obtained an average score of
+9.34.
+
+270
+00:05:48,550 --> 00:05:48,560
+9.34.
+ 
+
+271
+00:05:48,560 --> 00:05:50,790
+9.34.
+This is much higher than the mean of the
+
+272
+00:05:50,790 --> 00:05:50,800
+This is much higher than the mean of the
+ 
+
+273
+00:05:50,800 --> 00:05:53,990
+This is much higher than the mean of the
+female population 8.5.
+
+274
+00:05:53,990 --> 00:05:54,000
+female population 8.5.
+ 
+
+275
+00:05:54,000 --> 00:05:55,510
+female population 8.5.
+In the two samples, the standard
+
+276
+00:05:55,510 --> 00:05:55,520
+In the two samples, the standard
+ 
+
+277
+00:05:55,520 --> 00:05:57,749
+In the two samples, the standard
+deviations were exactly equal to each
+
+278
+00:05:57,749 --> 00:05:57,759
+deviations were exactly equal to each
+ 
+
+279
+00:05:57,759 --> 00:06:00,390
+deviations were exactly equal to each
+other 1.55.
+
+280
+00:06:00,390 --> 00:06:00,400
+other 1.55.
+ 
+
+281
+00:06:00,400 --> 00:06:02,629
+other 1.55.
+It is again due to coincidence that
+
+282
+00:06:02,629 --> 00:06:02,639
+It is again due to coincidence that
+ 
+
+283
+00:06:02,639 --> 00:06:04,629
+It is again due to coincidence that
+these standard deviations were slightly
+
+284
+00:06:04,629 --> 00:06:04,639
+these standard deviations were slightly
+ 
+
+285
+00:06:04,639 --> 00:06:06,710
+these standard deviations were slightly
+larger than the population standard
+
+286
+00:06:06,710 --> 00:06:06,720
+larger than the population standard
+ 
+
+287
+00:06:06,720 --> 00:06:09,510
+larger than the population standard
+deviation of 1.5 and that they are
+
+288
+00:06:09,510 --> 00:06:09,520
+deviation of 1.5 and that they are
+ 
+
+289
+00:06:09,520 --> 00:06:15,830
+deviation of 1.5 and that they are
+exactly the same in both samples.
+
+290
+00:06:15,830 --> 00:06:15,840
+
+ 
+
+291
+00:06:15,840 --> 00:06:19,189
+
+Now suppose that the values I have drawn
+
+292
+00:06:19,189 --> 00:06:19,199
+Now suppose that the values I have drawn
+ 
+
+293
+00:06:19,199 --> 00:06:21,110
+Now suppose that the values I have drawn
+were the values observed in a real
+
+294
+00:06:21,110 --> 00:06:21,120
+were the values observed in a real
+ 
+
+295
+00:06:21,120 --> 00:06:24,070
+were the values observed in a real
+study. In that case probably the
+
+296
+00:06:24,070 --> 00:06:24,080
+study. In that case probably the
+ 
+
+297
+00:06:24,080 --> 00:06:26,629
+study. In that case probably the
+researchers would perform a t test to
+
+298
+00:06:26,629 --> 00:06:26,639
+researchers would perform a t test to
+ 
+
+299
+00:06:26,639 --> 00:06:28,550
+researchers would perform a t test to
+test whether on average there is a
+
+300
+00:06:28,550 --> 00:06:28,560
+test whether on average there is a
+ 
+
+301
+00:06:28,560 --> 00:06:30,070
+test whether on average there is a
+difference between male and female
+
+302
+00:06:30,070 --> 00:06:30,080
+difference between male and female
+ 
+
+303
+00:06:30,080 --> 00:06:33,110
+difference between male and female
+students. Based on the simulated data we
+
+304
+00:06:33,110 --> 00:06:33,120
+students. Based on the simulated data we
+ 
+
+305
+00:06:33,120 --> 00:06:36,230
+students. Based on the simulated data we
+get a relatively small p value a p value
+
+306
+00:06:36,230 --> 00:06:36,240
+get a relatively small p value a p value
+ 
+
+307
+00:06:36,240 --> 00:06:38,629
+get a relatively small p value a p value
+of 0.015.
+
+308
+00:06:38,629 --> 00:06:38,639
+of 0.015.
+ 
+
+309
+00:06:38,639 --> 00:06:40,390
+of 0.015.
+If we would use a significance level of
+
+310
+00:06:40,390 --> 00:06:40,400
+If we would use a significance level of
+ 
+
+311
+00:06:40,400 --> 00:06:42,870
+If we would use a significance level of
+5% then we would reject the null
+
+312
+00:06:42,870 --> 00:06:42,880
+5% then we would reject the null
+ 
+
+313
+00:06:42,880 --> 00:06:45,670
+5% then we would reject the null
+hypothesis. The null hypothesis saying
+
+314
+00:06:45,670 --> 00:06:45,680
+hypothesis. The null hypothesis saying
+ 
+
+315
+00:06:45,680 --> 00:06:48,629
+hypothesis. The null hypothesis saying
+that the two population means are equal.
+
+316
+00:06:48,629 --> 00:06:48,639
+that the two population means are equal.
+ 
+
+317
+00:06:48,639 --> 00:06:50,710
+that the two population means are equal.
+In other words, we would conclude that
+
+318
+00:06:50,710 --> 00:06:50,720
+In other words, we would conclude that
+ 
+
+319
+00:06:50,720 --> 00:06:52,469
+In other words, we would conclude that
+there is a difference between male and
+
+320
+00:06:52,469 --> 00:06:52,479
+there is a difference between male and
+ 
+
+321
+00:06:52,479 --> 00:06:54,629
+there is a difference between male and
+female students in the sense that female
+
+322
+00:06:54,629 --> 00:06:54,639
+female students in the sense that female
+ 
+
+323
+00:06:54,639 --> 00:06:56,150
+female students in the sense that female
+students perform better than male
+
+324
+00:06:56,150 --> 00:06:56,160
+students perform better than male
+ 
+
+325
+00:06:56,160 --> 00:06:57,749
+students perform better than male
+students.
+
+326
+00:06:57,749 --> 00:06:57,759
+students.
+ 
+
+327
+00:06:57,759 --> 00:07:00,309
+students.
+In this example, this is indeed the
+
+328
+00:07:00,309 --> 00:07:00,319
+In this example, this is indeed the
+ 
+
+329
+00:07:00,319 --> 00:07:02,790
+In this example, this is indeed the
+correct conclusion. Female students
+
+330
+00:07:02,790 --> 00:07:02,800
+correct conclusion. Female students
+ 
+
+331
+00:07:02,800 --> 00:07:04,629
+correct conclusion. Female students
+indeed perform better than male
+
+332
+00:07:04,629 --> 00:07:04,639
+indeed perform better than male
+ 
+
+333
+00:07:04,639 --> 00:07:07,270
+indeed perform better than male
+students.
+
+334
+00:07:07,270 --> 00:07:07,280
+students.
+ 
+
+335
+00:07:07,280 --> 00:07:09,510
+students.
+I also calculated the observed
+
+336
+00:07:09,510 --> 00:07:09,520
+I also calculated the observed
+ 
+
+337
+00:07:09,520 --> 00:07:11,510
+I also calculated the observed
+standardized mean difference. This gives
+
+338
+00:07:11,510 --> 00:07:11,520
+standardized mean difference. This gives
+ 
+
+339
+00:07:11,520 --> 00:07:13,990
+standardized mean difference. This gives
+a value of 0.80.
+
+340
+00:07:13,990 --> 00:07:14,000
+a value of 0.80.
+ 
+
+341
+00:07:14,000 --> 00:07:16,309
+a value of 0.80.
+In other words, if these were the data
+
+342
+00:07:16,309 --> 00:07:16,319
+In other words, if these were the data
+ 
+
+343
+00:07:16,319 --> 00:07:18,710
+In other words, if these were the data
+of a real study, in this study, the
+
+344
+00:07:18,710 --> 00:07:18,720
+of a real study, in this study, the
+ 
+
+345
+00:07:18,720 --> 00:07:20,390
+of a real study, in this study, the
+standardized mean difference of the
+
+346
+00:07:20,390 --> 00:07:20,400
+standardized mean difference of the
+ 
+
+347
+00:07:20,400 --> 00:07:22,150
+standardized mean difference of the
+population would have been
+
+348
+00:07:22,150 --> 00:07:22,160
+population would have been
+ 
+
+349
+00:07:22,160 --> 00:07:23,749
+population would have been
+overestimated.
+
+350
+00:07:23,749 --> 00:07:23,759
+overestimated.
+ 
+
+351
+00:07:23,759 --> 00:07:26,150
+overestimated.
+In reality, the population standardized
+
+352
+00:07:26,150 --> 00:07:26,160
+In reality, the population standardized
+ 
+
+353
+00:07:26,160 --> 00:07:28,950
+In reality, the population standardized
+mean difference is equal to 0.33.
+
+354
+00:07:28,950 --> 00:07:28,960
+mean difference is equal to 0.33.
+ 
+
+355
+00:07:28,960 --> 00:07:31,029
+mean difference is equal to 0.33.
+Whereas based on our sample data, our
+
+356
+00:07:31,029 --> 00:07:31,039
+Whereas based on our sample data, our
+ 
+
+357
+00:07:31,039 --> 00:07:34,150
+Whereas based on our sample data, our
+estimate is 0.80.
+
+358
+00:07:34,150 --> 00:07:34,160
+estimate is 0.80.
+ 
+
+359
+00:07:34,160 --> 00:07:36,870
+estimate is 0.80.
+In some if these were the data of real
+
+360
+00:07:36,870 --> 00:07:36,880
+In some if these were the data of real
+ 
+
+361
+00:07:36,880 --> 00:07:38,870
+In some if these were the data of real
+study, we would overestimate the
+
+362
+00:07:38,870 --> 00:07:38,880
+study, we would overestimate the
+ 
+
+363
+00:07:38,880 --> 00:07:40,390
+study, we would overestimate the
+difference between male and female
+
+364
+00:07:40,390 --> 00:07:40,400
+difference between male and female
+ 
+
+365
+00:07:40,400 --> 00:07:42,070
+difference between male and female
+students, but we would come to the
+
+366
+00:07:42,070 --> 00:07:42,080
+students, but we would come to the
+ 
+
+367
+00:07:42,080 --> 00:07:44,309
+students, but we would come to the
+correct conclusion that female students
+
+368
+00:07:44,309 --> 00:07:44,319
+correct conclusion that female students
+ 
+
+369
+00:07:44,319 --> 00:07:51,189
+correct conclusion that female students
+perform better than male students.
+
+370
+00:07:51,189 --> 00:07:51,199
+
+ 
+
+371
+00:07:51,199 --> 00:07:53,749
+
+I've done this simulation a second time.
+
+372
+00:07:53,749 --> 00:07:53,759
+I've done this simulation a second time.
+ 
+
+373
+00:07:53,759 --> 00:07:56,710
+I've done this simulation a second time.
+In a new sample of 20 male students, the
+
+374
+00:07:56,710 --> 00:07:56,720
+In a new sample of 20 male students, the
+ 
+
+375
+00:07:56,720 --> 00:08:00,790
+In a new sample of 20 male students, the
+mean is 7.60, 60 which is somewhat too
+
+376
+00:08:00,790 --> 00:08:00,800
+mean is 7.60, 60 which is somewhat too
+ 
+
+377
+00:08:00,800 --> 00:08:04,790
+mean is 7.60, 60 which is somewhat too
+smaller than population mean of eight.
+
+378
+00:08:04,790 --> 00:08:04,800
+smaller than population mean of eight.
+ 
+
+379
+00:08:04,800 --> 00:08:06,869
+smaller than population mean of eight.
+The sample mean for the female students
+
+380
+00:08:06,869 --> 00:08:06,879
+The sample mean for the female students
+ 
+
+381
+00:08:06,879 --> 00:08:11,749
+The sample mean for the female students
+now is 7.59 which is much too small
+
+382
+00:08:11,749 --> 00:08:11,759
+now is 7.59 which is much too small
+ 
+
+383
+00:08:11,759 --> 00:08:13,749
+now is 7.59 which is much too small
+and it is even slightly smaller than the
+
+384
+00:08:13,749 --> 00:08:13,759
+and it is even slightly smaller than the
+ 
+
+385
+00:08:13,759 --> 00:08:16,469
+and it is even slightly smaller than the
+sample mean for the male students. Now
+
+386
+00:08:16,469 --> 00:08:16,479
+sample mean for the male students. Now
+ 
+
+387
+00:08:16,479 --> 00:08:18,230
+sample mean for the male students. Now
+the two standard deviations are
+
+388
+00:08:18,230 --> 00:08:18,240
+the two standard deviations are
+ 
+
+389
+00:08:18,240 --> 00:08:20,469
+the two standard deviations are
+different and are slightly smaller than
+
+390
+00:08:20,469 --> 00:08:20,479
+different and are slightly smaller than
+ 
+
+391
+00:08:20,479 --> 00:08:23,670
+different and are slightly smaller than
+the population standard deviation.
+
+392
+00:08:23,670 --> 00:08:23,680
+the population standard deviation.
+ 
+
+393
+00:08:23,680 --> 00:08:25,510
+the population standard deviation.
+You can see that the two sample means
+
+394
+00:08:25,510 --> 00:08:25,520
+You can see that the two sample means
+ 
+
+395
+00:08:25,520 --> 00:08:28,309
+You can see that the two sample means
+are very similar. Using a t test to test
+
+396
+00:08:28,309 --> 00:08:28,319
+are very similar. Using a t test to test
+ 
+
+397
+00:08:28,319 --> 00:08:30,550
+are very similar. Using a t test to test
+the difference between the population
+
+398
+00:08:30,550 --> 00:08:30,560
+the difference between the population
+ 
+
+399
+00:08:30,560 --> 00:08:33,670
+the difference between the population
+means therefore results in a large p
+
+400
+00:08:33,670 --> 00:08:33,680
+means therefore results in a large p
+ 
+
+401
+00:08:33,680 --> 00:08:37,750
+means therefore results in a large p
+value. The p value is equal to 98.
+
+402
+00:08:37,750 --> 00:08:37,760
+value. The p value is equal to 98.
+ 
+
+403
+00:08:37,760 --> 00:08:39,990
+value. The p value is equal to 98.
+Based on these data, the conclusion
+
+404
+00:08:39,990 --> 00:08:40,000
+Based on these data, the conclusion
+ 
+
+405
+00:08:40,000 --> 00:08:42,469
+Based on these data, the conclusion
+would be that there is no difference
+
+406
+00:08:42,469 --> 00:08:42,479
+would be that there is no difference
+ 
+
+407
+00:08:42,479 --> 00:08:44,550
+would be that there is no difference
+between male and female students, which
+
+408
+00:08:44,550 --> 00:08:44,560
+between male and female students, which
+ 
+
+409
+00:08:44,560 --> 00:08:47,350
+between male and female students, which
+is an incorrect conclusion.
+
+410
+00:08:47,350 --> 00:08:47,360
+is an incorrect conclusion.
+ 
+
+411
+00:08:47,360 --> 00:08:49,590
+is an incorrect conclusion.
+If we then estimate the size of the
+
+412
+00:08:49,590 --> 00:08:49,600
+If we then estimate the size of the
+ 
+
+413
+00:08:49,600 --> 00:08:51,670
+If we then estimate the size of the
+effect, we get a standardized mean
+
+414
+00:08:51,670 --> 00:08:51,680
+effect, we get a standardized mean
+ 
+
+415
+00:08:51,680 --> 00:08:53,750
+effect, we get a standardized mean
+difference very close to zero because
+
+416
+00:08:53,750 --> 00:08:53,760
+difference very close to zero because
+ 
+
+417
+00:08:53,760 --> 00:08:55,670
+difference very close to zero because
+the two sample means are very close to
+
+418
+00:08:55,670 --> 00:08:55,680
+the two sample means are very close to
+ 
+
+419
+00:08:55,680 --> 00:08:57,350
+the two sample means are very close to
+each other.
+
+420
+00:08:57,350 --> 00:08:57,360
+each other.
+ 
+
+421
+00:08:57,360 --> 00:08:59,509
+each other.
+You can also see that the standardized
+
+422
+00:08:59,509 --> 00:08:59,519
+You can also see that the standardized
+ 
+
+423
+00:08:59,519 --> 00:09:01,990
+You can also see that the standardized
+mean difference now is negative because
+
+424
+00:09:01,990 --> 00:09:02,000
+mean difference now is negative because
+ 
+
+425
+00:09:02,000 --> 00:09:05,350
+mean difference now is negative because
+now our sample of female students
+
+426
+00:09:05,350 --> 00:09:05,360
+now our sample of female students
+ 
+
+427
+00:09:05,360 --> 00:09:07,509
+now our sample of female students
+perform on average slightly worse than
+
+428
+00:09:07,509 --> 00:09:07,519
+perform on average slightly worse than
+ 
+
+429
+00:09:07,519 --> 00:09:10,470
+perform on average slightly worse than
+our sample of male students.
+
+430
+00:09:10,470 --> 00:09:10,480
+our sample of male students.
+ 
+
+431
+00:09:10,480 --> 00:09:12,630
+our sample of male students.
+In some if this were the data of real
+
+432
+00:09:12,630 --> 00:09:12,640
+In some if this were the data of real
+ 
+
+433
+00:09:12,640 --> 00:09:14,630
+In some if this were the data of real
+study, the conclusion of the researchers
+
+434
+00:09:14,630 --> 00:09:14,640
+study, the conclusion of the researchers
+ 
+
+435
+00:09:14,640 --> 00:09:17,509
+study, the conclusion of the researchers
+would be wrong. They would conclude that
+
+436
+00:09:17,509 --> 00:09:17,519
+would be wrong. They would conclude that
+ 
+
+437
+00:09:17,519 --> 00:09:19,350
+would be wrong. They would conclude that
+there is no difference between male and
+
+438
+00:09:19,350 --> 00:09:19,360
+there is no difference between male and
+ 
+
+439
+00:09:19,360 --> 00:09:22,070
+there is no difference between male and
+female students. Moreover, the estimate
+
+440
+00:09:22,070 --> 00:09:22,080
+female students. Moreover, the estimate
+ 
+
+441
+00:09:22,080 --> 00:09:23,670
+female students. Moreover, the estimate
+of the standardized mean difference
+
+442
+00:09:23,670 --> 00:09:23,680
+of the standardized mean difference
+ 
+
+443
+00:09:23,680 --> 00:09:25,910
+of the standardized mean difference
+would be completely wrong. our estimate
+
+444
+00:09:25,910 --> 00:09:25,920
+would be completely wrong. our estimate
+ 
+
+445
+00:09:25,920 --> 00:09:28,230
+would be completely wrong. our estimate
+is almost equal to zero and even
+
+446
+00:09:28,230 --> 00:09:28,240
+is almost equal to zero and even
+ 
+
+447
+00:09:28,240 --> 00:09:30,790
+is almost equal to zero and even
+slightly negative whereas in reality
+
+448
+00:09:30,790 --> 00:09:30,800
+slightly negative whereas in reality
+ 
+
+449
+00:09:30,800 --> 00:09:32,790
+slightly negative whereas in reality
+there is a positive effect in the sense
+
+450
+00:09:32,790 --> 00:09:32,800
+there is a positive effect in the sense
+ 
+
+451
+00:09:32,800 --> 00:09:38,230
+there is a positive effect in the sense
+that female students perform better.
+
+452
+00:09:38,230 --> 00:09:38,240
+
+ 
+
+453
+00:09:38,240 --> 00:09:40,630
+
+I've done this simulation another eight
+
+454
+00:09:40,630 --> 00:09:40,640
+I've done this simulation another eight
+ 
+
+455
+00:09:40,640 --> 00:09:43,670
+I've done this simulation another eight
+times. Therefore in total I simulated 10
+
+456
+00:09:43,670 --> 00:09:43,680
+times. Therefore in total I simulated 10
+ 
+
+457
+00:09:43,680 --> 00:09:48,710
+times. Therefore in total I simulated 10
+data sets. Now look at the p values.
+
+458
+00:09:48,710 --> 00:09:48,720
+data sets. Now look at the p values.
+ 
+
+459
+00:09:48,720 --> 00:09:50,949
+data sets. Now look at the p values.
+You can see that very often the p value
+
+460
+00:09:50,949 --> 00:09:50,959
+You can see that very often the p value
+ 
+
+461
+00:09:50,959 --> 00:09:53,430
+You can see that very often the p value
+is not very small. Often the p value is
+
+462
+00:09:53,430 --> 00:09:53,440
+is not very small. Often the p value is
+ 
+
+463
+00:09:53,440 --> 00:09:56,230
+is not very small. Often the p value is
+larger than 0.05. of five. This means
+
+464
+00:09:56,230 --> 00:09:56,240
+larger than 0.05. of five. This means
+ 
+
+465
+00:09:56,240 --> 00:09:58,310
+larger than 0.05. of five. This means
+that often the null hypothesis that
+
+466
+00:09:58,310 --> 00:09:58,320
+that often the null hypothesis that
+ 
+
+467
+00:09:58,320 --> 00:09:59,910
+that often the null hypothesis that
+there is no difference between male and
+
+468
+00:09:59,910 --> 00:09:59,920
+there is no difference between male and
+ 
+
+469
+00:09:59,920 --> 00:10:02,230
+there is no difference between male and
+female students. So the null hypothesis
+
+470
+00:10:02,230 --> 00:10:02,240
+female students. So the null hypothesis
+ 
+
+471
+00:10:02,240 --> 00:10:04,150
+female students. So the null hypothesis
+that there is no association between
+
+472
+00:10:04,150 --> 00:10:04,160
+that there is no association between
+ 
+
+473
+00:10:04,160 --> 00:10:08,630
+that there is no association between
+gender and mathematics is not rejected.
+
+474
+00:10:08,630 --> 00:10:08,640
+gender and mathematics is not rejected.
+ 
+
+475
+00:10:08,640 --> 00:10:11,430
+gender and mathematics is not rejected.
+Therefore often an incorrect conclusion
+
+476
+00:10:11,430 --> 00:10:11,440
+Therefore often an incorrect conclusion
+ 
+
+477
+00:10:11,440 --> 00:10:14,550
+Therefore often an incorrect conclusion
+is drawn. Only in two out of the 10
+
+478
+00:10:14,550 --> 00:10:14,560
+is drawn. Only in two out of the 10
+ 
+
+479
+00:10:14,560 --> 00:10:17,350
+is drawn. Only in two out of the 10
+times the correct conclusion was drawn
+
+480
+00:10:17,350 --> 00:10:17,360
+times the correct conclusion was drawn
+ 
+
+481
+00:10:17,360 --> 00:10:19,590
+times the correct conclusion was drawn
+that female students perform better than
+
+482
+00:10:19,590 --> 00:10:19,600
+that female students perform better than
+ 
+
+483
+00:10:19,600 --> 00:10:23,350
+that female students perform better than
+male students.
+
+484
+00:10:23,350 --> 00:10:23,360
+
+ 
+
+485
+00:10:23,360 --> 00:10:25,269
+
+Now look at the standardized mean
+
+486
+00:10:25,269 --> 00:10:25,279
+Now look at the standardized mean
+ 
+
+487
+00:10:25,279 --> 00:10:28,069
+Now look at the standardized mean
+differences. Remember that in reality
+
+488
+00:10:28,069 --> 00:10:28,079
+differences. Remember that in reality
+ 
+
+489
+00:10:28,079 --> 00:10:29,670
+differences. Remember that in reality
+the population standardized mean
+
+490
+00:10:29,670 --> 00:10:29,680
+the population standardized mean
+ 
+
+491
+00:10:29,680 --> 00:10:32,630
+the population standardized mean
+difference is equal to 0.33.
+
+492
+00:10:32,630 --> 00:10:32,640
+difference is equal to 0.33.
+ 
+
+493
+00:10:32,640 --> 00:10:35,190
+difference is equal to 0.33.
+But now we see that our estimates
+
+494
+00:10:35,190 --> 00:10:35,200
+But now we see that our estimates
+ 
+
+495
+00:10:35,200 --> 00:10:37,990
+But now we see that our estimates
+sometimes sometimes are much larger like
+
+496
+00:10:37,990 --> 00:10:38,000
+sometimes sometimes are much larger like
+ 
+
+497
+00:10:38,000 --> 00:10:40,230
+sometimes sometimes are much larger like
+in the first simulated data set. But
+
+498
+00:10:40,230 --> 00:10:40,240
+in the first simulated data set. But
+ 
+
+499
+00:10:40,240 --> 00:10:42,630
+in the first simulated data set. But
+sometimes our estimates are much smaller
+
+500
+00:10:42,630 --> 00:10:42,640
+sometimes our estimates are much smaller
+ 
+
+501
+00:10:42,640 --> 00:10:45,910
+sometimes our estimates are much smaller
+like in the second simulated data set.
+
+502
+00:10:45,910 --> 00:10:45,920
+like in the second simulated data set.
+ 
+
+503
+00:10:45,920 --> 00:10:47,829
+like in the second simulated data set.
+Sometimes the standardized mean
+
+504
+00:10:47,829 --> 00:10:47,839
+Sometimes the standardized mean
+ 
+
+505
+00:10:47,839 --> 00:10:50,069
+Sometimes the standardized mean
+difference is negative. Sometimes it's
+
+506
+00:10:50,069 --> 00:10:50,079
+difference is negative. Sometimes it's
+ 
+
+507
+00:10:50,079 --> 00:10:52,870
+difference is negative. Sometimes it's
+positive. In general, you can see that
+
+508
+00:10:52,870 --> 00:10:52,880
+positive. In general, you can see that
+ 
+
+509
+00:10:52,880 --> 00:10:54,710
+positive. In general, you can see that
+these observed standardized mean
+
+510
+00:10:54,710 --> 00:10:54,720
+these observed standardized mean
+ 
+
+511
+00:10:54,720 --> 00:10:56,870
+these observed standardized mean
+differences are varying around the
+
+512
+00:10:56,870 --> 00:10:56,880
+differences are varying around the
+ 
+
+513
+00:10:56,880 --> 00:11:01,990
+differences are varying around the
+population standardized mean difference.
+
+514
+00:11:01,990 --> 00:11:02,000
+
+ 
+
+515
+00:11:02,000 --> 00:11:04,069
+
+And indeed, it can be shown
+
+516
+00:11:04,069 --> 00:11:04,079
+And indeed, it can be shown
+ 
+
+517
+00:11:04,079 --> 00:11:05,910
+And indeed, it can be shown
+mathematically that the observed
+
+518
+00:11:05,910 --> 00:11:05,920
+mathematically that the observed
+ 
+
+519
+00:11:05,920 --> 00:11:08,150
+mathematically that the observed
+standardized mean difference is normally
+
+520
+00:11:08,150 --> 00:11:08,160
+standardized mean difference is normally
+ 
+
+521
+00:11:08,160 --> 00:11:10,550
+standardized mean difference is normally
+distributed around the population
+
+522
+00:11:10,550 --> 00:11:10,560
+distributed around the population
+ 
+
+523
+00:11:10,560 --> 00:11:12,790
+distributed around the population
+standardized mean difference. In other
+
+524
+00:11:12,790 --> 00:11:12,800
+standardized mean difference. In other
+ 
+
+525
+00:11:12,800 --> 00:11:15,910
+standardized mean difference. In other
+words, if you would draw a very large or
+
+526
+00:11:15,910 --> 00:11:15,920
+words, if you would draw a very large or
+ 
+
+527
+00:11:15,920 --> 00:11:18,949
+words, if you would draw a very large or
+an infinite number of samples and each
+
+528
+00:11:18,949 --> 00:11:18,959
+an infinite number of samples and each
+ 
+
+529
+00:11:18,959 --> 00:11:20,949
+an infinite number of samples and each
+time calculate the observed standardized
+
+530
+00:11:20,949 --> 00:11:20,959
+time calculate the observed standardized
+ 
+
+531
+00:11:20,959 --> 00:11:23,269
+time calculate the observed standardized
+mean difference, at the end you would
+
+532
+00:11:23,269 --> 00:11:23,279
+mean difference, at the end you would
+ 
+
+533
+00:11:23,279 --> 00:11:25,750
+mean difference, at the end you would
+observe a normal distribution of values
+
+534
+00:11:25,750 --> 00:11:25,760
+observe a normal distribution of values
+ 
+
+535
+00:11:25,760 --> 00:11:29,269
+observe a normal distribution of values
+around the true population effect size.
+
+536
+00:11:29,269 --> 00:11:29,279
+around the true population effect size.
+ 
+
+537
+00:11:29,279 --> 00:11:31,670
+around the true population effect size.
+This distribution is called the sampling
+
+538
+00:11:31,670 --> 00:11:31,680
+This distribution is called the sampling
+ 
+
+539
+00:11:31,680 --> 00:11:33,829
+This distribution is called the sampling
+distribution of the standardized mean
+
+540
+00:11:33,829 --> 00:11:33,839
+distribution of the standardized mean
+ 
+
+541
+00:11:33,839 --> 00:11:36,150
+distribution of the standardized mean
+difference.
+
+542
+00:11:36,150 --> 00:11:36,160
+difference.
+ 
+
+543
+00:11:36,160 --> 00:11:38,069
+difference.
+It can also be shown that the variance
+
+544
+00:11:38,069 --> 00:11:38,079
+It can also be shown that the variance
+ 
+
+545
+00:11:38,079 --> 00:11:40,790
+It can also be shown that the variance
+of this sampling distribution called the
+
+546
+00:11:40,790 --> 00:11:40,800
+of this sampling distribution called the
+ 
+
+547
+00:11:40,800 --> 00:11:43,509
+of this sampling distribution called the
+sampling variance is more or less equal
+
+548
+00:11:43,509 --> 00:11:43,519
+sampling variance is more or less equal
+ 
+
+549
+00:11:43,519 --> 00:11:46,069
+sampling variance is more or less equal
+to four divided by the total size of the
+
+550
+00:11:46,069 --> 00:11:46,079
+to four divided by the total size of the
+ 
+
+551
+00:11:46,079 --> 00:11:48,310
+to four divided by the total size of the
+study.
+
+552
+00:11:48,310 --> 00:11:48,320
+study.
+ 
+
+553
+00:11:48,320 --> 00:11:50,230
+study.
+Remember that in our example we
+
+554
+00:11:50,230 --> 00:11:50,240
+Remember that in our example we
+ 
+
+555
+00:11:50,240 --> 00:11:52,870
+Remember that in our example we
+simulated samples of size 20. Therefore
+
+556
+00:11:52,870 --> 00:11:52,880
+simulated samples of size 20. Therefore
+ 
+
+557
+00:11:52,880 --> 00:11:55,670
+simulated samples of size 20. Therefore
+in total the study sample size was equal
+
+558
+00:11:55,670 --> 00:11:55,680
+in total the study sample size was equal
+ 
+
+559
+00:11:55,680 --> 00:11:59,030
+in total the study sample size was equal
+to 40. Therefore the sampling variance
+
+560
+00:11:59,030 --> 00:11:59,040
+to 40. Therefore the sampling variance
+ 
+
+561
+00:11:59,040 --> 00:12:03,430
+to 40. Therefore the sampling variance
+of G is equal to 4 / 40. This is equal
+
+562
+00:12:03,430 --> 00:12:03,440
+of G is equal to 4 / 40. This is equal
+ 
+
+563
+00:12:03,440 --> 00:12:09,269
+of G is equal to 4 / 40. This is equal
+to 0.10. 10.
+
+564
+00:12:09,269 --> 00:12:09,279
+
+ 
+
+565
+00:12:09,279 --> 00:12:11,590
+
+If we know that G follows a normal
+
+566
+00:12:11,590 --> 00:12:11,600
+If we know that G follows a normal
+ 
+
+567
+00:12:11,600 --> 00:12:13,670
+If we know that G follows a normal
+distribution with mean delta and a
+
+568
+00:12:13,670 --> 00:12:13,680
+distribution with mean delta and a
+ 
+
+569
+00:12:13,680 --> 00:12:15,829
+distribution with mean delta and a
+variance that we can calculate, we can
+
+570
+00:12:15,829 --> 00:12:15,839
+variance that we can calculate, we can
+ 
+
+571
+00:12:15,839 --> 00:12:18,629
+variance that we can calculate, we can
+use this to construct confidence
+
+572
+00:12:18,629 --> 00:12:18,639
+use this to construct confidence
+ 
+
+573
+00:12:18,639 --> 00:12:20,710
+use this to construct confidence
+intervals.
+
+574
+00:12:20,710 --> 00:12:20,720
+intervals.
+ 
+
+575
+00:12:20,720 --> 00:12:23,670
+intervals.
+For instance, to calculate a 95%
+
+576
+00:12:23,670 --> 00:12:23,680
+For instance, to calculate a 95%
+ 
+
+577
+00:12:23,680 --> 00:12:25,990
+For instance, to calculate a 95%
+confidence interval, we can subtract and
+
+578
+00:12:25,990 --> 00:12:26,000
+confidence interval, we can subtract and
+ 
+
+579
+00:12:26,000 --> 00:12:28,310
+confidence interval, we can subtract and
+add 1.96*
+
+580
+00:12:28,310 --> 00:12:28,320
+add 1.96*
+ 
+
+581
+00:12:28,320 --> 00:12:30,949
+add 1.96*
+the square root of 0.10
+
+582
+00:12:30,949 --> 00:12:30,959
+the square root of 0.10
+ 
+
+583
+00:12:30,959 --> 00:12:32,790
+the square root of 0.10
+to G.
+
+584
+00:12:32,790 --> 00:12:32,800
+to G.
+ 
+
+585
+00:12:32,800 --> 00:12:36,470
+to G.
+We can now say with 95 com 95%
+
+586
+00:12:36,470 --> 00:12:36,480
+We can now say with 95 com 95%
+ 
+
+587
+00:12:36,480 --> 00:12:38,629
+We can now say with 95 com 95%
+confidence that the population effect
+
+588
+00:12:38,629 --> 00:12:38,639
+confidence that the population effect
+ 
+
+589
+00:12:38,639 --> 00:12:41,590
+confidence that the population effect
+size studied in this study is situated
+
+590
+00:12:41,590 --> 00:12:41,600
+size studied in this study is situated
+ 
+
+591
+00:12:41,600 --> 00:12:47,590
+size studied in this study is situated
+within this interval.
+
+592
+00:12:47,590 --> 00:12:47,600
+
+ 
+
+593
+00:12:47,600 --> 00:12:49,910
+
+I have constructed confidence intervals
+
+594
+00:12:49,910 --> 00:12:49,920
+I have constructed confidence intervals
+ 
+
+595
+00:12:49,920 --> 00:12:53,030
+I have constructed confidence intervals
+for each of the 10 observed effect sizes
+
+596
+00:12:53,030 --> 00:12:53,040
+for each of the 10 observed effect sizes
+ 
+
+597
+00:12:53,040 --> 00:12:56,949
+for each of the 10 observed effect sizes
+from the 10 simulated data sets.
+
+598
+00:12:56,949 --> 00:12:56,959
+from the 10 simulated data sets.
+ 
+
+599
+00:12:56,959 --> 00:12:58,949
+from the 10 simulated data sets.
+Remember
+
+600
+00:12:58,949 --> 00:12:58,959
+Remember
+ 
+
+601
+00:12:58,959 --> 00:13:01,750
+Remember
+that population effect size was equal to
+
+602
+00:13:01,750 --> 00:13:01,760
+that population effect size was equal to
+ 
+
+603
+00:13:01,760 --> 00:13:03,350
+that population effect size was equal to
+0.33.
+
+604
+00:13:03,350 --> 00:13:03,360
+0.33.
+ 
+
+605
+00:13:03,360 --> 00:13:05,670
+0.33.
+You can see in this plot that sometimes
+
+606
+00:13:05,670 --> 00:13:05,680
+You can see in this plot that sometimes
+ 
+
+607
+00:13:05,680 --> 00:13:08,550
+You can see in this plot that sometimes
+the simulated effect size was somewhat
+
+608
+00:13:08,550 --> 00:13:08,560
+the simulated effect size was somewhat
+ 
+
+609
+00:13:08,560 --> 00:13:11,910
+the simulated effect size was somewhat
+too high and sometimes it was somewhat
+
+610
+00:13:11,910 --> 00:13:11,920
+too high and sometimes it was somewhat
+ 
+
+611
+00:13:11,920 --> 00:13:14,949
+too high and sometimes it was somewhat
+too low. But the observed effect sizes
+
+612
+00:13:14,949 --> 00:13:14,959
+too low. But the observed effect sizes
+ 
+
+613
+00:13:14,959 --> 00:13:16,949
+too low. But the observed effect sizes
+clearly vary around the population
+
+614
+00:13:16,949 --> 00:13:16,959
+clearly vary around the population
+ 
+
+615
+00:13:16,959 --> 00:13:19,829
+clearly vary around the population
+effect size of 0.33.
+
+616
+00:13:19,829 --> 00:13:19,839
+effect size of 0.33.
+ 
+
+617
+00:13:19,839 --> 00:13:22,150
+effect size of 0.33.
+Only in the fourth simulated data set,
+
+618
+00:13:22,150 --> 00:13:22,160
+Only in the fourth simulated data set,
+ 
+
+619
+00:13:22,160 --> 00:13:24,389
+Only in the fourth simulated data set,
+the observed effect size was very close
+
+620
+00:13:24,389 --> 00:13:24,399
+the observed effect size was very close
+ 
+
+621
+00:13:24,399 --> 00:13:28,870
+the observed effect size was very close
+to the population effect size.
+
+622
+00:13:28,870 --> 00:13:28,880
+
+ 
+
+623
+00:13:28,880 --> 00:13:32,069
+
+Further note that zero is included in
+
+624
+00:13:32,069 --> 00:13:32,079
+Further note that zero is included in
+ 
+
+625
+00:13:32,079 --> 00:13:34,870
+Further note that zero is included in
+almost all of these confidence intervals
+
+626
+00:13:34,870 --> 00:13:34,880
+almost all of these confidence intervals
+ 
+
+627
+00:13:34,880 --> 00:13:37,509
+almost all of these confidence intervals
+for eight out of the 10 simulated data
+
+628
+00:13:37,509 --> 00:13:37,519
+for eight out of the 10 simulated data
+ 
+
+629
+00:13:37,519 --> 00:13:39,829
+for eight out of the 10 simulated data
+sets. Zero is included in the confidence
+
+630
+00:13:39,829 --> 00:13:39,839
+sets. Zero is included in the confidence
+ 
+
+631
+00:13:39,839 --> 00:13:41,910
+sets. Zero is included in the confidence
+interval, which means that the null
+
+632
+00:13:41,910 --> 00:13:41,920
+interval, which means that the null
+ 
+
+633
+00:13:41,920 --> 00:13:44,150
+interval, which means that the null
+hypothesis that the population effect
+
+634
+00:13:44,150 --> 00:13:44,160
+hypothesis that the population effect
+ 
+
+635
+00:13:44,160 --> 00:13:48,389
+hypothesis that the population effect
+size is equal to zero is not rejected.
+
+636
+00:13:48,389 --> 00:13:48,399
+size is equal to zero is not rejected.
+ 
+
+637
+00:13:48,399 --> 00:13:50,790
+size is equal to zero is not rejected.
+Only in two data sets in the first and
+
+638
+00:13:50,790 --> 00:13:50,800
+Only in two data sets in the first and
+ 
+
+639
+00:13:50,800 --> 00:13:53,750
+Only in two data sets in the first and
+in the sixth data set zero is not
+
+640
+00:13:53,750 --> 00:13:53,760
+in the sixth data set zero is not
+ 
+
+641
+00:13:53,760 --> 00:13:55,990
+in the sixth data set zero is not
+included in the confidence interval.
+
+642
+00:13:55,990 --> 00:13:56,000
+included in the confidence interval.
+ 
+
+643
+00:13:56,000 --> 00:13:58,710
+included in the confidence interval.
+Only in these two cases the significance
+
+644
+00:13:58,710 --> 00:13:58,720
+Only in these two cases the significance
+ 
+
+645
+00:13:58,720 --> 00:14:01,590
+Only in these two cases the significance
+test reveals that the population effect
+
+646
+00:14:01,590 --> 00:14:01,600
+test reveals that the population effect
+ 
+
+647
+00:14:01,600 --> 00:14:04,389
+test reveals that the population effect
+sizes are different from zero. But as
+
+648
+00:14:04,389 --> 00:14:04,399
+sizes are different from zero. But as
+ 
+
+649
+00:14:04,399 --> 00:14:06,949
+sizes are different from zero. But as
+you can see exactly in these two studies
+
+650
+00:14:06,949 --> 00:14:06,959
+you can see exactly in these two studies
+ 
+
+651
+00:14:06,959 --> 00:14:10,310
+you can see exactly in these two studies
+the size of the effects is highly
+
+652
+00:14:10,310 --> 00:14:10,320
+the size of the effects is highly
+ 
+
+653
+00:14:10,320 --> 00:14:15,350
+the size of the effects is highly
+overestimated.
+
+654
+00:14:15,350 --> 00:14:15,360
+
+ 
+
+655
+00:14:15,360 --> 00:14:19,269
+
+Now suppose that these 10 simulated data
+
+656
+00:14:19,269 --> 00:14:19,279
+Now suppose that these 10 simulated data
+ 
+
+657
+00:14:19,279 --> 00:14:22,629
+Now suppose that these 10 simulated data
+sets came from 10 real studies. You can
+
+658
+00:14:22,629 --> 00:14:22,639
+sets came from 10 real studies. You can
+ 
+
+659
+00:14:22,639 --> 00:14:25,189
+sets came from 10 real studies. You can
+see the issue of failures to replicate.
+
+660
+00:14:25,189 --> 00:14:25,199
+see the issue of failures to replicate.
+ 
+
+661
+00:14:25,199 --> 00:14:28,069
+see the issue of failures to replicate.
+By coincidence, studies can come to very
+
+662
+00:14:28,069 --> 00:14:28,079
+By coincidence, studies can come to very
+ 
+
+663
+00:14:28,079 --> 00:14:30,230
+By coincidence, studies can come to very
+different estimates and even different
+
+664
+00:14:30,230 --> 00:14:30,240
+different estimates and even different
+ 
+
+665
+00:14:30,240 --> 00:14:32,230
+different estimates and even different
+conclusions.
+
+666
+00:14:32,230 --> 00:14:32,240
+conclusions.
+ 
+
+667
+00:14:32,240 --> 00:14:35,189
+conclusions.
+So what can we conclude about the
+
+668
+00:14:35,189 --> 00:14:35,199
+So what can we conclude about the
+ 
+
+669
+00:14:35,199 --> 00:14:38,069
+So what can we conclude about the
+population effect size? Well, we have
+
+670
+00:14:38,069 --> 00:14:38,079
+population effect size? Well, we have
+ 
+
+671
+00:14:38,079 --> 00:14:40,550
+population effect size? Well, we have
+seen that the observed effect sizes vary
+
+672
+00:14:40,550 --> 00:14:40,560
+seen that the observed effect sizes vary
+ 
+
+673
+00:14:40,560 --> 00:14:42,710
+seen that the observed effect sizes vary
+around the population effect size. So
+
+674
+00:14:42,710 --> 00:14:42,720
+around the population effect size. So
+ 
+
+675
+00:14:42,720 --> 00:14:44,949
+around the population effect size. So
+sometimes of observed effect sizes will
+
+676
+00:14:44,949 --> 00:14:44,959
+sometimes of observed effect sizes will
+ 
+
+677
+00:14:44,959 --> 00:14:47,430
+sometimes of observed effect sizes will
+be too large, sometimes they will be too
+
+678
+00:14:47,430 --> 00:14:47,440
+be too large, sometimes they will be too
+ 
+
+679
+00:14:47,440 --> 00:14:48,949
+be too large, sometimes they will be too
+small.
+
+680
+00:14:48,949 --> 00:14:48,959
+small.
+ 
+
+681
+00:14:48,959 --> 00:14:50,949
+small.
+Therefore, if you want to say something
+
+682
+00:14:50,949 --> 00:14:50,959
+Therefore, if you want to say something
+ 
+
+683
+00:14:50,959 --> 00:14:53,269
+Therefore, if you want to say something
+about the population effect size, we can
+
+684
+00:14:53,269 --> 00:14:53,279
+about the population effect size, we can
+ 
+
+685
+00:14:53,279 --> 00:14:55,350
+about the population effect size, we can
+calculate an average of all these
+
+686
+00:14:55,350 --> 00:14:55,360
+calculate an average of all these
+ 
+
+687
+00:14:55,360 --> 00:14:57,829
+calculate an average of all these
+observed effect sizes to get a more
+
+688
+00:14:57,829 --> 00:14:57,839
+observed effect sizes to get a more
+ 
+
+689
+00:14:57,839 --> 00:14:59,750
+observed effect sizes to get a more
+precise estimate of the population
+
+690
+00:14:59,750 --> 00:14:59,760
+precise estimate of the population
+ 
+
+691
+00:14:59,760 --> 00:15:03,590
+precise estimate of the population
+effect size.
+
+692
+00:15:03,590 --> 00:15:03,600
+
+ 
+
+693
+00:15:03,600 --> 00:15:06,389
+
+In other words, we sum all the effect
+
+694
+00:15:06,389 --> 00:15:06,399
+In other words, we sum all the effect
+ 
+
+695
+00:15:06,399 --> 00:15:08,790
+In other words, we sum all the effect
+sizes and divide this sum by the number
+
+696
+00:15:08,790 --> 00:15:08,800
+sizes and divide this sum by the number
+ 
+
+697
+00:15:08,800 --> 00:15:10,870
+sizes and divide this sum by the number
+of studies, which in metanalytic
+
+698
+00:15:10,870 --> 00:15:10,880
+of studies, which in metanalytic
+ 
+
+699
+00:15:10,880 --> 00:15:13,110
+of studies, which in metanalytic
+literature is very often referred to
+
+700
+00:15:13,110 --> 00:15:13,120
+literature is very often referred to
+ 
+
+701
+00:15:13,120 --> 00:15:16,470
+literature is very often referred to
+with a symbol K. We can now use this
+
+702
+00:15:16,470 --> 00:15:16,480
+with a symbol K. We can now use this
+ 
+
+703
+00:15:16,480 --> 00:15:18,629
+with a symbol K. We can now use this
+mean as an estimate of the population
+
+704
+00:15:18,629 --> 00:15:18,639
+mean as an estimate of the population
+ 
+
+705
+00:15:18,639 --> 00:15:21,509
+mean as an estimate of the population
+effect size. In our example, the mean
+
+706
+00:15:21,509 --> 00:15:21,519
+effect size. In our example, the mean
+ 
+
+707
+00:15:21,519 --> 00:15:25,030
+effect size. In our example, the mean
+effect size is equal to 0.25,
+
+708
+00:15:25,030 --> 00:15:25,040
+effect size is equal to 0.25,
+ 
+
+709
+00:15:25,040 --> 00:15:28,710
+effect size is equal to 0.25,
+which is not too far from the real um
+
+710
+00:15:28,710 --> 00:15:28,720
+which is not too far from the real um
+ 
+
+711
+00:15:28,720 --> 00:15:31,350
+which is not too far from the real um
+value of 0.33.
+
+712
+00:15:31,350 --> 00:15:31,360
+value of 0.33.
+ 
+
+713
+00:15:31,360 --> 00:15:33,990
+value of 0.33.
+If you would have the data from 10 other
+
+714
+00:15:33,990 --> 00:15:34,000
+If you would have the data from 10 other
+ 
+
+715
+00:15:34,000 --> 00:15:36,629
+If you would have the data from 10 other
+studies, probably we would get a
+
+716
+00:15:36,629 --> 00:15:36,639
+studies, probably we would get a
+ 
+
+717
+00:15:36,639 --> 00:15:39,350
+studies, probably we would get a
+different mean effect size. Again, it
+
+718
+00:15:39,350 --> 00:15:39,360
+different mean effect size. Again, it
+ 
+
+719
+00:15:39,360 --> 00:15:41,910
+different mean effect size. Again, it
+can be shown that the mean effect size
+
+720
+00:15:41,910 --> 00:15:41,920
+can be shown that the mean effect size
+ 
+
+721
+00:15:41,920 --> 00:15:43,910
+can be shown that the mean effect size
+fluctuates around the population effect
+
+722
+00:15:43,910 --> 00:15:43,920
+fluctuates around the population effect
+ 
+
+723
+00:15:43,920 --> 00:15:46,310
+fluctuates around the population effect
+size. So sometimes our mean will be
+
+724
+00:15:46,310 --> 00:15:46,320
+size. So sometimes our mean will be
+ 
+
+725
+00:15:46,320 --> 00:15:48,470
+size. So sometimes our mean will be
+smaller, sometimes it will be larger
+
+726
+00:15:48,470 --> 00:15:48,480
+smaller, sometimes it will be larger
+ 
+
+727
+00:15:48,480 --> 00:15:51,269
+smaller, sometimes it will be larger
+than the population effect size. This
+
+728
+00:15:51,269 --> 00:15:51,279
+than the population effect size. This
+ 
+
+729
+00:15:51,279 --> 00:15:53,670
+than the population effect size. This
+sampling distribution is again a normal
+
+730
+00:15:53,670 --> 00:15:53,680
+sampling distribution is again a normal
+ 
+
+731
+00:15:53,680 --> 00:15:55,990
+sampling distribution is again a normal
+distribution around the population
+
+732
+00:15:55,990 --> 00:15:56,000
+distribution around the population
+ 
+
+733
+00:15:56,000 --> 00:15:58,150
+distribution around the population
+effect size.
+
+734
+00:15:58,150 --> 00:15:58,160
+effect size.
+ 
+
+735
+00:15:58,160 --> 00:16:00,470
+effect size.
+But importantly, the sampling variance
+
+736
+00:16:00,470 --> 00:16:00,480
+But importantly, the sampling variance
+ 
+
+737
+00:16:00,480 --> 00:16:03,910
+But importantly, the sampling variance
+now is k times smaller. The sampling
+
+738
+00:16:03,910 --> 00:16:03,920
+now is k times smaller. The sampling
+ 
+
+739
+00:16:03,920 --> 00:16:05,910
+now is k times smaller. The sampling
+variance now is not sigma squared
+
+740
+00:16:05,910 --> 00:16:05,920
+variance now is not sigma squared
+ 
+
+741
+00:16:05,920 --> 00:16:08,470
+variance now is not sigma squared
+anymore, but it's sigma squar divided by
+
+742
+00:16:08,470 --> 00:16:08,480
+anymore, but it's sigma squar divided by
+ 
+
+743
+00:16:08,480 --> 00:16:11,670
+anymore, but it's sigma squar divided by
+k. In our example, we had 10 effect
+
+744
+00:16:11,670 --> 00:16:11,680
+k. In our example, we had 10 effect
+ 
+
+745
+00:16:11,680 --> 00:16:14,790
+k. In our example, we had 10 effect
+sizes. And for each of the effect sizes,
+
+746
+00:16:14,790 --> 00:16:14,800
+sizes. And for each of the effect sizes,
+ 
+
+747
+00:16:14,800 --> 00:16:18,230
+sizes. And for each of the effect sizes,
+the sampling variance was equal to 0.10.
+
+748
+00:16:18,230 --> 00:16:18,240
+the sampling variance was equal to 0.10.
+ 
+
+749
+00:16:18,240 --> 00:16:20,150
+the sampling variance was equal to 0.10.
+The sampling variance of the mean effect
+
+750
+00:16:20,150 --> 00:16:20,160
+The sampling variance of the mean effect
+ 
+
+751
+00:16:20,160 --> 00:16:23,030
+The sampling variance of the mean effect
+size now is not 0.10 anymore. It's
+
+752
+00:16:23,030 --> 00:16:23,040
+size now is not 0.10 anymore. It's
+ 
+
+753
+00:16:23,040 --> 00:16:27,189
+size now is not 0.10 anymore. It's
+0.010.
+
+754
+00:16:27,189 --> 00:16:27,199
+
+ 
+
+755
+00:16:27,199 --> 00:16:30,310
+
+In some if we use a mean effect size
+
+756
+00:16:30,310 --> 00:16:30,320
+In some if we use a mean effect size
+ 
+
+757
+00:16:30,320 --> 00:16:32,710
+In some if we use a mean effect size
+rather than an individual effect size,
+
+758
+00:16:32,710 --> 00:16:32,720
+rather than an individual effect size,
+ 
+
+759
+00:16:32,720 --> 00:16:35,670
+rather than an individual effect size,
+our estimate becomes more precise. In
+
+760
+00:16:35,670 --> 00:16:35,680
+our estimate becomes more precise. In
+ 
+
+761
+00:16:35,680 --> 00:16:38,150
+our estimate becomes more precise. In
+other words, the estimate is more likely
+
+762
+00:16:38,150 --> 00:16:38,160
+other words, the estimate is more likely
+ 
+
+763
+00:16:38,160 --> 00:16:46,470
+other words, the estimate is more likely
+to be close to the population value.
+
+764
+00:16:46,470 --> 00:16:46,480
+
+ 
+
+765
+00:16:46,480 --> 00:16:49,269
+
+I calculated confidence interval for the
+
+766
+00:16:49,269 --> 00:16:49,279
+I calculated confidence interval for the
+ 
+
+767
+00:16:49,279 --> 00:16:54,150
+I calculated confidence interval for the
+mean of the 10 simulated effect sizes
+
+768
+00:16:54,150 --> 00:16:54,160
+mean of the 10 simulated effect sizes
+ 
+
+769
+00:16:54,160 --> 00:16:56,069
+mean of the 10 simulated effect sizes
+given in red in the graph. You can
+
+770
+00:16:56,069 --> 00:16:56,079
+given in red in the graph. You can
+ 
+
+771
+00:16:56,079 --> 00:16:59,269
+given in red in the graph. You can
+observe several things. First, you can
+
+772
+00:16:59,269 --> 00:16:59,279
+observe several things. First, you can
+ 
+
+773
+00:16:59,279 --> 00:17:01,430
+observe several things. First, you can
+see that the individual observed effect
+
+774
+00:17:01,430 --> 00:17:01,440
+see that the individual observed effect
+ 
+
+775
+00:17:01,440 --> 00:17:03,829
+see that the individual observed effect
+sizes vary a lot around the population
+
+776
+00:17:03,829 --> 00:17:03,839
+sizes vary a lot around the population
+ 
+
+777
+00:17:03,839 --> 00:17:06,710
+sizes vary a lot around the population
+effect size, but the mean is relatively
+
+778
+00:17:06,710 --> 00:17:06,720
+effect size, but the mean is relatively
+ 
+
+779
+00:17:06,720 --> 00:17:09,829
+effect size, but the mean is relatively
+close to the population effect size. A
+
+780
+00:17:09,829 --> 00:17:09,839
+close to the population effect size. A
+ 
+
+781
+00:17:09,839 --> 00:17:11,510
+close to the population effect size. A
+second observation is that the
+
+782
+00:17:11,510 --> 00:17:11,520
+second observation is that the
+ 
+
+783
+00:17:11,520 --> 00:17:14,549
+second observation is that the
+confidence interval now is smaller than
+
+784
+00:17:14,549 --> 00:17:14,559
+confidence interval now is smaller than
+ 
+
+785
+00:17:14,559 --> 00:17:16,949
+confidence interval now is smaller than
+for the individual studies.
+
+786
+00:17:16,949 --> 00:17:16,959
+for the individual studies.
+ 
+
+787
+00:17:16,959 --> 00:17:19,510
+for the individual studies.
+For the individual studies, we had large
+
+788
+00:17:19,510 --> 00:17:19,520
+For the individual studies, we had large
+ 
+
+789
+00:17:19,520 --> 00:17:22,390
+For the individual studies, we had large
+confidence intervals which also had
+
+790
+00:17:22,390 --> 00:17:22,400
+confidence intervals which also had
+ 
+
+791
+00:17:22,400 --> 00:17:24,789
+confidence intervals which also had
+resulted in the fact that only in two
+
+792
+00:17:24,789 --> 00:17:24,799
+resulted in the fact that only in two
+ 
+
+793
+00:17:24,799 --> 00:17:27,110
+resulted in the fact that only in two
+out of the 10 studies we simulated a
+
+794
+00:17:27,110 --> 00:17:27,120
+out of the 10 studies we simulated a
+ 
+
+795
+00:17:27,120 --> 00:17:29,590
+out of the 10 studies we simulated a
+zero was not included in the confidence
+
+796
+00:17:29,590 --> 00:17:29,600
+zero was not included in the confidence
+ 
+
+797
+00:17:29,600 --> 00:17:32,549
+zero was not included in the confidence
+interval. Therefore, only in two out of
+
+798
+00:17:32,549 --> 00:17:32,559
+interval. Therefore, only in two out of
+ 
+
+799
+00:17:32,559 --> 00:17:34,150
+interval. Therefore, only in two out of
+the 10 studies, the conclusion was
+
+800
+00:17:34,150 --> 00:17:34,160
+the 10 studies, the conclusion was
+ 
+
+801
+00:17:34,160 --> 00:17:36,549
+the 10 studies, the conclusion was
+correct. More specifically, that female
+
+802
+00:17:36,549 --> 00:17:36,559
+correct. More specifically, that female
+ 
+
+803
+00:17:36,559 --> 00:17:38,070
+correct. More specifically, that female
+students perform better than male
+
+804
+00:17:38,070 --> 00:17:38,080
+students perform better than male
+ 
+
+805
+00:17:38,080 --> 00:17:40,950
+students perform better than male
+students. This illustrates that in the
+
+806
+00:17:40,950 --> 00:17:40,960
+students. This illustrates that in the
+ 
+
+807
+00:17:40,960 --> 00:17:43,190
+students. This illustrates that in the
+individual studies, the statistical
+
+808
+00:17:43,190 --> 00:17:43,200
+individual studies, the statistical
+ 
+
+809
+00:17:43,200 --> 00:17:45,830
+individual studies, the statistical
+power is relatively small. But if you
+
+810
+00:17:45,830 --> 00:17:45,840
+power is relatively small. But if you
+ 
+
+811
+00:17:45,840 --> 00:17:47,750
+power is relatively small. But if you
+combine the results of several studies,
+
+812
+00:17:47,750 --> 00:17:47,760
+combine the results of several studies,
+ 
+
+813
+00:17:47,760 --> 00:17:50,310
+combine the results of several studies,
+you can see that the confidence interval
+
+814
+00:17:50,310 --> 00:17:50,320
+you can see that the confidence interval
+ 
+
+815
+00:17:50,320 --> 00:17:53,990
+you can see that the confidence interval
+becomes much smaller and now zero is not
+
+816
+00:17:53,990 --> 00:17:54,000
+becomes much smaller and now zero is not
+ 
+
+817
+00:17:54,000 --> 00:17:55,830
+becomes much smaller and now zero is not
+included in the confidence interval
+
+818
+00:17:55,830 --> 00:17:55,840
+included in the confidence interval
+ 
+
+819
+00:17:55,840 --> 00:17:58,789
+included in the confidence interval
+anymore. So based on the combination of
+
+820
+00:17:58,789 --> 00:17:58,799
+anymore. So based on the combination of
+ 
+
+821
+00:17:58,799 --> 00:18:01,110
+anymore. So based on the combination of
+the data from the 10 data sets, we
+
+822
+00:18:01,110 --> 00:18:01,120
+the data from the 10 data sets, we
+ 
+
+823
+00:18:01,120 --> 00:18:02,870
+the data from the 10 data sets, we
+conclude that there is a difference
+
+824
+00:18:02,870 --> 00:18:02,880
+conclude that there is a difference
+ 
+
+825
+00:18:02,880 --> 00:18:04,870
+conclude that there is a difference
+between male and female students. So
+
+826
+00:18:04,870 --> 00:18:04,880
+between male and female students. So
+ 
+
+827
+00:18:04,880 --> 00:18:06,950
+between male and female students. So
+that female students perform better than
+
+828
+00:18:06,950 --> 00:18:06,960
+that female students perform better than
+ 
+
+829
+00:18:06,960 --> 00:18:09,110
+that female students perform better than
+male students.
+
+830
+00:18:09,110 --> 00:18:09,120
+male students.
+ 
+
+831
+00:18:09,120 --> 00:18:11,430
+male students.
+Based on the combination of the data, we
+
+832
+00:18:11,430 --> 00:18:11,440
+Based on the combination of the data, we
+ 
+
+833
+00:18:11,440 --> 00:18:13,590
+Based on the combination of the data, we
+draw the correct conclusion. there is an
+
+834
+00:18:13,590 --> 00:18:13,600
+draw the correct conclusion. there is an
+ 
+
+835
+00:18:13,600 --> 00:18:17,029
+draw the correct conclusion. there is an
+association between gender and met.
+
+836
+00:18:17,029 --> 00:18:17,039
+association between gender and met.
+ 
+
+837
+00:18:17,039 --> 00:18:19,350
+association between gender and met.
+This illustrates that the statistical
+
+838
+00:18:19,350 --> 00:18:19,360
+This illustrates that the statistical
+ 
+
+839
+00:18:19,360 --> 00:18:21,909
+This illustrates that the statistical
+power or the probability that we will
+
+840
+00:18:21,909 --> 00:18:21,919
+power or the probability that we will
+ 
+
+841
+00:18:21,919 --> 00:18:24,870
+power or the probability that we will
+reject a null hypothesis increases by
+
+842
+00:18:24,870 --> 00:18:24,880
+reject a null hypothesis increases by
+ 
+
+843
+00:18:24,880 --> 00:18:31,190
+reject a null hypothesis increases by
+combining the data of several studies.
+
+844
+00:18:31,190 --> 00:18:31,200
+
+ 
+
+845
+00:18:31,200 --> 00:18:34,549
+
+To summarize, observed effect sizes in
+
+846
+00:18:34,549 --> 00:18:34,559
+To summarize, observed effect sizes in
+ 
+
+847
+00:18:34,559 --> 00:18:37,830
+To summarize, observed effect sizes in
+individual studies may vary a lot,
+
+848
+00:18:37,830 --> 00:18:37,840
+individual studies may vary a lot,
+ 
+
+849
+00:18:37,840 --> 00:18:39,990
+individual studies may vary a lot,
+whereas the combined effect size is
+
+850
+00:18:39,990 --> 00:18:40,000
+whereas the combined effect size is
+ 
+
+851
+00:18:40,000 --> 00:18:41,750
+whereas the combined effect size is
+often close to the population effect
+
+852
+00:18:41,750 --> 00:18:41,760
+often close to the population effect
+ 
+
+853
+00:18:41,760 --> 00:18:42,870
+often close to the population effect
+size.
+
+854
+00:18:42,870 --> 00:18:42,880
+size.
+ 
+
+855
+00:18:42,880 --> 00:18:45,750
+size.
+we are indeed averaging out the noise.
+
+856
+00:18:45,750 --> 00:18:45,760
+we are indeed averaging out the noise.
+ 
+
+857
+00:18:45,760 --> 00:18:48,070
+we are indeed averaging out the noise.
+Negative and positive deviations are
+
+858
+00:18:48,070 --> 00:18:48,080
+Negative and positive deviations are
+ 
+
+859
+00:18:48,080 --> 00:18:50,710
+Negative and positive deviations are
+canceled out.
+
+860
+00:18:50,710 --> 00:18:50,720
+canceled out.
+ 
+
+861
+00:18:50,720 --> 00:18:52,789
+canceled out.
+A second observation is that for the
+
+862
+00:18:52,789 --> 00:18:52,799
+A second observation is that for the
+ 
+
+863
+00:18:52,799 --> 00:18:55,110
+A second observation is that for the
+individual studies, confidence intervals
+
+864
+00:18:55,110 --> 00:18:55,120
+individual studies, confidence intervals
+ 
+
+865
+00:18:55,120 --> 00:18:58,150
+individual studies, confidence intervals
+were relatively uh large.
+
+866
+00:18:58,150 --> 00:18:58,160
+were relatively uh large.
+ 
+
+867
+00:18:58,160 --> 00:19:00,950
+were relatively uh large.
+Whereas for our combined
+
+868
+00:19:00,950 --> 00:19:00,960
+Whereas for our combined
+ 
+
+869
+00:19:00,960 --> 00:19:02,710
+Whereas for our combined
+confidence interval, the confidence
+
+870
+00:19:02,710 --> 00:19:02,720
+confidence interval, the confidence
+ 
+
+871
+00:19:02,720 --> 00:19:05,190
+confidence interval, the confidence
+interval was relatively small,
+
+872
+00:19:05,190 --> 00:19:05,200
+interval was relatively small,
+ 
+
+873
+00:19:05,200 --> 00:19:07,110
+interval was relatively small,
+illustrating that the accuracy or the
+
+874
+00:19:07,110 --> 00:19:07,120
+illustrating that the accuracy or the
+ 
+
+875
+00:19:07,120 --> 00:19:09,750
+illustrating that the accuracy or the
+precision is higher. we can better
+
+876
+00:19:09,750 --> 00:19:09,760
+precision is higher. we can better
+ 
+
+877
+00:19:09,760 --> 00:19:12,150
+precision is higher. we can better
+estimate what the population effect size
+
+878
+00:19:12,150 --> 00:19:12,160
+estimate what the population effect size
+ 
+
+879
+00:19:12,160 --> 00:19:14,310
+estimate what the population effect size
+is.
+
+880
+00:19:14,310 --> 00:19:14,320
+is.
+ 
+
+881
+00:19:14,320 --> 00:19:17,430
+is.
+Third, zero was often included in the
+
+882
+00:19:17,430 --> 00:19:17,440
+Third, zero was often included in the
+ 
+
+883
+00:19:17,440 --> 00:19:19,350
+Third, zero was often included in the
+confidence intervals for the individual
+
+884
+00:19:19,350 --> 00:19:19,360
+confidence intervals for the individual
+ 
+
+885
+00:19:19,360 --> 00:19:21,110
+confidence intervals for the individual
+studies.
+
+886
+00:19:21,110 --> 00:19:21,120
+studies.
+ 
+
+887
+00:19:21,120 --> 00:19:24,390
+studies.
+Whereas, if we combine the results, zero
+
+888
+00:19:24,390 --> 00:19:24,400
+Whereas, if we combine the results, zero
+ 
+
+889
+00:19:24,400 --> 00:19:25,990
+Whereas, if we combine the results, zero
+was not included in the confidence
+
+890
+00:19:25,990 --> 00:19:26,000
+was not included in the confidence
+ 
+
+891
+00:19:26,000 --> 00:19:29,110
+was not included in the confidence
+interval, illustrating that by combining
+
+892
+00:19:29,110 --> 00:19:29,120
+interval, illustrating that by combining
+ 
+
+893
+00:19:29,120 --> 00:19:31,430
+interval, illustrating that by combining
+the results of several studies, we can
+
+894
+00:19:31,430 --> 00:19:31,440
+the results of several studies, we can
+ 
+
+895
+00:19:31,440 --> 00:19:36,630
+the results of several studies, we can
+increase the statistical power.
+
+896
+00:19:36,630 --> 00:19:36,640
+
+ 
+
+897
+00:19:36,640 --> 00:19:38,789
+
+If you want to try out out this
+
+898
+00:19:38,789 --> 00:19:38,799
+If you want to try out out this
+ 
+
+899
+00:19:38,799 --> 00:19:40,950
+If you want to try out out this
+simulation yourself, you can make use of
+
+900
+00:19:40,950 --> 00:19:40,960
+simulation yourself, you can make use of
+ 
+
+901
+00:19:40,960 --> 00:19:43,669
+simulation yourself, you can make use of
+the Excel file simulation MA which you
+
+902
+00:19:43,669 --> 00:19:43,679
+the Excel file simulation MA which you
+ 
+
+903
+00:19:43,679 --> 00:19:46,630
+the Excel file simulation MA which you
+can find on to. This file contains
+
+904
+00:19:46,630 --> 00:19:46,640
+can find on to. This file contains
+ 
+
+905
+00:19:46,640 --> 00:19:49,669
+can find on to. This file contains
+several sheets. The first sheet called
+
+906
+00:19:49,669 --> 00:19:49,679
+several sheets. The first sheet called
+ 
+
+907
+00:19:49,679 --> 00:19:52,549
+several sheets. The first sheet called
+raw data includes a data of 10 studies.
+
+908
+00:19:52,549 --> 00:19:52,559
+raw data includes a data of 10 studies.
+ 
+
+909
+00:19:52,559 --> 00:19:54,950
+raw data includes a data of 10 studies.
+Data that are randomly drawn from normal
+
+910
+00:19:54,950 --> 00:19:54,960
+Data that are randomly drawn from normal
+ 
+
+911
+00:19:54,960 --> 00:19:57,990
+Data that are randomly drawn from normal
+distributions. For each study, random
+
+912
+00:19:57,990 --> 00:19:58,000
+distributions. For each study, random
+ 
+
+913
+00:19:58,000 --> 00:20:00,710
+distributions. For each study, random
+samples of 20 scores are drawn from two
+
+914
+00:20:00,710 --> 00:20:00,720
+samples of 20 scores are drawn from two
+ 
+
+915
+00:20:00,720 --> 00:20:02,789
+samples of 20 scores are drawn from two
+normal distributions.
+
+916
+00:20:02,789 --> 00:20:02,799
+normal distributions.
+ 
+
+917
+00:20:02,799 --> 00:20:05,830
+normal distributions.
+If you click on the function key F9, all
+
+918
+00:20:05,830 --> 00:20:05,840
+If you click on the function key F9, all
+ 
+
+919
+00:20:05,840 --> 00:20:07,830
+If you click on the function key F9, all
+these values are replaced by new
+
+920
+00:20:07,830 --> 00:20:07,840
+these values are replaced by new
+ 
+
+921
+00:20:07,840 --> 00:20:10,070
+these values are replaced by new
+randomly drawn values from these normal
+
+922
+00:20:10,070 --> 00:20:10,080
+randomly drawn values from these normal
+ 
+
+923
+00:20:10,080 --> 00:20:12,230
+randomly drawn values from these normal
+distributions.
+
+924
+00:20:12,230 --> 00:20:12,240
+distributions.
+ 
+
+925
+00:20:12,240 --> 00:20:15,270
+distributions.
+The second sheet called study one, you
+
+926
+00:20:15,270 --> 00:20:15,280
+The second sheet called study one, you
+ 
+
+927
+00:20:15,280 --> 00:20:17,909
+The second sheet called study one, you
+can see the means, standard deviations,
+
+928
+00:20:17,909 --> 00:20:17,919
+can see the means, standard deviations,
+ 
+
+929
+00:20:17,919 --> 00:20:20,630
+can see the means, standard deviations,
+sample sizes, the observed standardized
+
+930
+00:20:20,630 --> 00:20:20,640
+sample sizes, the observed standardized
+ 
+
+931
+00:20:20,640 --> 00:20:22,870
+sample sizes, the observed standardized
+mean difference, the t and the p value
+
+932
+00:20:22,870 --> 00:20:22,880
+mean difference, the t and the p value
+ 
+
+933
+00:20:22,880 --> 00:20:25,750
+mean difference, the t and the p value
+for the first study. The values are
+
+934
+00:20:25,750 --> 00:20:25,760
+for the first study. The values are
+ 
+
+935
+00:20:25,760 --> 00:20:27,830
+for the first study. The values are
+calculated based on the data from the
+
+936
+00:20:27,830 --> 00:20:27,840
+calculated based on the data from the
+ 
+
+937
+00:20:27,840 --> 00:20:30,630
+calculated based on the data from the
+first study from the previous sheet.
+
+938
+00:20:30,630 --> 00:20:30,640
+first study from the previous sheet.
+ 
+
+939
+00:20:30,640 --> 00:20:33,909
+first study from the previous sheet.
+Again, if you click on F9, new random
+
+940
+00:20:33,909 --> 00:20:33,919
+Again, if you click on F9, new random
+ 
+
+941
+00:20:33,919 --> 00:20:35,750
+Again, if you click on F9, new random
+data will be sampled and these values
+
+942
+00:20:35,750 --> 00:20:35,760
+data will be sampled and these values
+ 
+
+943
+00:20:35,760 --> 00:20:39,190
+data will be sampled and these values
+will change. In the third sheet called K
+
+944
+00:20:39,190 --> 00:20:39,200
+will change. In the third sheet called K
+ 
+
+945
+00:20:39,200 --> 00:20:41,510
+will change. In the third sheet called K
+studies, you get an overview of all the
+
+946
+00:20:41,510 --> 00:20:41,520
+studies, you get an overview of all the
+ 
+
+947
+00:20:41,520 --> 00:20:43,909
+studies, you get an overview of all the
+means, standard deviations, sample
+
+948
+00:20:43,909 --> 00:20:43,919
+means, standard deviations, sample
+ 
+
+949
+00:20:43,919 --> 00:20:46,310
+means, standard deviations, sample
+sizes, standardized mean differences,
+
+950
+00:20:46,310 --> 00:20:46,320
+sizes, standardized mean differences,
+ 
+
+951
+00:20:46,320 --> 00:20:50,070
+sizes, standardized mean differences,
+TMP values for all 10 studies. And in
+
+952
+00:20:50,070 --> 00:20:50,080
+TMP values for all 10 studies. And in
+ 
+
+953
+00:20:50,080 --> 00:20:53,110
+TMP values for all 10 studies. And in
+the final sheet called meta analysis,
+
+954
+00:20:53,110 --> 00:20:53,120
+the final sheet called meta analysis,
+ 
+
+955
+00:20:53,120 --> 00:20:55,029
+the final sheet called meta analysis,
+you can see the calculation of the mean
+
+956
+00:20:55,029 --> 00:20:55,039
+you can see the calculation of the mean
+ 
+
+957
+00:20:55,039 --> 00:20:57,990
+you can see the calculation of the mean
+effect size. You can also see a plot
+
+958
+00:20:57,990 --> 00:20:58,000
+effect size. You can also see a plot
+ 
+
+959
+00:20:58,000 --> 00:21:00,390
+effect size. You can also see a plot
+with a confidence interval for the
+
+960
+00:21:00,390 --> 00:21:00,400
+with a confidence interval for the
+ 
+
+961
+00:21:00,400 --> 00:21:02,390
+with a confidence interval for the
+individual studies as well as for the
+
+962
+00:21:02,390 --> 00:21:02,400
+individual studies as well as for the
+ 
+
+963
+00:21:02,400 --> 00:21:06,230
+individual studies as well as for the
+mean effect size. I suggest you to click
+
+964
+00:21:06,230 --> 00:21:06,240
+mean effect size. I suggest you to click
+ 
+
+965
+00:21:06,240 --> 00:21:09,430
+mean effect size. I suggest you to click
+a few times on F9. Each time data for a
+
+966
+00:21:09,430 --> 00:21:09,440
+a few times on F9. Each time data for a
+ 
+
+967
+00:21:09,440 --> 00:21:11,669
+a few times on F9. Each time data for a
+new data for a new set of 10 studies
+
+968
+00:21:11,669 --> 00:21:11,679
+new data for a new set of 10 studies
+ 
+
+969
+00:21:11,679 --> 00:21:13,830
+new data for a new set of 10 studies
+will be simulated and all means,
+
+970
+00:21:13,830 --> 00:21:13,840
+will be simulated and all means,
+ 
+
+971
+00:21:13,840 --> 00:21:15,750
+will be simulated and all means,
+standard deviations and so on will be
+
+972
+00:21:15,750 --> 00:21:15,760
+standard deviations and so on will be
+ 
+
+973
+00:21:15,760 --> 00:21:18,630
+standard deviations and so on will be
+adapted. In that way you will see that
+
+974
+00:21:18,630 --> 00:21:18,640
+adapted. In that way you will see that
+ 
+
+975
+00:21:18,640 --> 00:21:20,710
+adapted. In that way you will see that
+the observed effect sizes will indeed
+
+976
+00:21:20,710 --> 00:21:20,720
+the observed effect sizes will indeed
+ 
+
+977
+00:21:20,720 --> 00:21:23,110
+the observed effect sizes will indeed
+vary a lot around the population effect
+
+978
+00:21:23,110 --> 00:21:23,120
+vary a lot around the population effect
+ 
+
+979
+00:21:23,120 --> 00:21:25,590
+vary a lot around the population effect
+size. But we'll also see that the mean
+
+980
+00:21:25,590 --> 00:21:25,600
+size. But we'll also see that the mean
+ 
+
+981
+00:21:25,600 --> 00:21:28,470
+size. But we'll also see that the mean
+of the observed effect sizes will in
+
+982
+00:21:28,470 --> 00:21:28,480
+of the observed effect sizes will in
+ 
+
+983
+00:21:28,480 --> 00:21:30,549
+of the observed effect sizes will in
+general be very close to the population
+
+984
+00:21:30,549 --> 00:21:30,559
+general be very close to the population
+ 
+
+985
+00:21:30,559 --> 00:21:32,789
+general be very close to the population
+effect size which illustrates the
+
+986
+00:21:32,789 --> 00:21:32,799
+effect size which illustrates the
+ 
+
+987
+00:21:32,799 --> 00:21:35,029
+effect size which illustrates the
+increase of precision.
+
+988
+00:21:35,029 --> 00:21:35,039
+increase of precision.
+ 
+
+989
+00:21:35,039 --> 00:21:38,310
+increase of precision.
+You can also see that very often zero
+
+990
+00:21:38,310 --> 00:21:38,320
+You can also see that very often zero
+ 
+
+991
+00:21:38,320 --> 00:21:40,950
+You can also see that very often zero
+um will be included in the conference
+
+992
+00:21:40,950 --> 00:21:40,960
+um will be included in the conference
+ 
+
+993
+00:21:40,960 --> 00:21:42,870
+um will be included in the conference
+interval if we look at the individual
+
+994
+00:21:42,870 --> 00:21:42,880
+interval if we look at the individual
+ 
+
+995
+00:21:42,880 --> 00:21:45,190
+interval if we look at the individual
+studies, but it will often be not
+
+996
+00:21:45,190 --> 00:21:45,200
+studies, but it will often be not
+ 
+
+997
+00:21:45,200 --> 00:21:47,270
+studies, but it will often be not
+included in the conference interval when
+
+998
+00:21:47,270 --> 00:21:47,280
+included in the conference interval when
+ 
+
+999
+00:21:47,280 --> 00:21:49,669
+included in the conference interval when
+we look at the combined results which
+
+1000
+00:21:49,669 --> 00:21:49,679
+we look at the combined results which
+ 
+
+1001
+00:21:49,679 --> 00:21:51,990
+we look at the combined results which
+illustrates that combining effect sizes
+
+1002
+00:21:51,990 --> 00:21:52,000
+illustrates that combining effect sizes
+ 
+
+1003
+00:21:52,000 --> 00:21:58,470
+illustrates that combining effect sizes
+increases the statistical power.
+
+1004
+00:21:58,470 --> 00:21:58,480
+
+ 
+
+1005
+00:21:58,480 --> 00:22:00,070
+
+In fact, what we have done here is a
+
+1006
+00:22:00,070 --> 00:22:00,080
+In fact, what we have done here is a
+ 
+
+1007
+00:22:00,080 --> 00:22:02,310
+In fact, what we have done here is a
+meta analysis. Jean Glass introduced
+
+1008
+00:22:02,310 --> 00:22:02,320
+meta analysis. Jean Glass introduced
+ 
+
+1009
+00:22:02,320 --> 00:22:05,110
+meta analysis. Jean Glass introduced
+this term meta analysis to refer to the
+
+1010
+00:22:05,110 --> 00:22:05,120
+this term meta analysis to refer to the
+ 
+
+1011
+00:22:05,120 --> 00:22:07,990
+this term meta analysis to refer to the
+analysis of analysis or the analysis of
+
+1012
+00:22:07,990 --> 00:22:08,000
+analysis of analysis or the analysis of
+ 
+
+1013
+00:22:08,000 --> 00:22:13,750
+analysis of analysis or the analysis of
+the results of multiple studies.
+
+1014
+00:22:13,750 --> 00:22:13,760
+
+ 
+
+1015
+00:22:13,760 --> 00:22:15,909
+
+But of course in reality meta analysis
+
+1016
+00:22:15,909 --> 00:22:15,919
+But of course in reality meta analysis
+ 
+
+1017
+00:22:15,919 --> 00:22:20,630
+But of course in reality meta analysis
+often are much more complex.
+
+1018
+00:22:20,630 --> 00:22:20,640
+
+ 
+
+1019
+00:22:20,640 --> 00:22:23,190
+
+A first complexity is that very often
+
+1020
+00:22:23,190 --> 00:22:23,200
+A first complexity is that very often
+ 
+
+1021
+00:22:23,200 --> 00:22:26,310
+A first complexity is that very often
+studies have samples of different sizes.
+
+1022
+00:22:26,310 --> 00:22:26,320
+studies have samples of different sizes.
+ 
+
+1023
+00:22:26,320 --> 00:22:28,070
+studies have samples of different sizes.
+We have seen that the sampling
+
+1024
+00:22:28,070 --> 00:22:28,080
+We have seen that the sampling
+ 
+
+1025
+00:22:28,080 --> 00:22:29,830
+We have seen that the sampling
+distribution of G is a normal
+
+1026
+00:22:29,830 --> 00:22:29,840
+distribution of G is a normal
+ 
+
+1027
+00:22:29,840 --> 00:22:32,470
+distribution of G is a normal
+distribution with a mean of delta with a
+
+1028
+00:22:32,470 --> 00:22:32,480
+distribution with a mean of delta with a
+ 
+
+1029
+00:22:32,480 --> 00:22:34,630
+distribution with a mean of delta with a
+sampling variance more or less equal to
+
+1030
+00:22:34,630 --> 00:22:34,640
+sampling variance more or less equal to
+ 
+
+1031
+00:22:34,640 --> 00:22:39,350
+sampling variance more or less equal to
+four divided by the size of the study.
+
+1032
+00:22:39,350 --> 00:22:39,360
+four divided by the size of the study.
+ 
+
+1033
+00:22:39,360 --> 00:22:42,549
+four divided by the size of the study.
+This means that if you take small
+
+1034
+00:22:42,549 --> 00:22:42,559
+This means that if you take small
+ 
+
+1035
+00:22:42,559 --> 00:22:45,590
+This means that if you take small
+samples for instance samples of size 20
+
+1036
+00:22:45,590 --> 00:22:45,600
+samples for instance samples of size 20
+ 
+
+1037
+00:22:45,600 --> 00:22:48,470
+samples for instance samples of size 20
+observed effect sizes fluctuate a lot
+
+1038
+00:22:48,470 --> 00:22:48,480
+observed effect sizes fluctuate a lot
+ 
+
+1039
+00:22:48,480 --> 00:22:50,470
+observed effect sizes fluctuate a lot
+and can deviate a lot from the
+
+1040
+00:22:50,470 --> 00:22:50,480
+and can deviate a lot from the
+ 
+
+1041
+00:22:50,480 --> 00:22:53,510
+and can deviate a lot from the
+population effect size.
+
+1042
+00:22:53,510 --> 00:22:53,520
+population effect size.
+ 
+
+1043
+00:22:53,520 --> 00:22:55,990
+population effect size.
+But if instead we would take large
+
+1044
+00:22:55,990 --> 00:22:56,000
+But if instead we would take large
+ 
+
+1045
+00:22:56,000 --> 00:22:58,149
+But if instead we would take large
+samples, the sampling distribution would
+
+1046
+00:22:58,149 --> 00:22:58,159
+samples, the sampling distribution would
+ 
+
+1047
+00:22:58,159 --> 00:23:01,430
+samples, the sampling distribution would
+become much smaller. If for instance we
+
+1048
+00:23:01,430 --> 00:23:01,440
+become much smaller. If for instance we
+ 
+
+1049
+00:23:01,440 --> 00:23:03,669
+become much smaller. If for instance we
+have two groups of size 100, the
+
+1050
+00:23:03,669 --> 00:23:03,679
+have two groups of size 100, the
+ 
+
+1051
+00:23:03,679 --> 00:23:05,909
+have two groups of size 100, the
+sampling variance becomes becomes 4
+
+1052
+00:23:05,909 --> 00:23:05,919
+sampling variance becomes becomes 4
+ 
+
+1053
+00:23:05,919 --> 00:23:08,630
+sampling variance becomes becomes 4
+divided by 200. This means that our
+
+1054
+00:23:08,630 --> 00:23:08,640
+divided by 200. This means that our
+ 
+
+1055
+00:23:08,640 --> 00:23:11,270
+divided by 200. This means that our
+sampling distribution is much smaller.
+
+1056
+00:23:11,270 --> 00:23:11,280
+sampling distribution is much smaller.
+ 
+
+1057
+00:23:11,280 --> 00:23:13,750
+sampling distribution is much smaller.
+In other words, that the observed effect
+
+1058
+00:23:13,750 --> 00:23:13,760
+In other words, that the observed effect
+ 
+
+1059
+00:23:13,760 --> 00:23:16,549
+In other words, that the observed effect
+sizes are in general closer to the
+
+1060
+00:23:16,549 --> 00:23:16,559
+sizes are in general closer to the
+ 
+
+1061
+00:23:16,559 --> 00:23:18,950
+sizes are in general closer to the
+population effect size.
+
+1062
+00:23:18,950 --> 00:23:18,960
+population effect size.
+ 
+
+1063
+00:23:18,960 --> 00:23:21,590
+population effect size.
+Now suppose that you have access to
+
+1064
+00:23:21,590 --> 00:23:21,600
+Now suppose that you have access to
+ 
+
+1065
+00:23:21,600 --> 00:23:24,950
+Now suppose that you have access to
+several observed effect sizes, some from
+
+1066
+00:23:24,950 --> 00:23:24,960
+several observed effect sizes, some from
+ 
+
+1067
+00:23:24,960 --> 00:23:27,350
+several observed effect sizes, some from
+small studies and some from large
+
+1068
+00:23:27,350 --> 00:23:27,360
+small studies and some from large
+ 
+
+1069
+00:23:27,360 --> 00:23:29,830
+small studies and some from large
+studies. You know that all these effect
+
+1070
+00:23:29,830 --> 00:23:29,840
+studies. You know that all these effect
+ 
+
+1071
+00:23:29,840 --> 00:23:31,750
+studies. You know that all these effect
+sizes tell us something about the
+
+1072
+00:23:31,750 --> 00:23:31,760
+sizes tell us something about the
+ 
+
+1073
+00:23:31,760 --> 00:23:34,470
+sizes tell us something about the
+population effect size. But as you can
+
+1074
+00:23:34,470 --> 00:23:34,480
+population effect size. But as you can
+ 
+
+1075
+00:23:34,480 --> 00:23:36,950
+population effect size. But as you can
+see on this slide, effect sizes from
+
+1076
+00:23:36,950 --> 00:23:36,960
+see on this slide, effect sizes from
+ 
+
+1077
+00:23:36,960 --> 00:23:39,430
+see on this slide, effect sizes from
+large studies probably are close to the
+
+1078
+00:23:39,430 --> 00:23:39,440
+large studies probably are close to the
+ 
+
+1079
+00:23:39,440 --> 00:23:41,510
+large studies probably are close to the
+population effect size. Whereas for
+
+1080
+00:23:41,510 --> 00:23:41,520
+population effect size. Whereas for
+ 
+
+1081
+00:23:41,520 --> 00:23:43,990
+population effect size. Whereas for
+small studies, observed effect sizes can
+
+1082
+00:23:43,990 --> 00:23:44,000
+small studies, observed effect sizes can
+ 
+
+1083
+00:23:44,000 --> 00:23:45,669
+small studies, observed effect sizes can
+be far away from the population effect
+
+1084
+00:23:45,669 --> 00:23:45,679
+be far away from the population effect
+ 
+
+1085
+00:23:45,679 --> 00:23:48,630
+be far away from the population effect
+size. Therefore, if you want to estimate
+
+1086
+00:23:48,630 --> 00:23:48,640
+size. Therefore, if you want to estimate
+ 
+
+1087
+00:23:48,640 --> 00:23:51,029
+size. Therefore, if you want to estimate
+the population effect size, we are going
+
+1088
+00:23:51,029 --> 00:23:51,039
+the population effect size, we are going
+ 
+
+1089
+00:23:51,039 --> 00:23:54,070
+the population effect size, we are going
+to look especially at the larger
+
+1090
+00:23:54,070 --> 00:23:54,080
+to look especially at the larger
+ 
+
+1091
+00:23:54,080 --> 00:23:58,149
+to look especially at the larger
+studies.
+
+1092
+00:23:58,149 --> 00:23:58,159
+
+ 
+
+1093
+00:23:58,159 --> 00:24:00,549
+
+Therefore, instead of calculating an
+
+1094
+00:24:00,549 --> 00:24:00,559
+Therefore, instead of calculating an
+ 
+
+1095
+00:24:00,559 --> 00:24:03,669
+Therefore, instead of calculating an
+ordinary average, it is better to
+
+1096
+00:24:03,669 --> 00:24:03,679
+ordinary average, it is better to
+ 
+
+1097
+00:24:03,679 --> 00:24:05,669
+ordinary average, it is better to
+calculate a weighted average of the
+
+1098
+00:24:05,669 --> 00:24:05,679
+calculate a weighted average of the
+ 
+
+1099
+00:24:05,679 --> 00:24:09,350
+calculate a weighted average of the
+observed effect sizes. As weights, we
+
+1100
+00:24:09,350 --> 00:24:09,360
+observed effect sizes. As weights, we
+ 
+
+1101
+00:24:09,360 --> 00:24:11,750
+observed effect sizes. As weights, we
+can use the size of the study or even
+
+1102
+00:24:11,750 --> 00:24:11,760
+can use the size of the study or even
+ 
+
+1103
+00:24:11,760 --> 00:24:14,390
+can use the size of the study or even
+better we can use the precision which is
+
+1104
+00:24:14,390 --> 00:24:14,400
+better we can use the precision which is
+ 
+
+1105
+00:24:14,400 --> 00:24:18,789
+better we can use the precision which is
+equal to one over the sampling variance.
+
+1106
+00:24:18,789 --> 00:24:18,799
+equal to one over the sampling variance.
+ 
+
+1107
+00:24:18,799 --> 00:24:20,630
+equal to one over the sampling variance.
+If we have an observed effect size from
+
+1108
+00:24:20,630 --> 00:24:20,640
+If we have an observed effect size from
+ 
+
+1109
+00:24:20,640 --> 00:24:23,029
+If we have an observed effect size from
+a large study, the sampling variance of
+
+1110
+00:24:23,029 --> 00:24:23,039
+a large study, the sampling variance of
+ 
+
+1111
+00:24:23,039 --> 00:24:25,590
+a large study, the sampling variance of
+this effect size will be small.
+
+1112
+00:24:25,590 --> 00:24:25,600
+this effect size will be small.
+ 
+
+1113
+00:24:25,600 --> 00:24:27,510
+this effect size will be small.
+Therefore, the precision of the effect
+
+1114
+00:24:27,510 --> 00:24:27,520
+Therefore, the precision of the effect
+ 
+
+1115
+00:24:27,520 --> 00:24:29,669
+Therefore, the precision of the effect
+size will be high and a large weight
+
+1116
+00:24:29,669 --> 00:24:29,679
+size will be high and a large weight
+ 
+
+1117
+00:24:29,679 --> 00:24:32,149
+size will be high and a large weight
+will be given to that study.
+
+1118
+00:24:32,149 --> 00:24:32,159
+will be given to that study.
+ 
+
+1119
+00:24:32,159 --> 00:24:34,789
+will be given to that study.
+Note that if all studies would be of the
+
+1120
+00:24:34,789 --> 00:24:34,799
+Note that if all studies would be of the
+ 
+
+1121
+00:24:34,799 --> 00:24:37,510
+Note that if all studies would be of the
+same size, the precision would be the
+
+1122
+00:24:37,510 --> 00:24:37,520
+same size, the precision would be the
+ 
+
+1123
+00:24:37,520 --> 00:24:39,430
+same size, the precision would be the
+same for all these studies and the
+
+1124
+00:24:39,430 --> 00:24:39,440
+same for all these studies and the
+ 
+
+1125
+00:24:39,440 --> 00:24:41,190
+same for all these studies and the
+weighted average of the observed effect
+
+1126
+00:24:41,190 --> 00:24:41,200
+weighted average of the observed effect
+ 
+
+1127
+00:24:41,200 --> 00:24:43,669
+weighted average of the observed effect
+sizes would be exactly the same as the
+
+1128
+00:24:43,669 --> 00:24:43,679
+sizes would be exactly the same as the
+ 
+
+1129
+00:24:43,679 --> 00:24:49,510
+sizes would be exactly the same as the
+ordinary average effect size.
+
+1130
+00:24:49,510 --> 00:24:49,520
+
+ 
+
+1131
+00:24:49,520 --> 00:24:52,070
+
+A second complication is the following.
+
+1132
+00:24:52,070 --> 00:24:52,080
+A second complication is the following.
+ 
+
+1133
+00:24:52,080 --> 00:24:54,070
+A second complication is the following.
+In our simulation, we assumed that
+
+1134
+00:24:54,070 --> 00:24:54,080
+In our simulation, we assumed that
+ 
+
+1135
+00:24:54,080 --> 00:24:56,310
+In our simulation, we assumed that
+population effect sizes were exactly the
+
+1136
+00:24:56,310 --> 00:24:56,320
+population effect sizes were exactly the
+ 
+
+1137
+00:24:56,320 --> 00:24:59,110
+population effect sizes were exactly the
+same in all 10 studies. Delta 1 is equal
+
+1138
+00:24:59,110 --> 00:24:59,120
+same in all 10 studies. Delta 1 is equal
+ 
+
+1139
+00:24:59,120 --> 00:25:01,909
+same in all 10 studies. Delta 1 is equal
+to delta 2 is equal to delta 3 and so
+
+1140
+00:25:01,909 --> 00:25:01,919
+to delta 2 is equal to delta 3 and so
+ 
+
+1141
+00:25:01,919 --> 00:25:04,950
+to delta 2 is equal to delta 3 and so
+on. Of course, even if the population
+
+1142
+00:25:04,950 --> 00:25:04,960
+on. Of course, even if the population
+ 
+
+1143
+00:25:04,960 --> 00:25:07,590
+on. Of course, even if the population
+effect size is the same for all studies,
+
+1144
+00:25:07,590 --> 00:25:07,600
+effect size is the same for all studies,
+ 
+
+1145
+00:25:07,600 --> 00:25:09,029
+effect size is the same for all studies,
+there can be differences between
+
+1146
+00:25:09,029 --> 00:25:09,039
+there can be differences between
+ 
+
+1147
+00:25:09,039 --> 00:25:12,070
+there can be differences between
+observed effect sizes because in each
+
+1148
+00:25:12,070 --> 00:25:12,080
+observed effect sizes because in each
+ 
+
+1149
+00:25:12,080 --> 00:25:15,430
+observed effect sizes because in each
+study only a sample of scores is taken.
+
+1150
+00:25:15,430 --> 00:25:15,440
+study only a sample of scores is taken.
+ 
+
+1151
+00:25:15,440 --> 00:25:18,870
+study only a sample of scores is taken.
+In other words, observed effect sizes
+
+1152
+00:25:18,870 --> 00:25:18,880
+In other words, observed effect sizes
+ 
+
+1153
+00:25:18,880 --> 00:25:22,149
+In other words, observed effect sizes
+can vary due to sampling variation and
+
+1154
+00:25:22,149 --> 00:25:22,159
+can vary due to sampling variation and
+ 
+
+1155
+00:25:22,159 --> 00:25:24,149
+can vary due to sampling variation and
+the amount of sampling variation depends
+
+1156
+00:25:24,149 --> 00:25:24,159
+the amount of sampling variation depends
+ 
+
+1157
+00:25:24,159 --> 00:25:27,110
+the amount of sampling variation depends
+on the size of the study.
+
+1158
+00:25:27,110 --> 00:25:27,120
+on the size of the study.
+ 
+
+1159
+00:25:27,120 --> 00:25:29,430
+on the size of the study.
+Yet, it's also possible that the
+
+1160
+00:25:29,430 --> 00:25:29,440
+Yet, it's also possible that the
+ 
+
+1161
+00:25:29,440 --> 00:25:31,029
+Yet, it's also possible that the
+assumption that the population effect
+
+1162
+00:25:31,029 --> 00:25:31,039
+assumption that the population effect
+ 
+
+1163
+00:25:31,039 --> 00:25:33,750
+assumption that the population effect
+size is the same for all studies is not
+
+1164
+00:25:33,750 --> 00:25:33,760
+size is the same for all studies is not
+ 
+
+1165
+00:25:33,760 --> 00:25:36,789
+size is the same for all studies is not
+true.
+
+1166
+00:25:36,789 --> 00:25:36,799
+
+ 
+
+1167
+00:25:36,799 --> 00:25:38,789
+
+If a similar research question has been
+
+1168
+00:25:38,789 --> 00:25:38,799
+If a similar research question has been
+ 
+
+1169
+00:25:38,799 --> 00:25:40,950
+If a similar research question has been
+studied multiple times, this is
+
+1170
+00:25:40,950 --> 00:25:40,960
+studied multiple times, this is
+ 
+
+1171
+00:25:40,960 --> 00:25:43,190
+studied multiple times, this is
+typically not done in exactly the same
+
+1172
+00:25:43,190 --> 00:25:43,200
+typically not done in exactly the same
+ 
+
+1173
+00:25:43,200 --> 00:25:45,430
+typically not done in exactly the same
+way. There can be a lot of differences
+
+1174
+00:25:45,430 --> 00:25:45,440
+way. There can be a lot of differences
+ 
+
+1175
+00:25:45,440 --> 00:25:47,830
+way. There can be a lot of differences
+between studies. For instance, it's
+
+1176
+00:25:47,830 --> 00:25:47,840
+between studies. For instance, it's
+ 
+
+1177
+00:25:47,840 --> 00:25:49,510
+between studies. For instance, it's
+possible that the kind of participants
+
+1178
+00:25:49,510 --> 00:25:49,520
+possible that the kind of participants
+ 
+
+1179
+00:25:49,520 --> 00:25:52,149
+possible that the kind of participants
+is not the same in all studies. Maybe in
+
+1180
+00:25:52,149 --> 00:25:52,159
+is not the same in all studies. Maybe in
+ 
+
+1181
+00:25:52,159 --> 00:25:54,149
+is not the same in all studies. Maybe in
+some studies children are studied
+
+1182
+00:25:54,149 --> 00:25:54,159
+some studies children are studied
+ 
+
+1183
+00:25:54,159 --> 00:25:56,149
+some studies children are studied
+whereas in other studies adults are
+
+1184
+00:25:56,149 --> 00:25:56,159
+whereas in other studies adults are
+ 
+
+1185
+00:25:56,159 --> 00:25:58,789
+whereas in other studies adults are
+studied. It's also possible that the
+
+1186
+00:25:58,789 --> 00:25:58,799
+studied. It's also possible that the
+ 
+
+1187
+00:25:58,799 --> 00:26:01,269
+studied. It's also possible that the
+context of the study is not exactly the
+
+1188
+00:26:01,269 --> 00:26:01,279
+context of the study is not exactly the
+ 
+
+1189
+00:26:01,279 --> 00:26:03,909
+context of the study is not exactly the
+same in all studies.
+
+1190
+00:26:03,909 --> 00:26:03,919
+same in all studies.
+ 
+
+1191
+00:26:03,919 --> 00:26:06,390
+same in all studies.
+Also the outcome variables or the way in
+
+1192
+00:26:06,390 --> 00:26:06,400
+Also the outcome variables or the way in
+ 
+
+1193
+00:26:06,400 --> 00:26:08,549
+Also the outcome variables or the way in
+which they are measured can vary across
+
+1194
+00:26:08,549 --> 00:26:08,559
+which they are measured can vary across
+ 
+
+1195
+00:26:08,559 --> 00:26:10,789
+which they are measured can vary across
+studies.
+
+1196
+00:26:10,789 --> 00:26:10,799
+studies.
+ 
+
+1197
+00:26:10,799 --> 00:26:13,510
+studies.
+Also the kind of and dose of treatment
+
+1198
+00:26:13,510 --> 00:26:13,520
+Also the kind of and dose of treatment
+ 
+
+1199
+00:26:13,520 --> 00:26:15,830
+Also the kind of and dose of treatment
+can differ between studies. Another
+
+1200
+00:26:15,830 --> 00:26:15,840
+can differ between studies. Another
+ 
+
+1201
+00:26:15,840 --> 00:26:17,750
+can differ between studies. Another
+study characteristic that can vary
+
+1202
+00:26:17,750 --> 00:26:17,760
+study characteristic that can vary
+ 
+
+1203
+00:26:17,760 --> 00:26:20,630
+study characteristic that can vary
+between studies is a study design. Maybe
+
+1204
+00:26:20,630 --> 00:26:20,640
+between studies is a study design. Maybe
+ 
+
+1205
+00:26:20,640 --> 00:26:23,430
+between studies is a study design. Maybe
+some studies may use an experimental
+
+1206
+00:26:23,430 --> 00:26:23,440
+some studies may use an experimental
+ 
+
+1207
+00:26:23,440 --> 00:26:25,830
+some studies may use an experimental
+designs whereas other studies may use a
+
+1208
+00:26:25,830 --> 00:26:25,840
+designs whereas other studies may use a
+ 
+
+1209
+00:26:25,840 --> 00:26:27,990
+designs whereas other studies may use a
+correlational design.
+
+1210
+00:26:27,990 --> 00:26:28,000
+correlational design.
+ 
+
+1211
+00:26:28,000 --> 00:26:29,830
+correlational design.
+In some there can be a lot of
+
+1212
+00:26:29,830 --> 00:26:29,840
+In some there can be a lot of
+ 
+
+1213
+00:26:29,840 --> 00:26:32,070
+In some there can be a lot of
+differences between studies. And
+
+1214
+00:26:32,070 --> 00:26:32,080
+differences between studies. And
+ 
+
+1215
+00:26:32,080 --> 00:26:34,789
+differences between studies. And
+importantly, these differences can make
+
+1216
+00:26:34,789 --> 00:26:34,799
+importantly, these differences can make
+ 
+
+1217
+00:26:34,799 --> 00:26:37,430
+importantly, these differences can make
+it unlikely that the population effect
+
+1218
+00:26:37,430 --> 00:26:37,440
+it unlikely that the population effect
+ 
+
+1219
+00:26:37,440 --> 00:26:39,909
+it unlikely that the population effect
+size that is studied is exactly the same
+
+1220
+00:26:39,909 --> 00:26:39,919
+size that is studied is exactly the same
+ 
+
+1221
+00:26:39,919 --> 00:26:44,230
+size that is studied is exactly the same
+in all studies.
+
+1222
+00:26:44,230 --> 00:26:44,240
+
+ 
+
+1223
+00:26:44,240 --> 00:26:46,230
+
+So maybe there are also differences
+
+1224
+00:26:46,230 --> 00:26:46,240
+So maybe there are also differences
+ 
+
+1225
+00:26:46,240 --> 00:26:49,269
+So maybe there are also differences
+between the population effect sizes. In
+
+1226
+00:26:49,269 --> 00:26:49,279
+between the population effect sizes. In
+ 
+
+1227
+00:26:49,279 --> 00:26:51,669
+between the population effect sizes. In
+this scenario, there are two sources of
+
+1228
+00:26:51,669 --> 00:26:51,679
+this scenario, there are two sources of
+ 
+
+1229
+00:26:51,679 --> 00:26:53,190
+this scenario, there are two sources of
+variation.
+
+1230
+00:26:53,190 --> 00:26:53,200
+variation.
+ 
+
+1231
+00:26:53,200 --> 00:26:55,750
+variation.
+We have variation between the population
+
+1232
+00:26:55,750 --> 00:26:55,760
+We have variation between the population
+ 
+
+1233
+00:26:55,760 --> 00:26:58,549
+We have variation between the population
+effect sizes from studies. So, variation
+
+1234
+00:26:58,549 --> 00:26:58,559
+effect sizes from studies. So, variation
+ 
+
+1235
+00:26:58,559 --> 00:27:00,630
+effect sizes from studies. So, variation
+between the deltas
+
+1236
+00:27:00,630 --> 00:27:00,640
+between the deltas
+ 
+
+1237
+00:27:00,640 --> 00:27:02,630
+between the deltas
+in metanalytic literature. This
+
+1238
+00:27:02,630 --> 00:27:02,640
+in metanalytic literature. This
+ 
+
+1239
+00:27:02,640 --> 00:27:05,110
+in metanalytic literature. This
+variation in population effect sizes is
+
+1240
+00:27:05,110 --> 00:27:05,120
+variation in population effect sizes is
+ 
+
+1241
+00:27:05,120 --> 00:27:08,630
+variation in population effect sizes is
+often called the true variation or the
+
+1242
+00:27:08,630 --> 00:27:08,640
+often called the true variation or the
+ 
+
+1243
+00:27:08,640 --> 00:27:12,070
+often called the true variation or the
+systematic variation. On top of that, we
+
+1244
+00:27:12,070 --> 00:27:12,080
+systematic variation. On top of that, we
+ 
+
+1245
+00:27:12,080 --> 00:27:14,149
+systematic variation. On top of that, we
+still have the sampling variation. For
+
+1246
+00:27:14,149 --> 00:27:14,159
+still have the sampling variation. For
+ 
+
+1247
+00:27:14,159 --> 00:27:15,750
+still have the sampling variation. For
+instance, in study five, you can see
+
+1248
+00:27:15,750 --> 00:27:15,760
+instance, in study five, you can see
+ 
+
+1249
+00:27:15,760 --> 00:27:18,950
+instance, in study five, you can see
+that population effect size delta 5 is
+
+1250
+00:27:18,950 --> 00:27:18,960
+that population effect size delta 5 is
+ 
+
+1251
+00:27:18,960 --> 00:27:21,110
+that population effect size delta 5 is
+relatively small.
+
+1252
+00:27:21,110 --> 00:27:21,120
+relatively small.
+ 
+
+1253
+00:27:21,120 --> 00:27:23,190
+relatively small.
+Yet, the observed effect size can be
+
+1254
+00:27:23,190 --> 00:27:23,200
+Yet, the observed effect size can be
+ 
+
+1255
+00:27:23,200 --> 00:27:25,830
+Yet, the observed effect size can be
+different. It can by coincidence be even
+
+1256
+00:27:25,830 --> 00:27:25,840
+different. It can by coincidence be even
+ 
+
+1257
+00:27:25,840 --> 00:27:27,909
+different. It can by coincidence be even
+smaller than the population effect size
+
+1258
+00:27:27,909 --> 00:27:27,919
+smaller than the population effect size
+ 
+
+1259
+00:27:27,919 --> 00:27:29,909
+smaller than the population effect size
+or it can be larger than the population
+
+1260
+00:27:29,909 --> 00:27:29,919
+or it can be larger than the population
+ 
+
+1261
+00:27:29,919 --> 00:27:35,590
+or it can be larger than the population
+effect size from that study.
+
+1262
+00:27:35,590 --> 00:27:35,600
+
+ 
+
+1263
+00:27:35,600 --> 00:27:38,789
+
+Finally, we will look at the questions
+
+1264
+00:27:38,789 --> 00:27:38,799
+Finally, we will look at the questions
+ 
+
+1265
+00:27:38,799 --> 00:27:41,029
+Finally, we will look at the questions
+and steps that can be distinguished in a
+
+1266
+00:27:41,029 --> 00:27:41,039
+and steps that can be distinguished in a
+ 
+
+1267
+00:27:41,039 --> 00:27:44,950
+and steps that can be distinguished in a
+typical meta analysis.
+
+1268
+00:27:44,950 --> 00:27:44,960
+typical meta analysis.
+ 
+
+1269
+00:27:44,960 --> 00:27:47,029
+typical meta analysis.
+In a meta analysis, we typically try to
+
+1270
+00:27:47,029 --> 00:27:47,039
+In a meta analysis, we typically try to
+ 
+
+1271
+00:27:47,039 --> 00:27:49,510
+In a meta analysis, we typically try to
+answer multiple questions. First
+
+1272
+00:27:49,510 --> 00:27:49,520
+answer multiple questions. First
+ 
+
+1273
+00:27:49,520 --> 00:27:52,549
+answer multiple questions. First
+question is, is there on average an
+
+1274
+00:27:52,549 --> 00:27:52,559
+question is, is there on average an
+ 
+
+1275
+00:27:52,559 --> 00:27:54,470
+question is, is there on average an
+effect?
+
+1276
+00:27:54,470 --> 00:27:54,480
+effect?
+ 
+
+1277
+00:27:54,480 --> 00:27:57,190
+effect?
+Secondly, if overall there is an effect,
+
+1278
+00:27:57,190 --> 00:27:57,200
+Secondly, if overall there is an effect,
+ 
+
+1279
+00:27:57,200 --> 00:28:00,230
+Secondly, if overall there is an effect,
+how large is this effect? So we want to
+
+1280
+00:28:00,230 --> 00:28:00,240
+how large is this effect? So we want to
+ 
+
+1281
+00:28:00,240 --> 00:28:02,389
+how large is this effect? So we want to
+test whether there is an effect and we
+
+1282
+00:28:02,389 --> 00:28:02,399
+test whether there is an effect and we
+ 
+
+1283
+00:28:02,399 --> 00:28:05,909
+test whether there is an effect and we
+want to estimate the size of the effect.
+
+1284
+00:28:05,909 --> 00:28:05,919
+want to estimate the size of the effect.
+ 
+
+1285
+00:28:05,919 --> 00:28:08,070
+want to estimate the size of the effect.
+Another question that is very often
+
+1286
+00:28:08,070 --> 00:28:08,080
+Another question that is very often
+ 
+
+1287
+00:28:08,080 --> 00:28:10,789
+Another question that is very often
+answered in a meta analysis is can we
+
+1288
+00:28:10,789 --> 00:28:10,799
+answered in a meta analysis is can we
+ 
+
+1289
+00:28:10,799 --> 00:28:13,110
+answered in a meta analysis is can we
+consider population effect sizes to be
+
+1290
+00:28:13,110 --> 00:28:13,120
+consider population effect sizes to be
+ 
+
+1291
+00:28:13,120 --> 00:28:16,549
+consider population effect sizes to be
+the same in all studies. If not, we talk
+
+1292
+00:28:16,549 --> 00:28:16,559
+the same in all studies. If not, we talk
+ 
+
+1293
+00:28:16,559 --> 00:28:18,950
+the same in all studies. If not, we talk
+about heterogeneity.
+
+1294
+00:28:18,950 --> 00:28:18,960
+about heterogeneity.
+ 
+
+1295
+00:28:18,960 --> 00:28:21,110
+about heterogeneity.
+We do not only want to test whether
+
+1296
+00:28:21,110 --> 00:28:21,120
+We do not only want to test whether
+ 
+
+1297
+00:28:21,120 --> 00:28:23,190
+We do not only want to test whether
+there is heterogeneity, we also want to
+
+1298
+00:28:23,190 --> 00:28:23,200
+there is heterogeneity, we also want to
+ 
+
+1299
+00:28:23,200 --> 00:28:27,430
+there is heterogeneity, we also want to
+estimate the size of heterogeneity.
+
+1300
+00:28:27,430 --> 00:28:27,440
+estimate the size of heterogeneity.
+ 
+
+1301
+00:28:27,440 --> 00:28:30,549
+estimate the size of heterogeneity.
+Next, if there is heterogeneity,
+
+1302
+00:28:30,549 --> 00:28:30,559
+Next, if there is heterogeneity,
+ 
+
+1303
+00:28:30,559 --> 00:28:33,909
+Next, if there is heterogeneity,
+a challenge is to try to explain this
+
+1304
+00:28:33,909 --> 00:28:33,919
+a challenge is to try to explain this
+ 
+
+1305
+00:28:33,919 --> 00:28:36,950
+a challenge is to try to explain this
+between study varants. In what kind of
+
+1306
+00:28:36,950 --> 00:28:36,960
+between study varants. In what kind of
+ 
+
+1307
+00:28:36,960 --> 00:28:39,110
+between study varants. In what kind of
+studies is the effect larger than in
+
+1308
+00:28:39,110 --> 00:28:39,120
+studies is the effect larger than in
+ 
+
+1309
+00:28:39,120 --> 00:28:41,830
+studies is the effect larger than in
+what other kind of studies?
+
+1310
+00:28:41,830 --> 00:28:41,840
+what other kind of studies?
+ 
+
+1311
+00:28:41,840 --> 00:28:44,149
+what other kind of studies?
+Another question that is sometimes but
+
+1312
+00:28:44,149 --> 00:28:44,159
+Another question that is sometimes but
+ 
+
+1313
+00:28:44,159 --> 00:28:47,350
+Another question that is sometimes but
+not often answered in a meta analysis is
+
+1314
+00:28:47,350 --> 00:28:47,360
+not often answered in a meta analysis is
+ 
+
+1315
+00:28:47,360 --> 00:28:49,510
+not often answered in a meta analysis is
+what is the effect in specific
+
+1316
+00:28:49,510 --> 00:28:49,520
+what is the effect in specific
+ 
+
+1317
+00:28:49,520 --> 00:28:52,070
+what is the effect in specific
+individual studies? Based on the results
+
+1318
+00:28:52,070 --> 00:28:52,080
+individual studies? Based on the results
+ 
+
+1319
+00:28:52,080 --> 00:28:54,870
+individual studies? Based on the results
+of a meta analysis, we can indeed make
+
+1320
+00:28:54,870 --> 00:28:54,880
+of a meta analysis, we can indeed make
+ 
+
+1321
+00:28:54,880 --> 00:28:57,669
+of a meta analysis, we can indeed make
+improved estimates of the effect sizes
+
+1322
+00:28:57,669 --> 00:28:57,679
+improved estimates of the effect sizes
+ 
+
+1323
+00:28:57,679 --> 00:29:00,630
+improved estimates of the effect sizes
+for specific studies.
+
+1324
+00:29:00,630 --> 00:29:00,640
+for specific studies.
+ 
+
+1325
+00:29:00,640 --> 00:29:03,029
+for specific studies.
+The coming sessions, we will look at how
+
+1326
+00:29:03,029 --> 00:29:03,039
+The coming sessions, we will look at how
+ 
+
+1327
+00:29:03,039 --> 00:29:10,149
+The coming sessions, we will look at how
+we can answer these different questions.
+
+1328
+00:29:10,149 --> 00:29:10,159
+
+ 
+
+1329
+00:29:10,159 --> 00:29:12,149
+
+In a typical meta analysis, multiple
+
+1330
+00:29:12,149 --> 00:29:12,159
+In a typical meta analysis, multiple
+ 
+
+1331
+00:29:12,159 --> 00:29:13,830
+In a typical meta analysis, multiple
+steps are taken. The first step is a
+
+1332
+00:29:13,830 --> 00:29:13,840
+steps are taken. The first step is a
+ 
+
+1333
+00:29:13,840 --> 00:29:16,549
+steps are taken. The first step is a
+formulation of research question.
+
+1334
+00:29:16,549 --> 00:29:16,559
+formulation of research question.
+ 
+
+1335
+00:29:16,559 --> 00:29:18,710
+formulation of research question.
+Afterwards, a search is done for
+
+1336
+00:29:18,710 --> 00:29:18,720
+Afterwards, a search is done for
+ 
+
+1337
+00:29:18,720 --> 00:29:21,750
+Afterwards, a search is done for
+studies. Often there will be a lot of
+
+1338
+00:29:21,750 --> 00:29:21,760
+studies. Often there will be a lot of
+ 
+
+1339
+00:29:21,760 --> 00:29:24,230
+studies. Often there will be a lot of
+hits, a lot of potentially relevant
+
+1340
+00:29:24,230 --> 00:29:24,240
+hits, a lot of potentially relevant
+ 
+
+1341
+00:29:24,240 --> 00:29:26,950
+hits, a lot of potentially relevant
+studies, but these may not all be
+
+1342
+00:29:26,950 --> 00:29:26,960
+studies, but these may not all be
+ 
+
+1343
+00:29:26,960 --> 00:29:29,110
+studies, but these may not all be
+relevant for our research interest or
+
+1344
+00:29:29,110 --> 00:29:29,120
+relevant for our research interest or
+ 
+
+1345
+00:29:29,120 --> 00:29:31,110
+relevant for our research interest or
+research question.
+
+1346
+00:29:31,110 --> 00:29:31,120
+research question.
+ 
+
+1347
+00:29:31,120 --> 00:29:33,510
+research question.
+In the third step, therefore, we will
+
+1348
+00:29:33,510 --> 00:29:33,520
+In the third step, therefore, we will
+ 
+
+1349
+00:29:33,520 --> 00:29:36,549
+In the third step, therefore, we will
+select the relevant studies.
+
+1350
+00:29:36,549 --> 00:29:36,559
+select the relevant studies.
+ 
+
+1351
+00:29:36,559 --> 00:29:38,630
+select the relevant studies.
+After selecting the relevant studies, we
+
+1352
+00:29:38,630 --> 00:29:38,640
+After selecting the relevant studies, we
+ 
+
+1353
+00:29:38,640 --> 00:29:40,789
+After selecting the relevant studies, we
+will extract the data that we need for
+
+1354
+00:29:40,789 --> 00:29:40,799
+will extract the data that we need for
+ 
+
+1355
+00:29:40,799 --> 00:29:43,590
+will extract the data that we need for
+doing our meta analysis.
+
+1356
+00:29:43,590 --> 00:29:43,600
+doing our meta analysis.
+ 
+
+1357
+00:29:43,600 --> 00:29:46,230
+doing our meta analysis.
+Next, we convert the data to a common
+
+1358
+00:29:46,230 --> 00:29:46,240
+Next, we convert the data to a common
+ 
+
+1359
+00:29:46,240 --> 00:29:48,549
+Next, we convert the data to a common
+effect size measure.
+
+1360
+00:29:48,549 --> 00:29:48,559
+effect size measure.
+ 
+
+1361
+00:29:48,559 --> 00:29:51,430
+effect size measure.
+In a statistical analysis, we combine
+
+1362
+00:29:51,430 --> 00:29:51,440
+In a statistical analysis, we combine
+ 
+
+1363
+00:29:51,440 --> 00:29:54,630
+In a statistical analysis, we combine
+and compare these effect sizes. We also
+
+1364
+00:29:54,630 --> 00:29:54,640
+and compare these effect sizes. We also
+ 
+
+1365
+00:29:54,640 --> 00:29:57,750
+and compare these effect sizes. We also
+typically look for moderator variables.
+
+1366
+00:29:57,750 --> 00:29:57,760
+typically look for moderator variables.
+ 
+
+1367
+00:29:57,760 --> 00:30:00,149
+typically look for moderator variables.
+These are study characteristics that are
+
+1368
+00:30:00,149 --> 00:30:00,159
+These are study characteristics that are
+ 
+
+1369
+00:30:00,159 --> 00:30:02,389
+These are study characteristics that are
+related to the size of the effect and
+
+1370
+00:30:02,389 --> 00:30:02,399
+related to the size of the effect and
+ 
+
+1371
+00:30:02,399 --> 00:30:06,149
+related to the size of the effect and
+therefore explain the heterogenity.
+
+1372
+00:30:06,149 --> 00:30:06,159
+therefore explain the heterogenity.
+ 
+
+1373
+00:30:06,159 --> 00:30:08,470
+therefore explain the heterogenity.
+Finally, we report the results and draw
+
+1374
+00:30:08,470 --> 00:30:08,480
+Finally, we report the results and draw
+ 
+
+1375
+00:30:08,480 --> 00:30:10,310
+Finally, we report the results and draw
+conclusions.
+
+1376
+00:30:10,310 --> 00:30:10,320
+conclusions.
+ 
+
+1377
+00:30:10,320 --> 00:30:12,950
+conclusions.
+These steps define the structure of this
+
+1378
+00:30:12,950 --> 00:30:12,960
+These steps define the structure of this
+ 
+
+1379
+00:30:12,960 --> 00:30:15,960
+These steps define the structure of this
+course.
+

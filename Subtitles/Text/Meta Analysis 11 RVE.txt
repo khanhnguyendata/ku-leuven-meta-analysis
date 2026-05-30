@@ -1,0 +1,209 @@
+In this video, we will look at use of RVE or robust variance estimation for the meta analysis of dependent effect sizes.
+
+A short recap, we have seen that a traditional fixed effect model or a random effects model assume that effect sizes are independent.
+
+This is a reasonable assumption when studies are done by separate groups and each study reports only one effect size.
+
+Yet very often there are different sources of dependence.
+
+You can have dependence across studies.
+
+For instance, when multiple studies are done by the same research group.
+
+In that case, effect sizes from the same research group are likely more similar than effect sizes from different research groups because a research group may have operationalized the variables in a very specific way.
+
+Sampled study group participants from a similar population and so on.
+
+Another situation is where studies are reporting more than one effect size. for instance, when they evaluate the effect at multiple time points for multiple outcome variables or when some variations of treatments are evaluated.
+
+In these scenarios, multi-level models may be helpful.
+
+An ordinary random effects model can be considered as a two-level model with systematic variation between studies and sampling variance within studies.
+
+To account for dependencies, one could define additional levels, upper or intermediate levels.
+
+For instance, to account for the similarity of studies from the same country, we could define an upper country level.
+
+Whereas to account for the similarity of results from multiple substudies, we define an intermediate substudy level.
+
+In other words, instead of assuming that observed effect sizes vary because of sampling variance and systematic between study variance alone, we now say that on top of the sampling variance, there can be multiple kinds of systematic variance.
+
+For instance, variance between countries, variance between studies from the same country, variance between substudies from the same study.
+
+To that end, we use a metalytic model with a random country effect, random study effect, and a random substy.
+
+Other more complex models are possible as well.
+
+For instance, think about a scenario where studies may report multiple effect sizes and when the same instrument may be used in multiple studies.
+
+In this situation, instruments are not nested within studies because the same instrument is used in multiple studies.
+
+But the other way around, studies are also not nested within instruments because the same study may use multiple instruments.
+
+Again we can use random effects to model the effect of the studies and the effect of instruments.
+
+But now these random effects are not nested or hierarchally structured but rather cross-classified.
+
+Another common situation is where in one study multiple effect sizes are calculated on the same sample of participants.
+
+You remember that the sampling variance is typically estimated before doing a map analysis and therefore is considered as known during the meta analysis.
+
+But in a situation where you have multiple effect sizes calculated for the same sample, there's not only sampling variance but also sampling co-variance.
+
+For instance, for two standardized mean differences calculated in the same study for two different outcomes but based on the same sample, we have a co-variance that can be calculated with this formula.
+
+You see the parameter row in this formula which refers to the correlation between the two outcome variables.
+
+A positive correlation between the outcomes will also result in a positive correlation between the effect sizes.
+
+So if two outcomes correlate positively and by coincidence you have thrown a sample for which the standardized mean difference for one outcome is relatively high.
+
+You can expect that the other effect size will be relatively high as well.
+
+After calculating the sampling variance and co-variance, you can then perform a multivariant meta analysis treating the sampling variance and coariance as known.
+
+An issue, however, is that the row is unknown and that often studies do not report an estimate of this correlation.
+
+Therefore, we could use a reasonable guess for row and then try out other values to investigate whether the conclusions of our meta analysis are sensitive to the value chosen.
+
+As an alternative, we can use the following trick.
+
+We can treat the effect sizes from the same sample within a study as if they are based on separate samples but for different substies within that study.
+
+The advantage is that we do not need to estimate the sampling coariance.
+
+The association between effect sizes from the same study is accounted for by modeling the effect sizes as nested within studies.
+
+In some simulation studies, we have shown that this trick seems to work relatively well.
+
+The multi-level modeling framework is a very flexible and helpful framework.
+
+Yet, a drawback is that we make several assumptions that may be wrong.
+
+First assumption is that the model is correctly specified.
+
+For instance, we have to define what the different levels are.
+
+Can use a threele model, but maybe sometimes a four or five level model is more appropriate.
+
+Note that when we use a trick of considering effect sizes coming from the same sample as effect sizes coming from separate samples from the same study, our model is not correctly specified.
+
+Related to this, we need a sufficient number of units to be able to estimate the variance of an additional random effect.
+
+For instance, if you would have data from two countries only from two countries, you cannot estimate the between country variance and hence it does not make sense to include a random country effect.
+
+Or if you would have data from 10 studies coming from 12 countries in total, it is hard to disentangle the country effect and the study effect.
+
+So again it does not make sense to include that country level and suppose you have 10 studies from the US and 10 other studies each coming from another country.
+
+In that situation it is possible to estimate the variance between countries and the variance between studies within countries.
+
+But here the between study estimate would be based only on the variation between studies within the US whereas in other countries this variance may be substantially different.
+
+Another assumption is that at each level we make the assumption that residuals or random effects are independent and normally distributed. assumptions that may also be violated.
+
+Another issue is that the sampling variance may be incorrectly estimated.
+
+For instance, the sampling variance of a standardized difference between the mean pre-est score versus the mean post- test score depends on the correlation between the pre and post test post- test scores.
+
+Unfortunately, often studies that use such a design do not report that correlation and hence we have to make a guess of that correlation in order to estimate the sampling variance.
+
+Often a correlation of 50 is used but this may be wrong and therefore the sampling variance estimate of the observed effect size may be wrong.
+
+As a consequence, the weights that are used may not be perfectly inverse variance weights.
+
+Moreover, standard errors obtained for the model parameters may be wrong and hence confidence intervals and hypothesis tests that make use of these standard errors may be invalid. as a safety net, we could make use of robust variance estimation or RVE.
+
+The idea is that instead of estimating standard errors as a function of the random variances in our model, you base the standard errors of the observed variance.
+
+You base the standard errors on the observed variance in effect sizes.
+
+In that way, the standard errors do not depend anymore on the model itself, making them robust for misspecification of the model.
+
+Because the standard errors are not model based based on the data, they are also called empirical standard errors.
+
+They're also called Uberwide standard errors and the estimation is also called cluster robust variance estimation within our situation.
+
+The studies in which there may be multiple effect sizes being the clusters.
+
+More specifically, in the case of meta analysis, we define observed residuals as the deviation of the I observed effect size T in study J from the overall effect size data.
+
+Instead of assuming that the variance in observed effect sizes is the sum of the systematic variance between studies, systematic variance between sub studies and the sampling variance.
+
+We now estimate the variance and coariances.
+
+The estimated variance of the observed effect sizes is the observed variance in the residuals.
+
+Co-variance between effect sizes from the same study is estimated by calculating the coariance in the residuals from the same study.
+
+The coariance between effects from different studies is assumed to be zero.
+
+The great thing about RVE is that the standard errors are now fine even if the model is not correctly specific.
+
+For instance, when you use a random effects model that does not explicitly model the dependence of effect sizes that come from the same study.
+
+Moreover, RVE does not make the assumption of normality anymore.
+
+We can also use it when observed effect sizes are not weighted according their uh precision.
+
+Yet using RVE also has its limitations.
+
+For instance, when you have sub studies within studies that use a two-level model rather than a three-level model, the standard errors you will obtain for the overall effect is fine, but you will not get separate variance estimates for the variance between studies and the variance between substies.
+
+Moreover, if the model is not correct, observed effect sizes may not be optimally weighted and hence the metalic results may be less precise.
+
+Therefore, an optimal solution seems to be to use a model that is as good as possible, but combine this model with RVE as a stafnet for a possible misspecification of the model.
+
+Pistski and Typton proposed three kinds of models to be used in combination with RVE.
+
+The first model is a hierarchal effects model which in fact which is in fact the multilevel model for instance to be used when within studies you have multiple substudies with different samples.
+
+The second model is a correlated effects model which is a multivariate model to be used when within studies multiple effect sizes are calculated for the same sample.
+
+The hierarchal and correlated effects model combines both models.
+
+To illustrate the approach, look at the example of a very recent meta analysis in which I was involved.
+
+In this meta analysis, we studied among other things the association between the perception of one group that another group of persons persons is not really human on one side and the willingness to use violence against that other group on the other side.
+
+In this meta analysis, we combined data from multiple projects.
+
+Each project project one or more studies were done and in each study one or more samples were investigated and for each sample one or more effects were studied.
+
+Therefore by using the trick of considering different samples as independent samples from multiple substies we would have five levels.
+
+Yet using the hierarchal and correlated effects model, we would have four levels.
+
+Here the results.
+
+I first fitted a traditional random effects model.
+
+This is a twolevel model because this model does not account for the dependence between effect sizes.
+
+So does not account for the overlap in information given by effect sizes from the same sample, study or project.
+
+The standard error is probably underestimated and therefore the confidence interval around the overall association is too small.
+
+The confidence interval is too optimistic.
+
+We see indeed that when using RVE for the same model, the standard error is considerably larger and so the confidence interval is also larger.
+
+Let's look at results when using a hierarchal 51 or a multivariat model with a guest row of.5 or8.
+
+Interestingly, for these three models, we get very similar results.
+
+Using RVE on top of these models slightly increases the confidence interval width, but that the results are dead very similar for these three kinds of models with or without using RVE increases our confidence in these results.
+
+To be honest, I do not have an explanation why the confidence interval when using RVE in combination with a two-level model is smaller than the confidence interval when using the multi-level or multivariate model.
+
+I think it would be interesting to do a simulation study to compare systematically these different approaches.
+
+To conclude, I recommend using an appropriate model combined with RVE.
+
+In this way, you combine the advantages of both approaches.
+
+By using RVE, the type one error rate is under control.
+
+By using an appropriate model, you get information on the different population variance parameters and studies will be appropriately weighted.
+
+A drawback of this approach is of course its complexity.

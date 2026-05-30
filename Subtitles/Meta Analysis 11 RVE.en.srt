@@ -1,0 +1,3705 @@
+1
+00:00:01,360 --> 00:00:03,750
+
+In this video, we will look at use of
+
+2
+00:00:03,750 --> 00:00:03,760
+In this video, we will look at use of
+ 
+
+3
+00:00:03,760 --> 00:00:07,349
+In this video, we will look at use of
+RVE or robust variance estimation for
+
+4
+00:00:07,349 --> 00:00:07,359
+RVE or robust variance estimation for
+ 
+
+5
+00:00:07,359 --> 00:00:09,750
+RVE or robust variance estimation for
+the meta analysis of dependent effect
+
+6
+00:00:09,750 --> 00:00:09,760
+the meta analysis of dependent effect
+ 
+
+7
+00:00:09,760 --> 00:00:12,150
+the meta analysis of dependent effect
+sizes.
+
+8
+00:00:12,150 --> 00:00:12,160
+sizes.
+ 
+
+9
+00:00:12,160 --> 00:00:15,270
+sizes.
+A short recap, we have seen that a
+
+10
+00:00:15,270 --> 00:00:15,280
+A short recap, we have seen that a
+ 
+
+11
+00:00:15,280 --> 00:00:17,349
+A short recap, we have seen that a
+traditional fixed effect model or a
+
+12
+00:00:17,349 --> 00:00:17,359
+traditional fixed effect model or a
+ 
+
+13
+00:00:17,359 --> 00:00:19,910
+traditional fixed effect model or a
+random effects model assume that effect
+
+14
+00:00:19,910 --> 00:00:19,920
+random effects model assume that effect
+ 
+
+15
+00:00:19,920 --> 00:00:22,790
+random effects model assume that effect
+sizes are independent.
+
+16
+00:00:22,790 --> 00:00:22,800
+sizes are independent.
+ 
+
+17
+00:00:22,800 --> 00:00:25,029
+sizes are independent.
+This is a reasonable assumption when
+
+18
+00:00:25,029 --> 00:00:25,039
+This is a reasonable assumption when
+ 
+
+19
+00:00:25,039 --> 00:00:27,509
+This is a reasonable assumption when
+studies are done by separate groups and
+
+20
+00:00:27,509 --> 00:00:27,519
+studies are done by separate groups and
+ 
+
+21
+00:00:27,519 --> 00:00:31,910
+studies are done by separate groups and
+each study reports only one effect size.
+
+22
+00:00:31,910 --> 00:00:31,920
+each study reports only one effect size.
+ 
+
+23
+00:00:31,920 --> 00:00:34,950
+each study reports only one effect size.
+Yet very often there are different
+
+24
+00:00:34,950 --> 00:00:34,960
+Yet very often there are different
+ 
+
+25
+00:00:34,960 --> 00:00:37,430
+Yet very often there are different
+sources of dependence. You can have
+
+26
+00:00:37,430 --> 00:00:37,440
+sources of dependence. You can have
+ 
+
+27
+00:00:37,440 --> 00:00:40,310
+sources of dependence. You can have
+dependence across studies. For instance,
+
+28
+00:00:40,310 --> 00:00:40,320
+dependence across studies. For instance,
+ 
+
+29
+00:00:40,320 --> 00:00:42,470
+dependence across studies. For instance,
+when multiple studies are done by the
+
+30
+00:00:42,470 --> 00:00:42,480
+when multiple studies are done by the
+ 
+
+31
+00:00:42,480 --> 00:00:44,790
+when multiple studies are done by the
+same research group.
+
+32
+00:00:44,790 --> 00:00:44,800
+same research group.
+ 
+
+33
+00:00:44,800 --> 00:00:47,110
+same research group.
+In that case, effect sizes from the same
+
+34
+00:00:47,110 --> 00:00:47,120
+In that case, effect sizes from the same
+ 
+
+35
+00:00:47,120 --> 00:00:49,990
+In that case, effect sizes from the same
+research group are likely more similar
+
+36
+00:00:49,990 --> 00:00:50,000
+research group are likely more similar
+ 
+
+37
+00:00:50,000 --> 00:00:51,910
+research group are likely more similar
+than effect sizes from different
+
+38
+00:00:51,910 --> 00:00:51,920
+than effect sizes from different
+ 
+
+39
+00:00:51,920 --> 00:00:54,869
+than effect sizes from different
+research groups because a research group
+
+40
+00:00:54,869 --> 00:00:54,879
+research groups because a research group
+ 
+
+41
+00:00:54,879 --> 00:00:56,790
+research groups because a research group
+may have operationalized the variables
+
+42
+00:00:56,790 --> 00:00:56,800
+may have operationalized the variables
+ 
+
+43
+00:00:56,800 --> 00:01:00,310
+may have operationalized the variables
+in a very specific way. Sampled study
+
+44
+00:01:00,310 --> 00:01:00,320
+in a very specific way. Sampled study
+ 
+
+45
+00:01:00,320 --> 00:01:02,310
+in a very specific way. Sampled study
+group participants from a similar
+
+46
+00:01:02,310 --> 00:01:02,320
+group participants from a similar
+ 
+
+47
+00:01:02,320 --> 00:01:05,830
+group participants from a similar
+population and so on.
+
+48
+00:01:05,830 --> 00:01:05,840
+population and so on.
+ 
+
+49
+00:01:05,840 --> 00:01:08,310
+population and so on.
+Another situation is where studies are
+
+50
+00:01:08,310 --> 00:01:08,320
+Another situation is where studies are
+ 
+
+51
+00:01:08,320 --> 00:01:10,950
+Another situation is where studies are
+reporting more than one effect size. for
+
+52
+00:01:10,950 --> 00:01:10,960
+reporting more than one effect size. for
+ 
+
+53
+00:01:10,960 --> 00:01:13,190
+reporting more than one effect size. for
+instance, when they evaluate the effect
+
+54
+00:01:13,190 --> 00:01:13,200
+instance, when they evaluate the effect
+ 
+
+55
+00:01:13,200 --> 00:01:15,590
+instance, when they evaluate the effect
+at multiple time points for multiple
+
+56
+00:01:15,590 --> 00:01:15,600
+at multiple time points for multiple
+ 
+
+57
+00:01:15,600 --> 00:01:17,429
+at multiple time points for multiple
+outcome variables or when some
+
+58
+00:01:17,429 --> 00:01:17,439
+outcome variables or when some
+ 
+
+59
+00:01:17,439 --> 00:01:22,070
+outcome variables or when some
+variations of treatments are evaluated.
+
+60
+00:01:22,070 --> 00:01:22,080
+variations of treatments are evaluated.
+ 
+
+61
+00:01:22,080 --> 00:01:24,950
+variations of treatments are evaluated.
+In these scenarios, multi-level models
+
+62
+00:01:24,950 --> 00:01:24,960
+In these scenarios, multi-level models
+ 
+
+63
+00:01:24,960 --> 00:01:28,710
+In these scenarios, multi-level models
+may be helpful.
+
+64
+00:01:28,710 --> 00:01:28,720
+
+ 
+
+65
+00:01:28,720 --> 00:01:31,109
+
+An ordinary random effects model can be
+
+66
+00:01:31,109 --> 00:01:31,119
+An ordinary random effects model can be
+ 
+
+67
+00:01:31,119 --> 00:01:33,590
+An ordinary random effects model can be
+considered as a two-level model with
+
+68
+00:01:33,590 --> 00:01:33,600
+considered as a two-level model with
+ 
+
+69
+00:01:33,600 --> 00:01:36,630
+considered as a two-level model with
+systematic variation between studies and
+
+70
+00:01:36,630 --> 00:01:36,640
+systematic variation between studies and
+ 
+
+71
+00:01:36,640 --> 00:01:39,510
+systematic variation between studies and
+sampling variance within studies.
+
+72
+00:01:39,510 --> 00:01:39,520
+sampling variance within studies.
+ 
+
+73
+00:01:39,520 --> 00:01:42,149
+sampling variance within studies.
+To account for dependencies, one could
+
+74
+00:01:42,149 --> 00:01:42,159
+To account for dependencies, one could
+ 
+
+75
+00:01:42,159 --> 00:01:45,109
+To account for dependencies, one could
+define additional levels, upper or
+
+76
+00:01:45,109 --> 00:01:45,119
+define additional levels, upper or
+ 
+
+77
+00:01:45,119 --> 00:01:48,149
+define additional levels, upper or
+intermediate levels.
+
+78
+00:01:48,149 --> 00:01:48,159
+intermediate levels.
+ 
+
+79
+00:01:48,159 --> 00:01:49,830
+intermediate levels.
+For instance, to account for the
+
+80
+00:01:49,830 --> 00:01:49,840
+For instance, to account for the
+ 
+
+81
+00:01:49,840 --> 00:01:51,510
+For instance, to account for the
+similarity of studies from the same
+
+82
+00:01:51,510 --> 00:01:51,520
+similarity of studies from the same
+ 
+
+83
+00:01:51,520 --> 00:01:54,550
+similarity of studies from the same
+country, we could define an upper
+
+84
+00:01:54,550 --> 00:01:54,560
+country, we could define an upper
+ 
+
+85
+00:01:54,560 --> 00:01:57,030
+country, we could define an upper
+country level. Whereas to account for
+
+86
+00:01:57,030 --> 00:01:57,040
+country level. Whereas to account for
+ 
+
+87
+00:01:57,040 --> 00:01:59,270
+country level. Whereas to account for
+the similarity of results from multiple
+
+88
+00:01:59,270 --> 00:01:59,280
+the similarity of results from multiple
+ 
+
+89
+00:01:59,280 --> 00:02:02,469
+the similarity of results from multiple
+substudies, we define an intermediate
+
+90
+00:02:02,469 --> 00:02:02,479
+substudies, we define an intermediate
+ 
+
+91
+00:02:02,479 --> 00:02:06,149
+substudies, we define an intermediate
+substudy level. In other words, instead
+
+92
+00:02:06,149 --> 00:02:06,159
+substudy level. In other words, instead
+ 
+
+93
+00:02:06,159 --> 00:02:08,710
+substudy level. In other words, instead
+of assuming that observed effect sizes
+
+94
+00:02:08,710 --> 00:02:08,720
+of assuming that observed effect sizes
+ 
+
+95
+00:02:08,720 --> 00:02:10,869
+of assuming that observed effect sizes
+vary because of sampling variance and
+
+96
+00:02:10,869 --> 00:02:10,879
+vary because of sampling variance and
+ 
+
+97
+00:02:10,879 --> 00:02:13,830
+vary because of sampling variance and
+systematic between study variance alone,
+
+98
+00:02:13,830 --> 00:02:13,840
+systematic between study variance alone,
+ 
+
+99
+00:02:13,840 --> 00:02:15,910
+systematic between study variance alone,
+we now say that on top of the sampling
+
+100
+00:02:15,910 --> 00:02:15,920
+we now say that on top of the sampling
+ 
+
+101
+00:02:15,920 --> 00:02:18,390
+we now say that on top of the sampling
+variance, there can be multiple kinds of
+
+102
+00:02:18,390 --> 00:02:18,400
+variance, there can be multiple kinds of
+ 
+
+103
+00:02:18,400 --> 00:02:21,110
+variance, there can be multiple kinds of
+systematic variance. For instance,
+
+104
+00:02:21,110 --> 00:02:21,120
+systematic variance. For instance,
+ 
+
+105
+00:02:21,120 --> 00:02:23,750
+systematic variance. For instance,
+variance between countries,
+
+106
+00:02:23,750 --> 00:02:23,760
+variance between countries,
+ 
+
+107
+00:02:23,760 --> 00:02:25,589
+variance between countries,
+variance between studies from the same
+
+108
+00:02:25,589 --> 00:02:25,599
+variance between studies from the same
+ 
+
+109
+00:02:25,599 --> 00:02:27,110
+variance between studies from the same
+country,
+
+110
+00:02:27,110 --> 00:02:27,120
+country,
+ 
+
+111
+00:02:27,120 --> 00:02:29,430
+country,
+variance between substudies from the
+
+112
+00:02:29,430 --> 00:02:29,440
+variance between substudies from the
+ 
+
+113
+00:02:29,440 --> 00:02:32,949
+variance between substudies from the
+same study. To that end, we use a
+
+114
+00:02:32,949 --> 00:02:32,959
+same study. To that end, we use a
+ 
+
+115
+00:02:32,959 --> 00:02:35,509
+same study. To that end, we use a
+metalytic model with a random country
+
+116
+00:02:35,509 --> 00:02:35,519
+metalytic model with a random country
+ 
+
+117
+00:02:35,519 --> 00:02:38,070
+metalytic model with a random country
+effect, random study effect, and a
+
+118
+00:02:38,070 --> 00:02:38,080
+effect, random study effect, and a
+ 
+
+119
+00:02:38,080 --> 00:02:43,990
+effect, random study effect, and a
+random substy.
+
+120
+00:02:43,990 --> 00:02:44,000
+
+ 
+
+121
+00:02:44,000 --> 00:02:46,790
+
+Other more complex models are possible
+
+122
+00:02:46,790 --> 00:02:46,800
+Other more complex models are possible
+ 
+
+123
+00:02:46,800 --> 00:02:49,350
+Other more complex models are possible
+as well. For instance, think about a
+
+124
+00:02:49,350 --> 00:02:49,360
+as well. For instance, think about a
+ 
+
+125
+00:02:49,360 --> 00:02:51,589
+as well. For instance, think about a
+scenario where studies may report
+
+126
+00:02:51,589 --> 00:02:51,599
+scenario where studies may report
+ 
+
+127
+00:02:51,599 --> 00:02:54,070
+scenario where studies may report
+multiple effect sizes and when the same
+
+128
+00:02:54,070 --> 00:02:54,080
+multiple effect sizes and when the same
+ 
+
+129
+00:02:54,080 --> 00:02:55,830
+multiple effect sizes and when the same
+instrument may be used in multiple
+
+130
+00:02:55,830 --> 00:02:55,840
+instrument may be used in multiple
+ 
+
+131
+00:02:55,840 --> 00:02:59,030
+instrument may be used in multiple
+studies. In this situation, instruments
+
+132
+00:02:59,030 --> 00:02:59,040
+studies. In this situation, instruments
+ 
+
+133
+00:02:59,040 --> 00:03:01,430
+studies. In this situation, instruments
+are not nested within studies because
+
+134
+00:03:01,430 --> 00:03:01,440
+are not nested within studies because
+ 
+
+135
+00:03:01,440 --> 00:03:03,589
+are not nested within studies because
+the same instrument is used in multiple
+
+136
+00:03:03,589 --> 00:03:03,599
+the same instrument is used in multiple
+ 
+
+137
+00:03:03,599 --> 00:03:05,190
+the same instrument is used in multiple
+studies.
+
+138
+00:03:05,190 --> 00:03:05,200
+studies.
+ 
+
+139
+00:03:05,200 --> 00:03:07,270
+studies.
+But the other way around, studies are
+
+140
+00:03:07,270 --> 00:03:07,280
+But the other way around, studies are
+ 
+
+141
+00:03:07,280 --> 00:03:09,910
+But the other way around, studies are
+also not nested within instruments
+
+142
+00:03:09,910 --> 00:03:09,920
+also not nested within instruments
+ 
+
+143
+00:03:09,920 --> 00:03:13,030
+also not nested within instruments
+because the same study may use multiple
+
+144
+00:03:13,030 --> 00:03:13,040
+because the same study may use multiple
+ 
+
+145
+00:03:13,040 --> 00:03:16,390
+because the same study may use multiple
+instruments.
+
+146
+00:03:16,390 --> 00:03:16,400
+
+ 
+
+147
+00:03:16,400 --> 00:03:19,110
+
+Again we can use random effects to model
+
+148
+00:03:19,110 --> 00:03:19,120
+Again we can use random effects to model
+ 
+
+149
+00:03:19,120 --> 00:03:21,509
+Again we can use random effects to model
+the effect of the studies and the effect
+
+150
+00:03:21,509 --> 00:03:21,519
+the effect of the studies and the effect
+ 
+
+151
+00:03:21,519 --> 00:03:24,630
+the effect of the studies and the effect
+of instruments. But now these random
+
+152
+00:03:24,630 --> 00:03:24,640
+of instruments. But now these random
+ 
+
+153
+00:03:24,640 --> 00:03:27,509
+of instruments. But now these random
+effects are not nested or hierarchally
+
+154
+00:03:27,509 --> 00:03:27,519
+effects are not nested or hierarchally
+ 
+
+155
+00:03:27,519 --> 00:03:34,710
+effects are not nested or hierarchally
+structured but rather cross-classified.
+
+156
+00:03:34,710 --> 00:03:34,720
+
+ 
+
+157
+00:03:34,720 --> 00:03:37,350
+
+Another common situation is where in one
+
+158
+00:03:37,350 --> 00:03:37,360
+Another common situation is where in one
+ 
+
+159
+00:03:37,360 --> 00:03:39,509
+Another common situation is where in one
+study multiple effect sizes are
+
+160
+00:03:39,509 --> 00:03:39,519
+study multiple effect sizes are
+ 
+
+161
+00:03:39,519 --> 00:03:41,910
+study multiple effect sizes are
+calculated on the same sample of
+
+162
+00:03:41,910 --> 00:03:41,920
+calculated on the same sample of
+ 
+
+163
+00:03:41,920 --> 00:03:47,910
+calculated on the same sample of
+participants.
+
+164
+00:03:47,910 --> 00:03:47,920
+
+ 
+
+165
+00:03:47,920 --> 00:03:50,229
+
+You remember that the sampling variance
+
+166
+00:03:50,229 --> 00:03:50,239
+You remember that the sampling variance
+ 
+
+167
+00:03:50,239 --> 00:03:52,630
+You remember that the sampling variance
+is typically estimated before doing a
+
+168
+00:03:52,630 --> 00:03:52,640
+is typically estimated before doing a
+ 
+
+169
+00:03:52,640 --> 00:03:55,589
+is typically estimated before doing a
+map analysis and therefore is considered
+
+170
+00:03:55,589 --> 00:03:55,599
+map analysis and therefore is considered
+ 
+
+171
+00:03:55,599 --> 00:03:59,509
+map analysis and therefore is considered
+as known during the meta analysis.
+
+172
+00:03:59,509 --> 00:03:59,519
+as known during the meta analysis.
+ 
+
+173
+00:03:59,519 --> 00:04:00,949
+as known during the meta analysis.
+But in a situation where you have
+
+174
+00:04:00,949 --> 00:04:00,959
+But in a situation where you have
+ 
+
+175
+00:04:00,959 --> 00:04:03,830
+But in a situation where you have
+multiple effect sizes calculated for the
+
+176
+00:04:03,830 --> 00:04:03,840
+multiple effect sizes calculated for the
+ 
+
+177
+00:04:03,840 --> 00:04:06,710
+multiple effect sizes calculated for the
+same sample, there's not only sampling
+
+178
+00:04:06,710 --> 00:04:06,720
+same sample, there's not only sampling
+ 
+
+179
+00:04:06,720 --> 00:04:12,229
+same sample, there's not only sampling
+variance but also sampling co-variance.
+
+180
+00:04:12,229 --> 00:04:12,239
+
+ 
+
+181
+00:04:12,239 --> 00:04:14,470
+
+For instance, for two standardized mean
+
+182
+00:04:14,470 --> 00:04:14,480
+For instance, for two standardized mean
+ 
+
+183
+00:04:14,480 --> 00:04:17,270
+For instance, for two standardized mean
+differences calculated in the same study
+
+184
+00:04:17,270 --> 00:04:17,280
+differences calculated in the same study
+ 
+
+185
+00:04:17,280 --> 00:04:19,990
+differences calculated in the same study
+for two different outcomes but based on
+
+186
+00:04:19,990 --> 00:04:20,000
+for two different outcomes but based on
+ 
+
+187
+00:04:20,000 --> 00:04:23,270
+for two different outcomes but based on
+the same sample, we have a co-variance
+
+188
+00:04:23,270 --> 00:04:23,280
+the same sample, we have a co-variance
+ 
+
+189
+00:04:23,280 --> 00:04:24,870
+the same sample, we have a co-variance
+that can be calculated with this
+
+190
+00:04:24,870 --> 00:04:24,880
+that can be calculated with this
+ 
+
+191
+00:04:24,880 --> 00:04:26,469
+that can be calculated with this
+formula.
+
+192
+00:04:26,469 --> 00:04:26,479
+formula.
+ 
+
+193
+00:04:26,479 --> 00:04:28,870
+formula.
+You see the parameter row in this
+
+194
+00:04:28,870 --> 00:04:28,880
+You see the parameter row in this
+ 
+
+195
+00:04:28,880 --> 00:04:31,590
+You see the parameter row in this
+formula which refers to the correlation
+
+196
+00:04:31,590 --> 00:04:31,600
+formula which refers to the correlation
+ 
+
+197
+00:04:31,600 --> 00:04:34,710
+formula which refers to the correlation
+between the two outcome variables.
+
+198
+00:04:34,710 --> 00:04:34,720
+between the two outcome variables.
+ 
+
+199
+00:04:34,720 --> 00:04:37,030
+between the two outcome variables.
+A positive correlation between the
+
+200
+00:04:37,030 --> 00:04:37,040
+A positive correlation between the
+ 
+
+201
+00:04:37,040 --> 00:04:39,830
+A positive correlation between the
+outcomes will also result in a positive
+
+202
+00:04:39,830 --> 00:04:39,840
+outcomes will also result in a positive
+ 
+
+203
+00:04:39,840 --> 00:04:42,950
+outcomes will also result in a positive
+correlation between the effect sizes. So
+
+204
+00:04:42,950 --> 00:04:42,960
+correlation between the effect sizes. So
+ 
+
+205
+00:04:42,960 --> 00:04:45,990
+correlation between the effect sizes. So
+if two outcomes correlate positively and
+
+206
+00:04:45,990 --> 00:04:46,000
+if two outcomes correlate positively and
+ 
+
+207
+00:04:46,000 --> 00:04:48,469
+if two outcomes correlate positively and
+by coincidence you have thrown a sample
+
+208
+00:04:48,469 --> 00:04:48,479
+by coincidence you have thrown a sample
+ 
+
+209
+00:04:48,479 --> 00:04:49,990
+by coincidence you have thrown a sample
+for which the standardized mean
+
+210
+00:04:49,990 --> 00:04:50,000
+for which the standardized mean
+ 
+
+211
+00:04:50,000 --> 00:04:52,710
+for which the standardized mean
+difference for one outcome is relatively
+
+212
+00:04:52,710 --> 00:04:52,720
+difference for one outcome is relatively
+ 
+
+213
+00:04:52,720 --> 00:04:55,350
+difference for one outcome is relatively
+high. You can expect that the other
+
+214
+00:04:55,350 --> 00:04:55,360
+high. You can expect that the other
+ 
+
+215
+00:04:55,360 --> 00:04:57,749
+high. You can expect that the other
+effect size will be relatively high as
+
+216
+00:04:57,749 --> 00:04:57,759
+effect size will be relatively high as
+ 
+
+217
+00:04:57,759 --> 00:05:00,950
+effect size will be relatively high as
+well.
+
+218
+00:05:00,950 --> 00:05:00,960
+
+ 
+
+219
+00:05:00,960 --> 00:05:02,950
+
+After calculating the sampling variance
+
+220
+00:05:02,950 --> 00:05:02,960
+After calculating the sampling variance
+ 
+
+221
+00:05:02,960 --> 00:05:05,510
+After calculating the sampling variance
+and co-variance, you can then perform a
+
+222
+00:05:05,510 --> 00:05:05,520
+and co-variance, you can then perform a
+ 
+
+223
+00:05:05,520 --> 00:05:08,629
+and co-variance, you can then perform a
+multivariant meta analysis treating the
+
+224
+00:05:08,629 --> 00:05:08,639
+multivariant meta analysis treating the
+ 
+
+225
+00:05:08,639 --> 00:05:10,950
+multivariant meta analysis treating the
+sampling variance and coariance as
+
+226
+00:05:10,950 --> 00:05:10,960
+sampling variance and coariance as
+ 
+
+227
+00:05:10,960 --> 00:05:13,909
+sampling variance and coariance as
+known.
+
+228
+00:05:13,909 --> 00:05:13,919
+known.
+ 
+
+229
+00:05:13,919 --> 00:05:16,230
+known.
+An issue, however, is that the row is
+
+230
+00:05:16,230 --> 00:05:16,240
+An issue, however, is that the row is
+ 
+
+231
+00:05:16,240 --> 00:05:18,230
+An issue, however, is that the row is
+unknown
+
+232
+00:05:18,230 --> 00:05:18,240
+unknown
+ 
+
+233
+00:05:18,240 --> 00:05:20,469
+unknown
+and that often studies do not report an
+
+234
+00:05:20,469 --> 00:05:20,479
+and that often studies do not report an
+ 
+
+235
+00:05:20,479 --> 00:05:23,590
+and that often studies do not report an
+estimate of this correlation.
+
+236
+00:05:23,590 --> 00:05:23,600
+estimate of this correlation.
+ 
+
+237
+00:05:23,600 --> 00:05:25,990
+estimate of this correlation.
+Therefore, we could use a reasonable
+
+238
+00:05:25,990 --> 00:05:26,000
+Therefore, we could use a reasonable
+ 
+
+239
+00:05:26,000 --> 00:05:29,590
+Therefore, we could use a reasonable
+guess for row and then try out other
+
+240
+00:05:29,590 --> 00:05:29,600
+guess for row and then try out other
+ 
+
+241
+00:05:29,600 --> 00:05:31,749
+guess for row and then try out other
+values to investigate whether the
+
+242
+00:05:31,749 --> 00:05:31,759
+values to investigate whether the
+ 
+
+243
+00:05:31,759 --> 00:05:34,070
+values to investigate whether the
+conclusions of our meta analysis are
+
+244
+00:05:34,070 --> 00:05:34,080
+conclusions of our meta analysis are
+ 
+
+245
+00:05:34,080 --> 00:05:41,830
+conclusions of our meta analysis are
+sensitive to the value chosen.
+
+246
+00:05:41,830 --> 00:05:41,840
+
+ 
+
+247
+00:05:41,840 --> 00:05:43,510
+
+As an alternative, we can use the
+
+248
+00:05:43,510 --> 00:05:43,520
+As an alternative, we can use the
+ 
+
+249
+00:05:43,520 --> 00:05:46,150
+As an alternative, we can use the
+following trick. We can treat the effect
+
+250
+00:05:46,150 --> 00:05:46,160
+following trick. We can treat the effect
+ 
+
+251
+00:05:46,160 --> 00:05:48,230
+following trick. We can treat the effect
+sizes from the same sample within a
+
+252
+00:05:48,230 --> 00:05:48,240
+sizes from the same sample within a
+ 
+
+253
+00:05:48,240 --> 00:05:51,510
+sizes from the same sample within a
+study as if they are based on separate
+
+254
+00:05:51,510 --> 00:05:51,520
+study as if they are based on separate
+ 
+
+255
+00:05:51,520 --> 00:05:54,310
+study as if they are based on separate
+samples but for different substies
+
+256
+00:05:54,310 --> 00:05:54,320
+samples but for different substies
+ 
+
+257
+00:05:54,320 --> 00:05:56,550
+samples but for different substies
+within that study.
+
+258
+00:05:56,550 --> 00:05:56,560
+within that study.
+ 
+
+259
+00:05:56,560 --> 00:05:59,029
+within that study.
+The advantage is that we do not need to
+
+260
+00:05:59,029 --> 00:05:59,039
+The advantage is that we do not need to
+ 
+
+261
+00:05:59,039 --> 00:06:02,870
+The advantage is that we do not need to
+estimate the sampling coariance.
+
+262
+00:06:02,870 --> 00:06:02,880
+estimate the sampling coariance.
+ 
+
+263
+00:06:02,880 --> 00:06:04,870
+estimate the sampling coariance.
+The association between effect sizes
+
+264
+00:06:04,870 --> 00:06:04,880
+The association between effect sizes
+ 
+
+265
+00:06:04,880 --> 00:06:07,909
+The association between effect sizes
+from the same study is accounted for by
+
+266
+00:06:07,909 --> 00:06:07,919
+from the same study is accounted for by
+ 
+
+267
+00:06:07,919 --> 00:06:10,950
+from the same study is accounted for by
+modeling the effect sizes as nested
+
+268
+00:06:10,950 --> 00:06:10,960
+modeling the effect sizes as nested
+ 
+
+269
+00:06:10,960 --> 00:06:14,070
+modeling the effect sizes as nested
+within studies.
+
+270
+00:06:14,070 --> 00:06:14,080
+within studies.
+ 
+
+271
+00:06:14,080 --> 00:06:16,230
+within studies.
+In some simulation studies, we have
+
+272
+00:06:16,230 --> 00:06:16,240
+In some simulation studies, we have
+ 
+
+273
+00:06:16,240 --> 00:06:18,629
+In some simulation studies, we have
+shown that this trick seems to work
+
+274
+00:06:18,629 --> 00:06:18,639
+shown that this trick seems to work
+ 
+
+275
+00:06:18,639 --> 00:06:23,110
+shown that this trick seems to work
+relatively well.
+
+276
+00:06:23,110 --> 00:06:23,120
+
+ 
+
+277
+00:06:23,120 --> 00:06:25,189
+
+The multi-level modeling framework is a
+
+278
+00:06:25,189 --> 00:06:25,199
+The multi-level modeling framework is a
+ 
+
+279
+00:06:25,199 --> 00:06:28,550
+The multi-level modeling framework is a
+very flexible and helpful framework.
+
+280
+00:06:28,550 --> 00:06:28,560
+very flexible and helpful framework.
+ 
+
+281
+00:06:28,560 --> 00:06:31,909
+very flexible and helpful framework.
+Yet, a drawback is that we make several
+
+282
+00:06:31,909 --> 00:06:31,919
+Yet, a drawback is that we make several
+ 
+
+283
+00:06:31,919 --> 00:06:35,430
+Yet, a drawback is that we make several
+assumptions that may be wrong.
+
+284
+00:06:35,430 --> 00:06:35,440
+assumptions that may be wrong.
+ 
+
+285
+00:06:35,440 --> 00:06:37,510
+assumptions that may be wrong.
+First assumption is that the model is
+
+286
+00:06:37,510 --> 00:06:37,520
+First assumption is that the model is
+ 
+
+287
+00:06:37,520 --> 00:06:40,309
+First assumption is that the model is
+correctly specified.
+
+288
+00:06:40,309 --> 00:06:40,319
+correctly specified.
+ 
+
+289
+00:06:40,319 --> 00:06:42,950
+correctly specified.
+For instance, we have to define what the
+
+290
+00:06:42,950 --> 00:06:42,960
+For instance, we have to define what the
+ 
+
+291
+00:06:42,960 --> 00:06:45,350
+For instance, we have to define what the
+different levels are. Can use a threele
+
+292
+00:06:45,350 --> 00:06:45,360
+different levels are. Can use a threele
+ 
+
+293
+00:06:45,360 --> 00:06:48,070
+different levels are. Can use a threele
+model, but maybe sometimes a four or
+
+294
+00:06:48,070 --> 00:06:48,080
+model, but maybe sometimes a four or
+ 
+
+295
+00:06:48,080 --> 00:06:51,430
+model, but maybe sometimes a four or
+five level model is more appropriate.
+
+296
+00:06:51,430 --> 00:06:51,440
+five level model is more appropriate.
+ 
+
+297
+00:06:51,440 --> 00:06:53,830
+five level model is more appropriate.
+Note that when we use a trick of
+
+298
+00:06:53,830 --> 00:06:53,840
+Note that when we use a trick of
+ 
+
+299
+00:06:53,840 --> 00:06:55,909
+Note that when we use a trick of
+considering effect sizes coming from the
+
+300
+00:06:55,909 --> 00:06:55,919
+considering effect sizes coming from the
+ 
+
+301
+00:06:55,919 --> 00:06:59,510
+considering effect sizes coming from the
+same sample as effect sizes coming from
+
+302
+00:06:59,510 --> 00:06:59,520
+same sample as effect sizes coming from
+ 
+
+303
+00:06:59,520 --> 00:07:02,150
+same sample as effect sizes coming from
+separate samples from the same study,
+
+304
+00:07:02,150 --> 00:07:02,160
+separate samples from the same study,
+ 
+
+305
+00:07:02,160 --> 00:07:09,110
+separate samples from the same study,
+our model is not correctly specified.
+
+306
+00:07:09,110 --> 00:07:09,120
+
+ 
+
+307
+00:07:09,120 --> 00:07:11,749
+
+Related to this, we need a sufficient
+
+308
+00:07:11,749 --> 00:07:11,759
+Related to this, we need a sufficient
+ 
+
+309
+00:07:11,759 --> 00:07:13,749
+Related to this, we need a sufficient
+number of units to be able to estimate
+
+310
+00:07:13,749 --> 00:07:13,759
+number of units to be able to estimate
+ 
+
+311
+00:07:13,759 --> 00:07:16,070
+number of units to be able to estimate
+the variance of an additional random
+
+312
+00:07:16,070 --> 00:07:16,080
+the variance of an additional random
+ 
+
+313
+00:07:16,080 --> 00:07:19,589
+the variance of an additional random
+effect. For instance, if you would have
+
+314
+00:07:19,589 --> 00:07:19,599
+effect. For instance, if you would have
+ 
+
+315
+00:07:19,599 --> 00:07:23,270
+effect. For instance, if you would have
+data from two countries
+
+316
+00:07:23,270 --> 00:07:23,280
+data from two countries
+ 
+
+317
+00:07:23,280 --> 00:07:25,749
+data from two countries
+only from two countries, you cannot
+
+318
+00:07:25,749 --> 00:07:25,759
+only from two countries, you cannot
+ 
+
+319
+00:07:25,759 --> 00:07:28,230
+only from two countries, you cannot
+estimate the between country variance
+
+320
+00:07:28,230 --> 00:07:28,240
+estimate the between country variance
+ 
+
+321
+00:07:28,240 --> 00:07:29,909
+estimate the between country variance
+and hence it does not make sense to
+
+322
+00:07:29,909 --> 00:07:29,919
+and hence it does not make sense to
+ 
+
+323
+00:07:29,919 --> 00:07:34,390
+and hence it does not make sense to
+include a random country effect.
+
+324
+00:07:34,390 --> 00:07:34,400
+include a random country effect.
+ 
+
+325
+00:07:34,400 --> 00:07:36,150
+include a random country effect.
+Or if you would have data from 10
+
+326
+00:07:36,150 --> 00:07:36,160
+Or if you would have data from 10
+ 
+
+327
+00:07:36,160 --> 00:07:38,469
+Or if you would have data from 10
+studies coming from 12 countries in
+
+328
+00:07:38,469 --> 00:07:38,479
+studies coming from 12 countries in
+ 
+
+329
+00:07:38,479 --> 00:07:41,670
+studies coming from 12 countries in
+total, it is hard to disentangle the
+
+330
+00:07:41,670 --> 00:07:41,680
+total, it is hard to disentangle the
+ 
+
+331
+00:07:41,680 --> 00:07:44,150
+total, it is hard to disentangle the
+country effect and the study effect. So
+
+332
+00:07:44,150 --> 00:07:44,160
+country effect and the study effect. So
+ 
+
+333
+00:07:44,160 --> 00:07:46,309
+country effect and the study effect. So
+again it does not make sense to include
+
+334
+00:07:46,309 --> 00:07:46,319
+again it does not make sense to include
+ 
+
+335
+00:07:46,319 --> 00:07:49,909
+again it does not make sense to include
+that country level
+
+336
+00:07:49,909 --> 00:07:49,919
+that country level
+ 
+
+337
+00:07:49,919 --> 00:07:51,749
+that country level
+and suppose you have 10 studies from the
+
+338
+00:07:51,749 --> 00:07:51,759
+and suppose you have 10 studies from the
+ 
+
+339
+00:07:51,759 --> 00:07:55,029
+and suppose you have 10 studies from the
+US and 10 other studies each coming from
+
+340
+00:07:55,029 --> 00:07:55,039
+US and 10 other studies each coming from
+ 
+
+341
+00:07:55,039 --> 00:07:57,830
+US and 10 other studies each coming from
+another country.
+
+342
+00:07:57,830 --> 00:07:57,840
+another country.
+ 
+
+343
+00:07:57,840 --> 00:08:00,070
+another country.
+In that situation it is possible to
+
+344
+00:08:00,070 --> 00:08:00,080
+In that situation it is possible to
+ 
+
+345
+00:08:00,080 --> 00:08:02,150
+In that situation it is possible to
+estimate the variance between countries
+
+346
+00:08:02,150 --> 00:08:02,160
+estimate the variance between countries
+ 
+
+347
+00:08:02,160 --> 00:08:04,150
+estimate the variance between countries
+and the variance between studies within
+
+348
+00:08:04,150 --> 00:08:04,160
+and the variance between studies within
+ 
+
+349
+00:08:04,160 --> 00:08:07,990
+and the variance between studies within
+countries. But here the between study
+
+350
+00:08:07,990 --> 00:08:08,000
+countries. But here the between study
+ 
+
+351
+00:08:08,000 --> 00:08:10,550
+countries. But here the between study
+estimate would be based only on the
+
+352
+00:08:10,550 --> 00:08:10,560
+estimate would be based only on the
+ 
+
+353
+00:08:10,560 --> 00:08:13,830
+estimate would be based only on the
+variation between studies within the US
+
+354
+00:08:13,830 --> 00:08:13,840
+variation between studies within the US
+ 
+
+355
+00:08:13,840 --> 00:08:15,990
+variation between studies within the US
+whereas in other countries this variance
+
+356
+00:08:15,990 --> 00:08:16,000
+whereas in other countries this variance
+ 
+
+357
+00:08:16,000 --> 00:08:21,589
+whereas in other countries this variance
+may be substantially different.
+
+358
+00:08:21,589 --> 00:08:21,599
+
+ 
+
+359
+00:08:21,599 --> 00:08:24,309
+
+Another assumption is that at each level
+
+360
+00:08:24,309 --> 00:08:24,319
+Another assumption is that at each level
+ 
+
+361
+00:08:24,319 --> 00:08:27,909
+Another assumption is that at each level
+we make the assumption that residuals or
+
+362
+00:08:27,909 --> 00:08:27,919
+we make the assumption that residuals or
+ 
+
+363
+00:08:27,919 --> 00:08:30,469
+we make the assumption that residuals or
+random effects are independent and
+
+364
+00:08:30,469 --> 00:08:30,479
+random effects are independent and
+ 
+
+365
+00:08:30,479 --> 00:08:33,190
+random effects are independent and
+normally distributed.
+
+366
+00:08:33,190 --> 00:08:33,200
+normally distributed.
+ 
+
+367
+00:08:33,200 --> 00:08:40,550
+normally distributed.
+assumptions that may also be violated.
+
+368
+00:08:40,550 --> 00:08:40,560
+
+ 
+
+369
+00:08:40,560 --> 00:08:42,550
+
+Another issue is that the sampling
+
+370
+00:08:42,550 --> 00:08:42,560
+Another issue is that the sampling
+ 
+
+371
+00:08:42,560 --> 00:08:45,030
+Another issue is that the sampling
+variance may be incorrectly estimated.
+
+372
+00:08:45,030 --> 00:08:45,040
+variance may be incorrectly estimated.
+ 
+
+373
+00:08:45,040 --> 00:08:47,670
+variance may be incorrectly estimated.
+For instance, the sampling variance of a
+
+374
+00:08:47,670 --> 00:08:47,680
+For instance, the sampling variance of a
+ 
+
+375
+00:08:47,680 --> 00:08:50,389
+For instance, the sampling variance of a
+standardized difference between the mean
+
+376
+00:08:50,389 --> 00:08:50,399
+standardized difference between the mean
+ 
+
+377
+00:08:50,399 --> 00:08:53,430
+standardized difference between the mean
+pre-est score versus the mean post- test
+
+378
+00:08:53,430 --> 00:08:53,440
+pre-est score versus the mean post- test
+ 
+
+379
+00:08:53,440 --> 00:08:55,910
+pre-est score versus the mean post- test
+score depends on the correlation between
+
+380
+00:08:55,910 --> 00:08:55,920
+score depends on the correlation between
+ 
+
+381
+00:08:55,920 --> 00:09:01,190
+score depends on the correlation between
+the pre and post test post- test scores.
+
+382
+00:09:01,190 --> 00:09:01,200
+the pre and post test post- test scores.
+ 
+
+383
+00:09:01,200 --> 00:09:04,150
+the pre and post test post- test scores.
+Unfortunately, often studies that use
+
+384
+00:09:04,150 --> 00:09:04,160
+Unfortunately, often studies that use
+ 
+
+385
+00:09:04,160 --> 00:09:06,630
+Unfortunately, often studies that use
+such a design do not report that
+
+386
+00:09:06,630 --> 00:09:06,640
+such a design do not report that
+ 
+
+387
+00:09:06,640 --> 00:09:09,750
+such a design do not report that
+correlation and hence we have to make a
+
+388
+00:09:09,750 --> 00:09:09,760
+correlation and hence we have to make a
+ 
+
+389
+00:09:09,760 --> 00:09:12,630
+correlation and hence we have to make a
+guess of that correlation in order to
+
+390
+00:09:12,630 --> 00:09:12,640
+guess of that correlation in order to
+ 
+
+391
+00:09:12,640 --> 00:09:16,389
+guess of that correlation in order to
+estimate the sampling variance.
+
+392
+00:09:16,389 --> 00:09:16,399
+estimate the sampling variance.
+ 
+
+393
+00:09:16,399 --> 00:09:19,030
+estimate the sampling variance.
+Often a correlation of 50 is used but
+
+394
+00:09:19,030 --> 00:09:19,040
+Often a correlation of 50 is used but
+ 
+
+395
+00:09:19,040 --> 00:09:20,550
+Often a correlation of 50 is used but
+this
+
+396
+00:09:20,550 --> 00:09:20,560
+this
+ 
+
+397
+00:09:20,560 --> 00:09:23,030
+this
+may be wrong and therefore the sampling
+
+398
+00:09:23,030 --> 00:09:23,040
+may be wrong and therefore the sampling
+ 
+
+399
+00:09:23,040 --> 00:09:25,110
+may be wrong and therefore the sampling
+variance estimate of the observed effect
+
+400
+00:09:25,110 --> 00:09:25,120
+variance estimate of the observed effect
+ 
+
+401
+00:09:25,120 --> 00:09:28,710
+variance estimate of the observed effect
+size may be wrong.
+
+402
+00:09:28,710 --> 00:09:28,720
+size may be wrong.
+ 
+
+403
+00:09:28,720 --> 00:09:31,030
+size may be wrong.
+As a consequence, the weights that are
+
+404
+00:09:31,030 --> 00:09:31,040
+As a consequence, the weights that are
+ 
+
+405
+00:09:31,040 --> 00:09:33,670
+As a consequence, the weights that are
+used may not be perfectly inverse
+
+406
+00:09:33,670 --> 00:09:33,680
+used may not be perfectly inverse
+ 
+
+407
+00:09:33,680 --> 00:09:37,110
+used may not be perfectly inverse
+variance weights. Moreover, standard
+
+408
+00:09:37,110 --> 00:09:37,120
+variance weights. Moreover, standard
+ 
+
+409
+00:09:37,120 --> 00:09:39,190
+variance weights. Moreover, standard
+errors obtained for the model parameters
+
+410
+00:09:39,190 --> 00:09:39,200
+errors obtained for the model parameters
+ 
+
+411
+00:09:39,200 --> 00:09:41,509
+errors obtained for the model parameters
+may be wrong and hence confidence
+
+412
+00:09:41,509 --> 00:09:41,519
+may be wrong and hence confidence
+ 
+
+413
+00:09:41,519 --> 00:09:44,150
+may be wrong and hence confidence
+intervals and hypothesis tests that make
+
+414
+00:09:44,150 --> 00:09:44,160
+intervals and hypothesis tests that make
+ 
+
+415
+00:09:44,160 --> 00:09:46,150
+intervals and hypothesis tests that make
+use of these standard errors may be
+
+416
+00:09:46,150 --> 00:09:46,160
+use of these standard errors may be
+ 
+
+417
+00:09:46,160 --> 00:09:53,670
+use of these standard errors may be
+invalid.
+
+418
+00:09:53,670 --> 00:09:53,680
+
+ 
+
+419
+00:09:53,680 --> 00:09:57,110
+
+as a safety net, we could make use of
+
+420
+00:09:57,110 --> 00:09:57,120
+as a safety net, we could make use of
+ 
+
+421
+00:09:57,120 --> 00:10:02,310
+as a safety net, we could make use of
+robust variance estimation or RVE.
+
+422
+00:10:02,310 --> 00:10:02,320
+robust variance estimation or RVE.
+ 
+
+423
+00:10:02,320 --> 00:10:04,470
+robust variance estimation or RVE.
+The idea is that instead of estimating
+
+424
+00:10:04,470 --> 00:10:04,480
+The idea is that instead of estimating
+ 
+
+425
+00:10:04,480 --> 00:10:06,389
+The idea is that instead of estimating
+standard errors as a function of the
+
+426
+00:10:06,389 --> 00:10:06,399
+standard errors as a function of the
+ 
+
+427
+00:10:06,399 --> 00:10:09,750
+standard errors as a function of the
+random variances in our model, you base
+
+428
+00:10:09,750 --> 00:10:09,760
+random variances in our model, you base
+ 
+
+429
+00:10:09,760 --> 00:10:12,230
+random variances in our model, you base
+the standard errors of the observed
+
+430
+00:10:12,230 --> 00:10:12,240
+the standard errors of the observed
+ 
+
+431
+00:10:12,240 --> 00:10:14,230
+the standard errors of the observed
+variance.
+
+432
+00:10:14,230 --> 00:10:14,240
+variance.
+ 
+
+433
+00:10:14,240 --> 00:10:16,069
+variance.
+You base the standard errors on the
+
+434
+00:10:16,069 --> 00:10:16,079
+You base the standard errors on the
+ 
+
+435
+00:10:16,079 --> 00:10:19,750
+You base the standard errors on the
+observed variance in effect sizes.
+
+436
+00:10:19,750 --> 00:10:19,760
+observed variance in effect sizes.
+ 
+
+437
+00:10:19,760 --> 00:10:22,550
+observed variance in effect sizes.
+In that way, the standard errors do not
+
+438
+00:10:22,550 --> 00:10:22,560
+In that way, the standard errors do not
+ 
+
+439
+00:10:22,560 --> 00:10:25,110
+In that way, the standard errors do not
+depend anymore on the model itself,
+
+440
+00:10:25,110 --> 00:10:25,120
+depend anymore on the model itself,
+ 
+
+441
+00:10:25,120 --> 00:10:27,509
+depend anymore on the model itself,
+making them robust for misspecification
+
+442
+00:10:27,509 --> 00:10:27,519
+making them robust for misspecification
+ 
+
+443
+00:10:27,519 --> 00:10:32,389
+making them robust for misspecification
+of the model.
+
+444
+00:10:32,389 --> 00:10:32,399
+
+ 
+
+445
+00:10:32,399 --> 00:10:34,710
+
+Because the standard errors are not
+
+446
+00:10:34,710 --> 00:10:34,720
+Because the standard errors are not
+ 
+
+447
+00:10:34,720 --> 00:10:38,150
+Because the standard errors are not
+model based based on the data, they are
+
+448
+00:10:38,150 --> 00:10:38,160
+model based based on the data, they are
+ 
+
+449
+00:10:38,160 --> 00:10:42,630
+model based based on the data, they are
+also called empirical standard errors.
+
+450
+00:10:42,630 --> 00:10:42,640
+also called empirical standard errors.
+ 
+
+451
+00:10:42,640 --> 00:10:44,949
+also called empirical standard errors.
+They're also called Uberwide standard
+
+452
+00:10:44,949 --> 00:10:44,959
+They're also called Uberwide standard
+ 
+
+453
+00:10:44,959 --> 00:10:47,670
+They're also called Uberwide standard
+errors and the estimation is also called
+
+454
+00:10:47,670 --> 00:10:47,680
+errors and the estimation is also called
+ 
+
+455
+00:10:47,680 --> 00:10:51,190
+errors and the estimation is also called
+cluster robust variance estimation
+
+456
+00:10:51,190 --> 00:10:51,200
+cluster robust variance estimation
+ 
+
+457
+00:10:51,200 --> 00:10:54,150
+cluster robust variance estimation
+within our situation. The studies in
+
+458
+00:10:54,150 --> 00:10:54,160
+within our situation. The studies in
+ 
+
+459
+00:10:54,160 --> 00:10:57,509
+within our situation. The studies in
+which there may be multiple effect sizes
+
+460
+00:10:57,509 --> 00:10:57,519
+which there may be multiple effect sizes
+ 
+
+461
+00:10:57,519 --> 00:11:02,949
+which there may be multiple effect sizes
+being the clusters.
+
+462
+00:11:02,949 --> 00:11:02,959
+
+ 
+
+463
+00:11:02,959 --> 00:11:04,470
+
+More specifically, in the case of meta
+
+464
+00:11:04,470 --> 00:11:04,480
+More specifically, in the case of meta
+ 
+
+465
+00:11:04,480 --> 00:11:08,310
+More specifically, in the case of meta
+analysis, we define observed residuals
+
+466
+00:11:08,310 --> 00:11:08,320
+analysis, we define observed residuals
+ 
+
+467
+00:11:08,320 --> 00:11:10,550
+analysis, we define observed residuals
+as the deviation of the I observed
+
+468
+00:11:10,550 --> 00:11:10,560
+as the deviation of the I observed
+ 
+
+469
+00:11:10,560 --> 00:11:14,470
+as the deviation of the I observed
+effect size T in study J from the
+
+470
+00:11:14,470 --> 00:11:14,480
+effect size T in study J from the
+ 
+
+471
+00:11:14,480 --> 00:11:18,310
+effect size T in study J from the
+overall effect size data.
+
+472
+00:11:18,310 --> 00:11:18,320
+overall effect size data.
+ 
+
+473
+00:11:18,320 --> 00:11:20,230
+overall effect size data.
+Instead of assuming that the variance in
+
+474
+00:11:20,230 --> 00:11:20,240
+Instead of assuming that the variance in
+ 
+
+475
+00:11:20,240 --> 00:11:22,790
+Instead of assuming that the variance in
+observed effect sizes is the sum of the
+
+476
+00:11:22,790 --> 00:11:22,800
+observed effect sizes is the sum of the
+ 
+
+477
+00:11:22,800 --> 00:11:25,350
+observed effect sizes is the sum of the
+systematic variance between studies,
+
+478
+00:11:25,350 --> 00:11:25,360
+systematic variance between studies,
+ 
+
+479
+00:11:25,360 --> 00:11:27,509
+systematic variance between studies,
+systematic variance between sub studies
+
+480
+00:11:27,509 --> 00:11:27,519
+systematic variance between sub studies
+ 
+
+481
+00:11:27,519 --> 00:11:30,150
+systematic variance between sub studies
+and the sampling variance. We now
+
+482
+00:11:30,150 --> 00:11:30,160
+and the sampling variance. We now
+ 
+
+483
+00:11:30,160 --> 00:11:35,430
+and the sampling variance. We now
+estimate the variance and coariances.
+
+484
+00:11:35,430 --> 00:11:35,440
+
+ 
+
+485
+00:11:35,440 --> 00:11:37,750
+
+The estimated variance of the observed
+
+486
+00:11:37,750 --> 00:11:37,760
+The estimated variance of the observed
+ 
+
+487
+00:11:37,760 --> 00:11:40,630
+The estimated variance of the observed
+effect sizes is the observed variance in
+
+488
+00:11:40,630 --> 00:11:40,640
+effect sizes is the observed variance in
+ 
+
+489
+00:11:40,640 --> 00:11:43,509
+effect sizes is the observed variance in
+the residuals.
+
+490
+00:11:43,509 --> 00:11:43,519
+the residuals.
+ 
+
+491
+00:11:43,519 --> 00:11:46,069
+the residuals.
+Co-variance between effect sizes from
+
+492
+00:11:46,069 --> 00:11:46,079
+Co-variance between effect sizes from
+ 
+
+493
+00:11:46,079 --> 00:11:47,990
+Co-variance between effect sizes from
+the same study is estimated by
+
+494
+00:11:47,990 --> 00:11:48,000
+the same study is estimated by
+ 
+
+495
+00:11:48,000 --> 00:11:50,069
+the same study is estimated by
+calculating the coariance in the
+
+496
+00:11:50,069 --> 00:11:50,079
+calculating the coariance in the
+ 
+
+497
+00:11:50,079 --> 00:11:53,990
+calculating the coariance in the
+residuals from the same study.
+
+498
+00:11:53,990 --> 00:11:54,000
+residuals from the same study.
+ 
+
+499
+00:11:54,000 --> 00:11:55,750
+residuals from the same study.
+The coariance between effects from
+
+500
+00:11:55,750 --> 00:11:55,760
+The coariance between effects from
+ 
+
+501
+00:11:55,760 --> 00:12:03,269
+The coariance between effects from
+different studies is assumed to be zero.
+
+502
+00:12:03,269 --> 00:12:03,279
+
+ 
+
+503
+00:12:03,279 --> 00:12:06,550
+
+The great thing about RVE is that the
+
+504
+00:12:06,550 --> 00:12:06,560
+The great thing about RVE is that the
+ 
+
+505
+00:12:06,560 --> 00:12:10,310
+The great thing about RVE is that the
+standard errors are now fine even if the
+
+506
+00:12:10,310 --> 00:12:10,320
+standard errors are now fine even if the
+ 
+
+507
+00:12:10,320 --> 00:12:12,870
+standard errors are now fine even if the
+model is not correctly specific. For
+
+508
+00:12:12,870 --> 00:12:12,880
+model is not correctly specific. For
+ 
+
+509
+00:12:12,880 --> 00:12:14,870
+model is not correctly specific. For
+instance, when you use a random effects
+
+510
+00:12:14,870 --> 00:12:14,880
+instance, when you use a random effects
+ 
+
+511
+00:12:14,880 --> 00:12:17,350
+instance, when you use a random effects
+model that does not explicitly model the
+
+512
+00:12:17,350 --> 00:12:17,360
+model that does not explicitly model the
+ 
+
+513
+00:12:17,360 --> 00:12:19,750
+model that does not explicitly model the
+dependence of effect sizes that come
+
+514
+00:12:19,750 --> 00:12:19,760
+dependence of effect sizes that come
+ 
+
+515
+00:12:19,760 --> 00:12:22,790
+dependence of effect sizes that come
+from the same study.
+
+516
+00:12:22,790 --> 00:12:22,800
+from the same study.
+ 
+
+517
+00:12:22,800 --> 00:12:25,350
+from the same study.
+Moreover, RVE does not make the
+
+518
+00:12:25,350 --> 00:12:25,360
+Moreover, RVE does not make the
+ 
+
+519
+00:12:25,360 --> 00:12:28,230
+Moreover, RVE does not make the
+assumption of normality anymore.
+
+520
+00:12:28,230 --> 00:12:28,240
+assumption of normality anymore.
+ 
+
+521
+00:12:28,240 --> 00:12:30,710
+assumption of normality anymore.
+We can also use it when observed effect
+
+522
+00:12:30,710 --> 00:12:30,720
+We can also use it when observed effect
+ 
+
+523
+00:12:30,720 --> 00:12:35,030
+We can also use it when observed effect
+sizes are not weighted according their
+
+524
+00:12:35,030 --> 00:12:35,040
+sizes are not weighted according their
+ 
+
+525
+00:12:35,040 --> 00:12:38,470
+sizes are not weighted according their
+uh precision.
+
+526
+00:12:38,470 --> 00:12:38,480
+
+ 
+
+527
+00:12:38,480 --> 00:12:43,750
+
+Yet using RVE also has its limitations.
+
+528
+00:12:43,750 --> 00:12:43,760
+Yet using RVE also has its limitations.
+ 
+
+529
+00:12:43,760 --> 00:12:45,829
+Yet using RVE also has its limitations.
+For instance, when you have sub studies
+
+530
+00:12:45,829 --> 00:12:45,839
+For instance, when you have sub studies
+ 
+
+531
+00:12:45,839 --> 00:12:48,629
+For instance, when you have sub studies
+within studies that use a two-level
+
+532
+00:12:48,629 --> 00:12:48,639
+within studies that use a two-level
+ 
+
+533
+00:12:48,639 --> 00:12:50,949
+within studies that use a two-level
+model rather than a three-level model,
+
+534
+00:12:50,949 --> 00:12:50,959
+model rather than a three-level model,
+ 
+
+535
+00:12:50,959 --> 00:12:52,870
+model rather than a three-level model,
+the standard errors you will obtain for
+
+536
+00:12:52,870 --> 00:12:52,880
+the standard errors you will obtain for
+ 
+
+537
+00:12:52,880 --> 00:12:56,069
+the standard errors you will obtain for
+the overall effect is fine, but you will
+
+538
+00:12:56,069 --> 00:12:56,079
+the overall effect is fine, but you will
+ 
+
+539
+00:12:56,079 --> 00:12:58,470
+the overall effect is fine, but you will
+not get separate variance estimates for
+
+540
+00:12:58,470 --> 00:12:58,480
+not get separate variance estimates for
+ 
+
+541
+00:12:58,480 --> 00:13:00,310
+not get separate variance estimates for
+the variance between studies and the
+
+542
+00:13:00,310 --> 00:13:00,320
+the variance between studies and the
+ 
+
+543
+00:13:00,320 --> 00:13:02,870
+the variance between studies and the
+variance between substies.
+
+544
+00:13:02,870 --> 00:13:02,880
+variance between substies.
+ 
+
+545
+00:13:02,880 --> 00:13:05,990
+variance between substies.
+Moreover, if the model is not correct,
+
+546
+00:13:05,990 --> 00:13:06,000
+Moreover, if the model is not correct,
+ 
+
+547
+00:13:06,000 --> 00:13:08,550
+Moreover, if the model is not correct,
+observed effect sizes may not be
+
+548
+00:13:08,550 --> 00:13:08,560
+observed effect sizes may not be
+ 
+
+549
+00:13:08,560 --> 00:13:11,910
+observed effect sizes may not be
+optimally weighted and hence the metalic
+
+550
+00:13:11,910 --> 00:13:11,920
+optimally weighted and hence the metalic
+ 
+
+551
+00:13:11,920 --> 00:13:17,430
+optimally weighted and hence the metalic
+results may be less precise.
+
+552
+00:13:17,430 --> 00:13:17,440
+
+ 
+
+553
+00:13:17,440 --> 00:13:20,870
+
+Therefore, an optimal solution seems to
+
+554
+00:13:20,870 --> 00:13:20,880
+Therefore, an optimal solution seems to
+ 
+
+555
+00:13:20,880 --> 00:13:23,990
+Therefore, an optimal solution seems to
+be to use a model that is as good as
+
+556
+00:13:23,990 --> 00:13:24,000
+be to use a model that is as good as
+ 
+
+557
+00:13:24,000 --> 00:13:26,470
+be to use a model that is as good as
+possible,
+
+558
+00:13:26,470 --> 00:13:26,480
+possible,
+ 
+
+559
+00:13:26,480 --> 00:13:29,750
+possible,
+but combine this model with RVE as a
+
+560
+00:13:29,750 --> 00:13:29,760
+but combine this model with RVE as a
+ 
+
+561
+00:13:29,760 --> 00:13:32,389
+but combine this model with RVE as a
+stafnet for a possible misspecification
+
+562
+00:13:32,389 --> 00:13:32,399
+stafnet for a possible misspecification
+ 
+
+563
+00:13:32,399 --> 00:13:36,790
+stafnet for a possible misspecification
+of the model.
+
+564
+00:13:36,790 --> 00:13:36,800
+
+ 
+
+565
+00:13:36,800 --> 00:13:39,430
+
+Pistski and Typton proposed three kinds
+
+566
+00:13:39,430 --> 00:13:39,440
+Pistski and Typton proposed three kinds
+ 
+
+567
+00:13:39,440 --> 00:13:41,590
+Pistski and Typton proposed three kinds
+of models to be used in combination with
+
+568
+00:13:41,590 --> 00:13:41,600
+of models to be used in combination with
+ 
+
+569
+00:13:41,600 --> 00:13:43,590
+of models to be used in combination with
+RVE.
+
+570
+00:13:43,590 --> 00:13:43,600
+RVE.
+ 
+
+571
+00:13:43,600 --> 00:13:46,069
+RVE.
+The first model is a hierarchal effects
+
+572
+00:13:46,069 --> 00:13:46,079
+The first model is a hierarchal effects
+ 
+
+573
+00:13:46,079 --> 00:13:49,430
+The first model is a hierarchal effects
+model which in fact which is in fact the
+
+574
+00:13:49,430 --> 00:13:49,440
+model which in fact which is in fact the
+ 
+
+575
+00:13:49,440 --> 00:13:51,910
+model which in fact which is in fact the
+multilevel model for instance to be used
+
+576
+00:13:51,910 --> 00:13:51,920
+multilevel model for instance to be used
+ 
+
+577
+00:13:51,920 --> 00:13:54,310
+multilevel model for instance to be used
+when within studies you have multiple
+
+578
+00:13:54,310 --> 00:13:54,320
+when within studies you have multiple
+ 
+
+579
+00:13:54,320 --> 00:13:58,069
+when within studies you have multiple
+substudies with different samples.
+
+580
+00:13:58,069 --> 00:13:58,079
+substudies with different samples.
+ 
+
+581
+00:13:58,079 --> 00:14:00,470
+substudies with different samples.
+The second model is a correlated effects
+
+582
+00:14:00,470 --> 00:14:00,480
+The second model is a correlated effects
+ 
+
+583
+00:14:00,480 --> 00:14:02,790
+The second model is a correlated effects
+model which is a multivariate model to
+
+584
+00:14:02,790 --> 00:14:02,800
+model which is a multivariate model to
+ 
+
+585
+00:14:02,800 --> 00:14:05,350
+model which is a multivariate model to
+be used when within studies multiple
+
+586
+00:14:05,350 --> 00:14:05,360
+be used when within studies multiple
+ 
+
+587
+00:14:05,360 --> 00:14:07,509
+be used when within studies multiple
+effect sizes are calculated for the same
+
+588
+00:14:07,509 --> 00:14:07,519
+effect sizes are calculated for the same
+ 
+
+589
+00:14:07,519 --> 00:14:09,990
+effect sizes are calculated for the same
+sample.
+
+590
+00:14:09,990 --> 00:14:10,000
+sample.
+ 
+
+591
+00:14:10,000 --> 00:14:12,230
+sample.
+The hierarchal and correlated effects
+
+592
+00:14:12,230 --> 00:14:12,240
+The hierarchal and correlated effects
+ 
+
+593
+00:14:12,240 --> 00:14:18,310
+The hierarchal and correlated effects
+model combines both models.
+
+594
+00:14:18,310 --> 00:14:18,320
+
+ 
+
+595
+00:14:18,320 --> 00:14:21,990
+
+To illustrate the approach, look at the
+
+596
+00:14:21,990 --> 00:14:22,000
+To illustrate the approach, look at the
+ 
+
+597
+00:14:22,000 --> 00:14:24,150
+To illustrate the approach, look at the
+example
+
+598
+00:14:24,150 --> 00:14:24,160
+example
+ 
+
+599
+00:14:24,160 --> 00:14:26,710
+example
+of a very recent meta analysis in which
+
+600
+00:14:26,710 --> 00:14:26,720
+of a very recent meta analysis in which
+ 
+
+601
+00:14:26,720 --> 00:14:29,509
+of a very recent meta analysis in which
+I was involved. In this meta analysis,
+
+602
+00:14:29,509 --> 00:14:29,519
+I was involved. In this meta analysis,
+ 
+
+603
+00:14:29,519 --> 00:14:31,910
+I was involved. In this meta analysis,
+we studied among other things the
+
+604
+00:14:31,910 --> 00:14:31,920
+we studied among other things the
+ 
+
+605
+00:14:31,920 --> 00:14:33,750
+we studied among other things the
+association between the perception of
+
+606
+00:14:33,750 --> 00:14:33,760
+association between the perception of
+ 
+
+607
+00:14:33,760 --> 00:14:36,550
+association between the perception of
+one group that another group of persons
+
+608
+00:14:36,550 --> 00:14:36,560
+one group that another group of persons
+ 
+
+609
+00:14:36,560 --> 00:14:39,430
+one group that another group of persons
+persons is not really human
+
+610
+00:14:39,430 --> 00:14:39,440
+persons is not really human
+ 
+
+611
+00:14:39,440 --> 00:14:41,829
+persons is not really human
+on one side and the willingness to use
+
+612
+00:14:41,829 --> 00:14:41,839
+on one side and the willingness to use
+ 
+
+613
+00:14:41,839 --> 00:14:44,230
+on one side and the willingness to use
+violence against that other group on the
+
+614
+00:14:44,230 --> 00:14:44,240
+violence against that other group on the
+ 
+
+615
+00:14:44,240 --> 00:14:46,230
+violence against that other group on the
+other side.
+
+616
+00:14:46,230 --> 00:14:46,240
+other side.
+ 
+
+617
+00:14:46,240 --> 00:14:49,030
+other side.
+In this meta analysis, we combined data
+
+618
+00:14:49,030 --> 00:14:49,040
+In this meta analysis, we combined data
+ 
+
+619
+00:14:49,040 --> 00:14:52,069
+In this meta analysis, we combined data
+from multiple projects.
+
+620
+00:14:52,069 --> 00:14:52,079
+from multiple projects.
+ 
+
+621
+00:14:52,079 --> 00:14:54,949
+from multiple projects.
+Each project project one or more studies
+
+622
+00:14:54,949 --> 00:14:54,959
+Each project project one or more studies
+ 
+
+623
+00:14:54,959 --> 00:14:58,310
+Each project project one or more studies
+were done and in each study one or more
+
+624
+00:14:58,310 --> 00:14:58,320
+were done and in each study one or more
+ 
+
+625
+00:14:58,320 --> 00:15:01,110
+were done and in each study one or more
+samples were investigated and for each
+
+626
+00:15:01,110 --> 00:15:01,120
+samples were investigated and for each
+ 
+
+627
+00:15:01,120 --> 00:15:05,350
+samples were investigated and for each
+sample one or more effects were studied.
+
+628
+00:15:05,350 --> 00:15:05,360
+sample one or more effects were studied.
+ 
+
+629
+00:15:05,360 --> 00:15:07,509
+sample one or more effects were studied.
+Therefore by using the trick of
+
+630
+00:15:07,509 --> 00:15:07,519
+Therefore by using the trick of
+ 
+
+631
+00:15:07,519 --> 00:15:09,189
+Therefore by using the trick of
+considering different samples as
+
+632
+00:15:09,189 --> 00:15:09,199
+considering different samples as
+ 
+
+633
+00:15:09,199 --> 00:15:11,750
+considering different samples as
+independent samples from multiple
+
+634
+00:15:11,750 --> 00:15:11,760
+independent samples from multiple
+ 
+
+635
+00:15:11,760 --> 00:15:16,870
+independent samples from multiple
+substies we would have five levels.
+
+636
+00:15:16,870 --> 00:15:16,880
+substies we would have five levels.
+ 
+
+637
+00:15:16,880 --> 00:15:19,910
+substies we would have five levels.
+Yet using the hierarchal and correlated
+
+638
+00:15:19,910 --> 00:15:19,920
+Yet using the hierarchal and correlated
+ 
+
+639
+00:15:19,920 --> 00:15:22,310
+Yet using the hierarchal and correlated
+effects model, we would have four
+
+640
+00:15:22,310 --> 00:15:22,320
+effects model, we would have four
+ 
+
+641
+00:15:22,320 --> 00:15:25,990
+effects model, we would have four
+levels.
+
+642
+00:15:25,990 --> 00:15:26,000
+
+ 
+
+643
+00:15:26,000 --> 00:15:28,870
+
+Here the results.
+
+644
+00:15:28,870 --> 00:15:28,880
+Here the results.
+ 
+
+645
+00:15:28,880 --> 00:15:30,949
+Here the results.
+I first fitted a traditional random
+
+646
+00:15:30,949 --> 00:15:30,959
+I first fitted a traditional random
+ 
+
+647
+00:15:30,959 --> 00:15:34,310
+I first fitted a traditional random
+effects model. This is a twolevel model
+
+648
+00:15:34,310 --> 00:15:34,320
+effects model. This is a twolevel model
+ 
+
+649
+00:15:34,320 --> 00:15:36,069
+effects model. This is a twolevel model
+because this model does not account for
+
+650
+00:15:36,069 --> 00:15:36,079
+because this model does not account for
+ 
+
+651
+00:15:36,079 --> 00:15:39,030
+because this model does not account for
+the dependence between effect sizes. So
+
+652
+00:15:39,030 --> 00:15:39,040
+the dependence between effect sizes. So
+ 
+
+653
+00:15:39,040 --> 00:15:40,870
+the dependence between effect sizes. So
+does not account for the overlap in
+
+654
+00:15:40,870 --> 00:15:40,880
+does not account for the overlap in
+ 
+
+655
+00:15:40,880 --> 00:15:43,350
+does not account for the overlap in
+information given by effect sizes from
+
+656
+00:15:43,350 --> 00:15:43,360
+information given by effect sizes from
+ 
+
+657
+00:15:43,360 --> 00:15:46,470
+information given by effect sizes from
+the same sample, study or project. The
+
+658
+00:15:46,470 --> 00:15:46,480
+the same sample, study or project. The
+ 
+
+659
+00:15:46,480 --> 00:15:48,230
+the same sample, study or project. The
+standard error is probably
+
+660
+00:15:48,230 --> 00:15:48,240
+standard error is probably
+ 
+
+661
+00:15:48,240 --> 00:15:50,710
+standard error is probably
+underestimated and therefore the
+
+662
+00:15:50,710 --> 00:15:50,720
+underestimated and therefore the
+ 
+
+663
+00:15:50,720 --> 00:15:52,790
+underestimated and therefore the
+confidence interval around the overall
+
+664
+00:15:52,790 --> 00:15:52,800
+confidence interval around the overall
+ 
+
+665
+00:15:52,800 --> 00:15:56,550
+confidence interval around the overall
+association is too small. The confidence
+
+666
+00:15:56,550 --> 00:15:56,560
+association is too small. The confidence
+ 
+
+667
+00:15:56,560 --> 00:15:59,590
+association is too small. The confidence
+interval is too optimistic.
+
+668
+00:15:59,590 --> 00:15:59,600
+interval is too optimistic.
+ 
+
+669
+00:15:59,600 --> 00:16:02,069
+interval is too optimistic.
+We see indeed that when using RVE for
+
+670
+00:16:02,069 --> 00:16:02,079
+We see indeed that when using RVE for
+ 
+
+671
+00:16:02,079 --> 00:16:05,030
+We see indeed that when using RVE for
+the same model, the standard error is
+
+672
+00:16:05,030 --> 00:16:05,040
+the same model, the standard error is
+ 
+
+673
+00:16:05,040 --> 00:16:07,269
+the same model, the standard error is
+considerably larger and so the
+
+674
+00:16:07,269 --> 00:16:07,279
+considerably larger and so the
+ 
+
+675
+00:16:07,279 --> 00:16:11,269
+considerably larger and so the
+confidence interval is also larger.
+
+676
+00:16:11,269 --> 00:16:11,279
+confidence interval is also larger.
+ 
+
+677
+00:16:11,279 --> 00:16:13,110
+confidence interval is also larger.
+Let's look at results when using a
+
+678
+00:16:13,110 --> 00:16:13,120
+Let's look at results when using a
+ 
+
+679
+00:16:13,120 --> 00:16:17,030
+Let's look at results when using a
+hierarchal 51 or a multivariat model
+
+680
+00:16:17,030 --> 00:16:17,040
+hierarchal 51 or a multivariat model
+ 
+
+681
+00:16:17,040 --> 00:16:21,590
+hierarchal 51 or a multivariat model
+with a guest row of.5 or8.
+
+682
+00:16:21,590 --> 00:16:21,600
+with a guest row of.5 or8.
+ 
+
+683
+00:16:21,600 --> 00:16:23,910
+with a guest row of.5 or8.
+Interestingly, for these three models,
+
+684
+00:16:23,910 --> 00:16:23,920
+Interestingly, for these three models,
+ 
+
+685
+00:16:23,920 --> 00:16:27,670
+Interestingly, for these three models,
+we get very similar results. Using RVE
+
+686
+00:16:27,670 --> 00:16:27,680
+we get very similar results. Using RVE
+ 
+
+687
+00:16:27,680 --> 00:16:29,829
+we get very similar results. Using RVE
+on top of these models slightly
+
+688
+00:16:29,829 --> 00:16:29,839
+on top of these models slightly
+ 
+
+689
+00:16:29,839 --> 00:16:32,629
+on top of these models slightly
+increases the confidence interval width,
+
+690
+00:16:32,629 --> 00:16:32,639
+increases the confidence interval width,
+ 
+
+691
+00:16:32,639 --> 00:16:34,470
+increases the confidence interval width,
+but that the results are dead very
+
+692
+00:16:34,470 --> 00:16:34,480
+but that the results are dead very
+ 
+
+693
+00:16:34,480 --> 00:16:37,350
+but that the results are dead very
+similar for these three kinds of models
+
+694
+00:16:37,350 --> 00:16:37,360
+similar for these three kinds of models
+ 
+
+695
+00:16:37,360 --> 00:16:40,470
+similar for these three kinds of models
+with or without using RVE increases our
+
+696
+00:16:40,470 --> 00:16:40,480
+with or without using RVE increases our
+ 
+
+697
+00:16:40,480 --> 00:16:44,389
+with or without using RVE increases our
+confidence in these results.
+
+698
+00:16:44,389 --> 00:16:44,399
+confidence in these results.
+ 
+
+699
+00:16:44,399 --> 00:16:46,310
+confidence in these results.
+To be honest, I do not have an
+
+700
+00:16:46,310 --> 00:16:46,320
+To be honest, I do not have an
+ 
+
+701
+00:16:46,320 --> 00:16:48,629
+To be honest, I do not have an
+explanation why the confidence interval
+
+702
+00:16:48,629 --> 00:16:48,639
+explanation why the confidence interval
+ 
+
+703
+00:16:48,639 --> 00:16:50,710
+explanation why the confidence interval
+when using RVE in combination with a
+
+704
+00:16:50,710 --> 00:16:50,720
+when using RVE in combination with a
+ 
+
+705
+00:16:50,720 --> 00:16:53,189
+when using RVE in combination with a
+two-level model is smaller than the
+
+706
+00:16:53,189 --> 00:16:53,199
+two-level model is smaller than the
+ 
+
+707
+00:16:53,199 --> 00:16:54,710
+two-level model is smaller than the
+confidence interval when using the
+
+708
+00:16:54,710 --> 00:16:54,720
+confidence interval when using the
+ 
+
+709
+00:16:54,720 --> 00:16:57,670
+confidence interval when using the
+multi-level or multivariate model. I
+
+710
+00:16:57,670 --> 00:16:57,680
+multi-level or multivariate model. I
+ 
+
+711
+00:16:57,680 --> 00:16:59,829
+multi-level or multivariate model. I
+think it would be interesting to do a
+
+712
+00:16:59,829 --> 00:16:59,839
+think it would be interesting to do a
+ 
+
+713
+00:16:59,839 --> 00:17:01,670
+think it would be interesting to do a
+simulation study to compare
+
+714
+00:17:01,670 --> 00:17:01,680
+simulation study to compare
+ 
+
+715
+00:17:01,680 --> 00:17:03,189
+simulation study to compare
+systematically these different
+
+716
+00:17:03,189 --> 00:17:03,199
+systematically these different
+ 
+
+717
+00:17:03,199 --> 00:17:07,590
+systematically these different
+approaches.
+
+718
+00:17:07,590 --> 00:17:07,600
+
+ 
+
+719
+00:17:07,600 --> 00:17:11,350
+
+To conclude, I recommend using an
+
+720
+00:17:11,350 --> 00:17:11,360
+To conclude, I recommend using an
+ 
+
+721
+00:17:11,360 --> 00:17:15,029
+To conclude, I recommend using an
+appropriate model combined with RVE. In
+
+722
+00:17:15,029 --> 00:17:15,039
+appropriate model combined with RVE. In
+ 
+
+723
+00:17:15,039 --> 00:17:17,909
+appropriate model combined with RVE. In
+this way, you combine the advantages of
+
+724
+00:17:17,909 --> 00:17:17,919
+this way, you combine the advantages of
+ 
+
+725
+00:17:17,919 --> 00:17:21,510
+this way, you combine the advantages of
+both approaches. By using RVE, the type
+
+726
+00:17:21,510 --> 00:17:21,520
+both approaches. By using RVE, the type
+ 
+
+727
+00:17:21,520 --> 00:17:24,230
+both approaches. By using RVE, the type
+one error rate is under control.
+
+728
+00:17:24,230 --> 00:17:24,240
+one error rate is under control.
+ 
+
+729
+00:17:24,240 --> 00:17:26,630
+one error rate is under control.
+By using an appropriate model, you get
+
+730
+00:17:26,630 --> 00:17:26,640
+By using an appropriate model, you get
+ 
+
+731
+00:17:26,640 --> 00:17:29,110
+By using an appropriate model, you get
+information on the different population
+
+732
+00:17:29,110 --> 00:17:29,120
+information on the different population
+ 
+
+733
+00:17:29,120 --> 00:17:31,270
+information on the different population
+variance parameters
+
+734
+00:17:31,270 --> 00:17:31,280
+variance parameters
+ 
+
+735
+00:17:31,280 --> 00:17:33,270
+variance parameters
+and studies will be appropriately
+
+736
+00:17:33,270 --> 00:17:33,280
+and studies will be appropriately
+ 
+
+737
+00:17:33,280 --> 00:17:35,270
+and studies will be appropriately
+weighted.
+
+738
+00:17:35,270 --> 00:17:35,280
+weighted.
+ 
+
+739
+00:17:35,280 --> 00:17:38,230
+weighted.
+A drawback of this approach is of course
+
+740
+00:17:38,230 --> 00:17:38,240
+A drawback of this approach is of course
+ 
+
+741
+00:17:38,240 --> 00:17:41,640
+A drawback of this approach is of course
+its complexity.
+

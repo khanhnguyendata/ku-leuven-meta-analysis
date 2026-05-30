@@ -1,0 +1,6455 @@
+1
+00:00:01,600 --> 00:00:03,669
+
+In this session, I will talk about the
+
+2
+00:00:03,669 --> 00:00:03,679
+In this session, I will talk about the
+ 
+
+3
+00:00:03,679 --> 00:00:09,270
+In this session, I will talk about the
+meta analysis of diagnostic studies.
+
+4
+00:00:09,270 --> 00:00:09,280
+
+ 
+
+5
+00:00:09,280 --> 00:00:11,910
+
+What is a diagnostic study?
+
+6
+00:00:11,910 --> 00:00:11,920
+What is a diagnostic study?
+ 
+
+7
+00:00:11,920 --> 00:00:14,470
+What is a diagnostic study?
+The purpose of a diagnostic study is to
+
+8
+00:00:14,470 --> 00:00:14,480
+The purpose of a diagnostic study is to
+ 
+
+9
+00:00:14,480 --> 00:00:17,990
+The purpose of a diagnostic study is to
+evaluate the quality of diagnostic test.
+
+10
+00:00:17,990 --> 00:00:18,000
+evaluate the quality of diagnostic test.
+ 
+
+11
+00:00:18,000 --> 00:00:20,870
+evaluate the quality of diagnostic test.
+So think for instance of a self test for
+
+12
+00:00:20,870 --> 00:00:20,880
+So think for instance of a self test for
+ 
+
+13
+00:00:20,880 --> 00:00:23,269
+So think for instance of a self test for
+corona.
+
+14
+00:00:23,269 --> 00:00:23,279
+corona.
+ 
+
+15
+00:00:23,279 --> 00:00:26,230
+corona.
+You hope that your tests can make a
+
+16
+00:00:26,230 --> 00:00:26,240
+You hope that your tests can make a
+ 
+
+17
+00:00:26,240 --> 00:00:28,470
+You hope that your tests can make a
+distinction between people who are
+
+18
+00:00:28,470 --> 00:00:28,480
+distinction between people who are
+ 
+
+19
+00:00:28,480 --> 00:00:31,589
+distinction between people who are
+positive and people who are not ne uh
+
+20
+00:00:31,589 --> 00:00:31,599
+positive and people who are not ne uh
+ 
+
+21
+00:00:31,599 --> 00:00:35,350
+positive and people who are not ne uh
+positive.
+
+22
+00:00:35,350 --> 00:00:35,360
+
+ 
+
+23
+00:00:35,360 --> 00:00:38,470
+
+In diagnostic studies, often multiple
+
+24
+00:00:38,470 --> 00:00:38,480
+In diagnostic studies, often multiple
+ 
+
+25
+00:00:38,480 --> 00:00:41,350
+In diagnostic studies, often multiple
+tests are compared to each other, but
+
+26
+00:00:41,350 --> 00:00:41,360
+tests are compared to each other, but
+ 
+
+27
+00:00:41,360 --> 00:00:43,510
+tests are compared to each other, but
+it's also possible that only one
+
+28
+00:00:43,510 --> 00:00:43,520
+it's also possible that only one
+ 
+
+29
+00:00:43,520 --> 00:00:51,590
+it's also possible that only one
+specific test is studied.
+
+30
+00:00:51,590 --> 00:00:51,600
+
+ 
+
+31
+00:00:51,600 --> 00:00:54,150
+
+What kind of data reported in a
+
+32
+00:00:54,150 --> 00:00:54,160
+What kind of data reported in a
+ 
+
+33
+00:00:54,160 --> 00:00:58,389
+What kind of data reported in a
+diagnostic test study?
+
+34
+00:00:58,389 --> 00:00:58,399
+diagnostic test study?
+ 
+
+35
+00:00:58,399 --> 00:01:00,069
+diagnostic test study?
+Well, if you want to say something about
+
+36
+00:01:00,069 --> 00:01:00,079
+Well, if you want to say something about
+ 
+
+37
+00:01:00,079 --> 00:01:03,830
+Well, if you want to say something about
+the quality of a diagnostic test, we
+
+38
+00:01:03,830 --> 00:01:03,840
+the quality of a diagnostic test, we
+ 
+
+39
+00:01:03,840 --> 00:01:06,469
+the quality of a diagnostic test, we
+need to
+
+40
+00:01:06,469 --> 00:01:06,479
+need to
+ 
+
+41
+00:01:06,479 --> 00:01:10,070
+need to
+have uh yeah a standard or we we need to
+
+42
+00:01:10,070 --> 00:01:10,080
+have uh yeah a standard or we we need to
+ 
+
+43
+00:01:10,080 --> 00:01:13,190
+have uh yeah a standard or we we need to
+have a criterion to decide on whether a
+
+44
+00:01:13,190 --> 00:01:13,200
+have a criterion to decide on whether a
+ 
+
+45
+00:01:13,200 --> 00:01:16,870
+have a criterion to decide on whether a
+person is positive or not. and we use
+
+46
+00:01:16,870 --> 00:01:16,880
+person is positive or not. and we use
+ 
+
+47
+00:01:16,880 --> 00:01:19,510
+person is positive or not. and we use
+that criterion to see whether our test
+
+48
+00:01:19,510 --> 00:01:19,520
+that criterion to see whether our test
+ 
+
+49
+00:01:19,520 --> 00:01:24,390
+that criterion to see whether our test
+that we want to evaluate works well.
+
+50
+00:01:24,390 --> 00:01:24,400
+that we want to evaluate works well.
+ 
+
+51
+00:01:24,400 --> 00:01:27,350
+that we want to evaluate works well.
+So let's look at the cases that are
+
+52
+00:01:27,350 --> 00:01:27,360
+So let's look at the cases that are
+ 
+
+53
+00:01:27,360 --> 00:01:31,749
+So let's look at the cases that are
+positive. We hope that with our tests,
+
+54
+00:01:31,749 --> 00:01:31,759
+positive. We hope that with our tests,
+ 
+
+55
+00:01:31,759 --> 00:01:34,310
+positive. We hope that with our tests,
+most of these cases that are positive
+
+56
+00:01:34,310 --> 00:01:34,320
+most of these cases that are positive
+ 
+
+57
+00:01:34,320 --> 00:01:38,230
+most of these cases that are positive
+are also positively tested. So we hope
+
+58
+00:01:38,230 --> 00:01:38,240
+are also positively tested. So we hope
+ 
+
+59
+00:01:38,240 --> 00:01:40,950
+are also positively tested. So we hope
+that the cases that are truly positive
+
+60
+00:01:40,950 --> 00:01:40,960
+that the cases that are truly positive
+ 
+
+61
+00:01:40,960 --> 00:01:43,670
+that the cases that are truly positive
+is as high as possible
+
+62
+00:01:43,670 --> 00:01:43,680
+is as high as possible
+ 
+
+63
+00:01:43,680 --> 00:01:47,590
+is as high as possible
+compared to cases that are positive but
+
+64
+00:01:47,590 --> 00:01:47,600
+compared to cases that are positive but
+ 
+
+65
+00:01:47,600 --> 00:01:50,710
+compared to cases that are positive but
+that are not positively tested.
+
+66
+00:01:50,710 --> 00:01:50,720
+that are not positively tested.
+ 
+
+67
+00:01:50,720 --> 00:01:53,109
+that are not positively tested.
+So these cases are called false
+
+68
+00:01:53,109 --> 00:01:53,119
+So these cases are called false
+ 
+
+69
+00:01:53,119 --> 00:01:54,710
+So these cases are called false
+negatives.
+
+70
+00:01:54,710 --> 00:01:54,720
+negatives.
+ 
+
+71
+00:01:54,720 --> 00:01:57,990
+negatives.
+So we hope that the true positives is
+
+72
+00:01:57,990 --> 00:01:58,000
+So we hope that the true positives is
+ 
+
+73
+00:01:58,000 --> 00:02:02,630
+So we hope that the true positives is
+larger than the false negative number.
+
+74
+00:02:02,630 --> 00:02:02,640
+larger than the false negative number.
+ 
+
+75
+00:02:02,640 --> 00:02:05,510
+larger than the false negative number.
+Similarly, for the cases that are in
+
+76
+00:02:05,510 --> 00:02:05,520
+Similarly, for the cases that are in
+ 
+
+77
+00:02:05,520 --> 00:02:07,749
+Similarly, for the cases that are in
+reality negative,
+
+78
+00:02:07,749 --> 00:02:07,759
+reality negative,
+ 
+
+79
+00:02:07,759 --> 00:02:11,029
+reality negative,
+we hope that most of them are tested
+
+80
+00:02:11,029 --> 00:02:11,039
+we hope that most of them are tested
+ 
+
+81
+00:02:11,039 --> 00:02:14,150
+we hope that most of them are tested
+negatively. So, these cases are called
+
+82
+00:02:14,150 --> 00:02:14,160
+negatively. So, these cases are called
+ 
+
+83
+00:02:14,160 --> 00:02:17,190
+negatively. So, these cases are called
+true negatives and that there are only a
+
+84
+00:02:17,190 --> 00:02:17,200
+true negatives and that there are only a
+ 
+
+85
+00:02:17,200 --> 00:02:21,510
+true negatives and that there are only a
+few or non uh cases that are positively
+
+86
+00:02:21,510 --> 00:02:21,520
+few or non uh cases that are positively
+ 
+
+87
+00:02:21,520 --> 00:02:24,949
+few or non uh cases that are positively
+tested. So, these cases are called false
+
+88
+00:02:24,949 --> 00:02:24,959
+tested. So, these cases are called false
+ 
+
+89
+00:02:24,959 --> 00:02:27,350
+tested. So, these cases are called false
+positives.
+
+90
+00:02:27,350 --> 00:02:27,360
+positives.
+ 
+
+91
+00:02:27,360 --> 00:02:30,470
+positives.
+So in general, we hope that the dark
+
+92
+00:02:30,470 --> 00:02:30,480
+So in general, we hope that the dark
+ 
+
+93
+00:02:30,480 --> 00:02:34,949
+So in general, we hope that the dark
+blue and the dark red cell uh include as
+
+94
+00:02:34,949 --> 00:02:34,959
+blue and the dark red cell uh include as
+ 
+
+95
+00:02:34,959 --> 00:02:37,509
+blue and the dark red cell uh include as
+many cases as possible and that the
+
+96
+00:02:37,509 --> 00:02:37,519
+many cases as possible and that the
+ 
+
+97
+00:02:37,519 --> 00:02:40,949
+many cases as possible and that the
+other two cells include as few cases as
+
+98
+00:02:40,949 --> 00:02:40,959
+other two cells include as few cases as
+ 
+
+99
+00:02:40,959 --> 00:02:46,070
+other two cells include as few cases as
+possible.
+
+100
+00:02:46,070 --> 00:02:46,080
+
+ 
+
+101
+00:02:46,080 --> 00:02:48,309
+
+So think for instance of an instrument
+
+102
+00:02:48,309 --> 00:02:48,319
+So think for instance of an instrument
+ 
+
+103
+00:02:48,319 --> 00:02:50,630
+So think for instance of an instrument
+uh a screening instrument for the down
+
+104
+00:02:50,630 --> 00:02:50,640
+uh a screening instrument for the down
+ 
+
+105
+00:02:50,640 --> 00:02:53,830
+uh a screening instrument for the down
+syndrome.
+
+106
+00:02:53,830 --> 00:02:53,840
+
+ 
+
+107
+00:02:53,840 --> 00:02:56,710
+
+So suppose that in a study
+
+108
+00:02:56,710 --> 00:02:56,720
+So suppose that in a study
+ 
+
+109
+00:02:56,720 --> 00:03:00,550
+So suppose that in a study
+we have data from about 5,000
+
+110
+00:03:00,550 --> 00:03:00,560
+we have data from about 5,000
+ 
+
+111
+00:03:00,560 --> 00:03:04,550
+we have data from about 5,000
+uh persons 5,000 uh babies.
+
+112
+00:03:04,550 --> 00:03:04,560
+uh persons 5,000 uh babies.
+ 
+
+113
+00:03:04,560 --> 00:03:07,589
+uh persons 5,000 uh babies.
+Some of them are
+
+114
+00:03:07,589 --> 00:03:07,599
+Some of them are
+ 
+
+115
+00:03:07,599 --> 00:03:10,790
+Some of them are
+positive. So some of them shown down
+
+116
+00:03:10,790 --> 00:03:10,800
+positive. So some of them shown down
+ 
+
+117
+00:03:10,800 --> 00:03:12,309
+positive. So some of them shown down
+syndrome
+
+118
+00:03:12,309 --> 00:03:12,319
+syndrome
+ 
+
+119
+00:03:12,319 --> 00:03:15,350
+syndrome
+more specifically about 10 persons and
+
+120
+00:03:15,350 --> 00:03:15,360
+more specifically about 10 persons and
+ 
+
+121
+00:03:15,360 --> 00:03:19,830
+more specifically about 10 persons and
+the other persons are not positive.
+
+122
+00:03:19,830 --> 00:03:19,840
+the other persons are not positive.
+ 
+
+123
+00:03:19,840 --> 00:03:23,190
+the other persons are not positive.
+So suppose that these 5,000 babies were
+
+124
+00:03:23,190 --> 00:03:23,200
+So suppose that these 5,000 babies were
+ 
+
+125
+00:03:23,200 --> 00:03:26,070
+So suppose that these 5,000 babies were
+also screened previously so during the
+
+126
+00:03:26,070 --> 00:03:26,080
+also screened previously so during the
+ 
+
+127
+00:03:26,080 --> 00:03:27,990
+also screened previously so during the
+pregnancy
+
+128
+00:03:27,990 --> 00:03:28,000
+pregnancy
+ 
+
+129
+00:03:28,000 --> 00:03:31,430
+pregnancy
+and that from the 10 positive cases nine
+
+130
+00:03:31,430 --> 00:03:31,440
+and that from the 10 positive cases nine
+ 
+
+131
+00:03:31,440 --> 00:03:35,110
+and that from the 10 positive cases nine
+cases were positively tested in using
+
+132
+00:03:35,110 --> 00:03:35,120
+cases were positively tested in using
+ 
+
+133
+00:03:35,120 --> 00:03:38,149
+cases were positively tested in using
+the screening instrument and one of them
+
+134
+00:03:38,149 --> 00:03:38,159
+the screening instrument and one of them
+ 
+
+135
+00:03:38,159 --> 00:03:40,789
+the screening instrument and one of them
+was not detected using the screening
+
+136
+00:03:40,789 --> 00:03:40,799
+was not detected using the screening
+ 
+
+137
+00:03:40,799 --> 00:03:43,190
+was not detected using the screening
+instrument
+
+138
+00:03:43,190 --> 00:03:43,200
+instrument
+ 
+
+139
+00:03:43,200 --> 00:03:46,229
+instrument
+from all the negative cases.
+
+140
+00:03:46,229 --> 00:03:46,239
+from all the negative cases.
+ 
+
+141
+00:03:46,239 --> 00:03:49,509
+from all the negative cases.
+So there are um 4,800
+
+142
+00:03:49,509 --> 00:03:49,519
+So there are um 4,800
+ 
+
+143
+00:03:49,519 --> 00:03:52,229
+So there are um 4,800
+negative cases.
+
+144
+00:03:52,229 --> 00:03:52,239
+negative cases.
+ 
+
+145
+00:03:52,239 --> 00:03:54,949
+negative cases.
+From all these negative cases, most of
+
+146
+00:03:54,949 --> 00:03:54,959
+From all these negative cases, most of
+ 
+
+147
+00:03:54,959 --> 00:03:57,910
+From all these negative cases, most of
+them were tested negatively based on the
+
+148
+00:03:57,910 --> 00:03:57,920
+them were tested negatively based on the
+ 
+
+149
+00:03:57,920 --> 00:04:01,030
+them were tested negatively based on the
+screening instrument, which is good. But
+
+150
+00:04:01,030 --> 00:04:01,040
+screening instrument, which is good. But
+ 
+
+151
+00:04:01,040 --> 00:04:09,030
+screening instrument, which is good. But
+351 cases were tested positively.
+
+152
+00:04:09,030 --> 00:04:09,040
+
+ 
+
+153
+00:04:09,040 --> 00:04:12,949
+
+So of course um both errors are not
+
+154
+00:04:12,949 --> 00:04:12,959
+So of course um both errors are not
+ 
+
+155
+00:04:12,959 --> 00:04:16,789
+So of course um both errors are not
+desirable. So if a specific baby has the
+
+156
+00:04:16,789 --> 00:04:16,799
+desirable. So if a specific baby has the
+ 
+
+157
+00:04:16,799 --> 00:04:19,270
+desirable. So if a specific baby has the
+down syndrome and this was not detected
+
+158
+00:04:19,270 --> 00:04:19,280
+down syndrome and this was not detected
+ 
+
+159
+00:04:19,280 --> 00:04:21,830
+down syndrome and this was not detected
+using the screening instrument, this has
+
+160
+00:04:21,830 --> 00:04:21,840
+using the screening instrument, this has
+ 
+
+161
+00:04:21,840 --> 00:04:24,629
+using the screening instrument, this has
+negative consequences. For instance,
+
+162
+00:04:24,629 --> 00:04:24,639
+negative consequences. For instance,
+ 
+
+163
+00:04:24,639 --> 00:04:29,189
+negative consequences. For instance,
+maybe uh the parents um would have um
+
+164
+00:04:29,189 --> 00:04:29,199
+maybe uh the parents um would have um
+ 
+
+165
+00:04:29,199 --> 00:04:33,590
+maybe uh the parents um would have um
+decided to abort the baby or maybe um it
+
+166
+00:04:33,590 --> 00:04:33,600
+decided to abort the baby or maybe um it
+ 
+
+167
+00:04:33,600 --> 00:04:35,510
+decided to abort the baby or maybe um it
+has negative consequences in the sense
+
+168
+00:04:35,510 --> 00:04:35,520
+has negative consequences in the sense
+ 
+
+169
+00:04:35,520 --> 00:04:37,350
+has negative consequences in the sense
+that that the parents are not prepared
+
+170
+00:04:37,350 --> 00:04:37,360
+that that the parents are not prepared
+ 
+
+171
+00:04:37,360 --> 00:04:40,230
+that that the parents are not prepared
+at all for having a baby with Down
+
+172
+00:04:40,230 --> 00:04:40,240
+at all for having a baby with Down
+ 
+
+173
+00:04:40,240 --> 00:04:42,310
+at all for having a baby with Down
+syndrome.
+
+174
+00:04:42,310 --> 00:04:42,320
+syndrome.
+ 
+
+175
+00:04:42,320 --> 00:04:45,670
+syndrome.
+the other type of error. So the negative
+
+176
+00:04:45,670 --> 00:04:45,680
+the other type of error. So the negative
+ 
+
+177
+00:04:45,680 --> 00:04:49,030
+the other type of error. So the negative
+and the cases that were tested positive
+
+178
+00:04:49,030 --> 00:04:49,040
+and the cases that were tested positive
+ 
+
+179
+00:04:49,040 --> 00:04:51,670
+and the cases that were tested positive
+whereas in fact these babies did not
+
+180
+00:04:51,670 --> 00:04:51,680
+whereas in fact these babies did not
+ 
+
+181
+00:04:51,680 --> 00:04:54,070
+whereas in fact these babies did not
+have the down syndrome
+
+182
+00:04:54,070 --> 00:04:54,080
+have the down syndrome
+ 
+
+183
+00:04:54,080 --> 00:04:57,189
+have the down syndrome
+also is not desirable.
+
+184
+00:04:57,189 --> 00:04:57,199
+also is not desirable.
+ 
+
+185
+00:04:57,199 --> 00:05:01,030
+also is not desirable.
+This induces unnecessary stress for the
+
+186
+00:05:01,030 --> 00:05:01,040
+This induces unnecessary stress for the
+ 
+
+187
+00:05:01,040 --> 00:05:04,310
+This induces unnecessary stress for the
+parents. So if parents are told that
+
+188
+00:05:04,310 --> 00:05:04,320
+parents. So if parents are told that
+ 
+
+189
+00:05:04,320 --> 00:05:07,590
+parents. So if parents are told that
+maybe uh the baby that they will get um
+
+190
+00:05:07,590 --> 00:05:07,600
+maybe uh the baby that they will get um
+ 
+
+191
+00:05:07,600 --> 00:05:10,150
+maybe uh the baby that they will get um
+will have the down syndrome whereas in
+
+192
+00:05:10,150 --> 00:05:10,160
+will have the down syndrome whereas in
+ 
+
+193
+00:05:10,160 --> 00:05:13,270
+will have the down syndrome whereas in
+fact this is not true.
+
+194
+00:05:13,270 --> 00:05:13,280
+fact this is not true.
+ 
+
+195
+00:05:13,280 --> 00:05:21,430
+fact this is not true.
+This induces ne unnecessary stress.
+
+196
+00:05:21,430 --> 00:05:21,440
+
+ 
+
+197
+00:05:21,440 --> 00:05:23,830
+
+The measure that we can use to express
+
+198
+00:05:23,830 --> 00:05:23,840
+The measure that we can use to express
+ 
+
+199
+00:05:23,840 --> 00:05:26,390
+The measure that we can use to express
+the quality of the screening instrument
+
+200
+00:05:26,390 --> 00:05:26,400
+the quality of the screening instrument
+ 
+
+201
+00:05:26,400 --> 00:05:29,749
+the quality of the screening instrument
+is the odds ratio. Here we can talk
+
+202
+00:05:29,749 --> 00:05:29,759
+is the odds ratio. Here we can talk
+ 
+
+203
+00:05:29,759 --> 00:05:32,950
+is the odds ratio. Here we can talk
+about the diagnostic odds ratio.
+
+204
+00:05:32,950 --> 00:05:32,960
+about the diagnostic odds ratio.
+ 
+
+205
+00:05:32,960 --> 00:05:35,110
+about the diagnostic odds ratio.
+We have already seen the odds ratio as a
+
+206
+00:05:35,110 --> 00:05:35,120
+We have already seen the odds ratio as a
+ 
+
+207
+00:05:35,120 --> 00:05:38,469
+We have already seen the odds ratio as a
+measure of association between two
+
+208
+00:05:38,469 --> 00:05:38,479
+measure of association between two
+ 
+
+209
+00:05:38,479 --> 00:05:41,590
+measure of association between two
+dichoamous variables. So we can use this
+
+210
+00:05:41,590 --> 00:05:41,600
+dichoamous variables. So we can use this
+ 
+
+211
+00:05:41,600 --> 00:05:44,790
+dichoamous variables. So we can use this
+uh measure here as well.
+
+212
+00:05:44,790 --> 00:05:44,800
+uh measure here as well.
+ 
+
+213
+00:05:44,800 --> 00:05:48,870
+uh measure here as well.
+Odds ratio can be calculated by
+
+214
+00:05:48,870 --> 00:05:48,880
+Odds ratio can be calculated by
+ 
+
+215
+00:05:48,880 --> 00:05:52,390
+Odds ratio can be calculated by
+multiplying the true positives and the
+
+216
+00:05:52,390 --> 00:05:52,400
+multiplying the true positives and the
+ 
+
+217
+00:05:52,400 --> 00:05:55,590
+multiplying the true positives and the
+true negatives. So that are the dark red
+
+218
+00:05:55,590 --> 00:05:55,600
+true negatives. So that are the dark red
+ 
+
+219
+00:05:55,600 --> 00:05:59,029
+true negatives. So that are the dark red
+and the dark blue cells. And we divide
+
+220
+00:05:59,029 --> 00:05:59,039
+and the dark blue cells. And we divide
+ 
+
+221
+00:05:59,039 --> 00:06:01,350
+and the dark blue cells. And we divide
+this multiplication by the false
+
+222
+00:06:01,350 --> 00:06:01,360
+this multiplication by the false
+ 
+
+223
+00:06:01,360 --> 00:06:03,749
+this multiplication by the false
+positives multiplied by the false
+
+224
+00:06:03,749 --> 00:06:03,759
+positives multiplied by the false
+ 
+
+225
+00:06:03,759 --> 00:06:07,430
+positives multiplied by the false
+negatives. So these are the two kinds of
+
+226
+00:06:07,430 --> 00:06:07,440
+negatives. So these are the two kinds of
+ 
+
+227
+00:06:07,440 --> 00:06:09,909
+negatives. So these are the two kinds of
+cases for which we made a wrong
+
+228
+00:06:09,909 --> 00:06:09,919
+cases for which we made a wrong
+ 
+
+229
+00:06:09,919 --> 00:06:11,990
+cases for which we made a wrong
+decision.
+
+230
+00:06:11,990 --> 00:06:12,000
+decision.
+ 
+
+231
+00:06:12,000 --> 00:06:14,469
+decision.
+The diagnostic odds ratio in the example
+
+232
+00:06:14,469 --> 00:06:14,479
+The diagnostic odds ratio in the example
+ 
+
+233
+00:06:14,479 --> 00:06:19,270
+The diagnostic odds ratio in the example
+is 114.08.
+
+234
+00:06:19,270 --> 00:06:19,280
+
+ 
+
+235
+00:06:19,280 --> 00:06:21,749
+
+Note that there will be no association
+
+236
+00:06:21,749 --> 00:06:21,759
+Note that there will be no association
+ 
+
+237
+00:06:21,759 --> 00:06:25,990
+Note that there will be no association
+between the two uh uh variables if the
+
+238
+00:06:25,990 --> 00:06:26,000
+between the two uh uh variables if the
+ 
+
+239
+00:06:26,000 --> 00:06:30,150
+between the two uh uh variables if the
+odds ratio is equal to one. So here the
+
+240
+00:06:30,150 --> 00:06:30,160
+odds ratio is equal to one. So here the
+ 
+
+241
+00:06:30,160 --> 00:06:33,749
+odds ratio is equal to one. So here the
+ratio is clearly much higher than one.
+
+242
+00:06:33,749 --> 00:06:33,759
+ratio is clearly much higher than one.
+ 
+
+243
+00:06:33,759 --> 00:06:36,230
+ratio is clearly much higher than one.
+An alter of one would mean that the
+
+244
+00:06:36,230 --> 00:06:36,240
+An alter of one would mean that the
+ 
+
+245
+00:06:36,240 --> 00:06:38,309
+An alter of one would mean that the
+screening instrument does not say
+
+246
+00:06:38,309 --> 00:06:38,319
+screening instrument does not say
+ 
+
+247
+00:06:38,319 --> 00:06:42,309
+screening instrument does not say
+anything about um whether or not um a
+
+248
+00:06:42,309 --> 00:06:42,319
+anything about um whether or not um a
+ 
+
+249
+00:06:42,319 --> 00:06:46,150
+anything about um whether or not um a
+case is positive.
+
+250
+00:06:46,150 --> 00:06:46,160
+
+ 
+
+251
+00:06:46,160 --> 00:06:49,029
+
+We've also seen that an drawback of the
+
+252
+00:06:49,029 --> 00:06:49,039
+We've also seen that an drawback of the
+ 
+
+253
+00:06:49,039 --> 00:06:51,350
+We've also seen that an drawback of the
+ozio is that it has a skewed
+
+254
+00:06:51,350 --> 00:06:51,360
+ozio is that it has a skewed
+ 
+
+255
+00:06:51,360 --> 00:06:55,670
+ozio is that it has a skewed
+distribution. It's also not very um very
+
+256
+00:06:55,670 --> 00:06:55,680
+distribution. It's also not very um very
+ 
+
+257
+00:06:55,680 --> 00:07:00,070
+distribution. It's also not very um very
+handy that the
+
+258
+00:07:00,070 --> 00:07:00,080
+handy that the
+ 
+
+259
+00:07:00,080 --> 00:07:02,390
+handy that the
+um the absence of an effect the absence
+
+260
+00:07:02,390 --> 00:07:02,400
+um the absence of an effect the absence
+ 
+
+261
+00:07:02,400 --> 00:07:05,110
+um the absence of an effect the absence
+of an association means that the odds
+
+262
+00:07:05,110 --> 00:07:05,120
+of an association means that the odds
+ 
+
+263
+00:07:05,120 --> 00:07:09,430
+of an association means that the odds
+ratio would be equal to one. it's easier
+
+264
+00:07:09,430 --> 00:07:09,440
+ratio would be equal to one. it's easier
+ 
+
+265
+00:07:09,440 --> 00:07:13,990
+ratio would be equal to one. it's easier
+um if if the value if the um measure of
+
+266
+00:07:13,990 --> 00:07:14,000
+um if if the value if the um measure of
+ 
+
+267
+00:07:14,000 --> 00:07:16,710
+um if if the value if the um measure of
+association would be equal to zero if
+
+268
+00:07:16,710 --> 00:07:16,720
+association would be equal to zero if
+ 
+
+269
+00:07:16,720 --> 00:07:20,309
+association would be equal to zero if
+there is no association at all.
+
+270
+00:07:20,309 --> 00:07:20,319
+there is no association at all.
+ 
+
+271
+00:07:20,319 --> 00:07:23,029
+there is no association at all.
+Another drawback of the odds ratio is
+
+272
+00:07:23,029 --> 00:07:23,039
+Another drawback of the odds ratio is
+ 
+
+273
+00:07:23,039 --> 00:07:26,550
+Another drawback of the odds ratio is
+that the sampling variance is not easily
+
+274
+00:07:26,550 --> 00:07:26,560
+that the sampling variance is not easily
+ 
+
+275
+00:07:26,560 --> 00:07:29,270
+that the sampling variance is not easily
+uh calculated.
+
+276
+00:07:29,270 --> 00:07:29,280
+uh calculated.
+ 
+
+277
+00:07:29,280 --> 00:07:31,749
+uh calculated.
+So therefore very often the natural
+
+278
+00:07:31,749 --> 00:07:31,759
+So therefore very often the natural
+ 
+
+279
+00:07:31,759 --> 00:07:34,629
+So therefore very often the natural
+logarithm of the odds ratio is taken. So
+
+280
+00:07:34,629 --> 00:07:34,639
+logarithm of the odds ratio is taken. So
+ 
+
+281
+00:07:34,639 --> 00:07:37,029
+logarithm of the odds ratio is taken. So
+we use the LO odds ratio. In this
+
+282
+00:07:37,029 --> 00:07:37,039
+we use the LO odds ratio. In this
+ 
+
+283
+00:07:37,039 --> 00:07:41,589
+we use the LO odds ratio. In this
+example, the LO odds ratio is 4.74.
+
+284
+00:07:41,589 --> 00:07:41,599
+example, the LO odds ratio is 4.74.
+ 
+
+285
+00:07:41,599 --> 00:07:44,710
+example, the LO odds ratio is 4.74.
+A loss ratio equal to zero means that
+
+286
+00:07:44,710 --> 00:07:44,720
+A loss ratio equal to zero means that
+ 
+
+287
+00:07:44,720 --> 00:07:46,950
+A loss ratio equal to zero means that
+there is no association at all. So again
+
+288
+00:07:46,950 --> 00:07:46,960
+there is no association at all. So again
+ 
+
+289
+00:07:46,960 --> 00:07:49,110
+there is no association at all. So again
+here we see that there is evidence that
+
+290
+00:07:49,110 --> 00:07:49,120
+here we see that there is evidence that
+ 
+
+291
+00:07:49,120 --> 00:07:53,589
+here we see that there is evidence that
+the screening instrument seems to work.
+
+292
+00:07:53,589 --> 00:07:53,599
+the screening instrument seems to work.
+ 
+
+293
+00:07:53,599 --> 00:07:56,070
+the screening instrument seems to work.
+The sampling variance of the lostu can
+
+294
+00:07:56,070 --> 00:07:56,080
+The sampling variance of the lostu can
+ 
+
+295
+00:07:56,080 --> 00:08:00,309
+The sampling variance of the lostu can
+be calculated by taking one over the the
+
+296
+00:08:00,309 --> 00:08:00,319
+be calculated by taking one over the the
+ 
+
+297
+00:08:00,319 --> 00:08:02,950
+be calculated by taking one over the the
+sample size in the first cell plus one
+
+298
+00:08:02,950 --> 00:08:02,960
+sample size in the first cell plus one
+ 
+
+299
+00:08:02,960 --> 00:08:05,350
+sample size in the first cell plus one
+over the sample size in the second cell
+
+300
+00:08:05,350 --> 00:08:05,360
+over the sample size in the second cell
+ 
+
+301
+00:08:05,360 --> 00:08:08,070
+over the sample size in the second cell
+and so on. And so in our example this
+
+302
+00:08:08,070 --> 00:08:08,080
+and so on. And so in our example this
+ 
+
+303
+00:08:08,080 --> 00:08:11,350
+and so on. And so in our example this
+gives a sampling variance of 1.11.
+
+304
+00:08:11,350 --> 00:08:11,360
+gives a sampling variance of 1.11.
+ 
+
+305
+00:08:11,360 --> 00:08:14,390
+gives a sampling variance of 1.11.
+We can use that uh sampling variance to
+
+306
+00:08:14,390 --> 00:08:14,400
+We can use that uh sampling variance to
+ 
+
+307
+00:08:14,400 --> 00:08:16,390
+We can use that uh sampling variance to
+calculate a confidence interval around
+
+308
+00:08:16,390 --> 00:08:16,400
+calculate a confidence interval around
+ 
+
+309
+00:08:16,400 --> 00:08:19,670
+calculate a confidence interval around
+the loz ratio. the sampling distribution
+
+310
+00:08:19,670 --> 00:08:19,680
+the loz ratio. the sampling distribution
+ 
+
+311
+00:08:19,680 --> 00:08:23,830
+the loz ratio. the sampling distribution
+of the loit loss ratio is more or less a
+
+312
+00:08:23,830 --> 00:08:23,840
+of the loit loss ratio is more or less a
+ 
+
+313
+00:08:23,840 --> 00:08:26,230
+of the loit loss ratio is more or less a
+normal distribution.
+
+314
+00:08:26,230 --> 00:08:26,240
+normal distribution.
+ 
+
+315
+00:08:26,240 --> 00:08:28,790
+normal distribution.
+So we can calculate the confidence
+
+316
+00:08:28,790 --> 00:08:28,800
+So we can calculate the confidence
+ 
+
+317
+00:08:28,800 --> 00:08:32,389
+So we can calculate the confidence
+interval or 95% confidence interval by
+
+318
+00:08:32,389 --> 00:08:32,399
+interval or 95% confidence interval by
+ 
+
+319
+00:08:32,399 --> 00:08:35,670
+interval or 95% confidence interval by
+taking the mean or the uh the estimate
+
+320
+00:08:35,670 --> 00:08:35,680
+taking the mean or the uh the estimate
+ 
+
+321
+00:08:35,680 --> 00:08:38,070
+taking the mean or the uh the estimate
+of the local ops ratio and subtracting
+
+322
+00:08:38,070 --> 00:08:38,080
+of the local ops ratio and subtracting
+ 
+
+323
+00:08:38,080 --> 00:08:41,190
+of the local ops ratio and subtracting
+or adding 1.96
+
+324
+00:08:41,190 --> 00:08:41,200
+or adding 1.96
+ 
+
+325
+00:08:41,200 --> 00:08:43,350
+or adding 1.96
+times the square root of the sampling
+
+326
+00:08:43,350 --> 00:08:43,360
+times the square root of the sampling
+ 
+
+327
+00:08:43,360 --> 00:08:45,990
+times the square root of the sampling
+variance. This gives us confidence
+
+328
+00:08:45,990 --> 00:08:46,000
+variance. This gives us confidence
+ 
+
+329
+00:08:46,000 --> 00:08:50,389
+variance. This gives us confidence
+interval starting from 2.67
+
+330
+00:08:50,389 --> 00:08:50,399
+interval starting from 2.67
+ 
+
+331
+00:08:50,399 --> 00:08:54,150
+interval starting from 2.67
+going to 6.81.
+
+332
+00:08:54,150 --> 00:08:54,160
+going to 6.81.
+ 
+
+333
+00:08:54,160 --> 00:08:56,550
+going to 6.81.
+A zero is not included in the confidence
+
+334
+00:08:56,550 --> 00:08:56,560
+A zero is not included in the confidence
+ 
+
+335
+00:08:56,560 --> 00:08:59,509
+A zero is not included in the confidence
+interval. So again here it's clear that
+
+336
+00:08:59,509 --> 00:08:59,519
+interval. So again here it's clear that
+ 
+
+337
+00:08:59,519 --> 00:09:01,430
+interval. So again here it's clear that
+there is an association between the two
+
+338
+00:09:01,430 --> 00:09:01,440
+there is an association between the two
+ 
+
+339
+00:09:01,440 --> 00:09:03,829
+there is an association between the two
+variables or in other words that the
+
+340
+00:09:03,829 --> 00:09:03,839
+variables or in other words that the
+ 
+
+341
+00:09:03,839 --> 00:09:06,389
+variables or in other words that the
+screening instrument says something
+
+342
+00:09:06,389 --> 00:09:06,399
+screening instrument says something
+ 
+
+343
+00:09:06,399 --> 00:09:13,990
+screening instrument says something
+about um uh being positive or not.
+
+344
+00:09:13,990 --> 00:09:14,000
+
+ 
+
+345
+00:09:14,000 --> 00:09:17,350
+
+Remark uh suppose that uh one of the
+
+346
+00:09:17,350 --> 00:09:17,360
+Remark uh suppose that uh one of the
+ 
+
+347
+00:09:17,360 --> 00:09:19,670
+Remark uh suppose that uh one of the
+cells does not include
+
+348
+00:09:19,670 --> 00:09:19,680
+cells does not include
+ 
+
+349
+00:09:19,680 --> 00:09:22,949
+cells does not include
+uh cases or that in one of the cells the
+
+350
+00:09:22,949 --> 00:09:22,959
+uh cases or that in one of the cells the
+ 
+
+351
+00:09:22,959 --> 00:09:25,350
+uh cases or that in one of the cells the
+number is equal to zero. In that case
+
+352
+00:09:25,350 --> 00:09:25,360
+number is equal to zero. In that case
+ 
+
+353
+00:09:25,360 --> 00:09:29,910
+number is equal to zero. In that case
+you cannot calculate um the odds ratio
+
+354
+00:09:29,910 --> 00:09:29,920
+you cannot calculate um the odds ratio
+ 
+
+355
+00:09:29,920 --> 00:09:31,990
+you cannot calculate um the odds ratio
+and or the sampling variance of the odds
+
+356
+00:09:31,990 --> 00:09:32,000
+and or the sampling variance of the odds
+ 
+
+357
+00:09:32,000 --> 00:09:35,350
+and or the sampling variance of the odds
+ratio. So a solution um that is often
+
+358
+00:09:35,350 --> 00:09:35,360
+ratio. So a solution um that is often
+ 
+
+359
+00:09:35,360 --> 00:09:38,949
+ratio. So a solution um that is often
+used is that you can add 0.5 to all of
+
+360
+00:09:38,949 --> 00:09:38,959
+used is that you can add 0.5 to all of
+ 
+
+361
+00:09:38,959 --> 00:09:41,829
+used is that you can add 0.5 to all of
+the four cells to avoid that in one of
+
+362
+00:09:41,829 --> 00:09:41,839
+the four cells to avoid that in one of
+ 
+
+363
+00:09:41,839 --> 00:09:48,870
+the four cells to avoid that in one of
+the cells you have zero.
+
+364
+00:09:48,870 --> 00:09:48,880
+
+ 
+
+365
+00:09:48,880 --> 00:09:52,150
+
+Now suppose that you have a sample of
+
+366
+00:09:52,150 --> 00:09:52,160
+Now suppose that you have a sample of
+ 
+
+367
+00:09:52,160 --> 00:09:55,590
+Now suppose that you have a sample of
+studies of diagnostic studies
+
+368
+00:09:55,590 --> 00:09:55,600
+studies of diagnostic studies
+ 
+
+369
+00:09:55,600 --> 00:09:58,790
+studies of diagnostic studies
+and in each of these studies you have an
+
+370
+00:09:58,790 --> 00:09:58,800
+and in each of these studies you have an
+ 
+
+371
+00:09:58,800 --> 00:10:01,750
+and in each of these studies you have an
+ulcer rates or you can calculate an
+
+372
+00:10:01,750 --> 00:10:01,760
+ulcer rates or you can calculate an
+ 
+
+373
+00:10:01,760 --> 00:10:04,550
+ulcer rates or you can calculate an
+ulcer rates. How can you combine the
+
+374
+00:10:04,550 --> 00:10:04,560
+ulcer rates. How can you combine the
+ 
+
+375
+00:10:04,560 --> 00:10:08,150
+ulcer rates. How can you combine the
+data from these um studies? Well, we can
+
+376
+00:10:08,150 --> 00:10:08,160
+data from these um studies? Well, we can
+ 
+
+377
+00:10:08,160 --> 00:10:11,670
+data from these um studies? Well, we can
+combine these diagnostic odds ratios or
+
+378
+00:10:11,670 --> 00:10:11,680
+combine these diagnostic odds ratios or
+ 
+
+379
+00:10:11,680 --> 00:10:14,150
+combine these diagnostic odds ratios or
+more specifically we can combine the
+
+380
+00:10:14,150 --> 00:10:14,160
+more specifically we can combine the
+ 
+
+381
+00:10:14,160 --> 00:10:18,790
+more specifically we can combine the
+loss ratios using ordinary precision
+
+382
+00:10:18,790 --> 00:10:18,800
+loss ratios using ordinary precision
+ 
+
+383
+00:10:18,800 --> 00:10:21,430
+loss ratios using ordinary precision
+weighted metalic techniques that we have
+
+384
+00:10:21,430 --> 00:10:21,440
+weighted metalic techniques that we have
+ 
+
+385
+00:10:21,440 --> 00:10:26,150
+weighted metalic techniques that we have
+seen before.
+
+386
+00:10:26,150 --> 00:10:26,160
+
+ 
+
+387
+00:10:26,160 --> 00:10:29,110
+
+You can also if in some of the studies
+
+388
+00:10:29,110 --> 00:10:29,120
+You can also if in some of the studies
+ 
+
+389
+00:10:29,120 --> 00:10:32,389
+You can also if in some of the studies
+uh odds ratios are calculated but in
+
+390
+00:10:32,389 --> 00:10:32,399
+uh odds ratios are calculated but in
+ 
+
+391
+00:10:32,399 --> 00:10:34,470
+uh odds ratios are calculated but in
+other studies you have standardized mean
+
+392
+00:10:34,470 --> 00:10:34,480
+other studies you have standardized mean
+ 
+
+393
+00:10:34,480 --> 00:10:37,190
+other studies you have standardized mean
+differences. We have seen that you can
+
+394
+00:10:37,190 --> 00:10:37,200
+differences. We have seen that you can
+ 
+
+395
+00:10:37,200 --> 00:10:39,829
+differences. We have seen that you can
+convert loss ratios to standardized mean
+
+396
+00:10:39,829 --> 00:10:39,839
+convert loss ratios to standardized mean
+ 
+
+397
+00:10:39,839 --> 00:10:43,030
+convert loss ratios to standardized mean
+differences using this formula. So the
+
+398
+00:10:43,030 --> 00:10:43,040
+differences using this formula. So the
+ 
+
+399
+00:10:43,040 --> 00:10:45,110
+differences using this formula. So the
+standardized mean difference is equal to
+
+400
+00:10:45,110 --> 00:10:45,120
+standardized mean difference is equal to
+ 
+
+401
+00:10:45,120 --> 00:10:47,910
+standardized mean difference is equal to
+the loss ratio multiplied by the square
+
+402
+00:10:47,910 --> 00:10:47,920
+the loss ratio multiplied by the square
+ 
+
+403
+00:10:47,920 --> 00:10:51,829
+the loss ratio multiplied by the square
+root of 3 / pi.
+
+404
+00:10:51,829 --> 00:10:51,839
+root of 3 / pi.
+ 
+
+405
+00:10:51,839 --> 00:10:55,030
+root of 3 / pi.
+And so this means that you have to to
+
+406
+00:10:55,030 --> 00:10:55,040
+And so this means that you have to to
+ 
+
+407
+00:10:55,040 --> 00:10:57,829
+And so this means that you have to to
+multiply the sampling variance of the
+
+408
+00:10:57,829 --> 00:10:57,839
+multiply the sampling variance of the
+ 
+
+409
+00:10:57,839 --> 00:11:01,509
+multiply the sampling variance of the
+lock ratio by three divided by pi
+
+410
+00:11:01,509 --> 00:11:01,519
+lock ratio by three divided by pi
+ 
+
+411
+00:11:01,519 --> 00:11:04,630
+lock ratio by three divided by pi
+squared to obtain um the sampling
+
+412
+00:11:04,630 --> 00:11:04,640
+squared to obtain um the sampling
+ 
+
+413
+00:11:04,640 --> 00:11:06,710
+squared to obtain um the sampling
+variance of the standardized mean
+
+414
+00:11:06,710 --> 00:11:06,720
+variance of the standardized mean
+ 
+
+415
+00:11:06,720 --> 00:11:09,750
+variance of the standardized mean
+difference.
+
+416
+00:11:09,750 --> 00:11:09,760
+
+ 
+
+417
+00:11:09,760 --> 00:11:13,110
+
+Of course you can also calculate um lo
+
+418
+00:11:13,110 --> 00:11:13,120
+Of course you can also calculate um lo
+ 
+
+419
+00:11:13,120 --> 00:11:15,910
+Of course you can also calculate um lo
+ratios based on standardized mean
+
+420
+00:11:15,910 --> 00:11:15,920
+ratios based on standardized mean
+ 
+
+421
+00:11:15,920 --> 00:11:20,470
+ratios based on standardized mean
+differences. So convert um measures in
+
+422
+00:11:20,470 --> 00:11:20,480
+differences. So convert um measures in
+ 
+
+423
+00:11:20,480 --> 00:11:22,630
+differences. So convert um measures in
+the other direction.
+
+424
+00:11:22,630 --> 00:11:22,640
+the other direction.
+ 
+
+425
+00:11:22,640 --> 00:11:26,069
+the other direction.
+Um when are you going to use loss ratios
+
+426
+00:11:26,069 --> 00:11:26,079
+Um when are you going to use loss ratios
+ 
+
+427
+00:11:26,079 --> 00:11:27,750
+Um when are you going to use loss ratios
+in your meta analysis? When are you
+
+428
+00:11:27,750 --> 00:11:27,760
+in your meta analysis? When are you
+ 
+
+429
+00:11:27,760 --> 00:11:29,190
+in your meta analysis? When are you
+going to use standardized main
+
+430
+00:11:29,190 --> 00:11:29,200
+going to use standardized main
+ 
+
+431
+00:11:29,200 --> 00:11:31,350
+going to use standardized main
+differences? So you can choose between
+
+432
+00:11:31,350 --> 00:11:31,360
+differences? So you can choose between
+ 
+
+433
+00:11:31,360 --> 00:11:34,389
+differences? So you can choose between
+these two options. But a good idea is to
+
+434
+00:11:34,389 --> 00:11:34,399
+these two options. But a good idea is to
+ 
+
+435
+00:11:34,399 --> 00:11:40,069
+these two options. But a good idea is to
+use um yeah the effect size that is uh
+
+436
+00:11:40,069 --> 00:11:40,079
+use um yeah the effect size that is uh
+ 
+
+437
+00:11:40,079 --> 00:11:42,949
+use um yeah the effect size that is uh
+more commonly used in our set of
+
+438
+00:11:42,949 --> 00:11:42,959
+more commonly used in our set of
+ 
+
+439
+00:11:42,959 --> 00:11:45,509
+more commonly used in our set of
+studies. So if you have 10 studies in
+
+440
+00:11:45,509 --> 00:11:45,519
+studies. So if you have 10 studies in
+ 
+
+441
+00:11:45,519 --> 00:11:47,990
+studies. So if you have 10 studies in
+which a loss ratio can immediately be
+
+442
+00:11:47,990 --> 00:11:48,000
+which a loss ratio can immediately be
+ 
+
+443
+00:11:48,000 --> 00:11:50,710
+which a loss ratio can immediately be
+calculated and one study in which a
+
+444
+00:11:50,710 --> 00:11:50,720
+calculated and one study in which a
+ 
+
+445
+00:11:50,720 --> 00:11:53,030
+calculated and one study in which a
+standardized mean difference is uh
+
+446
+00:11:53,030 --> 00:11:53,040
+standardized mean difference is uh
+ 
+
+447
+00:11:53,040 --> 00:11:55,829
+standardized mean difference is uh
+reported then it makes sense to convert
+
+448
+00:11:55,829 --> 00:11:55,839
+reported then it makes sense to convert
+ 
+
+449
+00:11:55,839 --> 00:11:57,910
+reported then it makes sense to convert
+that one standardized mean difference to
+
+450
+00:11:57,910 --> 00:11:57,920
+that one standardized mean difference to
+ 
+
+451
+00:11:57,920 --> 00:12:02,630
+that one standardized mean difference to
+the loss ratio.
+
+452
+00:12:02,630 --> 00:12:02,640
+
+ 
+
+453
+00:12:02,640 --> 00:12:05,670
+
+Note that by calculating an odds ratio
+
+454
+00:12:05,670 --> 00:12:05,680
+Note that by calculating an odds ratio
+ 
+
+455
+00:12:05,680 --> 00:12:09,910
+Note that by calculating an odds ratio
+or loss ratio, you lose some information
+
+456
+00:12:09,910 --> 00:12:09,920
+or loss ratio, you lose some information
+ 
+
+457
+00:12:09,920 --> 00:12:12,230
+or loss ratio, you lose some information
+in the sense that it's possible that
+
+458
+00:12:12,230 --> 00:12:12,240
+in the sense that it's possible that
+ 
+
+459
+00:12:12,240 --> 00:12:15,190
+in the sense that it's possible that
+different kind of tables will give
+
+460
+00:12:15,190 --> 00:12:15,200
+different kind of tables will give
+ 
+
+461
+00:12:15,200 --> 00:12:17,990
+different kind of tables will give
+exactly the same uh os ratio and
+
+462
+00:12:17,990 --> 00:12:18,000
+exactly the same uh os ratio and
+ 
+
+463
+00:12:18,000 --> 00:12:20,949
+exactly the same uh os ratio and
+therefore also the same loss ratio. So
+
+464
+00:12:20,949 --> 00:12:20,959
+therefore also the same loss ratio. So
+ 
+
+465
+00:12:20,959 --> 00:12:24,230
+therefore also the same loss ratio. So
+you lose information that is uh included
+
+466
+00:12:24,230 --> 00:12:24,240
+you lose information that is uh included
+ 
+
+467
+00:12:24,240 --> 00:12:27,750
+you lose information that is uh included
+in your table by uh calculating the odds
+
+468
+00:12:27,750 --> 00:12:27,760
+in your table by uh calculating the odds
+ 
+
+469
+00:12:27,760 --> 00:12:31,350
+in your table by uh calculating the odds
+ratio. Can we avoid losing information?
+
+470
+00:12:31,350 --> 00:12:31,360
+ratio. Can we avoid losing information?
+ 
+
+471
+00:12:31,360 --> 00:12:34,230
+ratio. Can we avoid losing information?
+Yes, we can.
+
+472
+00:12:34,230 --> 00:12:34,240
+Yes, we can.
+ 
+
+473
+00:12:34,240 --> 00:12:37,030
+Yes, we can.
+It is possible to calculate two measures
+
+474
+00:12:37,030 --> 00:12:37,040
+It is possible to calculate two measures
+ 
+
+475
+00:12:37,040 --> 00:12:39,990
+It is possible to calculate two measures
+of quality instead of that one measure
+
+476
+00:12:39,990 --> 00:12:40,000
+of quality instead of that one measure
+ 
+
+477
+00:12:40,000 --> 00:12:42,870
+of quality instead of that one measure
+uh the odds ratio. More specifically, we
+
+478
+00:12:42,870 --> 00:12:42,880
+uh the odds ratio. More specifically, we
+ 
+
+479
+00:12:42,880 --> 00:12:45,190
+uh the odds ratio. More specifically, we
+can calculate the sensitivity and the
+
+480
+00:12:45,190 --> 00:12:45,200
+can calculate the sensitivity and the
+ 
+
+481
+00:12:45,200 --> 00:12:46,790
+can calculate the sensitivity and the
+specificity.
+
+482
+00:12:46,790 --> 00:12:46,800
+specificity.
+ 
+
+483
+00:12:46,800 --> 00:12:49,190
+specificity.
+What is the sensitivity?
+
+484
+00:12:49,190 --> 00:12:49,200
+What is the sensitivity?
+ 
+
+485
+00:12:49,200 --> 00:12:51,350
+What is the sensitivity?
+The sensitivity
+
+486
+00:12:51,350 --> 00:12:51,360
+The sensitivity
+ 
+
+487
+00:12:51,360 --> 00:12:54,150
+The sensitivity
+is the number of true positives divided
+
+488
+00:12:54,150 --> 00:12:54,160
+is the number of true positives divided
+ 
+
+489
+00:12:54,160 --> 00:12:57,030
+is the number of true positives divided
+by the total number of positives. So
+
+490
+00:12:57,030 --> 00:12:57,040
+by the total number of positives. So
+ 
+
+491
+00:12:57,040 --> 00:13:00,069
+by the total number of positives. So
+here in the example we have 10 positive
+
+492
+00:13:00,069 --> 00:13:00,079
+here in the example we have 10 positive
+ 
+
+493
+00:13:00,079 --> 00:13:04,710
+here in the example we have 10 positive
+cases and nine of them of them were uh
+
+494
+00:13:04,710 --> 00:13:04,720
+cases and nine of them of them were uh
+ 
+
+495
+00:13:04,720 --> 00:13:06,629
+cases and nine of them of them were uh
+were detected using the screening
+
+496
+00:13:06,629 --> 00:13:06,639
+were detected using the screening
+ 
+
+497
+00:13:06,639 --> 00:13:08,870
+were detected using the screening
+instrument. So that means that the
+
+498
+00:13:08,870 --> 00:13:08,880
+instrument. So that means that the
+ 
+
+499
+00:13:08,880 --> 00:13:12,790
+instrument. So that means that the
+sensitivity is 90%.
+
+500
+00:13:12,790 --> 00:13:12,800
+sensitivity is 90%.
+ 
+
+501
+00:13:12,800 --> 00:13:14,949
+sensitivity is 90%.
+So it's the probability that a positive
+
+502
+00:13:14,949 --> 00:13:14,959
+So it's the probability that a positive
+ 
+
+503
+00:13:14,959 --> 00:13:19,269
+So it's the probability that a positive
+case will be tested positively.
+
+504
+00:13:19,269 --> 00:13:19,279
+case will be tested positively.
+ 
+
+505
+00:13:19,279 --> 00:13:21,910
+case will be tested positively.
+The specificity
+
+506
+00:13:21,910 --> 00:13:21,920
+The specificity
+ 
+
+507
+00:13:21,920 --> 00:13:25,110
+The specificity
+is the number of true negatives divided
+
+508
+00:13:25,110 --> 00:13:25,120
+is the number of true negatives divided
+ 
+
+509
+00:13:25,120 --> 00:13:27,910
+is the number of true negatives divided
+by the total number of negative cases.
+
+510
+00:13:27,910 --> 00:13:27,920
+by the total number of negative cases.
+ 
+
+511
+00:13:27,920 --> 00:13:30,550
+by the total number of negative cases.
+So in our example,
+
+512
+00:13:30,550 --> 00:13:30,560
+So in our example,
+ 
+
+513
+00:13:30,560 --> 00:13:33,030
+So in our example,
+there were 4,800
+
+514
+00:13:33,030 --> 00:13:33,040
+there were 4,800
+ 
+
+515
+00:13:33,040 --> 00:13:37,430
+there were 4,800
+negative cases and 4,449
+
+516
+00:13:37,430 --> 00:13:37,440
+negative cases and 4,449
+ 
+
+517
+00:13:37,440 --> 00:13:39,910
+negative cases and 4,449
+of these cases were indeed tested
+
+518
+00:13:39,910 --> 00:13:39,920
+of these cases were indeed tested
+ 
+
+519
+00:13:39,920 --> 00:13:43,910
+of these cases were indeed tested
+negatively. So that means that for 93%
+
+520
+00:13:43,910 --> 00:13:43,920
+negatively. So that means that for 93%
+ 
+
+521
+00:13:43,920 --> 00:13:48,230
+negatively. So that means that for 93%
+of the negative cases um these cases
+
+522
+00:13:48,230 --> 00:13:48,240
+of the negative cases um these cases
+ 
+
+523
+00:13:48,240 --> 00:13:51,030
+of the negative cases um these cases
+were tested negatively.
+
+524
+00:13:51,030 --> 00:13:51,040
+were tested negatively.
+ 
+
+525
+00:13:51,040 --> 00:13:53,910
+were tested negatively.
+So we hope that both the sensitivity and
+
+526
+00:13:53,910 --> 00:13:53,920
+So we hope that both the sensitivity and
+ 
+
+527
+00:13:53,920 --> 00:14:01,189
+So we hope that both the sensitivity and
+the specificity are as high as possible.
+
+528
+00:14:01,189 --> 00:14:01,199
+
+ 
+
+529
+00:14:01,199 --> 00:14:05,189
+
+Note um 93%
+
+530
+00:14:05,189 --> 00:14:05,199
+Note um 93%
+ 
+
+531
+00:14:05,199 --> 00:14:07,750
+Note um 93%
+of the negative cases were tested
+
+532
+00:14:07,750 --> 00:14:07,760
+of the negative cases were tested
+ 
+
+533
+00:14:07,760 --> 00:14:11,269
+of the negative cases were tested
+negatively. So this means that 7% of the
+
+534
+00:14:11,269 --> 00:14:11,279
+negatively. So this means that 7% of the
+ 
+
+535
+00:14:11,279 --> 00:14:14,949
+negatively. So this means that 7% of the
+negative cases were tested positively.
+
+536
+00:14:14,949 --> 00:14:14,959
+negative cases were tested positively.
+ 
+
+537
+00:14:14,959 --> 00:14:17,829
+negative cases were tested positively.
+So this is called the false positive
+
+538
+00:14:17,829 --> 00:14:17,839
+So this is called the false positive
+ 
+
+539
+00:14:17,839 --> 00:14:20,550
+So this is called the false positive
+rate. The false positive rate is the
+
+540
+00:14:20,550 --> 00:14:20,560
+rate. The false positive rate is the
+ 
+
+541
+00:14:20,560 --> 00:14:23,829
+rate. The false positive rate is the
+probability that a negative case is
+
+542
+00:14:23,829 --> 00:14:23,839
+probability that a negative case is
+ 
+
+543
+00:14:23,839 --> 00:14:29,350
+probability that a negative case is
+still tested positively.
+
+544
+00:14:29,350 --> 00:14:29,360
+
+ 
+
+545
+00:14:29,360 --> 00:14:31,350
+
+What is also sometimes reported in
+
+546
+00:14:31,350 --> 00:14:31,360
+What is also sometimes reported in
+ 
+
+547
+00:14:31,360 --> 00:14:35,590
+What is also sometimes reported in
+diagnostic studies is the like likely
+
+548
+00:14:35,590 --> 00:14:35,600
+diagnostic studies is the like likely
+ 
+
+549
+00:14:35,600 --> 00:14:38,310
+diagnostic studies is the like likely
+likelihood ratio
+
+550
+00:14:38,310 --> 00:14:38,320
+likelihood ratio
+ 
+
+551
+00:14:38,320 --> 00:14:41,829
+likelihood ratio
+for cases that were positively tested
+
+552
+00:14:41,829 --> 00:14:41,839
+for cases that were positively tested
+ 
+
+553
+00:14:41,839 --> 00:14:44,550
+for cases that were positively tested
+and the likelihood ratio for cases that
+
+554
+00:14:44,550 --> 00:14:44,560
+and the likelihood ratio for cases that
+ 
+
+555
+00:14:44,560 --> 00:14:47,430
+and the likelihood ratio for cases that
+were negatively tested.
+
+556
+00:14:47,430 --> 00:14:47,440
+were negatively tested.
+ 
+
+557
+00:14:47,440 --> 00:14:49,990
+were negatively tested.
+What is that likelihood ratio for
+
+558
+00:14:49,990 --> 00:14:50,000
+What is that likelihood ratio for
+ 
+
+559
+00:14:50,000 --> 00:14:53,829
+What is that likelihood ratio for
+positive positively tested cases? Well,
+
+560
+00:14:53,829 --> 00:14:53,839
+positive positively tested cases? Well,
+ 
+
+561
+00:14:53,839 --> 00:14:57,910
+positive positively tested cases? Well,
+that's the probability
+
+562
+00:14:57,910 --> 00:14:57,920
+
+ 
+
+563
+00:14:57,920 --> 00:14:59,990
+
+that a positive case is tested
+
+564
+00:14:59,990 --> 00:15:00,000
+that a positive case is tested
+ 
+
+565
+00:15:00,000 --> 00:15:03,509
+that a positive case is tested
+positively. So that's the sensitivity
+
+566
+00:15:03,509 --> 00:15:03,519
+positively. So that's the sensitivity
+ 
+
+567
+00:15:03,519 --> 00:15:06,069
+positively. So that's the sensitivity
+divided by the probability that a
+
+568
+00:15:06,069 --> 00:15:06,079
+divided by the probability that a
+ 
+
+569
+00:15:06,079 --> 00:15:09,189
+divided by the probability that a
+negative case is tested positively. So
+
+570
+00:15:09,189 --> 00:15:09,199
+negative case is tested positively. So
+ 
+
+571
+00:15:09,199 --> 00:15:13,189
+negative case is tested positively. So
+that's one minus specificity.
+
+572
+00:15:13,189 --> 00:15:13,199
+that's one minus specificity.
+ 
+
+573
+00:15:13,199 --> 00:15:15,189
+that's one minus specificity.
+And the likelihood ratio for the
+
+574
+00:15:15,189 --> 00:15:15,199
+And the likelihood ratio for the
+ 
+
+575
+00:15:15,199 --> 00:15:18,230
+And the likelihood ratio for the
+negative negatively tested cases is the
+
+576
+00:15:18,230 --> 00:15:18,240
+negative negatively tested cases is the
+ 
+
+577
+00:15:18,240 --> 00:15:21,110
+negative negatively tested cases is the
+probability of
+
+578
+00:15:21,110 --> 00:15:21,120
+probability of
+ 
+
+579
+00:15:21,120 --> 00:15:25,350
+probability of
+a positive case tested negatively
+
+580
+00:15:25,350 --> 00:15:25,360
+a positive case tested negatively
+ 
+
+581
+00:15:25,360 --> 00:15:27,509
+a positive case tested negatively
+divided by the probability of a negative
+
+582
+00:15:27,509 --> 00:15:27,519
+divided by the probability of a negative
+ 
+
+583
+00:15:27,519 --> 00:15:30,310
+divided by the probability of a negative
+case tested negatively. So it's one
+
+584
+00:15:30,310 --> 00:15:30,320
+case tested negatively. So it's one
+ 
+
+585
+00:15:30,320 --> 00:15:34,389
+case tested negatively. So it's one
+minus the sensitivity divided by um the
+
+586
+00:15:34,389 --> 00:15:34,399
+minus the sensitivity divided by um the
+ 
+
+587
+00:15:34,399 --> 00:15:37,189
+minus the sensitivity divided by um the
+specificity
+
+588
+00:15:37,189 --> 00:15:37,199
+specificity
+ 
+
+589
+00:15:37,199 --> 00:15:41,110
+specificity
+and the ratio between that uh likelihood
+
+590
+00:15:41,110 --> 00:15:41,120
+and the ratio between that uh likelihood
+ 
+
+591
+00:15:41,120 --> 00:15:44,870
+and the ratio between that uh likelihood
+ratio for the positively tested cases
+
+592
+00:15:44,870 --> 00:15:44,880
+ratio for the positively tested cases
+ 
+
+593
+00:15:44,880 --> 00:15:48,470
+ratio for the positively tested cases
+divided by uh the likelihood ratio for
+
+594
+00:15:48,470 --> 00:15:48,480
+divided by uh the likelihood ratio for
+ 
+
+595
+00:15:48,480 --> 00:15:51,430
+divided by uh the likelihood ratio for
+the cases that are negatively tested.
+
+596
+00:15:51,430 --> 00:15:51,440
+the cases that are negatively tested.
+ 
+
+597
+00:15:51,440 --> 00:15:55,509
+the cases that are negatively tested.
+that ratio is another way um of
+
+598
+00:15:55,509 --> 00:15:55,519
+that ratio is another way um of
+ 
+
+599
+00:15:55,519 --> 00:16:07,509
+that ratio is another way um of
+calculating the diagnostic odds ratio.
+
+600
+00:16:07,509 --> 00:16:07,519
+
+ 
+
+601
+00:16:07,519 --> 00:16:10,949
+
+Now instead of doing a meta analysis of
+
+602
+00:16:10,949 --> 00:16:10,959
+Now instead of doing a meta analysis of
+ 
+
+603
+00:16:10,959 --> 00:16:13,749
+Now instead of doing a meta analysis of
+the diagnostic odds ratios, it's also
+
+604
+00:16:13,749 --> 00:16:13,759
+the diagnostic odds ratios, it's also
+ 
+
+605
+00:16:13,759 --> 00:16:17,430
+the diagnostic odds ratios, it's also
+possible to do meta analysis of the
+
+606
+00:16:17,430 --> 00:16:17,440
+possible to do meta analysis of the
+ 
+
+607
+00:16:17,440 --> 00:16:21,910
+possible to do meta analysis of the
+sensitivity and specificity values.
+
+608
+00:16:21,910 --> 00:16:21,920
+sensitivity and specificity values.
+ 
+
+609
+00:16:21,920 --> 00:16:24,550
+sensitivity and specificity values.
+One way is to do two separate met
+
+610
+00:16:24,550 --> 00:16:24,560
+One way is to do two separate met
+ 
+
+611
+00:16:24,560 --> 00:16:27,269
+One way is to do two separate met
+analysis. So again using precision
+
+612
+00:16:27,269 --> 00:16:27,279
+analysis. So again using precision
+ 
+
+613
+00:16:27,279 --> 00:16:31,430
+analysis. So again using precision
+weight uh weighted analysis but
+
+614
+00:16:31,430 --> 00:16:31,440
+weight uh weighted analysis but
+ 
+
+615
+00:16:31,440 --> 00:16:33,670
+weight uh weighted analysis but
+separately for the sensitivity values
+
+616
+00:16:33,670 --> 00:16:33,680
+separately for the sensitivity values
+ 
+
+617
+00:16:33,680 --> 00:16:37,430
+separately for the sensitivity values
+and specificity values.
+
+618
+00:16:37,430 --> 00:16:37,440
+and specificity values.
+ 
+
+619
+00:16:37,440 --> 00:16:39,910
+and specificity values.
+Another approach which is somewhat more
+
+620
+00:16:39,910 --> 00:16:39,920
+Another approach which is somewhat more
+ 
+
+621
+00:16:39,920 --> 00:16:43,350
+Another approach which is somewhat more
+efficient is to use a bariate meta
+
+622
+00:16:43,350 --> 00:16:43,360
+efficient is to use a bariate meta
+ 
+
+623
+00:16:43,360 --> 00:16:47,350
+efficient is to use a bariate meta
+analysis.
+
+624
+00:16:47,350 --> 00:16:47,360
+
+ 
+
+625
+00:16:47,360 --> 00:16:51,189
+
+So how does it work? Well, we say that
+
+626
+00:16:51,189 --> 00:16:51,199
+So how does it work? Well, we say that
+ 
+
+627
+00:16:51,199 --> 00:16:52,870
+So how does it work? Well, we say that
+um
+
+628
+00:16:52,870 --> 00:16:52,880
+um
+ 
+
+629
+00:16:52,880 --> 00:16:56,949
+um
+the number of positive test results
+
+630
+00:16:56,949 --> 00:16:56,959
+the number of positive test results
+ 
+
+631
+00:16:56,959 --> 00:16:59,829
+the number of positive test results
+for positive cases
+
+632
+00:16:59,829 --> 00:16:59,839
+for positive cases
+ 
+
+633
+00:16:59,839 --> 00:17:02,470
+for positive cases
+in study I and the number of positive
+
+634
+00:17:02,470 --> 00:17:02,480
+in study I and the number of positive
+ 
+
+635
+00:17:02,480 --> 00:17:04,710
+in study I and the number of positive
+test results for negative cases in study
+
+636
+00:17:04,710 --> 00:17:04,720
+test results for negative cases in study
+ 
+
+637
+00:17:04,720 --> 00:17:08,470
+test results for negative cases in study
+I. These two numbers
+
+638
+00:17:08,470 --> 00:17:08,480
+I. These two numbers
+ 
+
+639
+00:17:08,480 --> 00:17:12,309
+I. These two numbers
+follow binomial distributions.
+
+640
+00:17:12,309 --> 00:17:12,319
+follow binomial distributions.
+ 
+
+641
+00:17:12,319 --> 00:17:14,150
+follow binomial distributions.
+So the number of positive test results
+
+642
+00:17:14,150 --> 00:17:14,160
+So the number of positive test results
+ 
+
+643
+00:17:14,160 --> 00:17:16,870
+So the number of positive test results
+for positive cases in study I follow a
+
+644
+00:17:16,870 --> 00:17:16,880
+for positive cases in study I follow a
+ 
+
+645
+00:17:16,880 --> 00:17:20,230
+for positive cases in study I follow a
+binomial distribution with uh yeah the
+
+646
+00:17:20,230 --> 00:17:20,240
+binomial distribution with uh yeah the
+ 
+
+647
+00:17:20,240 --> 00:17:22,630
+binomial distribution with uh yeah the
+number of positive cases and with a
+
+648
+00:17:22,630 --> 00:17:22,640
+number of positive cases and with a
+ 
+
+649
+00:17:22,640 --> 00:17:25,189
+number of positive cases and with a
+probability. So the probability that a
+
+650
+00:17:25,189 --> 00:17:25,199
+probability. So the probability that a
+ 
+
+651
+00:17:25,199 --> 00:17:28,069
+probability. So the probability that a
+positive case is tested positively. So
+
+652
+00:17:28,069 --> 00:17:28,079
+positive case is tested positively. So
+ 
+
+653
+00:17:28,079 --> 00:17:30,950
+positive case is tested positively. So
+that's the sensitivity
+
+654
+00:17:30,950 --> 00:17:30,960
+that's the sensitivity
+ 
+
+655
+00:17:30,960 --> 00:17:34,549
+that's the sensitivity
+for the negative uh cases. The
+
+656
+00:17:34,549 --> 00:17:34,559
+for the negative uh cases. The
+ 
+
+657
+00:17:34,559 --> 00:17:36,150
+for the negative uh cases. The
+probability
+
+658
+00:17:36,150 --> 00:17:36,160
+probability
+ 
+
+659
+00:17:36,160 --> 00:17:38,710
+probability
+of that binomial distribution is the
+
+660
+00:17:38,710 --> 00:17:38,720
+of that binomial distribution is the
+ 
+
+661
+00:17:38,720 --> 00:17:43,510
+of that binomial distribution is the
+false positive rate. So one minus um the
+
+662
+00:17:43,510 --> 00:17:43,520
+false positive rate. So one minus um the
+ 
+
+663
+00:17:43,520 --> 00:17:46,470
+false positive rate. So one minus um the
+specificity. So that's the probability
+
+664
+00:17:46,470 --> 00:17:46,480
+specificity. So that's the probability
+ 
+
+665
+00:17:46,480 --> 00:17:49,830
+specificity. So that's the probability
+that a negative case will be tested
+
+666
+00:17:49,830 --> 00:17:49,840
+that a negative case will be tested
+ 
+
+667
+00:17:49,840 --> 00:17:55,430
+that a negative case will be tested
+positively.
+
+668
+00:17:55,430 --> 00:17:55,440
+
+ 
+
+669
+00:17:55,440 --> 00:18:01,350
+
+And then we say well these two
+
+670
+00:18:01,350 --> 00:18:01,360
+And then we say well these two
+ 
+
+671
+00:18:01,360 --> 00:18:03,830
+And then we say well these two
+probabilities so the sensitivity and the
+
+672
+00:18:03,830 --> 00:18:03,840
+probabilities so the sensitivity and the
+ 
+
+673
+00:18:03,840 --> 00:18:07,750
+probabilities so the sensitivity and the
+false positive rate they follow a normal
+
+674
+00:18:07,750 --> 00:18:07,760
+false positive rate they follow a normal
+ 
+
+675
+00:18:07,760 --> 00:18:12,630
+false positive rate they follow a normal
+distribution across studies.
+
+676
+00:18:12,630 --> 00:18:12,640
+
+ 
+
+677
+00:18:12,640 --> 00:18:15,110
+
+with means
+
+678
+00:18:15,110 --> 00:18:15,120
+with means
+ 
+
+679
+00:18:15,120 --> 00:18:19,430
+with means
+theta 1 and theta 2. So theta 1 is the
+
+680
+00:18:19,430 --> 00:18:19,440
+theta 1 and theta 2. So theta 1 is the
+ 
+
+681
+00:18:19,440 --> 00:18:22,630
+theta 1 and theta 2. So theta 1 is the
+overall sensitivity across all studies
+
+682
+00:18:22,630 --> 00:18:22,640
+overall sensitivity across all studies
+ 
+
+683
+00:18:22,640 --> 00:18:26,789
+overall sensitivity across all studies
+and the U1 I is the random effect of
+
+684
+00:18:26,789 --> 00:18:26,799
+and the U1 I is the random effect of
+ 
+
+685
+00:18:26,799 --> 00:18:30,710
+and the U1 I is the random effect of
+study I for the sensitivity.
+
+686
+00:18:30,710 --> 00:18:30,720
+study I for the sensitivity.
+ 
+
+687
+00:18:30,720 --> 00:18:33,029
+study I for the sensitivity.
+So if that is positive then this means
+
+688
+00:18:33,029 --> 00:18:33,039
+So if that is positive then this means
+ 
+
+689
+00:18:33,039 --> 00:18:37,110
+So if that is positive then this means
+that the true sensitivity for study I is
+
+690
+00:18:37,110 --> 00:18:37,120
+that the true sensitivity for study I is
+ 
+
+691
+00:18:37,120 --> 00:18:39,750
+that the true sensitivity for study I is
+larger than the mean sensitivity across
+
+692
+00:18:39,750 --> 00:18:39,760
+larger than the mean sensitivity across
+ 
+
+693
+00:18:39,760 --> 00:18:42,549
+larger than the mean sensitivity across
+all studies.
+
+694
+00:18:42,549 --> 00:18:42,559
+all studies.
+ 
+
+695
+00:18:42,559 --> 00:18:44,789
+all studies.
+The same is true for the false positive
+
+696
+00:18:44,789 --> 00:18:44,799
+The same is true for the false positive
+ 
+
+697
+00:18:44,799 --> 00:18:48,789
+The same is true for the false positive
+rate. So theta 2 is the overall false
+
+698
+00:18:48,789 --> 00:18:48,799
+rate. So theta 2 is the overall false
+ 
+
+699
+00:18:48,799 --> 00:18:51,750
+rate. So theta 2 is the overall false
+positive rate across all studies and the
+
+700
+00:18:51,750 --> 00:18:51,760
+positive rate across all studies and the
+ 
+
+701
+00:18:51,760 --> 00:18:53,270
+positive rate across all studies and the
+U2I
+
+702
+00:18:53,270 --> 00:18:53,280
+U2I
+ 
+
+703
+00:18:53,280 --> 00:18:57,590
+U2I
+is the random deviation for study I. Um
+
+704
+00:18:57,590 --> 00:18:57,600
+is the random deviation for study I. Um
+ 
+
+705
+00:18:57,600 --> 00:18:59,750
+is the random deviation for study I. Um
+so if that is positive then the false
+
+706
+00:18:59,750 --> 00:18:59,760
+so if that is positive then the false
+ 
+
+707
+00:18:59,760 --> 00:19:03,590
+so if that is positive then the false
+positive rate for that study or the true
+
+708
+00:19:03,590 --> 00:19:03,600
+positive rate for that study or the true
+ 
+
+709
+00:19:03,600 --> 00:19:05,830
+positive rate for that study or the true
+false positive rate for that study is
+
+710
+00:19:05,830 --> 00:19:05,840
+false positive rate for that study is
+ 
+
+711
+00:19:05,840 --> 00:19:08,870
+false positive rate for that study is
+larger than the overall false positive
+
+712
+00:19:08,870 --> 00:19:08,880
+larger than the overall false positive
+ 
+
+713
+00:19:08,880 --> 00:19:11,990
+larger than the overall false positive
+rate. And we assume that both random
+
+714
+00:19:11,990 --> 00:19:12,000
+rate. And we assume that both random
+ 
+
+715
+00:19:12,000 --> 00:19:14,950
+rate. And we assume that both random
+effects follow a normal distribution a
+
+716
+00:19:14,950 --> 00:19:14,960
+effects follow a normal distribution a
+ 
+
+717
+00:19:14,960 --> 00:19:17,190
+effects follow a normal distribution a
+multivariate normal distribution with
+
+718
+00:19:17,190 --> 00:19:17,200
+multivariate normal distribution with
+ 
+
+719
+00:19:17,200 --> 00:19:20,470
+multivariate normal distribution with
+means zero and with variances and a
+
+720
+00:19:20,470 --> 00:19:20,480
+means zero and with variances and a
+ 
+
+721
+00:19:20,480 --> 00:19:24,630
+means zero and with variances and a
+covariance that should be estimated.
+
+722
+00:19:24,630 --> 00:19:24,640
+covariance that should be estimated.
+ 
+
+723
+00:19:24,640 --> 00:19:27,350
+covariance that should be estimated.
+So now yeah we use a multivariate or a
+
+724
+00:19:27,350 --> 00:19:27,360
+So now yeah we use a multivariate or a
+ 
+
+725
+00:19:27,360 --> 00:19:30,390
+So now yeah we use a multivariate or a
+bariate meta analysis. So now we have
+
+726
+00:19:30,390 --> 00:19:30,400
+bariate meta analysis. So now we have
+ 
+
+727
+00:19:30,400 --> 00:19:33,990
+bariate meta analysis. So now we have
+two between study variances. So the
+
+728
+00:19:33,990 --> 00:19:34,000
+two between study variances. So the
+ 
+
+729
+00:19:34,000 --> 00:19:35,510
+two between study variances. So the
+between study variance in the
+
+730
+00:19:35,510 --> 00:19:35,520
+between study variance in the
+ 
+
+731
+00:19:35,520 --> 00:19:38,310
+between study variance in the
+sensitivity rate and the between study
+
+732
+00:19:38,310 --> 00:19:38,320
+sensitivity rate and the between study
+ 
+
+733
+00:19:38,320 --> 00:19:41,990
+sensitivity rate and the between study
+variance in the false positive rate and
+
+734
+00:19:41,990 --> 00:19:42,000
+variance in the false positive rate and
+ 
+
+735
+00:19:42,000 --> 00:19:44,470
+variance in the false positive rate and
+there is a co or there's possibly
+
+736
+00:19:44,470 --> 00:19:44,480
+there is a co or there's possibly
+ 
+
+737
+00:19:44,480 --> 00:19:46,070
+there is a co or there's possibly
+co-variance
+
+738
+00:19:46,070 --> 00:19:46,080
+co-variance
+ 
+
+739
+00:19:46,080 --> 00:19:50,950
+co-variance
+um between the two um parameters across
+
+740
+00:19:50,950 --> 00:19:50,960
+um between the two um parameters across
+ 
+
+741
+00:19:50,960 --> 00:19:55,750
+um between the two um parameters across
+studies.
+
+742
+00:19:55,750 --> 00:19:55,760
+
+ 
+
+743
+00:19:55,760 --> 00:19:58,470
+
+Note the sensitivity and the specificity
+
+744
+00:19:58,470 --> 00:19:58,480
+Note the sensitivity and the specificity
+ 
+
+745
+00:19:58,480 --> 00:20:00,549
+Note the sensitivity and the specificity
+that is found in a specific study
+
+746
+00:20:00,549 --> 00:20:00,559
+that is found in a specific study
+ 
+
+747
+00:20:00,559 --> 00:20:02,789
+that is found in a specific study
+depends on the cut off or the threshold
+
+748
+00:20:02,789 --> 00:20:02,799
+depends on the cut off or the threshold
+ 
+
+749
+00:20:02,799 --> 00:20:05,750
+depends on the cut off or the threshold
+that is used in that study. So suppose
+
+750
+00:20:05,750 --> 00:20:05,760
+that is used in that study. So suppose
+ 
+
+751
+00:20:05,760 --> 00:20:09,590
+that is used in that study. So suppose
+that you have that you have a test value
+
+752
+00:20:09,590 --> 00:20:09,600
+that you have that you have a test value
+ 
+
+753
+00:20:09,600 --> 00:20:14,630
+that you have that you have a test value
+and that um when the value exceeds a
+
+754
+00:20:14,630 --> 00:20:14,640
+and that um when the value exceeds a
+ 
+
+755
+00:20:14,640 --> 00:20:18,310
+and that um when the value exceeds a
+specific value the threshold you
+
+756
+00:20:18,310 --> 00:20:18,320
+specific value the threshold you
+ 
+
+757
+00:20:18,320 --> 00:20:21,110
+specific value the threshold you
+conclude okay that case is positive when
+
+758
+00:20:21,110 --> 00:20:21,120
+conclude okay that case is positive when
+ 
+
+759
+00:20:21,120 --> 00:20:24,470
+conclude okay that case is positive when
+that person or the test value does not
+
+760
+00:20:24,470 --> 00:20:24,480
+that person or the test value does not
+ 
+
+761
+00:20:24,480 --> 00:20:26,950
+that person or the test value does not
+um exceed the threshold then that person
+
+762
+00:20:26,950 --> 00:20:26,960
+um exceed the threshold then that person
+ 
+
+763
+00:20:26,960 --> 00:20:30,070
+um exceed the threshold then that person
+is called a negative case.
+
+764
+00:20:30,070 --> 00:20:30,080
+is called a negative case.
+ 
+
+765
+00:20:30,080 --> 00:20:32,870
+is called a negative case.
+Well, and suppose that you have um in
+
+766
+00:20:32,870 --> 00:20:32,880
+Well, and suppose that you have um in
+ 
+
+767
+00:20:32,880 --> 00:20:35,270
+Well, and suppose that you have um in
+reality
+
+768
+00:20:35,270 --> 00:20:35,280
+reality
+ 
+
+769
+00:20:35,280 --> 00:20:38,390
+reality
+so two distributions two normal
+
+770
+00:20:38,390 --> 00:20:38,400
+so two distributions two normal
+ 
+
+771
+00:20:38,400 --> 00:20:41,270
+so two distributions two normal
+distributions of these test values. Uh
+
+772
+00:20:41,270 --> 00:20:41,280
+distributions of these test values. Uh
+ 
+
+773
+00:20:41,280 --> 00:20:44,630
+distributions of these test values. Uh
+the uh the blue distribution is a
+
+774
+00:20:44,630 --> 00:20:44,640
+the uh the blue distribution is a
+ 
+
+775
+00:20:44,640 --> 00:20:46,950
+the uh the blue distribution is a
+distribution of the negative cases. So
+
+776
+00:20:46,950 --> 00:20:46,960
+distribution of the negative cases. So
+ 
+
+777
+00:20:46,960 --> 00:20:49,750
+distribution of the negative cases. So
+the really negative cases, the red
+
+778
+00:20:49,750 --> 00:20:49,760
+the really negative cases, the red
+ 
+
+779
+00:20:49,760 --> 00:20:52,549
+the really negative cases, the red
+distribution is the distribution of the
+
+780
+00:20:52,549 --> 00:20:52,559
+distribution is the distribution of the
+ 
+
+781
+00:20:52,559 --> 00:20:56,549
+distribution is the distribution of the
+cases that are in reality positive.
+
+782
+00:20:56,549 --> 00:20:56,559
+cases that are in reality positive.
+ 
+
+783
+00:20:56,559 --> 00:20:59,909
+cases that are in reality positive.
+And you can see that um part of the
+
+784
+00:20:59,909 --> 00:20:59,919
+And you can see that um part of the
+ 
+
+785
+00:20:59,919 --> 00:21:03,990
+And you can see that um part of the
+negative cases have a value um that is
+
+786
+00:21:03,990 --> 00:21:04,000
+negative cases have a value um that is
+ 
+
+787
+00:21:04,000 --> 00:21:07,029
+negative cases have a value um that is
+larger than the threshold. So that's the
+
+788
+00:21:07,029 --> 00:21:07,039
+larger than the threshold. So that's the
+ 
+
+789
+00:21:07,039 --> 00:21:11,029
+larger than the threshold. So that's the
+light blue um surface. So these are the
+
+790
+00:21:11,029 --> 00:21:11,039
+light blue um surface. So these are the
+ 
+
+791
+00:21:11,039 --> 00:21:13,750
+light blue um surface. So these are the
+false positives.
+
+792
+00:21:13,750 --> 00:21:13,760
+false positives.
+ 
+
+793
+00:21:13,760 --> 00:21:16,230
+false positives.
+You can also see that from all positive
+
+794
+00:21:16,230 --> 00:21:16,240
+You can also see that from all positive
+ 
+
+795
+00:21:16,240 --> 00:21:18,789
+You can also see that from all positive
+cases. So that's the right normal
+
+796
+00:21:18,789 --> 00:21:18,799
+cases. So that's the right normal
+ 
+
+797
+00:21:18,799 --> 00:21:23,110
+cases. So that's the right normal
+distribution. Part of them have has a
+
+798
+00:21:23,110 --> 00:21:23,120
+distribution. Part of them have has a
+ 
+
+799
+00:21:23,120 --> 00:21:26,549
+distribution. Part of them have has a
+value lower than the threshold. So these
+
+800
+00:21:26,549 --> 00:21:26,559
+value lower than the threshold. So these
+ 
+
+801
+00:21:26,559 --> 00:21:30,149
+value lower than the threshold. So these
+cases are not tested positively whereas
+
+802
+00:21:30,149 --> 00:21:30,159
+cases are not tested positively whereas
+ 
+
+803
+00:21:30,159 --> 00:21:32,149
+cases are not tested positively whereas
+they are positive. So these are the
+
+804
+00:21:32,149 --> 00:21:32,159
+they are positive. So these are the
+ 
+
+805
+00:21:32,159 --> 00:21:34,789
+they are positive. So these are the
+false negatives. So that part is given
+
+806
+00:21:34,789 --> 00:21:34,799
+false negatives. So that part is given
+ 
+
+807
+00:21:34,799 --> 00:21:39,510
+false negatives. So that part is given
+in light red.
+
+808
+00:21:39,510 --> 00:21:39,520
+in light red.
+ 
+
+809
+00:21:39,520 --> 00:21:42,230
+in light red.
+Note that by increasing the thresholds,
+
+810
+00:21:42,230 --> 00:21:42,240
+Note that by increasing the thresholds,
+ 
+
+811
+00:21:42,240 --> 00:21:45,350
+Note that by increasing the thresholds,
+so by moving the green line line to the
+
+812
+00:21:45,350 --> 00:21:45,360
+so by moving the green line line to the
+ 
+
+813
+00:21:45,360 --> 00:21:49,190
+so by moving the green line line to the
+right,
+
+814
+00:21:49,190 --> 00:21:49,200
+
+ 
+
+815
+00:21:49,200 --> 00:21:51,990
+
+the number of false positives will
+
+816
+00:21:51,990 --> 00:21:52,000
+the number of false positives will
+ 
+
+817
+00:21:52,000 --> 00:21:55,669
+the number of false positives will
+become smaller. So this means that the
+
+818
+00:21:55,669 --> 00:21:55,679
+become smaller. So this means that the
+ 
+
+819
+00:21:55,679 --> 00:21:58,870
+become smaller. So this means that the
+specificity that is found in that study
+
+820
+00:21:58,870 --> 00:21:58,880
+specificity that is found in that study
+ 
+
+821
+00:21:58,880 --> 00:22:02,310
+specificity that is found in that study
+will become higher. At the same time,
+
+822
+00:22:02,310 --> 00:22:02,320
+will become higher. At the same time,
+ 
+
+823
+00:22:02,320 --> 00:22:05,510
+will become higher. At the same time,
+there will be more false negatives. So
+
+824
+00:22:05,510 --> 00:22:05,520
+there will be more false negatives. So
+ 
+
+825
+00:22:05,520 --> 00:22:09,270
+there will be more false negatives. So
+the light red surface will become
+
+826
+00:22:09,270 --> 00:22:09,280
+the light red surface will become
+ 
+
+827
+00:22:09,280 --> 00:22:12,149
+the light red surface will become
+larger. So this means that the
+
+828
+00:22:12,149 --> 00:22:12,159
+larger. So this means that the
+ 
+
+829
+00:22:12,159 --> 00:22:15,510
+larger. So this means that the
+sensitivity will become lower. So by
+
+830
+00:22:15,510 --> 00:22:15,520
+sensitivity will become lower. So by
+ 
+
+831
+00:22:15,520 --> 00:22:17,669
+sensitivity will become lower. So by
+incre increasing
+
+832
+00:22:17,669 --> 00:22:17,679
+incre increasing
+ 
+
+833
+00:22:17,679 --> 00:22:20,870
+incre increasing
+the green line you increase the
+
+834
+00:22:20,870 --> 00:22:20,880
+the green line you increase the
+ 
+
+835
+00:22:20,880 --> 00:22:23,510
+the green line you increase the
+specificity which is good but at the
+
+836
+00:22:23,510 --> 00:22:23,520
+specificity which is good but at the
+ 
+
+837
+00:22:23,520 --> 00:22:26,789
+specificity which is good but at the
+same time you decrease the sensitivity
+
+838
+00:22:26,789 --> 00:22:26,799
+same time you decrease the sensitivity
+ 
+
+839
+00:22:26,799 --> 00:22:29,430
+same time you decrease the sensitivity
+which is not good.
+
+840
+00:22:29,430 --> 00:22:29,440
+which is not good.
+ 
+
+841
+00:22:29,440 --> 00:22:32,549
+which is not good.
+So therefore you can expect that there
+
+842
+00:22:32,549 --> 00:22:32,559
+So therefore you can expect that there
+ 
+
+843
+00:22:32,559 --> 00:22:34,549
+So therefore you can expect that there
+is an association between specificity
+
+844
+00:22:34,549 --> 00:22:34,559
+is an association between specificity
+ 
+
+845
+00:22:34,559 --> 00:22:36,630
+is an association between specificity
+and sensitivity.
+
+846
+00:22:36,630 --> 00:22:36,640
+and sensitivity.
+ 
+
+847
+00:22:36,640 --> 00:22:39,590
+and sensitivity.
+So that there is a a co-variance. So in
+
+848
+00:22:39,590 --> 00:22:39,600
+So that there is a a co-variance. So in
+ 
+
+849
+00:22:39,600 --> 00:22:41,430
+So that there is a a co-variance. So in
+the previous slide I explained that we
+
+850
+00:22:41,430 --> 00:22:41,440
+the previous slide I explained that we
+ 
+
+851
+00:22:41,440 --> 00:22:43,190
+the previous slide I explained that we
+can estimate the coariance between
+
+852
+00:22:43,190 --> 00:22:43,200
+can estimate the coariance between
+ 
+
+853
+00:22:43,200 --> 00:22:45,590
+can estimate the coariance between
+specificity and sensitivity. Well in
+
+854
+00:22:45,590 --> 00:22:45,600
+specificity and sensitivity. Well in
+ 
+
+855
+00:22:45,600 --> 00:22:47,510
+specificity and sensitivity. Well in
+fact we can expect that there is a
+
+856
+00:22:47,510 --> 00:22:47,520
+fact we can expect that there is a
+ 
+
+857
+00:22:47,520 --> 00:22:49,350
+fact we can expect that there is a
+negative association between the two
+
+858
+00:22:49,350 --> 00:22:49,360
+negative association between the two
+ 
+
+859
+00:22:49,360 --> 00:22:52,710
+negative association between the two
+measures because different studies can
+
+860
+00:22:52,710 --> 00:22:52,720
+measures because different studies can
+ 
+
+861
+00:22:52,720 --> 00:22:55,590
+measures because different studies can
+use different thresholds.
+
+862
+00:22:55,590 --> 00:22:55,600
+use different thresholds.
+ 
+
+863
+00:22:55,600 --> 00:22:57,830
+use different thresholds.
+And so studies using a very large
+
+864
+00:22:57,830 --> 00:22:57,840
+And so studies using a very large
+ 
+
+865
+00:22:57,840 --> 00:22:59,350
+And so studies using a very large
+threshold
+
+866
+00:22:59,350 --> 00:22:59,360
+threshold
+ 
+
+867
+00:22:59,360 --> 00:23:02,230
+threshold
+will probably have a higher specificity
+
+868
+00:23:02,230 --> 00:23:02,240
+will probably have a higher specificity
+ 
+
+869
+00:23:02,240 --> 00:23:09,430
+will probably have a higher specificity
+rate but a lower sensitivity rate.
+
+870
+00:23:09,430 --> 00:23:09,440
+
+ 
+
+871
+00:23:09,440 --> 00:23:12,070
+
+So the sensitivity and the specificity
+
+872
+00:23:12,070 --> 00:23:12,080
+So the sensitivity and the specificity
+ 
+
+873
+00:23:12,080 --> 00:23:15,590
+So the sensitivity and the specificity
+depend on the cutoff used. So this means
+
+874
+00:23:15,590 --> 00:23:15,600
+depend on the cutoff used. So this means
+ 
+
+875
+00:23:15,600 --> 00:23:17,590
+depend on the cutoff used. So this means
+that the results of the math analysis
+
+876
+00:23:17,590 --> 00:23:17,600
+that the results of the math analysis
+ 
+
+877
+00:23:17,600 --> 00:23:20,710
+that the results of the math analysis
+are not very not that interesting in the
+
+878
+00:23:20,710 --> 00:23:20,720
+are not very not that interesting in the
+ 
+
+879
+00:23:20,720 --> 00:23:24,230
+are not very not that interesting in the
+sense that uh variances in specificity
+
+880
+00:23:24,230 --> 00:23:24,240
+sense that uh variances in specificity
+ 
+
+881
+00:23:24,240 --> 00:23:27,590
+sense that uh variances in specificity
+and sensitivity may not reflect true
+
+882
+00:23:27,590 --> 00:23:27,600
+and sensitivity may not reflect true
+ 
+
+883
+00:23:27,600 --> 00:23:29,590
+and sensitivity may not reflect true
+differences um between the study
+
+884
+00:23:29,590 --> 00:23:29,600
+differences um between the study
+ 
+
+885
+00:23:29,600 --> 00:23:31,830
+differences um between the study
+findings but may rather reflect
+
+886
+00:23:31,830 --> 00:23:31,840
+findings but may rather reflect
+ 
+
+887
+00:23:31,840 --> 00:23:33,669
+findings but may rather reflect
+difference between studies in the
+
+888
+00:23:33,669 --> 00:23:33,679
+difference between studies in the
+ 
+
+889
+00:23:33,679 --> 00:23:38,310
+difference between studies in the
+threshold that is used
+
+890
+00:23:38,310 --> 00:23:38,320
+
+ 
+
+891
+00:23:38,320 --> 00:23:40,950
+
+as an alternative approach which is
+
+892
+00:23:40,950 --> 00:23:40,960
+as an alternative approach which is
+ 
+
+893
+00:23:40,960 --> 00:23:44,149
+as an alternative approach which is
+however um statistically equivalent. You
+
+894
+00:23:44,149 --> 00:23:44,159
+however um statistically equivalent. You
+ 
+
+895
+00:23:44,159 --> 00:23:46,950
+however um statistically equivalent. You
+can also use the receiving operating
+
+896
+00:23:46,950 --> 00:23:46,960
+can also use the receiving operating
+ 
+
+897
+00:23:46,960 --> 00:23:49,750
+can also use the receiving operating
+characteristic curves.
+
+898
+00:23:49,750 --> 00:23:49,760
+characteristic curves.
+ 
+
+899
+00:23:49,760 --> 00:23:52,230
+characteristic curves.
+So the rock curves.
+
+900
+00:23:52,230 --> 00:23:52,240
+So the rock curves.
+ 
+
+901
+00:23:52,240 --> 00:23:55,510
+So the rock curves.
+So a rock curve summarizes the data per
+
+902
+00:23:55,510 --> 00:23:55,520
+So a rock curve summarizes the data per
+ 
+
+903
+00:23:55,520 --> 00:23:58,470
+So a rock curve summarizes the data per
+study or possibly over studies. So a
+
+904
+00:23:58,470 --> 00:23:58,480
+study or possibly over studies. So a
+ 
+
+905
+00:23:58,480 --> 00:24:01,510
+study or possibly over studies. So a
+rock curves looks like this. So on the
+
+906
+00:24:01,510 --> 00:24:01,520
+rock curves looks like this. So on the
+ 
+
+907
+00:24:01,520 --> 00:24:05,830
+rock curves looks like this. So on the
+yaxis you have the sensitivity.
+
+908
+00:24:05,830 --> 00:24:05,840
+yaxis you have the sensitivity.
+ 
+
+909
+00:24:05,840 --> 00:24:10,950
+yaxis you have the sensitivity.
+On the x axis you have um the one minus
+
+910
+00:24:10,950 --> 00:24:10,960
+On the x axis you have um the one minus
+ 
+
+911
+00:24:10,960 --> 00:24:13,590
+On the x axis you have um the one minus
+the specificity. So on the y-axis you
+
+912
+00:24:13,590 --> 00:24:13,600
+the specificity. So on the y-axis you
+ 
+
+913
+00:24:13,600 --> 00:24:17,350
+the specificity. So on the y-axis you
+have the probability
+
+914
+00:24:17,350 --> 00:24:17,360
+
+ 
+
+915
+00:24:17,360 --> 00:24:20,070
+
+that positive cases are tested
+
+916
+00:24:20,070 --> 00:24:20,080
+that positive cases are tested
+ 
+
+917
+00:24:20,080 --> 00:24:22,310
+that positive cases are tested
+positively.
+
+918
+00:24:22,310 --> 00:24:22,320
+positively.
+ 
+
+919
+00:24:22,320 --> 00:24:24,870
+positively.
+On the x-axis you have the probability
+
+920
+00:24:24,870 --> 00:24:24,880
+On the x-axis you have the probability
+ 
+
+921
+00:24:24,880 --> 00:24:26,950
+On the x-axis you have the probability
+that negative cases are tested
+
+922
+00:24:26,950 --> 00:24:26,960
+that negative cases are tested
+ 
+
+923
+00:24:26,960 --> 00:24:28,549
+that negative cases are tested
+positively.
+
+924
+00:24:28,549 --> 00:24:28,559
+positively.
+ 
+
+925
+00:24:28,559 --> 00:24:34,230
+positively.
+So you hope that um a study will find
+
+926
+00:24:34,230 --> 00:24:34,240
+So you hope that um a study will find
+ 
+
+927
+00:24:34,240 --> 00:24:37,269
+So you hope that um a study will find
+Yeah. Well, and and for each study you
+
+928
+00:24:37,269 --> 00:24:37,279
+Yeah. Well, and and for each study you
+ 
+
+929
+00:24:37,279 --> 00:24:39,669
+Yeah. Well, and and for each study you
+will have you can calculate these two
+
+930
+00:24:39,669 --> 00:24:39,679
+will have you can calculate these two
+ 
+
+931
+00:24:39,679 --> 00:24:44,149
+will have you can calculate these two
+measures and you hope that the
+
+932
+00:24:44,149 --> 00:24:44,159
+measures and you hope that the
+ 
+
+933
+00:24:44,159 --> 00:24:47,510
+measures and you hope that the
+sensitivity will be as high as possible
+
+934
+00:24:47,510 --> 00:24:47,520
+sensitivity will be as high as possible
+ 
+
+935
+00:24:47,520 --> 00:24:50,149
+sensitivity will be as high as possible
+and the one minus the specificity will
+
+936
+00:24:50,149 --> 00:24:50,159
+and the one minus the specificity will
+ 
+
+937
+00:24:50,159 --> 00:24:53,029
+and the one minus the specificity will
+be as small as possible but you can
+
+938
+00:24:53,029 --> 00:24:53,039
+be as small as possible but you can
+ 
+
+939
+00:24:53,039 --> 00:24:55,430
+be as small as possible but you can
+expect that there is a relationship
+
+940
+00:24:55,430 --> 00:24:55,440
+expect that there is a relationship
+ 
+
+941
+00:24:55,440 --> 00:24:58,070
+expect that there is a relationship
+between the two.
+
+942
+00:24:58,070 --> 00:24:58,080
+between the two.
+ 
+
+943
+00:24:58,080 --> 00:25:01,430
+between the two.
+So the higher the sensitivity, the lower
+
+944
+00:25:01,430 --> 00:25:01,440
+So the higher the sensitivity, the lower
+ 
+
+945
+00:25:01,440 --> 00:25:03,909
+So the higher the sensitivity, the lower
+the specificity and therefore also the
+
+946
+00:25:03,909 --> 00:25:03,919
+the specificity and therefore also the
+ 
+
+947
+00:25:03,919 --> 00:25:11,510
+the specificity and therefore also the
+higher one minus the specificity.
+
+948
+00:25:11,510 --> 00:25:11,520
+
+ 
+
+949
+00:25:11,520 --> 00:25:15,190
+
+Now suppose that yeah so here you can
+
+950
+00:25:15,190 --> 00:25:15,200
+Now suppose that yeah so here you can
+ 
+
+951
+00:25:15,200 --> 00:25:18,230
+Now suppose that yeah so here you can
+see the results of multiple studies.
+
+952
+00:25:18,230 --> 00:25:18,240
+see the results of multiple studies.
+ 
+
+953
+00:25:18,240 --> 00:25:22,710
+see the results of multiple studies.
+Each dot stands for one specific study.
+
+954
+00:25:22,710 --> 00:25:22,720
+Each dot stands for one specific study.
+ 
+
+955
+00:25:22,720 --> 00:25:25,430
+Each dot stands for one specific study.
+Um all these studies uh studied one
+
+956
+00:25:25,430 --> 00:25:25,440
+Um all these studies uh studied one
+ 
+
+957
+00:25:25,440 --> 00:25:27,830
+Um all these studies uh studied one
+specific instrument.
+
+958
+00:25:27,830 --> 00:25:27,840
+specific instrument.
+ 
+
+959
+00:25:27,840 --> 00:25:31,990
+specific instrument.
+So all these data together give some
+
+960
+00:25:31,990 --> 00:25:32,000
+So all these data together give some
+ 
+
+961
+00:25:32,000 --> 00:25:34,630
+So all these data together give some
+evidence that that instrument seems to
+
+962
+00:25:34,630 --> 00:25:34,640
+evidence that that instrument seems to
+ 
+
+963
+00:25:34,640 --> 00:25:37,909
+evidence that that instrument seems to
+work. If the instrument does not work at
+
+964
+00:25:37,909 --> 00:25:37,919
+work. If the instrument does not work at
+ 
+
+965
+00:25:37,919 --> 00:25:39,750
+work. If the instrument does not work at
+all,
+
+966
+00:25:39,750 --> 00:25:39,760
+all,
+ 
+
+967
+00:25:39,760 --> 00:25:42,870
+all,
+then the dots would um would be
+
+968
+00:25:42,870 --> 00:25:42,880
+then the dots would um would be
+ 
+
+969
+00:25:42,880 --> 00:25:47,430
+then the dots would um would be
+scattered around that diagonal um line.
+
+970
+00:25:47,430 --> 00:25:47,440
+scattered around that diagonal um line.
+ 
+
+971
+00:25:47,440 --> 00:25:49,350
+scattered around that diagonal um line.
+More specifically, then you would expect
+
+972
+00:25:49,350 --> 00:25:49,360
+More specifically, then you would expect
+ 
+
+973
+00:25:49,360 --> 00:25:51,909
+More specifically, then you would expect
+that the probability that positive cases
+
+974
+00:25:51,909 --> 00:25:51,919
+that the probability that positive cases
+ 
+
+975
+00:25:51,919 --> 00:25:54,789
+that the probability that positive cases
+are tested positively is exactly the
+
+976
+00:25:54,789 --> 00:25:54,799
+are tested positively is exactly the
+ 
+
+977
+00:25:54,799 --> 00:25:56,870
+are tested positively is exactly the
+same as a probability that negative
+
+978
+00:25:56,870 --> 00:25:56,880
+same as a probability that negative
+ 
+
+979
+00:25:56,880 --> 00:25:59,909
+same as a probability that negative
+cases are positively tested.
+
+980
+00:25:59,909 --> 00:25:59,919
+cases are positively tested.
+ 
+
+981
+00:25:59,919 --> 00:26:04,070
+cases are positively tested.
+So in that case um the dots would be
+
+982
+00:26:04,070 --> 00:26:04,080
+So in that case um the dots would be
+ 
+
+983
+00:26:04,080 --> 00:26:07,830
+So in that case um the dots would be
+distributed around that diagonal uh
+
+984
+00:26:07,830 --> 00:26:07,840
+distributed around that diagonal uh
+ 
+
+985
+00:26:07,840 --> 00:26:10,549
+distributed around that diagonal uh
+line. But here you can see that the
+
+986
+00:26:10,549 --> 00:26:10,559
+line. But here you can see that the
+ 
+
+987
+00:26:10,559 --> 00:26:13,510
+line. But here you can see that the
+majority of the dots are higher than
+
+988
+00:26:13,510 --> 00:26:13,520
+majority of the dots are higher than
+ 
+
+989
+00:26:13,520 --> 00:26:16,710
+majority of the dots are higher than
+that uh diagonal line. So which means
+
+990
+00:26:16,710 --> 00:26:16,720
+that uh diagonal line. So which means
+ 
+
+991
+00:26:16,720 --> 00:26:21,190
+that uh diagonal line. So which means
+that even if the yeah the spec
+
+992
+00:26:21,190 --> 00:26:21,200
+that even if the yeah the spec
+ 
+
+993
+00:26:21,200 --> 00:26:24,549
+that even if the yeah the spec
+yeah for given a specific specificity
+
+994
+00:26:24,549 --> 00:26:24,559
+yeah for given a specific specificity
+ 
+
+995
+00:26:24,559 --> 00:26:28,230
+yeah for given a specific specificity
+um sensitivity one minus the specificity
+
+996
+00:26:28,230 --> 00:26:28,240
+um sensitivity one minus the specificity
+ 
+
+997
+00:26:28,240 --> 00:26:30,470
+um sensitivity one minus the specificity
+is smaller.
+
+998
+00:26:30,470 --> 00:26:30,480
+is smaller.
+ 
+
+999
+00:26:30,480 --> 00:26:38,230
+is smaller.
+So this is what we hope to find.
+
+1000
+00:26:38,230 --> 00:26:38,240
+
+ 
+
+1001
+00:26:38,240 --> 00:26:42,149
+
+You can go to that site uh
+
+1002
+00:26:42,149 --> 00:26:42,159
+You can go to that site uh
+ 
+
+1003
+00:26:42,159 --> 00:26:44,310
+You can go to that site uh
+uh from which I I have put the link on
+
+1004
+00:26:44,310 --> 00:26:44,320
+uh from which I I have put the link on
+ 
+
+1005
+00:26:44,320 --> 00:26:47,269
+uh from which I I have put the link on
+the slide to play around with a
+
+1006
+00:26:47,269 --> 00:26:47,279
+the slide to play around with a
+ 
+
+1007
+00:26:47,279 --> 00:26:50,070
+the slide to play around with a
+threshold. And you can see indeed that
+
+1008
+00:26:50,070 --> 00:26:50,080
+threshold. And you can see indeed that
+ 
+
+1009
+00:26:50,080 --> 00:26:53,029
+threshold. And you can see indeed that
+if you change a threshold then you would
+
+1010
+00:26:53,029 --> 00:26:53,039
+if you change a threshold then you would
+ 
+
+1011
+00:26:53,039 --> 00:26:56,549
+if you change a threshold then you would
+uh expect to find another sensitivity
+
+1012
+00:26:56,549 --> 00:26:56,559
+uh expect to find another sensitivity
+ 
+
+1013
+00:26:56,559 --> 00:27:00,310
+uh expect to find another sensitivity
+and another one minus specificity. And
+
+1014
+00:27:00,310 --> 00:27:00,320
+and another one minus specificity. And
+ 
+
+1015
+00:27:00,320 --> 00:27:02,710
+and another one minus specificity. And
+so that curve
+
+1016
+00:27:02,710 --> 00:27:02,720
+so that curve
+ 
+
+1017
+00:27:02,720 --> 00:27:05,990
+so that curve
+um that is uh given in that uh in that
+
+1018
+00:27:05,990 --> 00:27:06,000
+um that is uh given in that uh in that
+ 
+
+1019
+00:27:06,000 --> 00:27:07,750
+um that is uh given in that uh in that
+plot
+
+1020
+00:27:07,750 --> 00:27:07,760
+plot
+ 
+
+1021
+00:27:07,760 --> 00:27:13,909
+plot
+um yeah describes how um the sensitivity
+
+1022
+00:27:13,909 --> 00:27:13,919
+um yeah describes how um the sensitivity
+ 
+
+1023
+00:27:13,919 --> 00:27:17,110
+um yeah describes how um the sensitivity
+and u the specificity are related to
+
+1024
+00:27:17,110 --> 00:27:17,120
+and u the specificity are related to
+ 
+
+1025
+00:27:17,120 --> 00:27:21,830
+and u the specificity are related to
+each other and um the values
+
+1026
+00:27:21,830 --> 00:27:21,840
+each other and um the values
+ 
+
+1027
+00:27:21,840 --> 00:27:29,510
+each other and um the values
+depend on the threshold that is used.
+
+1028
+00:27:29,510 --> 00:27:29,520
+
+ 
+
+1029
+00:27:29,520 --> 00:27:32,149
+
+So based on that curve
+
+1030
+00:27:32,149 --> 00:27:32,159
+So based on that curve
+ 
+
+1031
+00:27:32,159 --> 00:27:36,070
+So based on that curve
+you can find the best solution. You can
+
+1032
+00:27:36,070 --> 00:27:36,080
+you can find the best solution. You can
+ 
+
+1033
+00:27:36,080 --> 00:27:41,110
+you can find the best solution. You can
+um you can think about what is the cost
+
+1034
+00:27:41,110 --> 00:27:41,120
+um you can think about what is the cost
+ 
+
+1035
+00:27:41,120 --> 00:27:43,750
+um you can think about what is the cost
+of making
+
+1036
+00:27:43,750 --> 00:27:43,760
+of making
+ 
+
+1037
+00:27:43,760 --> 00:27:45,590
+of making
+one specific error and the cost of
+
+1038
+00:27:45,590 --> 00:27:45,600
+one specific error and the cost of
+ 
+
+1039
+00:27:45,600 --> 00:27:48,149
+one specific error and the cost of
+making another type of error. For
+
+1040
+00:27:48,149 --> 00:27:48,159
+making another type of error. For
+ 
+
+1041
+00:27:48,159 --> 00:27:51,190
+making another type of error. For
+instance, what is the cost of not
+
+1042
+00:27:51,190 --> 00:27:51,200
+instance, what is the cost of not
+ 
+
+1043
+00:27:51,200 --> 00:27:54,710
+instance, what is the cost of not
+finding a positive case
+
+1044
+00:27:54,710 --> 00:27:54,720
+finding a positive case
+ 
+
+1045
+00:27:54,720 --> 00:27:58,470
+finding a positive case
+versus what is the cost of um saying
+
+1046
+00:27:58,470 --> 00:27:58,480
+versus what is the cost of um saying
+ 
+
+1047
+00:27:58,480 --> 00:28:00,389
+versus what is the cost of um saying
+that the case is positive whereas that
+
+1048
+00:28:00,389 --> 00:28:00,399
+that the case is positive whereas that
+ 
+
+1049
+00:28:00,399 --> 00:28:03,750
+that the case is positive whereas that
+case is not positive.
+
+1050
+00:28:03,750 --> 00:28:03,760
+case is not positive.
+ 
+
+1051
+00:28:03,760 --> 00:28:06,549
+case is not positive.
+And by balancing these two costs, you
+
+1052
+00:28:06,549 --> 00:28:06,559
+And by balancing these two costs, you
+ 
+
+1053
+00:28:06,559 --> 00:28:09,430
+And by balancing these two costs, you
+can decide on what threshold you could
+
+1054
+00:28:09,430 --> 00:28:09,440
+can decide on what threshold you could
+ 
+
+1055
+00:28:09,440 --> 00:28:12,950
+can decide on what threshold you could
+use.
+
+1056
+00:28:12,950 --> 00:28:12,960
+
+ 
+
+1057
+00:28:12,960 --> 00:28:16,470
+
+Note that uh the second plot here looks
+
+1058
+00:28:16,470 --> 00:28:16,480
+Note that uh the second plot here looks
+ 
+
+1059
+00:28:16,480 --> 00:28:19,430
+Note that uh the second plot here looks
+better than the first plot.
+
+1060
+00:28:19,430 --> 00:28:19,440
+better than the first plot.
+ 
+
+1061
+00:28:19,440 --> 00:28:21,830
+better than the first plot.
+In the second plot, the instrument seems
+
+1062
+00:28:21,830 --> 00:28:21,840
+In the second plot, the instrument seems
+ 
+
+1063
+00:28:21,840 --> 00:28:25,830
+In the second plot, the instrument seems
+to to be able uh better to make a
+
+1064
+00:28:25,830 --> 00:28:25,840
+to to be able uh better to make a
+ 
+
+1065
+00:28:25,840 --> 00:28:27,669
+to to be able uh better to make a
+distinction between these two
+
+1066
+00:28:27,669 --> 00:28:27,679
+distinction between these two
+ 
+
+1067
+00:28:27,679 --> 00:28:30,549
+distinction between these two
+distributions.
+
+1068
+00:28:30,549 --> 00:28:30,559
+distributions.
+ 
+
+1069
+00:28:30,559 --> 00:28:32,549
+distributions.
+So whereas in the first plot in the
+
+1070
+00:28:32,549 --> 00:28:32,559
+So whereas in the first plot in the
+ 
+
+1071
+00:28:32,559 --> 00:28:35,510
+So whereas in the first plot in the
+upper plot there is a large part or
+
+1072
+00:28:35,510 --> 00:28:35,520
+upper plot there is a large part or
+ 
+
+1073
+00:28:35,520 --> 00:28:38,950
+upper plot there is a large part or
+large surface of false positives and
+
+1074
+00:28:38,950 --> 00:28:38,960
+large surface of false positives and
+ 
+
+1075
+00:28:38,960 --> 00:28:41,430
+large surface of false positives and
+false negatives
+
+1076
+00:28:41,430 --> 00:28:41,440
+false negatives
+ 
+
+1077
+00:28:41,440 --> 00:28:43,510
+false negatives
+in the
+
+1078
+00:28:43,510 --> 00:28:43,520
+in the
+ 
+
+1079
+00:28:43,520 --> 00:28:46,230
+in the
+um the plot at the bottom it's clear
+
+1080
+00:28:46,230 --> 00:28:46,240
+um the plot at the bottom it's clear
+ 
+
+1081
+00:28:46,240 --> 00:28:48,630
+um the plot at the bottom it's clear
+that these two surfaces are much
+
+1082
+00:28:48,630 --> 00:28:48,640
+that these two surfaces are much
+ 
+
+1083
+00:28:48,640 --> 00:28:52,710
+that these two surfaces are much
+smaller. This is also reflected in the
+
+1084
+00:28:52,710 --> 00:28:52,720
+smaller. This is also reflected in the
+ 
+
+1085
+00:28:52,720 --> 00:28:55,830
+smaller. This is also reflected in the
+um rock curve. You can see that here the
+
+1086
+00:28:55,830 --> 00:28:55,840
+um rock curve. You can see that here the
+ 
+
+1087
+00:28:55,840 --> 00:28:58,549
+um rock curve. You can see that here the
+rock curve is much higher is much
+
+1088
+00:28:58,549 --> 00:28:58,559
+rock curve is much higher is much
+ 
+
+1089
+00:28:58,559 --> 00:29:04,710
+rock curve is much higher is much
+farther away from the diagonal line.
+
+1090
+00:29:04,710 --> 00:29:04,720
+
+ 
+
+1091
+00:29:04,720 --> 00:29:07,590
+
+A measure that can be used to express
+
+1092
+00:29:07,590 --> 00:29:07,600
+A measure that can be used to express
+ 
+
+1093
+00:29:07,600 --> 00:29:10,789
+A measure that can be used to express
+express how good the instrument is is
+
+1094
+00:29:10,789 --> 00:29:10,799
+express how good the instrument is is
+ 
+
+1095
+00:29:10,799 --> 00:29:14,549
+express how good the instrument is is
+the area under the curve.
+
+1096
+00:29:14,549 --> 00:29:14,559
+the area under the curve.
+ 
+
+1097
+00:29:14,559 --> 00:29:18,149
+the area under the curve.
+So the area under the diagonal line
+
+1098
+00:29:18,149 --> 00:29:18,159
+So the area under the diagonal line
+ 
+
+1099
+00:29:18,159 --> 00:29:21,190
+So the area under the diagonal line
+would be 0 50.
+
+1100
+00:29:21,190 --> 00:29:21,200
+would be 0 50.
+ 
+
+1101
+00:29:21,200 --> 00:29:24,149
+would be 0 50.
+So the area under the curve for the
+
+1102
+00:29:24,149 --> 00:29:24,159
+So the area under the curve for the
+ 
+
+1103
+00:29:24,159 --> 00:29:26,149
+So the area under the curve for the
+instrument
+
+1104
+00:29:26,149 --> 00:29:26,159
+instrument
+ 
+
+1105
+00:29:26,159 --> 00:29:32,630
+instrument
+at the uh upper plot is 73. For the
+
+1106
+00:29:32,630 --> 00:29:32,640
+at the uh upper plot is 73. For the
+ 
+
+1107
+00:29:32,640 --> 00:29:36,549
+at the uh upper plot is 73. For the
+under plot it is almost one. So you can
+
+1108
+00:29:36,549 --> 00:29:36,559
+under plot it is almost one. So you can
+ 
+
+1109
+00:29:36,559 --> 00:29:39,430
+under plot it is almost one. So you can
+see that uh there's only a small part of
+
+1110
+00:29:39,430 --> 00:29:39,440
+see that uh there's only a small part of
+ 
+
+1111
+00:29:39,440 --> 00:29:42,310
+see that uh there's only a small part of
+the total surface that is on the left
+
+1112
+00:29:42,310 --> 00:29:42,320
+the total surface that is on the left
+ 
+
+1113
+00:29:42,320 --> 00:29:45,830
+the total surface that is on the left
+side of the curve. So you hope that that
+
+1114
+00:29:45,830 --> 00:29:45,840
+side of the curve. So you hope that that
+ 
+
+1115
+00:29:45,840 --> 00:29:48,549
+side of the curve. So you hope that that
+curve that that area is as large as
+
+1116
+00:29:48,549 --> 00:29:48,559
+curve that that area is as large as
+ 
+
+1117
+00:29:48,559 --> 00:29:52,549
+curve that that area is as large as
+possibly possible. Ideally this equal to
+
+1118
+00:29:52,549 --> 00:29:52,559
+possibly possible. Ideally this equal to
+ 
+
+1119
+00:29:52,559 --> 00:29:54,070
+possibly possible. Ideally this equal to
+one.
+
+1120
+00:29:54,070 --> 00:29:54,080
+one.
+ 
+
+1121
+00:29:54,080 --> 00:29:56,870
+one.
+So the higher the area under the curve
+
+1122
+00:29:56,870 --> 00:29:56,880
+So the higher the area under the curve
+ 
+
+1123
+00:29:56,880 --> 00:29:59,909
+So the higher the area under the curve
+the better.
+
+1124
+00:29:59,909 --> 00:29:59,919
+the better.
+ 
+
+1125
+00:29:59,919 --> 00:30:03,510
+the better.
+Now how you how can you met analyze
+
+1126
+00:30:03,510 --> 00:30:03,520
+Now how you how can you met analyze
+ 
+
+1127
+00:30:03,520 --> 00:30:06,230
+Now how you how can you met analyze
+rock curves?
+
+1128
+00:30:06,230 --> 00:30:06,240
+rock curves?
+ 
+
+1129
+00:30:06,240 --> 00:30:09,909
+rock curves?
+Well you can use this model. So at the
+
+1130
+00:30:09,909 --> 00:30:09,919
+Well you can use this model. So at the
+ 
+
+1131
+00:30:09,919 --> 00:30:13,029
+Well you can use this model. So at the
+lowest level so within studies we have
+
+1132
+00:30:13,029 --> 00:30:13,039
+lowest level so within studies we have
+ 
+
+1133
+00:30:13,039 --> 00:30:15,909
+lowest level so within studies we have
+the same equations as before. So we say
+
+1134
+00:30:15,909 --> 00:30:15,919
+the same equations as before. So we say
+ 
+
+1135
+00:30:15,919 --> 00:30:18,870
+the same equations as before. So we say
+that the number of positively tested
+
+1136
+00:30:18,870 --> 00:30:18,880
+that the number of positively tested
+ 
+
+1137
+00:30:18,880 --> 00:30:20,789
+that the number of positively tested
+cases
+
+1138
+00:30:20,789 --> 00:30:20,799
+cases
+ 
+
+1139
+00:30:20,799 --> 00:30:24,149
+cases
+um given that cases are positive follow
+
+1140
+00:30:24,149 --> 00:30:24,159
+um given that cases are positive follow
+ 
+
+1141
+00:30:24,159 --> 00:30:26,630
+um given that cases are positive follow
+a binomial distribution with number of
+
+1142
+00:30:26,630 --> 00:30:26,640
+a binomial distribution with number of
+ 
+
+1143
+00:30:26,640 --> 00:30:29,430
+a binomial distribution with number of
+positive cases and with a specific
+
+1144
+00:30:29,430 --> 00:30:29,440
+positive cases and with a specific
+ 
+
+1145
+00:30:29,440 --> 00:30:32,950
+positive cases and with a specific
+sensitivity rate. the number of
+
+1146
+00:30:32,950 --> 00:30:32,960
+sensitivity rate. the number of
+ 
+
+1147
+00:30:32,960 --> 00:30:37,990
+sensitivity rate. the number of
+positively tested negative cases.
+
+1148
+00:30:37,990 --> 00:30:38,000
+positively tested negative cases.
+ 
+
+1149
+00:30:38,000 --> 00:30:40,549
+positively tested negative cases.
+Uh it follows a binomial distribution
+
+1150
+00:30:40,549 --> 00:30:40,559
+Uh it follows a binomial distribution
+ 
+
+1151
+00:30:40,559 --> 00:30:43,269
+Uh it follows a binomial distribution
+with the number of negative cases in
+
+1152
+00:30:43,269 --> 00:30:43,279
+with the number of negative cases in
+ 
+
+1153
+00:30:43,279 --> 00:30:46,230
+with the number of negative cases in
+that study and with a probability that
+
+1154
+00:30:46,230 --> 00:30:46,240
+that study and with a probability that
+ 
+
+1155
+00:30:46,240 --> 00:30:49,669
+that study and with a probability that
+is equal to one minus specificity.
+
+1156
+00:30:49,669 --> 00:30:49,679
+is equal to one minus specificity.
+ 
+
+1157
+00:30:49,679 --> 00:30:55,029
+is equal to one minus specificity.
+And then we say well these two um
+
+1158
+00:30:55,029 --> 00:30:55,039
+And then we say well these two um
+ 
+
+1159
+00:30:55,039 --> 00:30:59,990
+And then we say well these two um
+probabilities so these two pies
+
+1160
+00:30:59,990 --> 00:31:00,000
+probabilities so these two pies
+ 
+
+1161
+00:31:00,000 --> 00:31:04,070
+probabilities so these two pies
+can be described as a nonlinear function
+
+1162
+00:31:04,070 --> 00:31:04,080
+can be described as a nonlinear function
+ 
+
+1163
+00:31:04,080 --> 00:31:07,830
+can be described as a nonlinear function
+of theta i plus
+
+1164
+00:31:07,830 --> 00:31:07,840
+of theta i plus
+ 
+
+1165
+00:31:07,840 --> 00:31:20,149
+of theta i plus
+alpha i * x i j * x - beta xig J.
+
+1166
+00:31:20,149 --> 00:31:20,159
+
+ 
+
+1167
+00:31:20,159 --> 00:31:24,070
+
+So there are two uh probabilities. So pi
+
+1168
+00:31:24,070 --> 00:31:24,080
+So there are two uh probabilities. So pi
+ 
+
+1169
+00:31:24,080 --> 00:31:29,510
+So there are two uh probabilities. So pi
+1 i and pi 2 i. So the j in the equation
+
+1170
+00:31:29,510 --> 00:31:29,520
+1 i and pi 2 i. So the j in the equation
+ 
+
+1171
+00:31:29,520 --> 00:31:33,510
+1 i and pi 2 i. So the j in the equation
+uh of level two refers to positive
+
+1172
+00:31:33,510 --> 00:31:33,520
+uh of level two refers to positive
+ 
+
+1173
+00:31:33,520 --> 00:31:37,830
+uh of level two refers to positive
+subjects or negative subjects.
+
+1174
+00:31:37,830 --> 00:31:37,840
+subjects or negative subjects.
+ 
+
+1175
+00:31:37,840 --> 00:31:42,549
+subjects or negative subjects.
+and the Xig J
+
+1176
+00:31:42,549 --> 00:31:42,559
+
+ 
+
+1177
+00:31:42,559 --> 00:31:44,710
+
+is equal to one for positive subjects
+
+1178
+00:31:44,710 --> 00:31:44,720
+is equal to one for positive subjects
+ 
+
+1179
+00:31:44,720 --> 00:31:47,590
+is equal to one for positive subjects
+and zero for negative subjects.
+
+1180
+00:31:47,590 --> 00:31:47,600
+and zero for negative subjects.
+ 
+
+1181
+00:31:47,600 --> 00:31:49,110
+and zero for negative subjects.
+And then the parameters that are
+
+1182
+00:31:49,110 --> 00:31:49,120
+And then the parameters that are
+ 
+
+1183
+00:31:49,120 --> 00:31:52,549
+And then the parameters that are
+estimated in our meta analysis are the
+
+1184
+00:31:52,549 --> 00:31:52,559
+estimated in our meta analysis are the
+ 
+
+1185
+00:31:52,559 --> 00:31:59,830
+estimated in our meta analysis are the
+means of theta eyes and the alpha eyes
+
+1186
+00:31:59,830 --> 00:31:59,840
+
+ 
+
+1187
+00:31:59,840 --> 00:32:01,509
+
+as well as the variances and the
+
+1188
+00:32:01,509 --> 00:32:01,519
+as well as the variances and the
+ 
+
+1189
+00:32:01,519 --> 00:32:03,990
+as well as the variances and the
+covariances across studies of these two
+
+1190
+00:32:03,990 --> 00:32:04,000
+covariances across studies of these two
+ 
+
+1191
+00:32:04,000 --> 00:32:07,029
+covariances across studies of these two
+parameters. But what are the uh the
+
+1192
+00:32:07,029 --> 00:32:07,039
+parameters. But what are the uh the
+ 
+
+1193
+00:32:07,039 --> 00:32:10,789
+parameters. But what are the uh the
+meanings of these parameters?
+
+1194
+00:32:10,789 --> 00:32:10,799
+meanings of these parameters?
+ 
+
+1195
+00:32:10,799 --> 00:32:13,029
+meanings of these parameters?
+Well,
+
+1196
+00:32:13,029 --> 00:32:13,039
+Well,
+ 
+
+1197
+00:32:13,039 --> 00:32:19,590
+Well,
+so suppose that you have um so so so
+
+1198
+00:32:19,590 --> 00:32:19,600
+so suppose that you have um so so so
+ 
+
+1199
+00:32:19,600 --> 00:32:21,110
+so suppose that you have um so so so
+xig
+
+1200
+00:32:21,110 --> 00:32:21,120
+xig
+ 
+
+1201
+00:32:21,120 --> 00:32:25,830
+xig
+reverse is equal to one for positive
+
+1202
+00:32:25,830 --> 00:32:25,840
+reverse is equal to one for positive
+ 
+
+1203
+00:32:25,840 --> 00:32:28,870
+reverse is equal to one for positive
+cases and zero for negative cases. So
+
+1204
+00:32:28,870 --> 00:32:28,880
+cases and zero for negative cases. So
+ 
+
+1205
+00:32:28,880 --> 00:32:31,269
+cases and zero for negative cases. So
+for
+
+1206
+00:32:31,269 --> 00:32:31,279
+for
+ 
+
+1207
+00:32:31,279 --> 00:32:33,590
+for
+negative cases
+
+1208
+00:32:33,590 --> 00:32:33,600
+negative cases
+ 
+
+1209
+00:32:33,600 --> 00:32:37,350
+negative cases
+the equation uh simplifies a lot. So for
+
+1210
+00:32:37,350 --> 00:32:37,360
+the equation uh simplifies a lot. So for
+ 
+
+1211
+00:32:37,360 --> 00:32:40,389
+the equation uh simplifies a lot. So for
+negative cases the logit of pi is equal
+
+1212
+00:32:40,389 --> 00:32:40,399
+negative cases the logit of pi is equal
+ 
+
+1213
+00:32:40,399 --> 00:32:43,430
+negative cases the logit of pi is equal
+to theta i.
+
+1214
+00:32:43,430 --> 00:32:43,440
+to theta i.
+ 
+
+1215
+00:32:43,440 --> 00:32:47,590
+to theta i.
+So theta i determines the probability
+
+1216
+00:32:47,590 --> 00:32:47,600
+So theta i determines the probability
+ 
+
+1217
+00:32:47,600 --> 00:32:50,310
+So theta i determines the probability
+for a negative person
+
+1218
+00:32:50,310 --> 00:32:50,320
+for a negative person
+ 
+
+1219
+00:32:50,320 --> 00:32:52,870
+for a negative person
+of being tested positively.
+
+1220
+00:32:52,870 --> 00:32:52,880
+of being tested positively.
+ 
+
+1221
+00:32:52,880 --> 00:32:55,590
+of being tested positively.
+So that refers to the threshold used in
+
+1222
+00:32:55,590 --> 00:32:55,600
+So that refers to the threshold used in
+ 
+
+1223
+00:32:55,600 --> 00:32:59,990
+So that refers to the threshold used in
+the study.
+
+1224
+00:32:59,990 --> 00:33:00,000
+
+ 
+
+1225
+00:33:00,000 --> 00:33:03,990
+
+And so the variance in the ice refers to
+
+1226
+00:33:03,990 --> 00:33:04,000
+And so the variance in the ice refers to
+ 
+
+1227
+00:33:04,000 --> 00:33:06,389
+And so the variance in the ice refers to
+uh the differences between studies in
+
+1228
+00:33:06,389 --> 00:33:06,399
+uh the differences between studies in
+ 
+
+1229
+00:33:06,399 --> 00:33:11,830
+uh the differences between studies in
+the threshold that is used.
+
+1230
+00:33:11,830 --> 00:33:11,840
+
+ 
+
+1231
+00:33:11,840 --> 00:33:14,630
+
+Alpha I. So which is a parameter for
+
+1232
+00:33:14,630 --> 00:33:14,640
+Alpha I. So which is a parameter for
+ 
+
+1233
+00:33:14,640 --> 00:33:16,630
+Alpha I. So which is a parameter for
+study I
+
+1234
+00:33:16,630 --> 00:33:16,640
+study I
+ 
+
+1235
+00:33:16,640 --> 00:33:20,389
+study I
+indicates to what extent the probability
+
+1236
+00:33:20,389 --> 00:33:20,399
+indicates to what extent the probability
+ 
+
+1237
+00:33:20,399 --> 00:33:23,190
+indicates to what extent the probability
+for testing positively
+
+1238
+00:33:23,190 --> 00:33:23,200
+for testing positively
+ 
+
+1239
+00:33:23,200 --> 00:33:27,029
+for testing positively
+changes when um a person in reality is
+
+1240
+00:33:27,029 --> 00:33:27,039
+changes when um a person in reality is
+ 
+
+1241
+00:33:27,039 --> 00:33:29,669
+changes when um a person in reality is
+positive and not negative.
+
+1242
+00:33:29,669 --> 00:33:29,679
+positive and not negative.
+ 
+
+1243
+00:33:29,679 --> 00:33:32,470
+positive and not negative.
+So it refers to the discrimination of
+
+1244
+00:33:32,470 --> 00:33:32,480
+So it refers to the discrimination of
+ 
+
+1245
+00:33:32,480 --> 00:33:35,669
+So it refers to the discrimination of
+the test. So we hope that alpha i is as
+
+1246
+00:33:35,669 --> 00:33:35,679
+the test. So we hope that alpha i is as
+ 
+
+1247
+00:33:35,679 --> 00:33:37,909
+the test. So we hope that alpha i is as
+high as possible.
+
+1248
+00:33:37,909 --> 00:33:37,919
+high as possible.
+ 
+
+1249
+00:33:37,919 --> 00:33:41,590
+high as possible.
+So alpha i refers to the quality of the
+
+1250
+00:33:41,590 --> 00:33:41,600
+So alpha i refers to the quality of the
+ 
+
+1251
+00:33:41,600 --> 00:33:43,750
+So alpha i refers to the quality of the
+test.
+
+1252
+00:33:43,750 --> 00:33:43,760
+test.
+ 
+
+1253
+00:33:43,760 --> 00:33:46,470
+test.
+And what is the meaning of beta? So you
+
+1254
+00:33:46,470 --> 00:33:46,480
+And what is the meaning of beta? So you
+ 
+
+1255
+00:33:46,480 --> 00:33:48,710
+And what is the meaning of beta? So you
+can see that in the graph. So in the
+
+1256
+00:33:48,710 --> 00:33:48,720
+can see that in the graph. So in the
+ 
+
+1257
+00:33:48,720 --> 00:33:52,389
+can see that in the graph. So in the
+graph you can see uh look first at the
+
+1258
+00:33:52,389 --> 00:33:52,399
+graph you can see uh look first at the
+ 
+
+1259
+00:33:52,399 --> 00:33:55,269
+graph you can see uh look first at the
+red and the blue curve. So the blue
+
+1260
+00:33:55,269 --> 00:33:55,279
+red and the blue curve. So the blue
+ 
+
+1261
+00:33:55,279 --> 00:33:58,870
+red and the blue curve. So the blue
+curve is for a test that discriminates
+
+1262
+00:33:58,870 --> 00:33:58,880
+curve is for a test that discriminates
+ 
+
+1263
+00:33:58,880 --> 00:34:01,509
+curve is for a test that discriminates
+not at all. So for a test with a quality
+
+1264
+00:34:01,509 --> 00:34:01,519
+not at all. So for a test with a quality
+ 
+
+1265
+00:34:01,519 --> 00:34:06,149
+not at all. So for a test with a quality
+of zero. So alpha is equal to zero.
+
+1266
+00:34:06,149 --> 00:34:06,159
+of zero. So alpha is equal to zero.
+ 
+
+1267
+00:34:06,159 --> 00:34:08,389
+of zero. So alpha is equal to zero.
+Whereas for the red curve alpha is equal
+
+1268
+00:34:08,389 --> 00:34:08,399
+Whereas for the red curve alpha is equal
+ 
+
+1269
+00:34:08,399 --> 00:34:13,190
+Whereas for the red curve alpha is equal
+to two. You can see that um it's better
+
+1270
+00:34:13,190 --> 00:34:13,200
+to two. You can see that um it's better
+ 
+
+1271
+00:34:13,200 --> 00:34:16,149
+to two. You can see that um it's better
+the the higher alpha the better the test
+
+1272
+00:34:16,149 --> 00:34:16,159
+the the higher alpha the better the test
+ 
+
+1273
+00:34:16,159 --> 00:34:19,430
+the the higher alpha the better the test
+discriminates between the two uh groups
+
+1274
+00:34:19,430 --> 00:34:19,440
+discriminates between the two uh groups
+ 
+
+1275
+00:34:19,440 --> 00:34:21,750
+discriminates between the two uh groups
+between true positives and true
+
+1276
+00:34:21,750 --> 00:34:21,760
+between true positives and true
+ 
+
+1277
+00:34:21,760 --> 00:34:24,069
+between true positives and true
+negatives.
+
+1278
+00:34:24,069 --> 00:34:24,079
+negatives.
+ 
+
+1279
+00:34:24,079 --> 00:34:25,750
+negatives.
+What's the meaning of beta? Well,
+
+1280
+00:34:25,750 --> 00:34:25,760
+What's the meaning of beta? Well,
+ 
+
+1281
+00:34:25,760 --> 00:34:28,869
+What's the meaning of beta? Well,
+compare the red and the gray curve.
+
+1282
+00:34:28,869 --> 00:34:28,879
+compare the red and the gray curve.
+ 
+
+1283
+00:34:28,879 --> 00:34:32,470
+compare the red and the gray curve.
+Well, the red curve is a symmetric curve
+
+1284
+00:34:32,470 --> 00:34:32,480
+Well, the red curve is a symmetric curve
+ 
+
+1285
+00:34:32,480 --> 00:34:35,109
+Well, the red curve is a symmetric curve
+whereas the gray curve is an asymmetric
+
+1286
+00:34:35,109 --> 00:34:35,119
+whereas the gray curve is an asymmetric
+ 
+
+1287
+00:34:35,119 --> 00:34:40,310
+whereas the gray curve is an asymmetric
+curve. So the beta um yeah describes or
+
+1288
+00:34:40,310 --> 00:34:40,320
+curve. So the beta um yeah describes or
+ 
+
+1289
+00:34:40,320 --> 00:34:44,069
+curve. So the beta um yeah describes or
+expresses the asymmetry of the rock
+
+1290
+00:34:44,069 --> 00:34:44,079
+expresses the asymmetry of the rock
+ 
+
+1291
+00:34:44,079 --> 00:34:47,079
+expresses the asymmetry of the rock
+curve.
+

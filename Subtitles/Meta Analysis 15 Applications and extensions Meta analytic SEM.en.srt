@@ -1,0 +1,4205 @@
+1
+00:00:01,600 --> 00:00:03,830
+
+In this screencast we will look at
+
+2
+00:00:03,830 --> 00:00:03,840
+In this screencast we will look at
+ 
+
+3
+00:00:03,840 --> 00:00:05,670
+In this screencast we will look at
+metaanalytic structural equation
+
+4
+00:00:05,670 --> 00:00:05,680
+metaanalytic structural equation
+ 
+
+5
+00:00:05,680 --> 00:00:09,110
+metaanalytic structural equation
+modeling MAM.
+
+6
+00:00:09,110 --> 00:00:09,120
+modeling MAM.
+ 
+
+7
+00:00:09,120 --> 00:00:11,350
+modeling MAM.
+First I will give more details about
+
+8
+00:00:11,350 --> 00:00:11,360
+First I will give more details about
+ 
+
+9
+00:00:11,360 --> 00:00:13,990
+First I will give more details about
+structural equation modeling SAM and
+
+10
+00:00:13,990 --> 00:00:14,000
+structural equation modeling SAM and
+ 
+
+11
+00:00:14,000 --> 00:00:17,109
+structural equation modeling SAM and
+illustrate SAM with an example. Next I
+
+12
+00:00:17,109 --> 00:00:17,119
+illustrate SAM with an example. Next I
+ 
+
+13
+00:00:17,119 --> 00:00:18,790
+illustrate SAM with an example. Next I
+will tell you more about its extension
+
+14
+00:00:18,790 --> 00:00:18,800
+will tell you more about its extension
+ 
+
+15
+00:00:18,800 --> 00:00:20,790
+will tell you more about its extension
+to the modeling of data from multiple
+
+16
+00:00:20,790 --> 00:00:20,800
+to the modeling of data from multiple
+ 
+
+17
+00:00:20,800 --> 00:00:23,830
+to the modeling of data from multiple
+studies and again we use an example to
+
+18
+00:00:23,830 --> 00:00:23,840
+studies and again we use an example to
+ 
+
+19
+00:00:23,840 --> 00:00:27,750
+studies and again we use an example to
+illustrate such a mimm analysis.
+
+20
+00:00:27,750 --> 00:00:27,760
+illustrate such a mimm analysis.
+ 
+
+21
+00:00:27,760 --> 00:00:32,389
+illustrate such a mimm analysis.
+First, structural equation modeling.
+
+22
+00:00:32,389 --> 00:00:32,399
+First, structural equation modeling.
+ 
+
+23
+00:00:32,399 --> 00:00:35,030
+First, structural equation modeling.
+A SM model combines two kinds of models.
+
+24
+00:00:35,030 --> 00:00:35,040
+A SM model combines two kinds of models.
+ 
+
+25
+00:00:35,040 --> 00:00:37,190
+A SM model combines two kinds of models.
+A structural model and a measurement
+
+26
+00:00:37,190 --> 00:00:37,200
+A structural model and a measurement
+ 
+
+27
+00:00:37,200 --> 00:00:39,990
+A structural model and a measurement
+model. The structural model describes
+
+28
+00:00:39,990 --> 00:00:40,000
+model. The structural model describes
+ 
+
+29
+00:00:40,000 --> 00:00:41,830
+model. The structural model describes
+the relationship between multiple
+
+30
+00:00:41,830 --> 00:00:41,840
+the relationship between multiple
+ 
+
+31
+00:00:41,840 --> 00:00:44,470
+the relationship between multiple
+variables. These variables can be
+
+32
+00:00:44,470 --> 00:00:44,480
+variables. These variables can be
+ 
+
+33
+00:00:44,480 --> 00:00:46,790
+variables. These variables can be
+observed variables like for instance the
+
+34
+00:00:46,790 --> 00:00:46,800
+observed variables like for instance the
+ 
+
+35
+00:00:46,800 --> 00:00:49,270
+observed variables like for instance the
+length of a person. But it's also
+
+36
+00:00:49,270 --> 00:00:49,280
+length of a person. But it's also
+ 
+
+37
+00:00:49,280 --> 00:00:52,630
+length of a person. But it's also
+possible to work with latent variables.
+
+38
+00:00:52,630 --> 00:00:52,640
+possible to work with latent variables.
+ 
+
+39
+00:00:52,640 --> 00:00:54,950
+possible to work with latent variables.
+These are theoretical variables that
+
+40
+00:00:54,950 --> 00:00:54,960
+These are theoretical variables that
+ 
+
+41
+00:00:54,960 --> 00:00:57,670
+These are theoretical variables that
+cannot be observed directly.
+
+42
+00:00:57,670 --> 00:00:57,680
+cannot be observed directly.
+ 
+
+43
+00:00:57,680 --> 00:00:59,670
+cannot be observed directly.
+Examples of latent variables are
+
+44
+00:00:59,670 --> 00:00:59,680
+Examples of latent variables are
+ 
+
+45
+00:00:59,680 --> 00:01:04,310
+Examples of latent variables are
+motivation or emotional intelligence.
+
+46
+00:01:04,310 --> 00:01:04,320
+motivation or emotional intelligence.
+ 
+
+47
+00:01:04,320 --> 00:01:06,230
+motivation or emotional intelligence.
+Whereas motivation cannot be observed
+
+48
+00:01:06,230 --> 00:01:06,240
+Whereas motivation cannot be observed
+ 
+
+49
+00:01:06,240 --> 00:01:08,710
+Whereas motivation cannot be observed
+directly, it can be derived from
+
+50
+00:01:08,710 --> 00:01:08,720
+directly, it can be derived from
+ 
+
+51
+00:01:08,720 --> 00:01:11,830
+directly, it can be derived from
+observed behaviors. For instance,
+
+52
+00:01:11,830 --> 00:01:11,840
+observed behaviors. For instance,
+ 
+
+53
+00:01:11,840 --> 00:01:13,670
+observed behaviors. For instance,
+indicators of the motivation of a
+
+54
+00:01:13,670 --> 00:01:13,680
+indicators of the motivation of a
+ 
+
+55
+00:01:13,680 --> 00:01:15,990
+indicators of the motivation of a
+student are the number of questions the
+
+56
+00:01:15,990 --> 00:01:16,000
+student are the number of questions the
+ 
+
+57
+00:01:16,000 --> 00:01:18,870
+student are the number of questions the
+student asks during a lecture or the
+
+58
+00:01:18,870 --> 00:01:18,880
+student asks during a lecture or the
+ 
+
+59
+00:01:18,880 --> 00:01:20,950
+student asks during a lecture or the
+number of exercises the student makes at
+
+60
+00:01:20,950 --> 00:01:20,960
+number of exercises the student makes at
+ 
+
+61
+00:01:20,960 --> 00:01:23,109
+number of exercises the student makes at
+home.
+
+62
+00:01:23,109 --> 00:01:23,119
+home.
+ 
+
+63
+00:01:23,119 --> 00:01:25,510
+home.
+A measurement model is used to link
+
+64
+00:01:25,510 --> 00:01:25,520
+A measurement model is used to link
+ 
+
+65
+00:01:25,520 --> 00:01:28,310
+A measurement model is used to link
+latent variables to observed variables.
+
+66
+00:01:28,310 --> 00:01:28,320
+latent variables to observed variables.
+ 
+
+67
+00:01:28,320 --> 00:01:30,789
+latent variables to observed variables.
+In other words, to clarify based on
+
+68
+00:01:30,789 --> 00:01:30,799
+In other words, to clarify based on
+ 
+
+69
+00:01:30,799 --> 00:01:33,590
+In other words, to clarify based on
+which manifest variables one gets
+
+70
+00:01:33,590 --> 00:01:33,600
+which manifest variables one gets
+ 
+
+71
+00:01:33,600 --> 00:01:39,109
+which manifest variables one gets
+information on latent variables.
+
+72
+00:01:39,109 --> 00:01:39,119
+
+ 
+
+73
+00:01:39,119 --> 00:01:42,390
+
+Let's look first at structural models or
+
+74
+00:01:42,390 --> 00:01:42,400
+Let's look first at structural models or
+ 
+
+75
+00:01:42,400 --> 00:01:44,870
+Let's look first at structural models or
+the structural component of structural
+
+76
+00:01:44,870 --> 00:01:44,880
+the structural component of structural
+ 
+
+77
+00:01:44,880 --> 00:01:48,950
+the structural component of structural
+equation models.
+
+78
+00:01:48,950 --> 00:01:48,960
+
+ 
+
+79
+00:01:48,960 --> 00:01:51,429
+
+Various traditional models like multiple
+
+80
+00:01:51,429 --> 00:01:51,439
+Various traditional models like multiple
+ 
+
+81
+00:01:51,439 --> 00:01:53,749
+Various traditional models like multiple
+regression models can be considered as
+
+82
+00:01:53,749 --> 00:01:53,759
+regression models can be considered as
+ 
+
+83
+00:01:53,759 --> 00:01:55,910
+regression models can be considered as
+special cases of structural equation
+
+84
+00:01:55,910 --> 00:01:55,920
+special cases of structural equation
+ 
+
+85
+00:01:55,920 --> 00:01:59,830
+special cases of structural equation
+models. Suppose two predictors X1 and X2
+
+86
+00:01:59,830 --> 00:01:59,840
+models. Suppose two predictors X1 and X2
+ 
+
+87
+00:01:59,840 --> 00:02:01,429
+models. Suppose two predictors X1 and X2
+are used to predict the criterion
+
+88
+00:02:01,429 --> 00:02:01,439
+are used to predict the criterion
+ 
+
+89
+00:02:01,439 --> 00:02:04,069
+are used to predict the criterion
+variable Y and that all three variables
+
+90
+00:02:04,069 --> 00:02:04,079
+variable Y and that all three variables
+ 
+
+91
+00:02:04,079 --> 00:02:07,190
+variable Y and that all three variables
+are observed variables. In structural
+
+92
+00:02:07,190 --> 00:02:07,200
+are observed variables. In structural
+ 
+
+93
+00:02:07,200 --> 00:02:08,949
+are observed variables. In structural
+equation modeling, it's common to
+
+94
+00:02:08,949 --> 00:02:08,959
+equation modeling, it's common to
+ 
+
+95
+00:02:08,959 --> 00:02:11,190
+equation modeling, it's common to
+present a model in a graphical way using
+
+96
+00:02:11,190 --> 00:02:11,200
+present a model in a graphical way using
+ 
+
+97
+00:02:11,200 --> 00:02:14,150
+present a model in a graphical way using
+a so-called path diagram. Observed
+
+98
+00:02:14,150 --> 00:02:14,160
+a so-called path diagram. Observed
+ 
+
+99
+00:02:14,160 --> 00:02:16,550
+a so-called path diagram. Observed
+variables are presented with rectangular
+
+100
+00:02:16,550 --> 00:02:16,560
+variables are presented with rectangular
+ 
+
+101
+00:02:16,560 --> 00:02:18,070
+variables are presented with rectangular
+boxes.
+
+102
+00:02:18,070 --> 00:02:18,080
+boxes.
+ 
+
+103
+00:02:18,080 --> 00:02:20,390
+boxes.
+Here in regression model, the two
+
+104
+00:02:20,390 --> 00:02:20,400
+Here in regression model, the two
+ 
+
+105
+00:02:20,400 --> 00:02:22,309
+Here in regression model, the two
+predictor variables can have an effect
+
+106
+00:02:22,309 --> 00:02:22,319
+predictor variables can have an effect
+ 
+
+107
+00:02:22,319 --> 00:02:24,949
+predictor variables can have an effect
+on the criterion variable.
+
+108
+00:02:24,949 --> 00:02:24,959
+on the criterion variable.
+ 
+
+109
+00:02:24,959 --> 00:02:28,150
+on the criterion variable.
+Single-headed arrows between boxes refer
+
+110
+00:02:28,150 --> 00:02:28,160
+Single-headed arrows between boxes refer
+ 
+
+111
+00:02:28,160 --> 00:02:30,949
+Single-headed arrows between boxes refer
+to causal relationships or in the SAM
+
+112
+00:02:30,949 --> 00:02:30,959
+to causal relationships or in the SAM
+ 
+
+113
+00:02:30,959 --> 00:02:33,830
+to causal relationships or in the SAM
+model to regression weights. Note that
+
+114
+00:02:33,830 --> 00:02:33,840
+model to regression weights. Note that
+ 
+
+115
+00:02:33,840 --> 00:02:36,390
+model to regression weights. Note that
+by default, an intercept is estimated
+
+116
+00:02:36,390 --> 00:02:36,400
+by default, an intercept is estimated
+ 
+
+117
+00:02:36,400 --> 00:02:38,710
+by default, an intercept is estimated
+but not shown in the output of a SAM
+
+118
+00:02:38,710 --> 00:02:38,720
+but not shown in the output of a SAM
+ 
+
+119
+00:02:38,720 --> 00:02:41,030
+but not shown in the output of a SAM
+analysis.
+
+120
+00:02:41,030 --> 00:02:41,040
+analysis.
+ 
+
+121
+00:02:41,040 --> 00:02:44,309
+analysis.
+A circular arrow refers to the variance
+
+122
+00:02:44,309 --> 00:02:44,319
+A circular arrow refers to the variance
+ 
+
+123
+00:02:44,319 --> 00:02:46,550
+A circular arrow refers to the variance
+of a variable. Double-headed arrows
+
+124
+00:02:46,550 --> 00:02:46,560
+of a variable. Double-headed arrows
+ 
+
+125
+00:02:46,560 --> 00:02:50,550
+of a variable. Double-headed arrows
+between boxes refer to covariances.
+
+126
+00:02:50,550 --> 00:02:50,560
+between boxes refer to covariances.
+ 
+
+127
+00:02:50,560 --> 00:02:53,110
+between boxes refer to covariances.
+For the criterion variable Y, part of
+
+128
+00:02:53,110 --> 00:02:53,120
+For the criterion variable Y, part of
+ 
+
+129
+00:02:53,120 --> 00:02:54,550
+For the criterion variable Y, part of
+the variance is explained by the
+
+130
+00:02:54,550 --> 00:02:54,560
+the variance is explained by the
+ 
+
+131
+00:02:54,560 --> 00:02:56,949
+the variance is explained by the
+predictors. Part of the variance is not
+
+132
+00:02:56,949 --> 00:02:56,959
+predictors. Part of the variance is not
+ 
+
+133
+00:02:56,959 --> 00:02:59,350
+predictors. Part of the variance is not
+explained. Also, the unexplained
+
+134
+00:02:59,350 --> 00:02:59,360
+explained. Also, the unexplained
+ 
+
+135
+00:02:59,360 --> 00:03:01,270
+explained. Also, the unexplained
+variance therefore is a parameter that
+
+136
+00:03:01,270 --> 00:03:01,280
+variance therefore is a parameter that
+ 
+
+137
+00:03:01,280 --> 00:03:04,470
+variance therefore is a parameter that
+should be estimated.
+
+138
+00:03:04,470 --> 00:03:04,480
+should be estimated.
+ 
+
+139
+00:03:04,480 --> 00:03:06,630
+should be estimated.
+Structural equation modeling has two
+
+140
+00:03:06,630 --> 00:03:06,640
+Structural equation modeling has two
+ 
+
+141
+00:03:06,640 --> 00:03:09,670
+Structural equation modeling has two
+purposes. Estimating the parameters.
+
+142
+00:03:09,670 --> 00:03:09,680
+purposes. Estimating the parameters.
+ 
+
+143
+00:03:09,680 --> 00:03:12,070
+purposes. Estimating the parameters.
+here the betas the covariance between
+
+144
+00:03:12,070 --> 00:03:12,080
+here the betas the covariance between
+ 
+
+145
+00:03:12,080 --> 00:03:15,430
+here the betas the covariance between
+predictors and the residual variance.
+
+146
+00:03:15,430 --> 00:03:15,440
+predictors and the residual variance.
+ 
+
+147
+00:03:15,440 --> 00:03:17,670
+predictors and the residual variance.
+The second purpose is to test the fit of
+
+148
+00:03:17,670 --> 00:03:17,680
+The second purpose is to test the fit of
+ 
+
+149
+00:03:17,680 --> 00:03:20,630
+The second purpose is to test the fit of
+the model. One can fit various models
+
+150
+00:03:20,630 --> 00:03:20,640
+the model. One can fit various models
+ 
+
+151
+00:03:20,640 --> 00:03:22,710
+the model. One can fit various models
+for instance a multiple regression model
+
+152
+00:03:22,710 --> 00:03:22,720
+for instance a multiple regression model
+ 
+
+153
+00:03:22,720 --> 00:03:25,110
+for instance a multiple regression model
+with two predictors and a model with
+
+154
+00:03:25,110 --> 00:03:25,120
+with two predictors and a model with
+ 
+
+155
+00:03:25,120 --> 00:03:28,309
+with two predictors and a model with
+only one predictor and then compare the
+
+156
+00:03:28,309 --> 00:03:28,319
+only one predictor and then compare the
+ 
+
+157
+00:03:28,319 --> 00:03:31,270
+only one predictor and then compare the
+model fit to evaluate whether the
+
+158
+00:03:31,270 --> 00:03:31,280
+model fit to evaluate whether the
+ 
+
+159
+00:03:31,280 --> 00:03:33,910
+model fit to evaluate whether the
+inclusion of the second predictor is
+
+160
+00:03:33,910 --> 00:03:33,920
+inclusion of the second predictor is
+ 
+
+161
+00:03:33,920 --> 00:03:43,030
+inclusion of the second predictor is
+significantly improving the predictions.
+
+162
+00:03:43,030 --> 00:03:43,040
+
+ 
+
+163
+00:03:43,040 --> 00:03:45,270
+
+If you would standard, if you would use
+
+164
+00:03:45,270 --> 00:03:45,280
+If you would standard, if you would use
+ 
+
+165
+00:03:45,280 --> 00:03:47,509
+If you would standard, if you would use
+standardized data, the variances of the
+
+166
+00:03:47,509 --> 00:03:47,519
+standardized data, the variances of the
+ 
+
+167
+00:03:47,519 --> 00:03:49,830
+standardized data, the variances of the
+predictors become one. The co-variance
+
+168
+00:03:49,830 --> 00:03:49,840
+predictors become one. The co-variance
+ 
+
+169
+00:03:49,840 --> 00:03:51,350
+predictors become one. The co-variance
+between the predictors then is the
+
+170
+00:03:51,350 --> 00:03:51,360
+between the predictors then is the
+ 
+
+171
+00:03:51,360 --> 00:03:53,750
+between the predictors then is the
+correlation between them. The residual
+
+172
+00:03:53,750 --> 00:03:53,760
+correlation between them. The residual
+ 
+
+173
+00:03:53,760 --> 00:03:55,509
+correlation between them. The residual
+variance is the proportion of the
+
+174
+00:03:55,509 --> 00:03:55,519
+variance is the proportion of the
+ 
+
+175
+00:03:55,519 --> 00:03:57,670
+variance is the proportion of the
+variance that is not explained and the
+
+176
+00:03:57,670 --> 00:03:57,680
+variance that is not explained and the
+ 
+
+177
+00:03:57,680 --> 00:04:00,229
+variance that is not explained and the
+regression weights are standardized
+
+178
+00:04:00,229 --> 00:04:00,239
+regression weights are standardized
+ 
+
+179
+00:04:00,239 --> 00:04:02,869
+regression weights are standardized
+weights.
+
+180
+00:04:02,869 --> 00:04:02,879
+weights.
+ 
+
+181
+00:04:02,879 --> 00:04:05,589
+weights.
+Another
+
+182
+00:04:05,589 --> 00:04:05,599
+Another
+ 
+
+183
+00:04:05,599 --> 00:04:07,750
+Another
+example of a structural model is an
+
+184
+00:04:07,750 --> 00:04:07,760
+example of a structural model is an
+ 
+
+185
+00:04:07,760 --> 00:04:10,550
+example of a structural model is an
+ANOVA model. The triangle stands for a
+
+186
+00:04:10,550 --> 00:04:10,560
+ANOVA model. The triangle stands for a
+ 
+
+187
+00:04:10,560 --> 00:04:13,670
+ANOVA model. The triangle stands for a
+constant. Here a constant one. In this
+
+188
+00:04:13,670 --> 00:04:13,680
+constant. Here a constant one. In this
+ 
+
+189
+00:04:13,680 --> 00:04:16,390
+constant. Here a constant one. In this
+plot, we have two groups with different
+
+190
+00:04:16,390 --> 00:04:16,400
+plot, we have two groups with different
+ 
+
+191
+00:04:16,400 --> 00:04:18,789
+plot, we have two groups with different
+regression weights for the constant
+
+192
+00:04:18,789 --> 00:04:18,799
+regression weights for the constant
+ 
+
+193
+00:04:18,799 --> 00:04:20,789
+regression weights for the constant
+referring to the expected values in the
+
+194
+00:04:20,789 --> 00:04:20,799
+referring to the expected values in the
+ 
+
+195
+00:04:20,799 --> 00:04:22,629
+referring to the expected values in the
+two groups.
+
+196
+00:04:22,629 --> 00:04:22,639
+two groups.
+ 
+
+197
+00:04:22,639 --> 00:04:24,710
+two groups.
+The variance of the outcome variable can
+
+198
+00:04:24,710 --> 00:04:24,720
+The variance of the outcome variable can
+ 
+
+199
+00:04:24,720 --> 00:04:27,590
+The variance of the outcome variable can
+be group specific. Although it's also
+
+200
+00:04:27,590 --> 00:04:27,600
+be group specific. Although it's also
+ 
+
+201
+00:04:27,600 --> 00:04:30,230
+be group specific. Although it's also
+possible to assume homogeneity which
+
+202
+00:04:30,230 --> 00:04:30,240
+possible to assume homogeneity which
+ 
+
+203
+00:04:30,240 --> 00:04:33,030
+possible to assume homogeneity which
+means that only one variance is to be
+
+204
+00:04:33,030 --> 00:04:33,040
+means that only one variance is to be
+ 
+
+205
+00:04:33,040 --> 00:04:37,909
+means that only one variance is to be
+estimated.
+
+206
+00:04:37,909 --> 00:04:37,919
+
+ 
+
+207
+00:04:37,919 --> 00:04:40,230
+
+An advantage of using structural models
+
+208
+00:04:40,230 --> 00:04:40,240
+An advantage of using structural models
+ 
+
+209
+00:04:40,240 --> 00:04:43,030
+An advantage of using structural models
+is that we can fit more complex models.
+
+210
+00:04:43,030 --> 00:04:43,040
+is that we can fit more complex models.
+ 
+
+211
+00:04:43,040 --> 00:04:45,350
+is that we can fit more complex models.
+For instance, models with intervening or
+
+212
+00:04:45,350 --> 00:04:45,360
+For instance, models with intervening or
+ 
+
+213
+00:04:45,360 --> 00:04:47,670
+For instance, models with intervening or
+mediating variables that at the same
+
+214
+00:04:47,670 --> 00:04:47,680
+mediating variables that at the same
+ 
+
+215
+00:04:47,680 --> 00:04:50,390
+mediating variables that at the same
+time play the role of a predictor and
+
+216
+00:04:50,390 --> 00:04:50,400
+time play the role of a predictor and
+ 
+
+217
+00:04:50,400 --> 00:04:52,629
+time play the role of a predictor and
+criterion variable.
+
+218
+00:04:52,629 --> 00:04:52,639
+criterion variable.
+ 
+
+219
+00:04:52,639 --> 00:04:54,710
+criterion variable.
+In this way, you can fit for instance
+
+220
+00:04:54,710 --> 00:04:54,720
+In this way, you can fit for instance
+ 
+
+221
+00:04:54,720 --> 00:04:56,790
+In this way, you can fit for instance
+models to investigate to what extent the
+
+222
+00:04:56,790 --> 00:04:56,800
+models to investigate to what extent the
+ 
+
+223
+00:04:56,800 --> 00:05:00,310
+models to investigate to what extent the
+effect on of X on Y is a direct effect
+
+224
+00:05:00,310 --> 00:05:00,320
+effect on of X on Y is a direct effect
+ 
+
+225
+00:05:00,320 --> 00:05:03,270
+effect on of X on Y is a direct effect
+or an indirect effect via the mediator
+
+226
+00:05:03,270 --> 00:05:03,280
+or an indirect effect via the mediator
+ 
+
+227
+00:05:03,280 --> 00:05:07,510
+or an indirect effect via the mediator
+variable M.
+
+228
+00:05:07,510 --> 00:05:07,520
+
+ 
+
+229
+00:05:07,520 --> 00:05:09,990
+
+Now let's look at the second component
+
+230
+00:05:09,990 --> 00:05:10,000
+Now let's look at the second component
+ 
+
+231
+00:05:10,000 --> 00:05:11,990
+Now let's look at the second component
+of structural equation models, the
+
+232
+00:05:11,990 --> 00:05:12,000
+of structural equation models, the
+ 
+
+233
+00:05:12,000 --> 00:05:16,870
+of structural equation models, the
+measurement model.
+
+234
+00:05:16,870 --> 00:05:16,880
+
+ 
+
+235
+00:05:16,880 --> 00:05:19,110
+
+As an example of a measurement model,
+
+236
+00:05:19,110 --> 00:05:19,120
+As an example of a measurement model,
+ 
+
+237
+00:05:19,120 --> 00:05:21,749
+As an example of a measurement model,
+look at the confirmatory factor analysis
+
+238
+00:05:21,749 --> 00:05:21,759
+look at the confirmatory factor analysis
+ 
+
+239
+00:05:21,759 --> 00:05:24,790
+look at the confirmatory factor analysis
+model. Observed variables indicated with
+
+240
+00:05:24,790 --> 00:05:24,800
+model. Observed variables indicated with
+ 
+
+241
+00:05:24,800 --> 00:05:27,189
+model. Observed variables indicated with
+rectangles are supposed to measure
+
+242
+00:05:27,189 --> 00:05:27,199
+rectangles are supposed to measure
+ 
+
+243
+00:05:27,199 --> 00:05:31,350
+rectangles are supposed to measure
+latent factors indicated using ellipses.
+
+244
+00:05:31,350 --> 00:05:31,360
+latent factors indicated using ellipses.
+ 
+
+245
+00:05:31,360 --> 00:05:33,110
+latent factors indicated using ellipses.
+The double-headed arrow between the two
+
+246
+00:05:33,110 --> 00:05:33,120
+The double-headed arrow between the two
+ 
+
+247
+00:05:33,120 --> 00:05:35,670
+The double-headed arrow between the two
+factors indicates that the factors can
+
+248
+00:05:35,670 --> 00:05:35,680
+factors indicates that the factors can
+ 
+
+249
+00:05:35,680 --> 00:05:39,350
+factors indicates that the factors can
+be correlated. The single-headed arrows
+
+250
+00:05:39,350 --> 00:05:39,360
+be correlated. The single-headed arrows
+ 
+
+251
+00:05:39,360 --> 00:05:41,029
+be correlated. The single-headed arrows
+uh from the latent factors to the
+
+252
+00:05:41,029 --> 00:05:41,039
+uh from the latent factors to the
+ 
+
+253
+00:05:41,039 --> 00:05:43,430
+uh from the latent factors to the
+observed variables represent regression
+
+254
+00:05:43,430 --> 00:05:43,440
+observed variables represent regression
+ 
+
+255
+00:05:43,440 --> 00:05:45,990
+observed variables represent regression
+weights or factor loadings
+
+256
+00:05:45,990 --> 00:05:46,000
+weights or factor loadings
+ 
+
+257
+00:05:46,000 --> 00:05:48,950
+weights or factor loadings
+to make the model identified. Typically
+
+258
+00:05:48,950 --> 00:05:48,960
+to make the model identified. Typically
+ 
+
+259
+00:05:48,960 --> 00:05:51,029
+to make the model identified. Typically
+for each factor, one loading is
+
+260
+00:05:51,029 --> 00:05:51,039
+for each factor, one loading is
+ 
+
+261
+00:05:51,039 --> 00:05:54,390
+for each factor, one loading is
+constrained to one.
+
+262
+00:05:54,390 --> 00:05:54,400
+constrained to one.
+ 
+
+263
+00:05:54,400 --> 00:05:56,310
+constrained to one.
+In addition, there are the variance
+
+264
+00:05:56,310 --> 00:05:56,320
+In addition, there are the variance
+ 
+
+265
+00:05:56,320 --> 00:05:58,550
+In addition, there are the variance
+parameters for the latent and observed
+
+266
+00:05:58,550 --> 00:05:58,560
+parameters for the latent and observed
+ 
+
+267
+00:05:58,560 --> 00:06:01,110
+parameters for the latent and observed
+variables. For observed variables, the
+
+268
+00:06:01,110 --> 00:06:01,120
+variables. For observed variables, the
+ 
+
+269
+00:06:01,120 --> 00:06:03,029
+variables. For observed variables, the
+variance refers to the variance that is
+
+270
+00:06:03,029 --> 00:06:03,039
+variance refers to the variance that is
+ 
+
+271
+00:06:03,039 --> 00:06:06,469
+variance refers to the variance that is
+not explained by the latent factors.
+
+272
+00:06:06,469 --> 00:06:06,479
+not explained by the latent factors.
+ 
+
+273
+00:06:06,479 --> 00:06:09,909
+not explained by the latent factors.
+Again, we could fit multiple models. For
+
+274
+00:06:09,909 --> 00:06:09,919
+Again, we could fit multiple models. For
+ 
+
+275
+00:06:09,919 --> 00:06:12,309
+Again, we could fit multiple models. For
+instance, this model with two factors
+
+276
+00:06:12,309 --> 00:06:12,319
+instance, this model with two factors
+ 
+
+277
+00:06:12,319 --> 00:06:14,469
+instance, this model with two factors
+and a model with only one general factor
+
+278
+00:06:14,469 --> 00:06:14,479
+and a model with only one general factor
+ 
+
+279
+00:06:14,479 --> 00:06:17,830
+and a model with only one general factor
+on which all observed variables load and
+
+280
+00:06:17,830 --> 00:06:17,840
+on which all observed variables load and
+ 
+
+281
+00:06:17,840 --> 00:06:20,469
+on which all observed variables load and
+compare the model fit in order to choose
+
+282
+00:06:20,469 --> 00:06:20,479
+compare the model fit in order to choose
+ 
+
+283
+00:06:20,479 --> 00:06:26,070
+compare the model fit in order to choose
+the best fitting model.
+
+284
+00:06:26,070 --> 00:06:26,080
+
+ 
+
+285
+00:06:26,080 --> 00:06:29,029
+
+Some models can combine both structural
+
+286
+00:06:29,029 --> 00:06:29,039
+Some models can combine both structural
+ 
+
+287
+00:06:29,039 --> 00:06:31,830
+Some models can combine both structural
+and measurement models.
+
+288
+00:06:31,830 --> 00:06:31,840
+and measurement models.
+ 
+
+289
+00:06:31,840 --> 00:06:35,270
+and measurement models.
+For example, a latent variable L3 can be
+
+290
+00:06:35,270 --> 00:06:35,280
+For example, a latent variable L3 can be
+ 
+
+291
+00:06:35,280 --> 00:06:37,350
+For example, a latent variable L3 can be
+requested on two other latent variables
+
+292
+00:06:37,350 --> 00:06:37,360
+requested on two other latent variables
+ 
+
+293
+00:06:37,360 --> 00:06:40,629
+requested on two other latent variables
+L1 and L2. This is a structural part of
+
+294
+00:06:40,629 --> 00:06:40,639
+L1 and L2. This is a structural part of
+ 
+
+295
+00:06:40,639 --> 00:06:42,390
+L1 and L2. This is a structural part of
+the model.
+
+296
+00:06:42,390 --> 00:06:42,400
+the model.
+ 
+
+297
+00:06:42,400 --> 00:06:44,309
+the model.
+All three latent variables may be
+
+298
+00:06:44,309 --> 00:06:44,319
+All three latent variables may be
+ 
+
+299
+00:06:44,319 --> 00:06:46,070
+All three latent variables may be
+measured using a set of observed
+
+300
+00:06:46,070 --> 00:06:46,080
+measured using a set of observed
+ 
+
+301
+00:06:46,080 --> 00:06:48,070
+measured using a set of observed
+variables which is modeled in the
+
+302
+00:06:48,070 --> 00:06:48,080
+variables which is modeled in the
+ 
+
+303
+00:06:48,080 --> 00:06:55,270
+variables which is modeled in the
+measurement part of this SAM model.
+
+304
+00:06:55,270 --> 00:06:55,280
+
+ 
+
+305
+00:06:55,280 --> 00:06:58,469
+
+An example
+
+306
+00:06:58,469 --> 00:06:58,479
+An example
+ 
+
+307
+00:06:58,479 --> 00:07:01,029
+An example
+as input for a sum analysis you have to
+
+308
+00:07:01,029 --> 00:07:01,039
+as input for a sum analysis you have to
+ 
+
+309
+00:07:01,039 --> 00:07:03,350
+as input for a sum analysis you have to
+specify a model. This implies that you
+
+310
+00:07:03,350 --> 00:07:03,360
+specify a model. This implies that you
+ 
+
+311
+00:07:03,360 --> 00:07:05,430
+specify a model. This implies that you
+specify the measurement part. So you
+
+312
+00:07:05,430 --> 00:07:05,440
+specify the measurement part. So you
+ 
+
+313
+00:07:05,440 --> 00:07:08,070
+specify the measurement part. So you
+specify what observed variables load on
+
+314
+00:07:08,070 --> 00:07:08,080
+specify what observed variables load on
+ 
+
+315
+00:07:08,080 --> 00:07:10,870
+specify what observed variables load on
+what latent variables and you further
+
+316
+00:07:10,870 --> 00:07:10,880
+what latent variables and you further
+ 
+
+317
+00:07:10,880 --> 00:07:13,110
+what latent variables and you further
+have to specify the structural relations
+
+318
+00:07:13,110 --> 00:07:13,120
+have to specify the structural relations
+ 
+
+319
+00:07:13,120 --> 00:07:15,510
+have to specify the structural relations
+between the variables.
+
+320
+00:07:15,510 --> 00:07:15,520
+between the variables.
+ 
+
+321
+00:07:15,520 --> 00:07:17,990
+between the variables.
+Further indicate what variables can be
+
+322
+00:07:17,990 --> 00:07:18,000
+Further indicate what variables can be
+ 
+
+323
+00:07:18,000 --> 00:07:20,309
+Further indicate what variables can be
+correlated and clarify possible
+
+324
+00:07:20,309 --> 00:07:20,319
+correlated and clarify possible
+ 
+
+325
+00:07:20,319 --> 00:07:21,909
+correlated and clarify possible
+constraints.
+
+326
+00:07:21,909 --> 00:07:21,919
+constraints.
+ 
+
+327
+00:07:21,919 --> 00:07:23,990
+constraints.
+For instance, assume you want to do a
+
+328
+00:07:23,990 --> 00:07:24,000
+For instance, assume you want to do a
+ 
+
+329
+00:07:24,000 --> 00:07:26,309
+For instance, assume you want to do a
+multiple regression analysis with two
+
+330
+00:07:26,309 --> 00:07:26,319
+multiple regression analysis with two
+ 
+
+331
+00:07:26,319 --> 00:07:29,270
+multiple regression analysis with two
+observed predictor variables X1 and X2
+
+332
+00:07:29,270 --> 00:07:29,280
+observed predictor variables X1 and X2
+ 
+
+333
+00:07:29,280 --> 00:07:31,670
+observed predictor variables X1 and X2
+that can be correlated and that are
+
+334
+00:07:31,670 --> 00:07:31,680
+that can be correlated and that are
+ 
+
+335
+00:07:31,680 --> 00:07:33,029
+that can be correlated and that are
+assumed to have an impact on the
+
+336
+00:07:33,029 --> 00:07:33,039
+assumed to have an impact on the
+ 
+
+337
+00:07:33,039 --> 00:07:36,790
+assumed to have an impact on the
+criterion variable Y.
+
+338
+00:07:36,790 --> 00:07:36,800
+criterion variable Y.
+ 
+
+339
+00:07:36,800 --> 00:07:38,710
+criterion variable Y.
+An important remark is that in a SEM
+
+340
+00:07:38,710 --> 00:07:38,720
+An important remark is that in a SEM
+ 
+
+341
+00:07:38,720 --> 00:07:41,270
+An important remark is that in a SEM
+analysis on data from a cross-sectional
+
+342
+00:07:41,270 --> 00:07:41,280
+analysis on data from a cross-sectional
+ 
+
+343
+00:07:41,280 --> 00:07:43,909
+analysis on data from a cross-sectional
+observational study, this is a study in
+
+344
+00:07:43,909 --> 00:07:43,919
+observational study, this is a study in
+ 
+
+345
+00:07:43,919 --> 00:07:45,830
+observational study, this is a study in
+which several variables are measured at
+
+346
+00:07:45,830 --> 00:07:45,840
+which several variables are measured at
+ 
+
+347
+00:07:45,840 --> 00:07:48,309
+which several variables are measured at
+the same time and no variables are
+
+348
+00:07:48,309 --> 00:07:48,319
+the same time and no variables are
+ 
+
+349
+00:07:48,319 --> 00:07:50,950
+the same time and no variables are
+experimentally manipulated.
+
+350
+00:07:50,950 --> 00:07:50,960
+experimentally manipulated.
+ 
+
+351
+00:07:50,960 --> 00:07:53,110
+experimentally manipulated.
+We can estimate parameters of the model
+
+352
+00:07:53,110 --> 00:07:53,120
+We can estimate parameters of the model
+ 
+
+353
+00:07:53,120 --> 00:07:55,029
+We can estimate parameters of the model
+and compare the model fit of various
+
+354
+00:07:55,029 --> 00:07:55,039
+and compare the model fit of various
+ 
+
+355
+00:07:55,039 --> 00:07:58,550
+and compare the model fit of various
+models but we do not prove that the
+
+356
+00:07:58,550 --> 00:07:58,560
+models but we do not prove that the
+ 
+
+357
+00:07:58,560 --> 00:08:00,869
+models but we do not prove that the
+assumed direction of the effects is
+
+358
+00:08:00,869 --> 00:08:00,879
+assumed direction of the effects is
+ 
+
+359
+00:08:00,879 --> 00:08:05,029
+assumed direction of the effects is
+correct.
+
+360
+00:08:05,029 --> 00:08:05,039
+
+ 
+
+361
+00:08:05,039 --> 00:08:07,110
+
+The same analysis can be done on raw
+
+362
+00:08:07,110 --> 00:08:07,120
+The same analysis can be done on raw
+ 
+
+363
+00:08:07,120 --> 00:08:09,270
+The same analysis can be done on raw
+data but it's also possible to use a
+
+364
+00:08:09,270 --> 00:08:09,280
+data but it's also possible to use a
+ 
+
+365
+00:08:09,280 --> 00:08:12,869
+data but it's also possible to use a
+coariance or a correlation matrix.
+
+366
+00:08:12,869 --> 00:08:12,879
+coariance or a correlation matrix.
+ 
+
+367
+00:08:12,879 --> 00:08:15,350
+coariance or a correlation matrix.
+Suppose this is the correlation matrix
+
+368
+00:08:15,350 --> 00:08:15,360
+Suppose this is the correlation matrix
+ 
+
+369
+00:08:15,360 --> 00:08:19,510
+Suppose this is the correlation matrix
+you obtained based on 120 observations.
+
+370
+00:08:19,510 --> 00:08:19,520
+you obtained based on 120 observations.
+ 
+
+371
+00:08:19,520 --> 00:08:21,830
+you obtained based on 120 observations.
+Both predictors X1 and X2 correlate
+
+372
+00:08:21,830 --> 00:08:21,840
+Both predictors X1 and X2 correlate
+ 
+
+373
+00:08:21,840 --> 00:08:25,189
+Both predictors X1 and X2 correlate
+positively with a criterion variable Y
+
+374
+00:08:25,189 --> 00:08:25,199
+positively with a criterion variable Y
+ 
+
+375
+00:08:25,199 --> 00:08:27,589
+positively with a criterion variable Y
+and there is also a positive correlation
+
+376
+00:08:27,589 --> 00:08:27,599
+and there is also a positive correlation
+ 
+
+377
+00:08:27,599 --> 00:08:33,430
+and there is also a positive correlation
+between the two predictors.
+
+378
+00:08:33,430 --> 00:08:33,440
+
+ 
+
+379
+00:08:33,440 --> 00:08:36,230
+
+This will give the following output.
+
+380
+00:08:36,230 --> 00:08:36,240
+This will give the following output.
+ 
+
+381
+00:08:36,240 --> 00:08:38,870
+This will give the following output.
+Note that you can replicate the results
+
+382
+00:08:38,870 --> 00:08:38,880
+Note that you can replicate the results
+ 
+
+383
+00:08:38,880 --> 00:08:40,870
+Note that you can replicate the results
+using the R syntax prepared for this
+
+384
+00:08:40,870 --> 00:08:40,880
+using the R syntax prepared for this
+ 
+
+385
+00:08:40,880 --> 00:08:43,110
+using the R syntax prepared for this
+screencast.
+
+386
+00:08:43,110 --> 00:08:43,120
+screencast.
+ 
+
+387
+00:08:43,120 --> 00:08:46,310
+screencast.
+Here the output is given in a visual way
+
+388
+00:08:46,310 --> 00:08:46,320
+Here the output is given in a visual way
+ 
+
+389
+00:08:46,320 --> 00:08:48,630
+Here the output is given in a visual way
+with estimates of the variances,
+
+390
+00:08:48,630 --> 00:08:48,640
+with estimates of the variances,
+ 
+
+391
+00:08:48,640 --> 00:08:51,350
+with estimates of the variances,
+co-variances and regression weights.
+
+392
+00:08:51,350 --> 00:08:51,360
+co-variances and regression weights.
+ 
+
+393
+00:08:51,360 --> 00:08:53,430
+co-variances and regression weights.
+Because here correlation matrix is used
+
+394
+00:08:53,430 --> 00:08:53,440
+Because here correlation matrix is used
+ 
+
+395
+00:08:53,440 --> 00:08:55,590
+Because here correlation matrix is used
+as input, the variances of the
+
+396
+00:08:55,590 --> 00:08:55,600
+as input, the variances of the
+ 
+
+397
+00:08:55,600 --> 00:08:58,310
+as input, the variances of the
+predictors are equal to one and the
+
+398
+00:08:58,310 --> 00:08:58,320
+predictors are equal to one and the
+ 
+
+399
+00:08:58,320 --> 00:09:00,150
+predictors are equal to one and the
+residual variance refers to the
+
+400
+00:09:00,150 --> 00:09:00,160
+residual variance refers to the
+ 
+
+401
+00:09:00,160 --> 00:09:01,990
+residual variance refers to the
+proportion of variance that is not
+
+402
+00:09:01,990 --> 00:09:02,000
+proportion of variance that is not
+ 
+
+403
+00:09:02,000 --> 00:09:04,389
+proportion of variance that is not
+explained by the model.
+
+404
+00:09:04,389 --> 00:09:04,399
+explained by the model.
+ 
+
+405
+00:09:04,399 --> 00:09:06,870
+explained by the model.
+You see that the two predictors explain
+
+406
+00:09:06,870 --> 00:09:06,880
+You see that the two predictors explain
+ 
+
+407
+00:09:06,880 --> 00:09:09,750
+You see that the two predictors explain
+19% of the variance. Whereas the
+
+408
+00:09:09,750 --> 00:09:09,760
+19% of the variance. Whereas the
+ 
+
+409
+00:09:09,760 --> 00:09:11,910
+19% of the variance. Whereas the
+observed variance of Y is equal to one.
+
+410
+00:09:11,910 --> 00:09:11,920
+observed variance of Y is equal to one.
+ 
+
+411
+00:09:11,920 --> 00:09:14,949
+observed variance of Y is equal to one.
+The residual variance of Y appears to be
+
+412
+00:09:14,949 --> 00:09:14,959
+The residual variance of Y appears to be
+ 
+
+413
+00:09:14,959 --> 00:09:17,350
+The residual variance of Y appears to be
+81.
+
+414
+00:09:17,350 --> 00:09:17,360
+81.
+ 
+
+415
+00:09:17,360 --> 00:09:19,430
+81.
+Further you see that the correlation
+
+416
+00:09:19,430 --> 00:09:19,440
+Further you see that the correlation
+ 
+
+417
+00:09:19,440 --> 00:09:22,790
+Further you see that the correlation
+between the predictors is equal to 50. A
+
+418
+00:09:22,790 --> 00:09:22,800
+between the predictors is equal to 50. A
+ 
+
+419
+00:09:22,800 --> 00:09:24,470
+between the predictors is equal to 50. A
+correlation that was already given as
+
+420
+00:09:24,470 --> 00:09:24,480
+correlation that was already given as
+ 
+
+421
+00:09:24,480 --> 00:09:27,030
+correlation that was already given as
+input and the regression weights are
+
+422
+00:09:27,030 --> 00:09:27,040
+input and the regression weights are
+ 
+
+423
+00:09:27,040 --> 00:09:29,509
+input and the regression weights are
+equal to 030
+
+424
+00:09:29,509 --> 00:09:29,519
+equal to 030
+ 
+
+425
+00:09:29,519 --> 00:09:33,829
+equal to 030
+and 0.20.
+
+426
+00:09:33,829 --> 00:09:33,839
+
+ 
+
+427
+00:09:33,839 --> 00:09:35,430
+
+You can also look at the output in a
+
+428
+00:09:35,430 --> 00:09:35,440
+You can also look at the output in a
+ 
+
+429
+00:09:35,440 --> 00:09:37,350
+You can also look at the output in a
+table format. If you look at the
+
+430
+00:09:37,350 --> 00:09:37,360
+table format. If you look at the
+ 
+
+431
+00:09:37,360 --> 00:09:40,150
+table format. If you look at the
+standard errors and ZV values, you see
+
+432
+00:09:40,150 --> 00:09:40,160
+standard errors and ZV values, you see
+ 
+
+433
+00:09:40,160 --> 00:09:42,070
+standard errors and ZV values, you see
+that both coefficients are statistically
+
+434
+00:09:42,070 --> 00:09:42,080
+that both coefficients are statistically
+ 
+
+435
+00:09:42,080 --> 00:09:44,550
+that both coefficients are statistically
+significant at the 0.05 significance
+
+436
+00:09:44,550 --> 00:09:44,560
+significant at the 0.05 significance
+ 
+
+437
+00:09:44,560 --> 00:09:47,910
+significant at the 0.05 significance
+level, which means that each predictor
+
+438
+00:09:47,910 --> 00:09:47,920
+level, which means that each predictor
+ 
+
+439
+00:09:47,920 --> 00:09:50,150
+level, which means that each predictor
+improves the model even if the other
+
+440
+00:09:50,150 --> 00:09:50,160
+improves the model even if the other
+ 
+
+441
+00:09:50,160 --> 00:09:52,230
+improves the model even if the other
+predictor was already included in the
+
+442
+00:09:52,230 --> 00:09:52,240
+predictor was already included in the
+ 
+
+443
+00:09:52,240 --> 00:09:53,990
+predictor was already included in the
+model.
+
+444
+00:09:53,990 --> 00:09:54,000
+model.
+ 
+
+445
+00:09:54,000 --> 00:09:56,710
+model.
+Note that in principle, you can also
+
+446
+00:09:56,710 --> 00:09:56,720
+Note that in principle, you can also
+ 
+
+447
+00:09:56,720 --> 00:09:59,829
+Note that in principle, you can also
+test the model fit, but here you use six
+
+448
+00:09:59,829 --> 00:09:59,839
+test the model fit, but here you use six
+ 
+
+449
+00:09:59,839 --> 00:10:02,310
+test the model fit, but here you use six
+values as input to estimate six
+
+450
+00:10:02,310 --> 00:10:02,320
+values as input to estimate six
+ 
+
+451
+00:10:02,320 --> 00:10:04,870
+values as input to estimate six
+parameters. So there are no degrees of
+
+452
+00:10:04,870 --> 00:10:04,880
+parameters. So there are no degrees of
+ 
+
+453
+00:10:04,880 --> 00:10:08,389
+parameters. So there are no degrees of
+freedom left for testing the model.
+
+454
+00:10:08,389 --> 00:10:08,399
+freedom left for testing the model.
+ 
+
+455
+00:10:08,399 --> 00:10:10,710
+freedom left for testing the model.
+The six input var val values are the
+
+456
+00:10:10,710 --> 00:10:10,720
+The six input var val values are the
+ 
+
+457
+00:10:10,720 --> 00:10:13,750
+The six input var val values are the
+three variances of one and the three
+
+458
+00:10:13,750 --> 00:10:13,760
+three variances of one and the three
+ 
+
+459
+00:10:13,760 --> 00:10:16,389
+three variances of one and the three
+correlations. The six parameters that
+
+460
+00:10:16,389 --> 00:10:16,399
+correlations. The six parameters that
+ 
+
+461
+00:10:16,399 --> 00:10:18,230
+correlations. The six parameters that
+are estimated are the two regression
+
+462
+00:10:18,230 --> 00:10:18,240
+are estimated are the two regression
+ 
+
+463
+00:10:18,240 --> 00:10:20,150
+are estimated are the two regression
+weights, the correlation between the
+
+464
+00:10:20,150 --> 00:10:20,160
+weights, the correlation between the
+ 
+
+465
+00:10:20,160 --> 00:10:23,350
+weights, the correlation between the
+predictors, the two variances equal to
+
+466
+00:10:23,350 --> 00:10:23,360
+predictors, the two variances equal to
+ 
+
+467
+00:10:23,360 --> 00:10:25,750
+predictors, the two variances equal to
+one for the predictors and the residual
+
+468
+00:10:25,750 --> 00:10:25,760
+one for the predictors and the residual
+ 
+
+469
+00:10:25,760 --> 00:10:31,350
+one for the predictors and the residual
+variance of y.
+
+470
+00:10:31,350 --> 00:10:31,360
+
+ 
+
+471
+00:10:31,360 --> 00:10:34,069
+
+After this short introduction in SAM,
+
+472
+00:10:34,069 --> 00:10:34,079
+After this short introduction in SAM,
+ 
+
+473
+00:10:34,079 --> 00:10:36,949
+After this short introduction in SAM,
+let us now look at a metanalytic sum
+
+474
+00:10:36,949 --> 00:10:36,959
+let us now look at a metanalytic sum
+ 
+
+475
+00:10:36,959 --> 00:10:40,710
+let us now look at a metanalytic sum
+analysis and at metanalytic sum analysis
+
+476
+00:10:40,710 --> 00:10:40,720
+analysis and at metanalytic sum analysis
+ 
+
+477
+00:10:40,720 --> 00:10:45,190
+analysis and at metanalytic sum analysis
+or mayam analysis.
+
+478
+00:10:45,190 --> 00:10:45,200
+
+ 
+
+479
+00:10:45,200 --> 00:10:48,710
+
+In a metalytic sum, we estimate the sum
+
+480
+00:10:48,710 --> 00:10:48,720
+In a metalytic sum, we estimate the sum
+ 
+
+481
+00:10:48,720 --> 00:10:51,110
+In a metalytic sum, we estimate the sum
+model parameters using combined
+
+482
+00:10:51,110 --> 00:10:51,120
+model parameters using combined
+ 
+
+483
+00:10:51,120 --> 00:10:54,069
+model parameters using combined
+information from multiple studies.
+
+484
+00:10:54,069 --> 00:10:54,079
+information from multiple studies.
+ 
+
+485
+00:10:54,079 --> 00:10:56,550
+information from multiple studies.
+This can be done in two steps. In the
+
+486
+00:10:56,550 --> 00:10:56,560
+This can be done in two steps. In the
+ 
+
+487
+00:10:56,560 --> 00:10:59,030
+This can be done in two steps. In the
+first step, we combine the data from
+
+488
+00:10:59,030 --> 00:10:59,040
+first step, we combine the data from
+ 
+
+489
+00:10:59,040 --> 00:11:01,509
+first step, we combine the data from
+multiple studies to estimate an overall
+
+490
+00:11:01,509 --> 00:11:01,519
+multiple studies to estimate an overall
+ 
+
+491
+00:11:01,519 --> 00:11:03,910
+multiple studies to estimate an overall
+correlation matrix. And in the second
+
+492
+00:11:03,910 --> 00:11:03,920
+correlation matrix. And in the second
+ 
+
+493
+00:11:03,920 --> 00:11:06,790
+correlation matrix. And in the second
+step, we do the sum analysis based on
+
+494
+00:11:06,790 --> 00:11:06,800
+step, we do the sum analysis based on
+ 
+
+495
+00:11:06,800 --> 00:11:09,750
+step, we do the sum analysis based on
+this combined correlation matrix.
+
+496
+00:11:09,750 --> 00:11:09,760
+this combined correlation matrix.
+ 
+
+497
+00:11:09,760 --> 00:11:12,550
+this combined correlation matrix.
+Alternatively, a MSM analysis can be
+
+498
+00:11:12,550 --> 00:11:12,560
+Alternatively, a MSM analysis can be
+ 
+
+499
+00:11:12,560 --> 00:11:16,470
+Alternatively, a MSM analysis can be
+done in one step.
+
+500
+00:11:16,470 --> 00:11:16,480
+
+ 
+
+501
+00:11:16,480 --> 00:11:19,190
+
+Am analysis combines advantages from met
+
+502
+00:11:19,190 --> 00:11:19,200
+Am analysis combines advantages from met
+ 
+
+503
+00:11:19,200 --> 00:11:21,350
+Am analysis combines advantages from met
+analysis and from structural equation
+
+504
+00:11:21,350 --> 00:11:21,360
+analysis and from structural equation
+ 
+
+505
+00:11:21,360 --> 00:11:24,069
+analysis and from structural equation
+modeling. By combining data from
+
+506
+00:11:24,069 --> 00:11:24,079
+modeling. By combining data from
+ 
+
+507
+00:11:24,079 --> 00:11:26,150
+modeling. By combining data from
+multiple studies like in other meta
+
+508
+00:11:26,150 --> 00:11:26,160
+multiple studies like in other meta
+ 
+
+509
+00:11:26,160 --> 00:11:27,829
+multiple studies like in other meta
+analysis, you can increase the
+
+510
+00:11:27,829 --> 00:11:27,839
+analysis, you can increase the
+ 
+
+511
+00:11:27,839 --> 00:11:29,670
+analysis, you can increase the
+statistical power when testing
+
+512
+00:11:29,670 --> 00:11:29,680
+statistical power when testing
+ 
+
+513
+00:11:29,680 --> 00:11:31,750
+statistical power when testing
+hypothesis and the precision when
+
+514
+00:11:31,750 --> 00:11:31,760
+hypothesis and the precision when
+ 
+
+515
+00:11:31,760 --> 00:11:34,630
+hypothesis and the precision when
+estimating the parameters of interest.
+
+516
+00:11:34,630 --> 00:11:34,640
+estimating the parameters of interest.
+ 
+
+517
+00:11:34,640 --> 00:11:36,870
+estimating the parameters of interest.
+It also allows estimating and testing
+
+518
+00:11:36,870 --> 00:11:36,880
+It also allows estimating and testing
+ 
+
+519
+00:11:36,880 --> 00:11:38,470
+It also allows estimating and testing
+moderating effects of study
+
+520
+00:11:38,470 --> 00:11:38,480
+moderating effects of study
+ 
+
+521
+00:11:38,480 --> 00:11:40,790
+moderating effects of study
+characteristics.
+
+522
+00:11:40,790 --> 00:11:40,800
+characteristics.
+ 
+
+523
+00:11:40,800 --> 00:11:43,990
+characteristics.
+MSM also has a flexibility of SAM in
+
+524
+00:11:43,990 --> 00:11:44,000
+MSM also has a flexibility of SAM in
+ 
+
+525
+00:11:44,000 --> 00:11:46,870
+MSM also has a flexibility of SAM in
+general. You can estimate various kinds
+
+526
+00:11:46,870 --> 00:11:46,880
+general. You can estimate various kinds
+ 
+
+527
+00:11:46,880 --> 00:11:49,110
+general. You can estimate various kinds
+of models with latent and observed
+
+528
+00:11:49,110 --> 00:11:49,120
+of models with latent and observed
+ 
+
+529
+00:11:49,120 --> 00:11:50,949
+of models with latent and observed
+variables.
+
+530
+00:11:50,949 --> 00:11:50,959
+variables.
+ 
+
+531
+00:11:50,959 --> 00:11:54,150
+variables.
+Here
+
+532
+00:11:54,150 --> 00:11:54,160
+
+ 
+
+533
+00:11:54,160 --> 00:11:56,630
+
+we will look only at two-stage mason
+
+534
+00:11:56,630 --> 00:11:56,640
+we will look only at two-stage mason
+ 
+
+535
+00:11:56,640 --> 00:11:59,430
+we will look only at two-stage mason
+analysis. In the first stage, we combine
+
+536
+00:11:59,430 --> 00:11:59,440
+analysis. In the first stage, we combine
+ 
+
+537
+00:11:59,440 --> 00:12:01,590
+analysis. In the first stage, we combine
+the correlations from multiple studies
+
+538
+00:12:01,590 --> 00:12:01,600
+the correlations from multiple studies
+ 
+
+539
+00:12:01,600 --> 00:12:05,509
+the correlations from multiple studies
+to obtain an overall correlation matrix.
+
+540
+00:12:05,509 --> 00:12:05,519
+to obtain an overall correlation matrix.
+ 
+
+541
+00:12:05,519 --> 00:12:07,750
+to obtain an overall correlation matrix.
+Note that studies can differ in the size
+
+542
+00:12:07,750 --> 00:12:07,760
+Note that studies can differ in the size
+ 
+
+543
+00:12:07,760 --> 00:12:09,910
+Note that studies can differ in the size
+of the sample used and hence in the
+
+544
+00:12:09,910 --> 00:12:09,920
+of the sample used and hence in the
+ 
+
+545
+00:12:09,920 --> 00:12:11,990
+of the sample used and hence in the
+precision of their estimates and
+
+546
+00:12:11,990 --> 00:12:12,000
+precision of their estimates and
+ 
+
+547
+00:12:12,000 --> 00:12:14,389
+precision of their estimates and
+therefore observed correlations should
+
+548
+00:12:14,389 --> 00:12:14,399
+therefore observed correlations should
+ 
+
+549
+00:12:14,399 --> 00:12:17,430
+therefore observed correlations should
+be weighted in the meta analysis.
+
+550
+00:12:17,430 --> 00:12:17,440
+be weighted in the meta analysis.
+ 
+
+551
+00:12:17,440 --> 00:12:20,150
+be weighted in the meta analysis.
+Note that it is not required that all
+
+552
+00:12:20,150 --> 00:12:20,160
+Note that it is not required that all
+ 
+
+553
+00:12:20,160 --> 00:12:23,110
+Note that it is not required that all
+studies report on all correlations. If
+
+554
+00:12:23,110 --> 00:12:23,120
+studies report on all correlations. If
+ 
+
+555
+00:12:23,120 --> 00:12:24,710
+studies report on all correlations. If
+you want to fit a multiple regression
+
+556
+00:12:24,710 --> 00:12:24,720
+you want to fit a multiple regression
+ 
+
+557
+00:12:24,720 --> 00:12:26,790
+you want to fit a multiple regression
+model with two predictors, you need
+
+558
+00:12:26,790 --> 00:12:26,800
+model with two predictors, you need
+ 
+
+559
+00:12:26,800 --> 00:12:29,509
+model with two predictors, you need
+estimates of three correlations, but
+
+560
+00:12:29,509 --> 00:12:29,519
+estimates of three correlations, but
+ 
+
+561
+00:12:29,519 --> 00:12:32,230
+estimates of three correlations, but
+also studies that report on only one or
+
+562
+00:12:32,230 --> 00:12:32,240
+also studies that report on only one or
+ 
+
+563
+00:12:32,240 --> 00:12:34,470
+also studies that report on only one or
+two of these correlations can contribute
+
+564
+00:12:34,470 --> 00:12:34,480
+two of these correlations can contribute
+ 
+
+565
+00:12:34,480 --> 00:12:38,470
+two of these correlations can contribute
+information to the meta analysis.
+
+566
+00:12:38,470 --> 00:12:38,480
+information to the meta analysis.
+ 
+
+567
+00:12:38,480 --> 00:12:41,030
+information to the meta analysis.
+As a result, not all pulled correlations
+
+568
+00:12:41,030 --> 00:12:41,040
+As a result, not all pulled correlations
+ 
+
+569
+00:12:41,040 --> 00:12:43,190
+As a result, not all pulled correlations
+will have the same precision, which
+
+570
+00:12:43,190 --> 00:12:43,200
+will have the same precision, which
+ 
+
+571
+00:12:43,200 --> 00:12:45,030
+will have the same precision, which
+should be accounted for in the second
+
+572
+00:12:45,030 --> 00:12:45,040
+should be accounted for in the second
+ 
+
+573
+00:12:45,040 --> 00:12:47,030
+should be accounted for in the second
+stage.
+
+574
+00:12:47,030 --> 00:12:47,040
+stage.
+ 
+
+575
+00:12:47,040 --> 00:12:50,069
+stage.
+It's also important to note that we will
+
+576
+00:12:50,069 --> 00:12:50,079
+It's also important to note that we will
+ 
+
+577
+00:12:50,079 --> 00:12:52,790
+It's also important to note that we will
+not do separate univariat math analysis
+
+578
+00:12:52,790 --> 00:12:52,800
+not do separate univariat math analysis
+ 
+
+579
+00:12:52,800 --> 00:12:55,110
+not do separate univariat math analysis
+for the different correlations
+
+580
+00:12:55,110 --> 00:12:55,120
+for the different correlations
+ 
+
+581
+00:12:55,120 --> 00:12:57,190
+for the different correlations
+because in that way we would not account
+
+582
+00:12:57,190 --> 00:12:57,200
+because in that way we would not account
+ 
+
+583
+00:12:57,200 --> 00:12:59,030
+because in that way we would not account
+for the dependence of correlations from
+
+584
+00:12:59,030 --> 00:12:59,040
+for the dependence of correlations from
+ 
+
+585
+00:12:59,040 --> 00:13:01,190
+for the dependence of correlations from
+the same study.
+
+586
+00:13:01,190 --> 00:13:01,200
+the same study.
+ 
+
+587
+00:13:01,200 --> 00:13:04,230
+the same study.
+For instance, if in a study the sample
+
+588
+00:13:04,230 --> 00:13:04,240
+For instance, if in a study the sample
+ 
+
+589
+00:13:04,240 --> 00:13:06,230
+For instance, if in a study the sample
+has some atypical values for the
+
+590
+00:13:06,230 --> 00:13:06,240
+has some atypical values for the
+ 
+
+591
+00:13:06,240 --> 00:13:09,110
+has some atypical values for the
+variable X, this will affect both the
+
+592
+00:13:09,110 --> 00:13:09,120
+variable X, this will affect both the
+ 
+
+593
+00:13:09,120 --> 00:13:11,910
+variable X, this will affect both the
+correlation between X and Y and the
+
+594
+00:13:11,910 --> 00:13:11,920
+correlation between X and Y and the
+ 
+
+595
+00:13:11,920 --> 00:13:14,949
+correlation between X and Y and the
+correlation between X and Z.
+
+596
+00:13:14,949 --> 00:13:14,959
+correlation between X and Z.
+ 
+
+597
+00:13:14,959 --> 00:13:17,190
+correlation between X and Z.
+Therefore, we do a multivariate meta
+
+598
+00:13:17,190 --> 00:13:17,200
+Therefore, we do a multivariate meta
+ 
+
+599
+00:13:17,200 --> 00:13:19,990
+Therefore, we do a multivariate meta
+analysis and we can use robust variance
+
+600
+00:13:19,990 --> 00:13:20,000
+analysis and we can use robust variance
+ 
+
+601
+00:13:20,000 --> 00:13:24,069
+analysis and we can use robust variance
+estimation or RVE to fully account for
+
+602
+00:13:24,069 --> 00:13:24,079
+estimation or RVE to fully account for
+ 
+
+603
+00:13:24,079 --> 00:13:29,670
+estimation or RVE to fully account for
+the dependence.
+
+604
+00:13:29,670 --> 00:13:29,680
+
+ 
+
+605
+00:13:29,680 --> 00:13:31,670
+
+The first stage will result in a
+
+606
+00:13:31,670 --> 00:13:31,680
+The first stage will result in a
+ 
+
+607
+00:13:31,680 --> 00:13:33,910
+The first stage will result in a
+correlation matrix across studies
+
+608
+00:13:33,910 --> 00:13:33,920
+correlation matrix across studies
+ 
+
+609
+00:13:33,920 --> 00:13:36,949
+correlation matrix across studies
+together with a sampling variance or the
+
+610
+00:13:36,949 --> 00:13:36,959
+together with a sampling variance or the
+ 
+
+611
+00:13:36,959 --> 00:13:39,350
+together with a sampling variance or the
+squared standard error of each bullet
+
+612
+00:13:39,350 --> 00:13:39,360
+squared standard error of each bullet
+ 
+
+613
+00:13:39,360 --> 00:13:40,949
+squared standard error of each bullet
+correlation.
+
+614
+00:13:40,949 --> 00:13:40,959
+correlation.
+ 
+
+615
+00:13:40,959 --> 00:13:43,110
+correlation.
+The sampling variance gives us an idea
+
+616
+00:13:43,110 --> 00:13:43,120
+The sampling variance gives us an idea
+ 
+
+617
+00:13:43,120 --> 00:13:45,670
+The sampling variance gives us an idea
+of the precision of the estimates but
+
+618
+00:13:45,670 --> 00:13:45,680
+of the precision of the estimates but
+ 
+
+619
+00:13:45,680 --> 00:13:48,150
+of the precision of the estimates but
+also the sampling coariances are
+
+620
+00:13:48,150 --> 00:13:48,160
+also the sampling coariances are
+ 
+
+621
+00:13:48,160 --> 00:13:50,949
+also the sampling coariances are
+estimated which gives us an idea of the
+
+622
+00:13:50,949 --> 00:13:50,959
+estimated which gives us an idea of the
+ 
+
+623
+00:13:50,959 --> 00:13:53,190
+estimated which gives us an idea of the
+association between correlations within
+
+624
+00:13:53,190 --> 00:13:53,200
+association between correlations within
+ 
+
+625
+00:13:53,200 --> 00:13:56,230
+association between correlations within
+studies.
+
+626
+00:13:56,230 --> 00:13:56,240
+
+ 
+
+627
+00:13:56,240 --> 00:13:58,310
+
+In the second stage, the matrix with a
+
+628
+00:13:58,310 --> 00:13:58,320
+In the second stage, the matrix with a
+ 
+
+629
+00:13:58,320 --> 00:14:00,150
+In the second stage, the matrix with a
+pulled correlations is then used to
+
+630
+00:14:00,150 --> 00:14:00,160
+pulled correlations is then used to
+ 
+
+631
+00:14:00,160 --> 00:14:02,790
+pulled correlations is then used to
+estimate the SM model. But in contrast
+
+632
+00:14:02,790 --> 00:14:02,800
+estimate the SM model. But in contrast
+ 
+
+633
+00:14:02,800 --> 00:14:06,629
+estimate the SM model. But in contrast
+to an ordinary SE analysis, we are now
+
+634
+00:14:06,629 --> 00:14:06,639
+to an ordinary SE analysis, we are now
+ 
+
+635
+00:14:06,639 --> 00:14:08,790
+to an ordinary SE analysis, we are now
+also accounting for the matrix with the
+
+636
+00:14:08,790 --> 00:14:08,800
+also accounting for the matrix with the
+ 
+
+637
+00:14:08,800 --> 00:14:11,189
+also accounting for the matrix with the
+corresponding variances and co-variances
+
+638
+00:14:11,189 --> 00:14:11,199
+corresponding variances and co-variances
+ 
+
+639
+00:14:11,199 --> 00:14:17,030
+corresponding variances and co-variances
+of the pulled correlations.
+
+640
+00:14:17,030 --> 00:14:17,040
+
+ 
+
+641
+00:14:17,040 --> 00:14:21,590
+
+An example of a Mason analysis.
+
+642
+00:14:21,590 --> 00:14:21,600
+
+ 
+
+643
+00:14:21,600 --> 00:14:23,670
+
+There is discussion in the literature on
+
+644
+00:14:23,670 --> 00:14:23,680
+There is discussion in the literature on
+ 
+
+645
+00:14:23,680 --> 00:14:26,310
+There is discussion in the literature on
+whether dehumanizing a group, for
+
+646
+00:14:26,310 --> 00:14:26,320
+whether dehumanizing a group, for
+ 
+
+647
+00:14:26,320 --> 00:14:28,230
+whether dehumanizing a group, for
+instance, calling a group cockroaches or
+
+648
+00:14:28,230 --> 00:14:28,240
+instance, calling a group cockroaches or
+ 
+
+649
+00:14:28,240 --> 00:14:31,189
+instance, calling a group cockroaches or
+rats, can contribute to violence against
+
+650
+00:14:31,189 --> 00:14:31,199
+rats, can contribute to violence against
+ 
+
+651
+00:14:31,199 --> 00:14:33,189
+rats, can contribute to violence against
+that group.
+
+652
+00:14:33,189 --> 00:14:33,199
+that group.
+ 
+
+653
+00:14:33,199 --> 00:14:35,910
+that group.
+Some people suggest that dehumanization
+
+654
+00:14:35,910 --> 00:14:35,920
+Some people suggest that dehumanization
+ 
+
+655
+00:14:35,920 --> 00:14:38,230
+Some people suggest that dehumanization
+is strongly related to disliking the
+
+656
+00:14:38,230 --> 00:14:38,240
+is strongly related to disliking the
+ 
+
+657
+00:14:38,240 --> 00:14:40,790
+is strongly related to disliking the
+other group and that it is the dislike
+
+658
+00:14:40,790 --> 00:14:40,800
+other group and that it is the dislike
+ 
+
+659
+00:14:40,800 --> 00:14:42,870
+other group and that it is the dislike
+that contributes to violence rather than
+
+660
+00:14:42,870 --> 00:14:42,880
+that contributes to violence rather than
+ 
+
+661
+00:14:42,880 --> 00:14:45,829
+that contributes to violence rather than
+the dehumanization.
+
+662
+00:14:45,829 --> 00:14:45,839
+the dehumanization.
+ 
+
+663
+00:14:45,839 --> 00:14:47,750
+the dehumanization.
+In a recent study, we did a meta
+
+664
+00:14:47,750 --> 00:14:47,760
+In a recent study, we did a meta
+ 
+
+665
+00:14:47,760 --> 00:14:50,310
+In a recent study, we did a meta
+analysis on studies that studied
+
+666
+00:14:50,310 --> 00:14:50,320
+analysis on studies that studied
+ 
+
+667
+00:14:50,320 --> 00:14:53,509
+analysis on studies that studied
+violence, deumanization, and dislike to
+
+668
+00:14:53,509 --> 00:14:53,519
+violence, deumanization, and dislike to
+ 
+
+669
+00:14:53,519 --> 00:14:55,590
+violence, deumanization, and dislike to
+investigate whether there is still an
+
+670
+00:14:55,590 --> 00:14:55,600
+investigate whether there is still an
+ 
+
+671
+00:14:55,600 --> 00:14:57,829
+investigate whether there is still an
+association between deumanization and
+
+672
+00:14:57,829 --> 00:14:57,839
+association between deumanization and
+ 
+
+673
+00:14:57,839 --> 00:15:04,389
+association between deumanization and
+violence after correcting for dislike.
+
+674
+00:15:04,389 --> 00:15:04,399
+
+ 
+
+675
+00:15:04,399 --> 00:15:06,150
+
+The model we fitted was a multiple
+
+676
+00:15:06,150 --> 00:15:06,160
+The model we fitted was a multiple
+ 
+
+677
+00:15:06,160 --> 00:15:08,949
+The model we fitted was a multiple
+regression model. Violence is regressed
+
+678
+00:15:08,949 --> 00:15:08,959
+regression model. Violence is regressed
+ 
+
+679
+00:15:08,959 --> 00:15:11,750
+regression model. Violence is regressed
+on dislike and dehumanization.
+
+680
+00:15:11,750 --> 00:15:11,760
+on dislike and dehumanization.
+ 
+
+681
+00:15:11,760 --> 00:15:15,430
+on dislike and dehumanization.
+Two predictors that can be correlated.
+
+682
+00:15:15,430 --> 00:15:15,440
+Two predictors that can be correlated.
+ 
+
+683
+00:15:15,440 --> 00:15:16,710
+Two predictors that can be correlated.
+The regression weights of the two
+
+684
+00:15:16,710 --> 00:15:16,720
+The regression weights of the two
+ 
+
+685
+00:15:16,720 --> 00:15:18,790
+The regression weights of the two
+predictors represent the effect of the
+
+686
+00:15:18,790 --> 00:15:18,800
+predictors represent the effect of the
+ 
+
+687
+00:15:18,800 --> 00:15:21,430
+predictors represent the effect of the
+predictor on violence after correcting
+
+688
+00:15:21,430 --> 00:15:21,440
+predictor on violence after correcting
+ 
+
+689
+00:15:21,440 --> 00:15:25,829
+predictor on violence after correcting
+for the other predictor.
+
+690
+00:15:25,829 --> 00:15:25,839
+
+ 
+
+691
+00:15:25,839 --> 00:15:28,310
+
+In the first stage, we did a multivaried
+
+692
+00:15:28,310 --> 00:15:28,320
+In the first stage, we did a multivaried
+ 
+
+693
+00:15:28,320 --> 00:15:31,509
+In the first stage, we did a multivaried
+meta analysis applying RVE.
+
+694
+00:15:31,509 --> 00:15:31,519
+meta analysis applying RVE.
+ 
+
+695
+00:15:31,519 --> 00:15:34,150
+meta analysis applying RVE.
+Again the data and R syntax are made
+
+696
+00:15:34,150 --> 00:15:34,160
+Again the data and R syntax are made
+ 
+
+697
+00:15:34,160 --> 00:15:36,389
+Again the data and R syntax are made
+available so that you can replicate this
+
+698
+00:15:36,389 --> 00:15:36,399
+available so that you can replicate this
+ 
+
+699
+00:15:36,399 --> 00:15:38,710
+available so that you can replicate this
+analysis.
+
+700
+00:15:38,710 --> 00:15:38,720
+analysis.
+ 
+
+701
+00:15:38,720 --> 00:15:40,790
+analysis.
+This first stage resulted in a first
+
+702
+00:15:40,790 --> 00:15:40,800
+This first stage resulted in a first
+ 
+
+703
+00:15:40,800 --> 00:15:43,110
+This first stage resulted in a first
+matrix with a pulled correlations across
+
+704
+00:15:43,110 --> 00:15:43,120
+matrix with a pulled correlations across
+ 
+
+705
+00:15:43,120 --> 00:15:46,629
+matrix with a pulled correlations across
+studies. We found that overall violence
+
+706
+00:15:46,629 --> 00:15:46,639
+studies. We found that overall violence
+ 
+
+707
+00:15:46,639 --> 00:15:48,550
+studies. We found that overall violence
+is more strongly correlated with
+
+708
+00:15:48,550 --> 00:15:48,560
+is more strongly correlated with
+ 
+
+709
+00:15:48,560 --> 00:15:52,310
+is more strongly correlated with
+deumanization than with dislike.
+
+710
+00:15:52,310 --> 00:15:52,320
+deumanization than with dislike.
+ 
+
+711
+00:15:52,320 --> 00:15:55,350
+deumanization than with dislike.
+We also found as expected that dislike
+
+712
+00:15:55,350 --> 00:15:55,360
+We also found as expected that dislike
+ 
+
+713
+00:15:55,360 --> 00:15:57,590
+We also found as expected that dislike
+and deumanization are positively
+
+714
+00:15:57,590 --> 00:15:57,600
+and deumanization are positively
+ 
+
+715
+00:15:57,600 --> 00:16:00,230
+and deumanization are positively
+correlated.
+
+716
+00:16:00,230 --> 00:16:00,240
+correlated.
+ 
+
+717
+00:16:00,240 --> 00:16:03,189
+correlated.
+A second matrix is a coariance matrix
+
+718
+00:16:03,189 --> 00:16:03,199
+A second matrix is a coariance matrix
+ 
+
+719
+00:16:03,199 --> 00:16:05,670
+A second matrix is a coariance matrix
+because there are three correlations. We
+
+720
+00:16:05,670 --> 00:16:05,680
+because there are three correlations. We
+ 
+
+721
+00:16:05,680 --> 00:16:08,629
+because there are three correlations. We
+have in the coariance matrix 3 * 3
+
+722
+00:16:08,629 --> 00:16:08,639
+have in the coariance matrix 3 * 3
+ 
+
+723
+00:16:08,639 --> 00:16:11,430
+have in the coariance matrix 3 * 3
+cells. On the diagonal we have the
+
+724
+00:16:11,430 --> 00:16:11,440
+cells. On the diagonal we have the
+ 
+
+725
+00:16:11,440 --> 00:16:13,910
+cells. On the diagonal we have the
+sampling variances. You see that the
+
+726
+00:16:13,910 --> 00:16:13,920
+sampling variances. You see that the
+ 
+
+727
+00:16:13,920 --> 00:16:16,389
+sampling variances. You see that the
+correlation between dislike and violence
+
+728
+00:16:16,389 --> 00:16:16,399
+correlation between dislike and violence
+ 
+
+729
+00:16:16,399 --> 00:16:18,629
+correlation between dislike and violence
+is estimated with less precision than
+
+730
+00:16:18,629 --> 00:16:18,639
+is estimated with less precision than
+ 
+
+731
+00:16:18,639 --> 00:16:21,829
+is estimated with less precision than
+the two other correlations.
+
+732
+00:16:21,829 --> 00:16:21,839
+the two other correlations.
+ 
+
+733
+00:16:21,839 --> 00:16:23,829
+the two other correlations.
+Off the diagonal you have the sampling
+
+734
+00:16:23,829 --> 00:16:23,839
+Off the diagonal you have the sampling
+ 
+
+735
+00:16:23,839 --> 00:16:27,590
+Off the diagonal you have the sampling
+covariances. For instance, the positive
+
+736
+00:16:27,590 --> 00:16:27,600
+covariances. For instance, the positive
+ 
+
+737
+00:16:27,600 --> 00:16:29,110
+covariances. For instance, the positive
+uh sampling coariance between the
+
+738
+00:16:29,110 --> 00:16:29,120
+uh sampling coariance between the
+ 
+
+739
+00:16:29,120 --> 00:16:31,430
+uh sampling coariance between the
+deumanization violence correlation and
+
+740
+00:16:31,430 --> 00:16:31,440
+deumanization violence correlation and
+ 
+
+741
+00:16:31,440 --> 00:16:33,749
+deumanization violence correlation and
+the dislike violence correlation means
+
+742
+00:16:33,749 --> 00:16:33,759
+the dislike violence correlation means
+ 
+
+743
+00:16:33,759 --> 00:16:35,829
+the dislike violence correlation means
+that in studies in which a relatively
+
+744
+00:16:35,829 --> 00:16:35,839
+that in studies in which a relatively
+ 
+
+745
+00:16:35,839 --> 00:16:38,389
+that in studies in which a relatively
+large deumanization violence correlation
+
+746
+00:16:38,389 --> 00:16:38,399
+large deumanization violence correlation
+ 
+
+747
+00:16:38,399 --> 00:16:42,150
+large deumanization violence correlation
+is observed in general also a large a
+
+748
+00:16:42,150 --> 00:16:42,160
+is observed in general also a large a
+ 
+
+749
+00:16:42,160 --> 00:16:44,150
+is observed in general also a large a
+relatively large dislike violence
+
+750
+00:16:44,150 --> 00:16:44,160
+relatively large dislike violence
+ 
+
+751
+00:16:44,160 --> 00:16:50,069
+relatively large dislike violence
+correlation is found.
+
+752
+00:16:50,069 --> 00:16:50,079
+
+ 
+
+753
+00:16:50,079 --> 00:16:52,310
+
+In the second stage, the correlations
+
+754
+00:16:52,310 --> 00:16:52,320
+In the second stage, the correlations
+ 
+
+755
+00:16:52,320 --> 00:16:54,790
+In the second stage, the correlations
+are used to fit the same model
+
+756
+00:16:54,790 --> 00:16:54,800
+are used to fit the same model
+ 
+
+757
+00:16:54,800 --> 00:16:56,389
+are used to fit the same model
+parameters.
+
+758
+00:16:56,389 --> 00:16:56,399
+parameters.
+ 
+
+759
+00:16:56,399 --> 00:16:58,310
+parameters.
+We found that after correcting for the
+
+760
+00:16:58,310 --> 00:16:58,320
+We found that after correcting for the
+ 
+
+761
+00:16:58,320 --> 00:17:00,310
+We found that after correcting for the
+effect of dislike,
+
+762
+00:17:00,310 --> 00:17:00,320
+effect of dislike,
+ 
+
+763
+00:17:00,320 --> 00:17:03,110
+effect of dislike,
+the effect of dehumanization is still
+
+764
+00:17:03,110 --> 00:17:03,120
+the effect of dehumanization is still
+ 
+
+765
+00:17:03,120 --> 00:17:05,270
+the effect of dehumanization is still
+statistically significant.
+
+766
+00:17:05,270 --> 00:17:05,280
+statistically significant.
+ 
+
+767
+00:17:05,280 --> 00:17:07,669
+statistically significant.
+To test this coefficient, we calculated
+
+768
+00:17:07,669 --> 00:17:07,679
+To test this coefficient, we calculated
+ 
+
+769
+00:17:07,679 --> 00:17:10,470
+To test this coefficient, we calculated
+the 95% confidence interval and we
+
+770
+00:17:10,470 --> 00:17:10,480
+the 95% confidence interval and we
+ 
+
+771
+00:17:10,480 --> 00:17:12,470
+the 95% confidence interval and we
+compared the model fit of this model
+
+772
+00:17:12,470 --> 00:17:12,480
+compared the model fit of this model
+ 
+
+773
+00:17:12,480 --> 00:17:14,309
+compared the model fit of this model
+with a model that constrained the
+
+774
+00:17:14,309 --> 00:17:14,319
+with a model that constrained the
+ 
+
+775
+00:17:14,319 --> 00:17:19,029
+with a model that constrained the
+coefficient of dehumanization to zero.
+
+776
+00:17:19,029 --> 00:17:19,039
+coefficient of dehumanization to zero.
+ 
+
+777
+00:17:19,039 --> 00:17:21,829
+coefficient of dehumanization to zero.
+The opposite is not true. If we account
+
+778
+00:17:21,829 --> 00:17:21,839
+The opposite is not true. If we account
+ 
+
+779
+00:17:21,839 --> 00:17:23,990
+The opposite is not true. If we account
+for the effect of dehumanization, there
+
+780
+00:17:23,990 --> 00:17:24,000
+for the effect of dehumanization, there
+ 
+
+781
+00:17:24,000 --> 00:17:25,750
+for the effect of dehumanization, there
+is no statistically significant
+
+782
+00:17:25,750 --> 00:17:25,760
+is no statistically significant
+ 
+
+783
+00:17:25,760 --> 00:17:29,510
+is no statistically significant
+additional effect of dislike anymore.
+
+784
+00:17:29,510 --> 00:17:29,520
+additional effect of dislike anymore.
+ 
+
+785
+00:17:29,520 --> 00:17:32,310
+additional effect of dislike anymore.
+Together, the two predictors explain
+
+786
+00:17:32,310 --> 00:17:32,320
+Together, the two predictors explain
+ 
+
+787
+00:17:32,320 --> 00:17:35,669
+Together, the two predictors explain
+about 19% of of the variance in the
+
+788
+00:17:35,669 --> 00:17:35,679
+about 19% of of the variance in the
+ 
+
+789
+00:17:35,679 --> 00:17:40,870
+about 19% of of the variance in the
+amount of violence.
+
+790
+00:17:40,870 --> 00:17:40,880
+
+ 
+
+791
+00:17:40,880 --> 00:17:42,870
+
+We also did a series of sensitivity
+
+792
+00:17:42,870 --> 00:17:42,880
+We also did a series of sensitivity
+ 
+
+793
+00:17:42,880 --> 00:17:45,350
+We also did a series of sensitivity
+analysis in which we corrected for a few
+
+794
+00:17:45,350 --> 00:17:45,360
+analysis in which we corrected for a few
+ 
+
+795
+00:17:45,360 --> 00:17:47,510
+analysis in which we corrected for a few
+additional predictors.
+
+796
+00:17:47,510 --> 00:17:47,520
+additional predictors.
+ 
+
+797
+00:17:47,520 --> 00:17:51,110
+additional predictors.
+But we found that results are robust for
+
+798
+00:17:51,110 --> 00:17:51,120
+But we found that results are robust for
+ 
+
+799
+00:17:51,120 --> 00:17:52,870
+But we found that results are robust for
+all these additional models. We found
+
+800
+00:17:52,870 --> 00:17:52,880
+all these additional models. We found
+ 
+
+801
+00:17:52,880 --> 00:17:56,070
+all these additional models. We found
+that dehumanization is statistically
+
+802
+00:17:56,070 --> 00:17:56,080
+that dehumanization is statistically
+ 
+
+803
+00:17:56,080 --> 00:17:58,870
+that dehumanization is statistically
+significantly related to violence even
+
+804
+00:17:58,870 --> 00:17:58,880
+significantly related to violence even
+ 
+
+805
+00:17:58,880 --> 00:18:00,870
+significantly related to violence even
+after accounting for the effect of
+
+806
+00:18:00,870 --> 00:18:00,880
+after accounting for the effect of
+ 
+
+807
+00:18:00,880 --> 00:18:04,710
+after accounting for the effect of
+dislike.
+
+808
+00:18:04,710 --> 00:18:04,720
+
+ 
+
+809
+00:18:04,720 --> 00:18:06,549
+
+To conclude,
+
+810
+00:18:06,549 --> 00:18:06,559
+To conclude,
+ 
+
+811
+00:18:06,559 --> 00:18:08,710
+To conclude,
+an important strength of MSAM is its
+
+812
+00:18:08,710 --> 00:18:08,720
+an important strength of MSAM is its
+ 
+
+813
+00:18:08,720 --> 00:18:11,909
+an important strength of MSAM is its
+flexibility. Messa models can include
+
+814
+00:18:11,909 --> 00:18:11,919
+flexibility. Messa models can include
+ 
+
+815
+00:18:11,919 --> 00:18:15,270
+flexibility. Messa models can include
+observed but also latent variables. They
+
+816
+00:18:15,270 --> 00:18:15,280
+observed but also latent variables. They
+ 
+
+817
+00:18:15,280 --> 00:18:17,830
+observed but also latent variables. They
+can include multiple levels, multiple
+
+818
+00:18:17,830 --> 00:18:17,840
+can include multiple levels, multiple
+ 
+
+819
+00:18:17,840 --> 00:18:20,789
+can include multiple levels, multiple
+predictors, multiple outcome variables,
+
+820
+00:18:20,789 --> 00:18:20,799
+predictors, multiple outcome variables,
+ 
+
+821
+00:18:20,799 --> 00:18:24,549
+predictors, multiple outcome variables,
+mediators, moderators and so on. In
+
+822
+00:18:24,549 --> 00:18:24,559
+mediators, moderators and so on. In
+ 
+
+823
+00:18:24,559 --> 00:18:26,230
+mediators, moderators and so on. In
+fact, all met analytic models that we
+
+824
+00:18:26,230 --> 00:18:26,240
+fact, all met analytic models that we
+ 
+
+825
+00:18:26,240 --> 00:18:28,710
+fact, all met analytic models that we
+have seen so far can be considered as
+
+826
+00:18:28,710 --> 00:18:28,720
+have seen so far can be considered as
+ 
+
+827
+00:18:28,720 --> 00:18:32,549
+have seen so far can be considered as
+special cases of a Mason model. Yet,
+
+828
+00:18:32,549 --> 00:18:32,559
+special cases of a Mason model. Yet,
+ 
+
+829
+00:18:32,559 --> 00:18:35,270
+special cases of a Mason model. Yet,
+Mason is a recently developed approach
+
+830
+00:18:35,270 --> 00:18:35,280
+Mason is a recently developed approach
+ 
+
+831
+00:18:35,280 --> 00:18:38,470
+Mason is a recently developed approach
+that is not fully developed yet. More
+
+832
+00:18:38,470 --> 00:18:38,480
+that is not fully developed yet. More
+ 
+
+833
+00:18:38,480 --> 00:18:41,029
+that is not fully developed yet. More
+research is needed on the possibilities
+
+834
+00:18:41,029 --> 00:18:41,039
+research is needed on the possibilities
+ 
+
+835
+00:18:41,039 --> 00:18:46,470
+research is needed on the possibilities
+and the performance of the approach.
+
+836
+00:18:46,470 --> 00:18:46,480
+
+ 
+
+837
+00:18:46,480 --> 00:18:48,789
+
+Finally, here's some references to the
+
+838
+00:18:48,789 --> 00:18:48,799
+Finally, here's some references to the
+ 
+
+839
+00:18:48,799 --> 00:18:51,750
+Finally, here's some references to the
+work of March Chung and Susanna Yak on
+
+840
+00:18:51,750 --> 00:18:51,760
+work of March Chung and Susanna Yak on
+ 
+
+841
+00:18:51,760 --> 00:18:54,760
+work of March Chung and Susanna Yak on
+Mason.
+

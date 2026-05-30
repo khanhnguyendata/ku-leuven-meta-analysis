@@ -1,0 +1,6465 @@
+1
+00:00:01,439 --> 00:00:05,829
+
+network meta analysis.
+
+2
+00:00:05,829 --> 00:00:05,839
+
+ 
+
+3
+00:00:05,839 --> 00:00:07,590
+
+When we talked about meta analysis of
+
+4
+00:00:07,590 --> 00:00:07,600
+When we talked about meta analysis of
+ 
+
+5
+00:00:07,600 --> 00:00:09,830
+When we talked about meta analysis of
+standardized mean differences, we
+
+6
+00:00:09,830 --> 00:00:09,840
+standardized mean differences, we
+ 
+
+7
+00:00:09,840 --> 00:00:11,910
+standardized mean differences, we
+assumed that all studies in our meta
+
+8
+00:00:11,910 --> 00:00:11,920
+assumed that all studies in our meta
+ 
+
+9
+00:00:11,920 --> 00:00:15,350
+assumed that all studies in our meta
+analysis are comparing one treatment
+
+10
+00:00:15,350 --> 00:00:15,360
+analysis are comparing one treatment
+ 
+
+11
+00:00:15,360 --> 00:00:18,630
+analysis are comparing one treatment
+with control condition.
+
+12
+00:00:18,630 --> 00:00:18,640
+with control condition.
+ 
+
+13
+00:00:18,640 --> 00:00:20,150
+with control condition.
+Although it is possible that there are
+
+14
+00:00:20,150 --> 00:00:20,160
+Although it is possible that there are
+ 
+
+15
+00:00:20,160 --> 00:00:22,230
+Although it is possible that there are
+small differences between studies in the
+
+16
+00:00:22,230 --> 00:00:22,240
+small differences between studies in the
+ 
+
+17
+00:00:22,240 --> 00:00:24,950
+small differences between studies in the
+treatment and you can include treatment
+
+18
+00:00:24,950 --> 00:00:24,960
+treatment and you can include treatment
+ 
+
+19
+00:00:24,960 --> 00:00:27,269
+treatment and you can include treatment
+characteristics as moderator variables
+
+20
+00:00:27,269 --> 00:00:27,279
+characteristics as moderator variables
+ 
+
+21
+00:00:27,279 --> 00:00:29,269
+characteristics as moderator variables
+in your analysis.
+
+22
+00:00:29,269 --> 00:00:29,279
+in your analysis.
+ 
+
+23
+00:00:29,279 --> 00:00:31,269
+in your analysis.
+We still assumed that there is one
+
+24
+00:00:31,269 --> 00:00:31,279
+We still assumed that there is one
+ 
+
+25
+00:00:31,279 --> 00:00:33,910
+We still assumed that there is one
+general type of treatment that is uh
+
+26
+00:00:33,910 --> 00:00:33,920
+general type of treatment that is uh
+ 
+
+27
+00:00:33,920 --> 00:00:38,069
+general type of treatment that is uh
+evaluated in all of the studies.
+
+28
+00:00:38,069 --> 00:00:38,079
+evaluated in all of the studies.
+ 
+
+29
+00:00:38,079 --> 00:00:40,630
+evaluated in all of the studies.
+Sometimes however
+
+30
+00:00:40,630 --> 00:00:40,640
+Sometimes however
+ 
+
+31
+00:00:40,640 --> 00:00:43,510
+Sometimes however
+the same problem can be treated in
+
+32
+00:00:43,510 --> 00:00:43,520
+the same problem can be treated in
+ 
+
+33
+00:00:43,520 --> 00:00:46,470
+the same problem can be treated in
+multiple ways. For instance, in the
+
+34
+00:00:46,470 --> 00:00:46,480
+multiple ways. For instance, in the
+ 
+
+35
+00:00:46,480 --> 00:00:50,069
+multiple ways. For instance, in the
+study of Linda, they distinguished 23
+
+36
+00:00:50,069 --> 00:00:50,079
+study of Linda, they distinguished 23
+ 
+
+37
+00:00:50,079 --> 00:00:55,350
+study of Linda, they distinguished 23
+approaches to treat depression
+
+38
+00:00:55,350 --> 00:00:55,360
+
+ 
+
+39
+00:00:55,360 --> 00:00:57,990
+
+and different studies can study or can
+
+40
+00:00:57,990 --> 00:00:58,000
+and different studies can study or can
+ 
+
+41
+00:00:58,000 --> 00:01:00,869
+and different studies can study or can
+evaluate different treatments. It is
+
+42
+00:01:00,869 --> 00:01:00,879
+evaluate different treatments. It is
+ 
+
+43
+00:01:00,879 --> 00:01:04,310
+evaluate different treatments. It is
+even possible that within the same study
+
+44
+00:01:04,310 --> 00:01:04,320
+even possible that within the same study
+ 
+
+45
+00:01:04,320 --> 00:01:07,510
+even possible that within the same study
+different treatments are evaluated.
+
+46
+00:01:07,510 --> 00:01:07,520
+different treatments are evaluated.
+ 
+
+47
+00:01:07,520 --> 00:01:10,789
+different treatments are evaluated.
+It is also possible that in some studies
+
+48
+00:01:10,789 --> 00:01:10,799
+It is also possible that in some studies
+ 
+
+49
+00:01:10,799 --> 00:01:12,950
+It is also possible that in some studies
+a treatment is not immediately compared
+
+50
+00:01:12,950 --> 00:01:12,960
+a treatment is not immediately compared
+ 
+
+51
+00:01:12,960 --> 00:01:16,390
+a treatment is not immediately compared
+with a control condition but that rather
+
+52
+00:01:16,390 --> 00:01:16,400
+with a control condition but that rather
+ 
+
+53
+00:01:16,400 --> 00:01:18,870
+with a control condition but that rather
+treatments are directly compared to each
+
+54
+00:01:18,870 --> 00:01:18,880
+treatments are directly compared to each
+ 
+
+55
+00:01:18,880 --> 00:01:21,030
+treatments are directly compared to each
+other.
+
+56
+00:01:21,030 --> 00:01:21,040
+other.
+ 
+
+57
+00:01:21,040 --> 00:01:23,190
+other.
+In the study of Linda, they collected
+
+58
+00:01:23,190 --> 00:01:23,200
+In the study of Linda, they collected
+ 
+
+59
+00:01:23,200 --> 00:01:28,230
+In the study of Linda, they collected
+the data of a lot of studies and
+
+60
+00:01:28,230 --> 00:01:28,240
+the data of a lot of studies and
+ 
+
+61
+00:01:28,240 --> 00:01:31,670
+the data of a lot of studies and
+um you can see in the plot on the left
+
+62
+00:01:31,670 --> 00:01:31,680
+um you can see in the plot on the left
+ 
+
+63
+00:01:31,680 --> 00:01:35,109
+um you can see in the plot on the left
+side of the of the slide
+
+64
+00:01:35,109 --> 00:01:35,119
+side of the of the slide
+ 
+
+65
+00:01:35,119 --> 00:01:39,030
+side of the of the slide
+that uh the nodes refer to the 20 23
+
+66
+00:01:39,030 --> 00:01:39,040
+that uh the nodes refer to the 20 23
+ 
+
+67
+00:01:39,040 --> 00:01:41,429
+that uh the nodes refer to the 20 23
+treatments of depression
+
+68
+00:01:41,429 --> 00:01:41,439
+treatments of depression
+ 
+
+69
+00:01:41,439 --> 00:01:43,670
+treatments of depression
+and you can see that some of these nodes
+
+70
+00:01:43,670 --> 00:01:43,680
+and you can see that some of these nodes
+ 
+
+71
+00:01:43,680 --> 00:01:48,710
+and you can see that some of these nodes
+are connected. This means that these um
+
+72
+00:01:48,710 --> 00:01:48,720
+are connected. This means that these um
+ 
+
+73
+00:01:48,720 --> 00:01:51,429
+are connected. This means that these um
+nodes or these treatments are directly
+
+74
+00:01:51,429 --> 00:01:51,439
+nodes or these treatments are directly
+ 
+
+75
+00:01:51,439 --> 00:01:54,550
+nodes or these treatments are directly
+compared. The thicker the connection,
+
+76
+00:01:54,550 --> 00:01:54,560
+compared. The thicker the connection,
+ 
+
+77
+00:01:54,560 --> 00:01:57,030
+compared. The thicker the connection,
+the more that connection has been
+
+78
+00:01:57,030 --> 00:01:57,040
+the more that connection has been
+ 
+
+79
+00:01:57,040 --> 00:02:00,230
+the more that connection has been
+studied.
+
+80
+00:02:00,230 --> 00:02:00,240
+
+ 
+
+81
+00:02:00,240 --> 00:02:02,310
+
+So you see that some of the treatments
+
+82
+00:02:02,310 --> 00:02:02,320
+So you see that some of the treatments
+ 
+
+83
+00:02:02,320 --> 00:02:05,109
+So you see that some of the treatments
+were uh immediately or were directly
+
+84
+00:02:05,109 --> 00:02:05,119
+were uh immediately or were directly
+ 
+
+85
+00:02:05,119 --> 00:02:07,830
+were uh immediately or were directly
+compared to each other.
+
+86
+00:02:07,830 --> 00:02:07,840
+compared to each other.
+ 
+
+87
+00:02:07,840 --> 00:02:10,869
+compared to each other.
+But uh most of the treatments are
+
+88
+00:02:10,869 --> 00:02:10,879
+But uh most of the treatments are
+ 
+
+89
+00:02:10,879 --> 00:02:14,869
+But uh most of the treatments are
+compared to placebo condition or a usual
+
+90
+00:02:14,869 --> 00:02:14,879
+compared to placebo condition or a usual
+ 
+
+91
+00:02:14,879 --> 00:02:19,270
+compared to placebo condition or a usual
+care uh condition.
+
+92
+00:02:19,270 --> 00:02:19,280
+
+ 
+
+93
+00:02:19,280 --> 00:02:21,110
+
+Note that not all treatments are
+
+94
+00:02:21,110 --> 00:02:21,120
+Note that not all treatments are
+ 
+
+95
+00:02:21,120 --> 00:02:25,350
+Note that not all treatments are
+immediately compared to each other.
+
+96
+00:02:25,350 --> 00:02:25,360
+immediately compared to each other.
+ 
+
+97
+00:02:25,360 --> 00:02:29,589
+immediately compared to each other.
+It is indeed very often the case that
+
+98
+00:02:29,589 --> 00:02:29,599
+It is indeed very often the case that
+ 
+
+99
+00:02:29,599 --> 00:02:33,030
+It is indeed very often the case that
+um studies compare a treatment with a
+
+100
+00:02:33,030 --> 00:02:33,040
+um studies compare a treatment with a
+ 
+
+101
+00:02:33,040 --> 00:02:34,630
+um studies compare a treatment with a
+control condition or a placebo
+
+102
+00:02:34,630 --> 00:02:34,640
+control condition or a placebo
+ 
+
+103
+00:02:34,640 --> 00:02:36,869
+control condition or a placebo
+condition. And this can make that if we
+
+104
+00:02:36,869 --> 00:02:36,879
+condition. And this can make that if we
+ 
+
+105
+00:02:36,879 --> 00:02:39,110
+condition. And this can make that if we
+make a similar plot which is called a
+
+106
+00:02:39,110 --> 00:02:39,120
+make a similar plot which is called a
+ 
+
+107
+00:02:39,120 --> 00:02:42,150
+make a similar plot which is called a
+network graph that we get a pattern like
+
+108
+00:02:42,150 --> 00:02:42,160
+network graph that we get a pattern like
+ 
+
+109
+00:02:42,160 --> 00:02:46,229
+network graph that we get a pattern like
+the right hand side uh graph which is
+
+110
+00:02:46,229 --> 00:02:46,239
+the right hand side uh graph which is
+ 
+
+111
+00:02:46,239 --> 00:02:50,550
+the right hand side uh graph which is
+called a starshaped network graph.
+
+112
+00:02:50,550 --> 00:02:50,560
+called a starshaped network graph.
+ 
+
+113
+00:02:50,560 --> 00:02:52,229
+called a starshaped network graph.
+In this graph you can see that there are
+
+114
+00:02:52,229 --> 00:02:52,239
+In this graph you can see that there are
+ 
+
+115
+00:02:52,239 --> 00:02:54,790
+In this graph you can see that there are
+multiple treatments but all of these
+
+116
+00:02:54,790 --> 00:02:54,800
+multiple treatments but all of these
+ 
+
+117
+00:02:54,800 --> 00:02:58,070
+multiple treatments but all of these
+treatments are compared to one control
+
+118
+00:02:58,070 --> 00:02:58,080
+treatments are compared to one control
+ 
+
+119
+00:02:58,080 --> 00:03:02,070
+treatments are compared to one control
+condition only. So the treatments are
+
+120
+00:03:02,070 --> 00:03:02,080
+condition only. So the treatments are
+ 
+
+121
+00:03:02,080 --> 00:03:08,949
+condition only. So the treatments are
+never compared directly with each other.
+
+122
+00:03:08,949 --> 00:03:08,959
+
+ 
+
+123
+00:03:08,959 --> 00:03:11,830
+
+These types of data can be combined in a
+
+124
+00:03:11,830 --> 00:03:11,840
+These types of data can be combined in a
+ 
+
+125
+00:03:11,840 --> 00:03:13,990
+These types of data can be combined in a
+network meta analysis.
+
+126
+00:03:13,990 --> 00:03:14,000
+network meta analysis.
+ 
+
+127
+00:03:14,000 --> 00:03:16,229
+network meta analysis.
+So in a network meta analysis we can
+
+128
+00:03:16,229 --> 00:03:16,239
+So in a network meta analysis we can
+ 
+
+129
+00:03:16,239 --> 00:03:18,949
+So in a network meta analysis we can
+combine the results of multiple studies
+
+130
+00:03:18,949 --> 00:03:18,959
+combine the results of multiple studies
+ 
+
+131
+00:03:18,959 --> 00:03:22,149
+combine the results of multiple studies
+that not necessarily uh studied the same
+
+132
+00:03:22,149 --> 00:03:22,159
+that not necessarily uh studied the same
+ 
+
+133
+00:03:22,159 --> 00:03:23,750
+that not necessarily uh studied the same
+treatment.
+
+134
+00:03:23,750 --> 00:03:23,760
+treatment.
+ 
+
+135
+00:03:23,760 --> 00:03:26,229
+treatment.
+So in total multiple treatments are
+
+136
+00:03:26,229 --> 00:03:26,239
+So in total multiple treatments are
+ 
+
+137
+00:03:26,239 --> 00:03:27,750
+So in total multiple treatments are
+analyzed
+
+138
+00:03:27,750 --> 00:03:27,760
+analyzed
+ 
+
+139
+00:03:27,760 --> 00:03:32,149
+analyzed
+possibly um within a primary study also
+
+140
+00:03:32,149 --> 00:03:32,159
+possibly um within a primary study also
+ 
+
+141
+00:03:32,159 --> 00:03:36,630
+possibly um within a primary study also
+multiple treatments can be studied.
+
+142
+00:03:36,630 --> 00:03:36,640
+
+ 
+
+143
+00:03:36,640 --> 00:03:38,229
+
+interesting in section network meta
+
+144
+00:03:38,229 --> 00:03:38,239
+interesting in section network meta
+ 
+
+145
+00:03:38,239 --> 00:03:41,270
+interesting in section network meta
+analysis is that based on the results we
+
+146
+00:03:41,270 --> 00:03:41,280
+analysis is that based on the results we
+ 
+
+147
+00:03:41,280 --> 00:03:43,509
+analysis is that based on the results we
+can rank the treatments from more
+
+148
+00:03:43,509 --> 00:03:43,519
+can rank the treatments from more
+ 
+
+149
+00:03:43,519 --> 00:03:46,550
+can rank the treatments from more
+effective to less effective. And so in
+
+150
+00:03:46,550 --> 00:03:46,560
+effective to less effective. And so in
+ 
+
+151
+00:03:46,560 --> 00:03:49,990
+effective to less effective. And so in
+that way we can compare treatments
+
+152
+00:03:49,990 --> 00:03:50,000
+that way we can compare treatments
+ 
+
+153
+00:03:50,000 --> 00:03:52,470
+that way we can compare treatments
+even if these treatments were not or
+
+154
+00:03:52,470 --> 00:03:52,480
+even if these treatments were not or
+ 
+
+155
+00:03:52,480 --> 00:03:56,070
+even if these treatments were not or
+were never uh studied uh or compared
+
+156
+00:03:56,070 --> 00:03:56,080
+were never uh studied uh or compared
+ 
+
+157
+00:03:56,080 --> 00:03:59,190
+were never uh studied uh or compared
+directly in primary studies. So if you
+
+158
+00:03:59,190 --> 00:03:59,200
+directly in primary studies. So if you
+ 
+
+159
+00:03:59,200 --> 00:04:01,190
+directly in primary studies. So if you
+have a starshaped
+
+160
+00:04:01,190 --> 00:04:01,200
+have a starshaped
+ 
+
+161
+00:04:01,200 --> 00:04:04,710
+have a starshaped
+uh network plot even in that situation
+
+162
+00:04:04,710 --> 00:04:04,720
+uh network plot even in that situation
+ 
+
+163
+00:04:04,720 --> 00:04:08,149
+uh network plot even in that situation
+you can rank as um treatments from less
+
+164
+00:04:08,149 --> 00:04:08,159
+you can rank as um treatments from less
+ 
+
+165
+00:04:08,159 --> 00:04:10,949
+you can rank as um treatments from less
+to more effective.
+
+166
+00:04:10,949 --> 00:04:10,959
+to more effective.
+ 
+
+167
+00:04:10,959 --> 00:04:13,990
+to more effective.
+How does it work? Well suppose that in
+
+168
+00:04:13,990 --> 00:04:14,000
+How does it work? Well suppose that in
+ 
+
+169
+00:04:14,000 --> 00:04:16,629
+How does it work? Well suppose that in
+one study treatment A has been compared
+
+170
+00:04:16,629 --> 00:04:16,639
+one study treatment A has been compared
+ 
+
+171
+00:04:16,639 --> 00:04:19,590
+one study treatment A has been compared
+to treatment B and suppose the
+
+172
+00:04:19,590 --> 00:04:19,600
+to treatment B and suppose the
+ 
+
+173
+00:04:19,600 --> 00:04:22,550
+to treatment B and suppose the
+standardized mean difference is 04. So
+
+174
+00:04:22,550 --> 00:04:22,560
+standardized mean difference is 04. So
+ 
+
+175
+00:04:22,560 --> 00:04:26,710
+standardized mean difference is 04. So
+this means that treatment A looks more
+
+176
+00:04:26,710 --> 00:04:26,720
+this means that treatment A looks more
+ 
+
+177
+00:04:26,720 --> 00:04:29,990
+this means that treatment A looks more
+effective than treatment B.
+
+178
+00:04:29,990 --> 00:04:30,000
+effective than treatment B.
+ 
+
+179
+00:04:30,000 --> 00:04:32,710
+effective than treatment B.
+In another study, treatment B was
+
+180
+00:04:32,710 --> 00:04:32,720
+In another study, treatment B was
+ 
+
+181
+00:04:32,720 --> 00:04:35,189
+In another study, treatment B was
+compared to treatment C
+
+182
+00:04:35,189 --> 00:04:35,199
+compared to treatment C
+ 
+
+183
+00:04:35,199 --> 00:04:36,950
+compared to treatment C
+and the observed standardized mean
+
+184
+00:04:36,950 --> 00:04:36,960
+and the observed standardized mean
+ 
+
+185
+00:04:36,960 --> 00:04:39,749
+and the observed standardized mean
+difference was uh 0.3
+
+186
+00:04:39,749 --> 00:04:39,759
+difference was uh 0.3
+ 
+
+187
+00:04:39,759 --> 00:04:42,310
+difference was uh 0.3
+which means that treatment B was found
+
+188
+00:04:42,310 --> 00:04:42,320
+which means that treatment B was found
+ 
+
+189
+00:04:42,320 --> 00:04:46,150
+which means that treatment B was found
+more effective than treatment C.
+
+190
+00:04:46,150 --> 00:04:46,160
+more effective than treatment C.
+ 
+
+191
+00:04:46,160 --> 00:04:49,350
+more effective than treatment C.
+So the uh the network graph would look
+
+192
+00:04:49,350 --> 00:04:49,360
+So the uh the network graph would look
+ 
+
+193
+00:04:49,360 --> 00:04:52,550
+So the uh the network graph would look
+like this. So you have a treatment B
+
+194
+00:04:52,550 --> 00:04:52,560
+like this. So you have a treatment B
+ 
+
+195
+00:04:52,560 --> 00:04:55,670
+like this. So you have a treatment B
+that has been compared to treatment A as
+
+196
+00:04:55,670 --> 00:04:55,680
+that has been compared to treatment A as
+ 
+
+197
+00:04:55,680 --> 00:04:59,110
+that has been compared to treatment A as
+well as to treatment C. But A and C
+
+198
+00:04:59,110 --> 00:04:59,120
+well as to treatment C. But A and C
+ 
+
+199
+00:04:59,120 --> 00:05:02,150
+well as to treatment C. But A and C
+never have has been or have been
+
+200
+00:05:02,150 --> 00:05:02,160
+never have has been or have been
+ 
+
+201
+00:05:02,160 --> 00:05:05,430
+never have has been or have been
+compared directly. But still if you know
+
+202
+00:05:05,430 --> 00:05:05,440
+compared directly. But still if you know
+ 
+
+203
+00:05:05,440 --> 00:05:07,350
+compared directly. But still if you know
+that treatment A was more effective than
+
+204
+00:05:07,350 --> 00:05:07,360
+that treatment A was more effective than
+ 
+
+205
+00:05:07,360 --> 00:05:09,670
+that treatment A was more effective than
+treatment B and B is more effective than
+
+206
+00:05:09,670 --> 00:05:09,680
+treatment B and B is more effective than
+ 
+
+207
+00:05:09,680 --> 00:05:12,550
+treatment B and B is more effective than
+treatment C then you can assume that
+
+208
+00:05:12,550 --> 00:05:12,560
+treatment C then you can assume that
+ 
+
+209
+00:05:12,560 --> 00:05:14,950
+treatment C then you can assume that
+treatment A will be more effective than
+
+210
+00:05:14,950 --> 00:05:14,960
+treatment A will be more effective than
+ 
+
+211
+00:05:14,960 --> 00:05:21,510
+treatment A will be more effective than
+treatment C.
+
+212
+00:05:21,510 --> 00:05:21,520
+
+ 
+
+213
+00:05:21,520 --> 00:05:24,150
+
+So the difference between A and B is
+
+214
+00:05:24,150 --> 00:05:24,160
+So the difference between A and B is
+ 
+
+215
+00:05:24,160 --> 00:05:25,670
+So the difference between A and B is
+0.4.
+
+216
+00:05:25,670 --> 00:05:25,680
+0.4.
+ 
+
+217
+00:05:25,680 --> 00:05:28,710
+0.4.
+A is more effective than B. The
+
+218
+00:05:28,710 --> 00:05:28,720
+A is more effective than B. The
+ 
+
+219
+00:05:28,720 --> 00:05:32,629
+A is more effective than B. The
+standardized mean difference is 04.
+
+220
+00:05:32,629 --> 00:05:32,639
+standardized mean difference is 04.
+ 
+
+221
+00:05:32,639 --> 00:05:34,790
+standardized mean difference is 04.
+Standardized mean difference between uh
+
+222
+00:05:34,790 --> 00:05:34,800
+Standardized mean difference between uh
+ 
+
+223
+00:05:34,800 --> 00:05:38,310
+Standardized mean difference between uh
+treatment C and B is.3.
+
+224
+00:05:38,310 --> 00:05:38,320
+treatment C and B is.3.
+ 
+
+225
+00:05:38,320 --> 00:05:39,510
+treatment C and B is.3.
+So that means that the difference
+
+226
+00:05:39,510 --> 00:05:39,520
+So that means that the difference
+ 
+
+227
+00:05:39,520 --> 00:05:42,629
+So that means that the difference
+between C and A is.7
+
+228
+00:05:42,629 --> 00:05:42,639
+between C and A is.7
+ 
+
+229
+00:05:42,639 --> 00:05:45,270
+between C and A is.7
+or the estimated difference between C
+
+230
+00:05:45,270 --> 00:05:45,280
+or the estimated difference between C
+ 
+
+231
+00:05:45,280 --> 00:05:48,070
+or the estimated difference between C
+and A is.7.
+
+232
+00:05:48,070 --> 00:05:48,080
+and A is.7.
+ 
+
+233
+00:05:48,080 --> 00:05:50,150
+and A is.7.
+So the difference between the means
+
+234
+00:05:50,150 --> 00:05:50,160
+So the difference between the means
+ 
+
+235
+00:05:50,160 --> 00:05:52,790
+So the difference between the means
+standardized by standard deviation is
+
+236
+00:05:52,790 --> 00:05:52,800
+standardized by standard deviation is
+ 
+
+237
+00:05:52,800 --> 00:05:56,710
+standardized by standard deviation is
+equal to.7.
+
+238
+00:05:56,710 --> 00:05:56,720
+
+ 
+
+239
+00:05:56,720 --> 00:05:59,749
+
+So you see that although
+
+240
+00:05:59,749 --> 00:05:59,759
+So you see that although
+ 
+
+241
+00:05:59,759 --> 00:06:02,390
+So you see that although
+uh treatment A and C never has been
+
+242
+00:06:02,390 --> 00:06:02,400
+uh treatment A and C never has been
+ 
+
+243
+00:06:02,400 --> 00:06:06,230
+uh treatment A and C never has been
+studied or compared directly based on
+
+244
+00:06:06,230 --> 00:06:06,240
+studied or compared directly based on
+ 
+
+245
+00:06:06,240 --> 00:06:08,150
+studied or compared directly based on
+the results of these studies, we can
+
+246
+00:06:08,150 --> 00:06:08,160
+the results of these studies, we can
+ 
+
+247
+00:06:08,160 --> 00:06:10,710
+the results of these studies, we can
+give an estimate of the standardized
+
+248
+00:06:10,710 --> 00:06:10,720
+give an estimate of the standardized
+ 
+
+249
+00:06:10,720 --> 00:06:12,950
+give an estimate of the standardized
+mean difference or the the treatment
+
+250
+00:06:12,950 --> 00:06:12,960
+mean difference or the the treatment
+ 
+
+251
+00:06:12,960 --> 00:06:16,230
+mean difference or the the treatment
+effectiveness. Um
+
+252
+00:06:16,230 --> 00:06:16,240
+effectiveness. Um
+ 
+
+253
+00:06:16,240 --> 00:06:17,430
+effectiveness. Um
+we can compare the treatment
+
+254
+00:06:17,430 --> 00:06:17,440
+we can compare the treatment
+ 
+
+255
+00:06:17,440 --> 00:06:20,469
+we can compare the treatment
+effectiveness of both treatments. Um at
+
+256
+00:06:20,469 --> 00:06:20,479
+effectiveness of both treatments. Um at
+ 
+
+257
+00:06:20,479 --> 00:06:23,270
+effectiveness of both treatments. Um at
+least of course we have to make an
+
+258
+00:06:23,270 --> 00:06:23,280
+least of course we have to make an
+ 
+
+259
+00:06:23,280 --> 00:06:24,950
+least of course we have to make an
+assumption. we make the assumption of
+
+260
+00:06:24,950 --> 00:06:24,960
+assumption. we make the assumption of
+ 
+
+261
+00:06:24,960 --> 00:06:28,550
+assumption. we make the assumption of
+transitivity. So that if A is more
+
+262
+00:06:28,550 --> 00:06:28,560
+transitivity. So that if A is more
+ 
+
+263
+00:06:28,560 --> 00:06:30,629
+transitivity. So that if A is more
+effective than B, B is more effective
+
+264
+00:06:30,629 --> 00:06:30,639
+effective than B, B is more effective
+ 
+
+265
+00:06:30,639 --> 00:06:32,950
+effective than B, B is more effective
+than C, then we conclude that A is also
+
+266
+00:06:32,950 --> 00:06:32,960
+than C, then we conclude that A is also
+ 
+
+267
+00:06:32,960 --> 00:06:35,670
+than C, then we conclude that A is also
+more effective than C.
+
+268
+00:06:35,670 --> 00:06:35,680
+more effective than C.
+ 
+
+269
+00:06:35,680 --> 00:06:37,510
+more effective than C.
+And more specifically, the standardized
+
+270
+00:06:37,510 --> 00:06:37,520
+And more specifically, the standardized
+ 
+
+271
+00:06:37,520 --> 00:06:39,909
+And more specifically, the standardized
+mean difference between A and C is equal
+
+272
+00:06:39,909 --> 00:06:39,919
+mean difference between A and C is equal
+ 
+
+273
+00:06:39,919 --> 00:06:41,270
+mean difference between A and C is equal
+to the standardized mean difference
+
+274
+00:06:41,270 --> 00:06:41,280
+to the standardized mean difference
+ 
+
+275
+00:06:41,280 --> 00:06:43,590
+to the standardized mean difference
+between A and B plus the standardized
+
+276
+00:06:43,590 --> 00:06:43,600
+between A and B plus the standardized
+ 
+
+277
+00:06:43,600 --> 00:06:48,390
+between A and B plus the standardized
+mean difference between B and C.
+
+278
+00:06:48,390 --> 00:06:48,400
+mean difference between B and C.
+ 
+
+279
+00:06:48,400 --> 00:06:50,629
+mean difference between B and C.
+If we have two independent studies, so
+
+280
+00:06:50,629 --> 00:06:50,639
+If we have two independent studies, so
+ 
+
+281
+00:06:50,639 --> 00:06:52,710
+If we have two independent studies, so
+then the observed effect sizes are also
+
+282
+00:06:52,710 --> 00:06:52,720
+then the observed effect sizes are also
+ 
+
+283
+00:06:52,720 --> 00:06:55,270
+then the observed effect sizes are also
+independent of each other. And therefore
+
+284
+00:06:55,270 --> 00:06:55,280
+independent of each other. And therefore
+ 
+
+285
+00:06:55,280 --> 00:06:58,070
+independent of each other. And therefore
+the variance of the sum of the two
+
+286
+00:06:58,070 --> 00:06:58,080
+the variance of the sum of the two
+ 
+
+287
+00:06:58,080 --> 00:07:00,390
+the variance of the sum of the two
+standardized mean differences is equal
+
+288
+00:07:00,390 --> 00:07:00,400
+standardized mean differences is equal
+ 
+
+289
+00:07:00,400 --> 00:07:04,469
+standardized mean differences is equal
+to the sum of the two variances.
+
+290
+00:07:04,469 --> 00:07:04,479
+to the sum of the two variances.
+ 
+
+291
+00:07:04,479 --> 00:07:06,469
+to the sum of the two variances.
+We have seen how we can calculate the
+
+292
+00:07:06,469 --> 00:07:06,479
+We have seen how we can calculate the
+ 
+
+293
+00:07:06,479 --> 00:07:08,950
+We have seen how we can calculate the
+the sampling variance of a standardized
+
+294
+00:07:08,950 --> 00:07:08,960
+the sampling variance of a standardized
+ 
+
+295
+00:07:08,960 --> 00:07:11,029
+the sampling variance of a standardized
+mean difference. So based on that
+
+296
+00:07:11,029 --> 00:07:11,039
+mean difference. So based on that
+ 
+
+297
+00:07:11,039 --> 00:07:13,830
+mean difference. So based on that
+formula we can also calculate the
+
+298
+00:07:13,830 --> 00:07:13,840
+formula we can also calculate the
+ 
+
+299
+00:07:13,840 --> 00:07:16,309
+formula we can also calculate the
+variance of the sum of these two
+
+300
+00:07:16,309 --> 00:07:16,319
+variance of the sum of these two
+ 
+
+301
+00:07:16,319 --> 00:07:21,830
+variance of the sum of these two
+observed effect sizes.
+
+302
+00:07:21,830 --> 00:07:21,840
+
+ 
+
+303
+00:07:21,840 --> 00:07:27,189
+
+So we call this indirect evidence.
+
+304
+00:07:27,189 --> 00:07:27,199
+
+ 
+
+305
+00:07:27,199 --> 00:07:30,150
+
+But sometimes there are also studies
+
+306
+00:07:30,150 --> 00:07:30,160
+But sometimes there are also studies
+ 
+
+307
+00:07:30,160 --> 00:07:32,550
+But sometimes there are also studies
+available that directly compare
+
+308
+00:07:32,550 --> 00:07:32,560
+available that directly compare
+ 
+
+309
+00:07:32,560 --> 00:07:36,070
+available that directly compare
+treatment A and C. And so now we have a
+
+310
+00:07:36,070 --> 00:07:36,080
+treatment A and C. And so now we have a
+ 
+
+311
+00:07:36,080 --> 00:07:37,670
+treatment A and C. And so now we have a
+closed
+
+312
+00:07:37,670 --> 00:07:37,680
+closed
+ 
+
+313
+00:07:37,680 --> 00:07:42,870
+closed
+um closed loop. So A is connected to B,
+
+314
+00:07:42,870 --> 00:07:42,880
+um closed loop. So A is connected to B,
+ 
+
+315
+00:07:42,880 --> 00:07:45,990
+um closed loop. So A is connected to B,
+B with C, but also A is connected with
+
+316
+00:07:45,990 --> 00:07:46,000
+B with C, but also A is connected with
+ 
+
+317
+00:07:46,000 --> 00:07:48,629
+B with C, but also A is connected with
+C.
+
+318
+00:07:48,629 --> 00:07:48,639
+C.
+ 
+
+319
+00:07:48,639 --> 00:07:50,870
+C.
+In this situation,
+
+320
+00:07:50,870 --> 00:07:50,880
+In this situation,
+ 
+
+321
+00:07:50,880 --> 00:07:53,990
+In this situation,
+we have two kinds of evidence. We have
+
+322
+00:07:53,990 --> 00:07:54,000
+we have two kinds of evidence. We have
+ 
+
+323
+00:07:54,000 --> 00:07:58,390
+we have two kinds of evidence. We have
+the indirect comparison of A and C uh by
+
+324
+00:07:58,390 --> 00:07:58,400
+the indirect comparison of A and C uh by
+ 
+
+325
+00:07:58,400 --> 00:08:00,309
+the indirect comparison of A and C uh by
+combining the results of study one and
+
+326
+00:08:00,309 --> 00:08:00,319
+combining the results of study one and
+ 
+
+327
+00:08:00,319 --> 00:08:03,990
+combining the results of study one and
+two. But we have also direct evidence uh
+
+328
+00:08:03,990 --> 00:08:04,000
+two. But we have also direct evidence uh
+ 
+
+329
+00:08:04,000 --> 00:08:09,270
+two. But we have also direct evidence uh
+by looking at results of study three.
+
+330
+00:08:09,270 --> 00:08:09,280
+by looking at results of study three.
+ 
+
+331
+00:08:09,280 --> 00:08:11,990
+by looking at results of study three.
+And so in the network meta analysis we
+
+332
+00:08:11,990 --> 00:08:12,000
+And so in the network meta analysis we
+ 
+
+333
+00:08:12,000 --> 00:08:14,629
+And so in the network meta analysis we
+can combine the two types of evidence
+
+334
+00:08:14,629 --> 00:08:14,639
+can combine the two types of evidence
+ 
+
+335
+00:08:14,639 --> 00:08:20,150
+can combine the two types of evidence
+direct and indirect evidence.
+
+336
+00:08:20,150 --> 00:08:20,160
+
+ 
+
+337
+00:08:20,160 --> 00:08:25,749
+
+Why is this a good idea? Well,
+
+338
+00:08:25,749 --> 00:08:25,759
+
+ 
+
+339
+00:08:25,759 --> 00:08:29,029
+
+if we would only look direct evidence
+
+340
+00:08:29,029 --> 00:08:29,039
+if we would only look direct evidence
+ 
+
+341
+00:08:29,039 --> 00:08:32,149
+if we would only look direct evidence
+to say something about uh A versus C,
+
+342
+00:08:32,149 --> 00:08:32,159
+to say something about uh A versus C,
+ 
+
+343
+00:08:32,159 --> 00:08:34,389
+to say something about uh A versus C,
+then we could use only the data from
+
+344
+00:08:34,389 --> 00:08:34,399
+then we could use only the data from
+ 
+
+345
+00:08:34,399 --> 00:08:36,630
+then we could use only the data from
+study three.
+
+346
+00:08:36,630 --> 00:08:36,640
+study three.
+ 
+
+347
+00:08:36,640 --> 00:08:39,589
+study three.
+If we also use the indirect evidence,
+
+348
+00:08:39,589 --> 00:08:39,599
+If we also use the indirect evidence,
+ 
+
+349
+00:08:39,599 --> 00:08:42,550
+If we also use the indirect evidence,
+then we also use data or evidence from
+
+350
+00:08:42,550 --> 00:08:42,560
+then we also use data or evidence from
+ 
+
+351
+00:08:42,560 --> 00:08:45,829
+then we also use data or evidence from
+study one and study two. So, by
+
+352
+00:08:45,829 --> 00:08:45,839
+study one and study two. So, by
+ 
+
+353
+00:08:45,839 --> 00:08:48,230
+study one and study two. So, by
+combining the direct and the indirect
+
+354
+00:08:48,230 --> 00:08:48,240
+combining the direct and the indirect
+ 
+
+355
+00:08:48,240 --> 00:08:52,630
+combining the direct and the indirect
+evidence, we use more data. As a result,
+
+356
+00:08:52,630 --> 00:08:52,640
+evidence, we use more data. As a result,
+ 
+
+357
+00:08:52,640 --> 00:08:56,070
+evidence, we use more data. As a result,
+the precision of the estimate of the
+
+358
+00:08:56,070 --> 00:08:56,080
+the precision of the estimate of the
+ 
+
+359
+00:08:56,080 --> 00:08:58,870
+the precision of the estimate of the
+effect or the difference between A and C
+
+360
+00:08:58,870 --> 00:08:58,880
+effect or the difference between A and C
+ 
+
+361
+00:08:58,880 --> 00:09:02,230
+effect or the difference between A and C
+will be higher. So the standard error
+
+362
+00:09:02,230 --> 00:09:02,240
+will be higher. So the standard error
+ 
+
+363
+00:09:02,240 --> 00:09:05,030
+will be higher. So the standard error
+will be smaller. So the confidence
+
+364
+00:09:05,030 --> 00:09:05,040
+will be smaller. So the confidence
+ 
+
+365
+00:09:05,040 --> 00:09:07,030
+will be smaller. So the confidence
+interval will be smaller and the
+
+366
+00:09:07,030 --> 00:09:07,040
+interval will be smaller and the
+ 
+
+367
+00:09:07,040 --> 00:09:10,710
+interval will be smaller and the
+statistical power will be higher.
+
+368
+00:09:10,710 --> 00:09:10,720
+statistical power will be higher.
+ 
+
+369
+00:09:10,720 --> 00:09:13,590
+statistical power will be higher.
+A second advantage of using indirect
+
+370
+00:09:13,590 --> 00:09:13,600
+A second advantage of using indirect
+ 
+
+371
+00:09:13,600 --> 00:09:18,070
+A second advantage of using indirect
+evidence as well is that in this way we
+
+372
+00:09:18,070 --> 00:09:18,080
+evidence as well is that in this way we
+ 
+
+373
+00:09:18,080 --> 00:09:20,389
+evidence as well is that in this way we
+can also compare treatments that have
+
+374
+00:09:20,389 --> 00:09:20,399
+can also compare treatments that have
+ 
+
+375
+00:09:20,399 --> 00:09:22,790
+can also compare treatments that have
+not been compared before in a direct
+
+376
+00:09:22,790 --> 00:09:22,800
+not been compared before in a direct
+ 
+
+377
+00:09:22,800 --> 00:09:26,389
+not been compared before in a direct
+way. So look again at the graph uh on
+
+378
+00:09:26,389 --> 00:09:26,399
+way. So look again at the graph uh on
+ 
+
+379
+00:09:26,399 --> 00:09:29,910
+way. So look again at the graph uh on
+this plot on on this slide. You can see
+
+380
+00:09:29,910 --> 00:09:29,920
+this plot on on this slide. You can see
+ 
+
+381
+00:09:29,920 --> 00:09:33,190
+this plot on on this slide. You can see
+that yeah a lot of treatments have been
+
+382
+00:09:33,190 --> 00:09:33,200
+that yeah a lot of treatments have been
+ 
+
+383
+00:09:33,200 --> 00:09:35,990
+that yeah a lot of treatments have been
+compared to a no treatment condition or
+
+384
+00:09:35,990 --> 00:09:36,000
+compared to a no treatment condition or
+ 
+
+385
+00:09:36,000 --> 00:09:39,990
+compared to a no treatment condition or
+to an alarm condition but
+
+386
+00:09:39,990 --> 00:09:40,000
+to an alarm condition but
+ 
+
+387
+00:09:40,000 --> 00:09:43,190
+to an alarm condition but
+uh now not a lot of pairs of treatments
+
+388
+00:09:43,190 --> 00:09:43,200
+uh now not a lot of pairs of treatments
+ 
+
+389
+00:09:43,200 --> 00:09:46,230
+uh now not a lot of pairs of treatments
+have been compared directly. So if you
+
+390
+00:09:46,230 --> 00:09:46,240
+have been compared directly. So if you
+ 
+
+391
+00:09:46,240 --> 00:09:48,870
+have been compared directly. So if you
+want to say something about whether
+
+392
+00:09:48,870 --> 00:09:48,880
+want to say something about whether
+ 
+
+393
+00:09:48,880 --> 00:09:53,190
+want to say something about whether
+psychological therapy or the use of uh
+
+394
+00:09:53,190 --> 00:09:53,200
+psychological therapy or the use of uh
+ 
+
+395
+00:09:53,200 --> 00:09:57,030
+psychological therapy or the use of uh
+the medication immina,
+
+396
+00:09:57,030 --> 00:09:57,040
+the medication immina,
+ 
+
+397
+00:09:57,040 --> 00:09:59,829
+the medication immina,
+which of the two treatments of um
+
+398
+00:09:59,829 --> 00:09:59,839
+which of the two treatments of um
+ 
+
+399
+00:09:59,839 --> 00:10:04,070
+which of the two treatments of um
+noctural and uras is more effective? We
+
+400
+00:10:04,070 --> 00:10:04,080
+noctural and uras is more effective? We
+ 
+
+401
+00:10:04,080 --> 00:10:13,110
+noctural and uras is more effective? We
+only can use indirect evidence
+
+402
+00:10:13,110 --> 00:10:13,120
+
+ 
+
+403
+00:10:13,120 --> 00:10:16,870
+
+now. So if we have an open network
+
+404
+00:10:16,870 --> 00:10:16,880
+now. So if we have an open network
+ 
+
+405
+00:10:16,880 --> 00:10:19,990
+now. So if we have an open network
+like in the plot here, we can use the
+
+406
+00:10:19,990 --> 00:10:20,000
+like in the plot here, we can use the
+ 
+
+407
+00:10:20,000 --> 00:10:24,470
+like in the plot here, we can use the
+results of a meta analysis on AB studies
+
+408
+00:10:24,470 --> 00:10:24,480
+results of a meta analysis on AB studies
+ 
+
+409
+00:10:24,480 --> 00:10:27,509
+results of a meta analysis on AB studies
+and a meta analysis of BC studies to
+
+410
+00:10:27,509 --> 00:10:27,519
+and a meta analysis of BC studies to
+ 
+
+411
+00:10:27,519 --> 00:10:30,710
+and a meta analysis of BC studies to
+obtain an indirect evidence of A versus
+
+412
+00:10:30,710 --> 00:10:30,720
+obtain an indirect evidence of A versus
+ 
+
+413
+00:10:30,720 --> 00:10:33,670
+obtain an indirect evidence of A versus
+C.
+
+414
+00:10:33,670 --> 00:10:33,680
+C.
+ 
+
+415
+00:10:33,680 --> 00:10:36,550
+C.
+Sometimes we have closed networks. So we
+
+416
+00:10:36,550 --> 00:10:36,560
+Sometimes we have closed networks. So we
+ 
+
+417
+00:10:36,560 --> 00:10:39,910
+Sometimes we have closed networks. So we
+do not have only indirect evidence but
+
+418
+00:10:39,910 --> 00:10:39,920
+do not have only indirect evidence but
+ 
+
+419
+00:10:39,920 --> 00:10:43,430
+do not have only indirect evidence but
+we also have direct evidence.
+
+420
+00:10:43,430 --> 00:10:43,440
+we also have direct evidence.
+ 
+
+421
+00:10:43,440 --> 00:10:46,069
+we also have direct evidence.
+So we can calculate a weighted average
+
+422
+00:10:46,069 --> 00:10:46,079
+So we can calculate a weighted average
+ 
+
+423
+00:10:46,079 --> 00:10:48,790
+So we can calculate a weighted average
+of the indirect estimate
+
+424
+00:10:48,790 --> 00:10:48,800
+of the indirect estimate
+ 
+
+425
+00:10:48,800 --> 00:10:50,310
+of the indirect estimate
+from
+
+426
+00:10:50,310 --> 00:10:50,320
+from
+ 
+
+427
+00:10:50,320 --> 00:10:53,269
+from
+um yeah comparing the results of the uh
+
+428
+00:10:53,269 --> 00:10:53,279
+um yeah comparing the results of the uh
+ 
+
+429
+00:10:53,279 --> 00:10:55,350
+um yeah comparing the results of the uh
+meta analysis of AB studies and the meta
+
+430
+00:10:55,350 --> 00:10:55,360
+meta analysis of AB studies and the meta
+ 
+
+431
+00:10:55,360 --> 00:10:58,470
+meta analysis of AB studies and the meta
+analysis of BC studies. We can compare
+
+432
+00:10:58,470 --> 00:10:58,480
+analysis of BC studies. We can compare
+ 
+
+433
+00:10:58,480 --> 00:11:02,389
+analysis of BC studies. We can compare
+or we can combine that uh result with
+
+434
+00:11:02,389 --> 00:11:02,399
+or we can combine that uh result with
+ 
+
+435
+00:11:02,399 --> 00:11:04,790
+or we can combine that uh result with
+direct estimates from a meta analysis of
+
+436
+00:11:04,790 --> 00:11:04,800
+direct estimates from a meta analysis of
+ 
+
+437
+00:11:04,800 --> 00:11:08,470
+direct estimates from a meta analysis of
+the AC studies. So in that way we get an
+
+438
+00:11:08,470 --> 00:11:08,480
+the AC studies. So in that way we get an
+ 
+
+439
+00:11:08,480 --> 00:11:11,829
+the AC studies. So in that way we get an
+estimate that is a mix of an in of
+
+440
+00:11:11,829 --> 00:11:11,839
+estimate that is a mix of an in of
+ 
+
+441
+00:11:11,839 --> 00:11:14,310
+estimate that is a mix of an in of
+indirect and direct evidence and
+
+442
+00:11:14,310 --> 00:11:14,320
+indirect and direct evidence and
+ 
+
+443
+00:11:14,320 --> 00:11:17,430
+indirect and direct evidence and
+therefore we also talk about a mixed
+
+444
+00:11:17,430 --> 00:11:17,440
+therefore we also talk about a mixed
+ 
+
+445
+00:11:17,440 --> 00:11:20,389
+therefore we also talk about a mixed
+estimate.
+
+446
+00:11:20,389 --> 00:11:20,399
+estimate.
+ 
+
+447
+00:11:20,399 --> 00:11:23,990
+estimate.
+Note that in the two cases we make the
+
+448
+00:11:23,990 --> 00:11:24,000
+Note that in the two cases we make the
+ 
+
+449
+00:11:24,000 --> 00:11:26,310
+Note that in the two cases we make the
+assumption of transitivity.
+
+450
+00:11:26,310 --> 00:11:26,320
+assumption of transitivity.
+ 
+
+451
+00:11:26,320 --> 00:11:28,870
+assumption of transitivity.
+Without that assumption of transitivity,
+
+452
+00:11:28,870 --> 00:11:28,880
+Without that assumption of transitivity,
+ 
+
+453
+00:11:28,880 --> 00:11:34,150
+Without that assumption of transitivity,
+we cannot uh obtain an indirect estimate
+
+454
+00:11:34,150 --> 00:11:34,160
+we cannot uh obtain an indirect estimate
+ 
+
+455
+00:11:34,160 --> 00:11:40,150
+we cannot uh obtain an indirect estimate
+and therefore also not a mixed estimate.
+
+456
+00:11:40,150 --> 00:11:40,160
+
+ 
+
+457
+00:11:40,160 --> 00:11:43,110
+
+But does it make sense this transitivity
+
+458
+00:11:43,110 --> 00:11:43,120
+But does it make sense this transitivity
+ 
+
+459
+00:11:43,120 --> 00:11:45,750
+But does it make sense this transitivity
+assumption? Well, the answer is
+
+460
+00:11:45,750 --> 00:11:45,760
+assumption? Well, the answer is
+ 
+
+461
+00:11:45,760 --> 00:11:48,230
+assumption? Well, the answer is
+sometimes it does. In other situations
+
+462
+00:11:48,230 --> 00:11:48,240
+sometimes it does. In other situations
+ 
+
+463
+00:11:48,240 --> 00:11:51,910
+sometimes it does. In other situations
+it does not. Look at this situation or
+
+464
+00:11:51,910 --> 00:11:51,920
+it does not. Look at this situation or
+ 
+
+465
+00:11:51,920 --> 00:11:54,630
+it does not. Look at this situation or
+this example. Suppose in one specific
+
+466
+00:11:54,630 --> 00:11:54,640
+this example. Suppose in one specific
+ 
+
+467
+00:11:54,640 --> 00:11:58,630
+this example. Suppose in one specific
+study a BMW was found to be much faster
+
+468
+00:11:58,630 --> 00:11:58,640
+study a BMW was found to be much faster
+ 
+
+469
+00:11:58,640 --> 00:12:02,949
+study a BMW was found to be much faster
+than the Range Rover.
+
+470
+00:12:02,949 --> 00:12:02,959
+
+ 
+
+471
+00:12:02,959 --> 00:12:05,509
+
+In a second study it was found that the
+
+472
+00:12:05,509 --> 00:12:05,519
+In a second study it was found that the
+ 
+
+473
+00:12:05,519 --> 00:12:07,829
+In a second study it was found that the
+Range Rover is much faster than a
+
+474
+00:12:07,829 --> 00:12:07,839
+Range Rover is much faster than a
+ 
+
+475
+00:12:07,839 --> 00:12:09,750
+Range Rover is much faster than a
+Porsche.
+
+476
+00:12:09,750 --> 00:12:09,760
+Porsche.
+ 
+
+477
+00:12:09,760 --> 00:12:12,629
+Porsche.
+So can you then conclude
+
+478
+00:12:12,629 --> 00:12:12,639
+So can you then conclude
+ 
+
+479
+00:12:12,639 --> 00:12:18,150
+So can you then conclude
+that the BMW is faster than a Porsche?
+
+480
+00:12:18,150 --> 00:12:18,160
+
+ 
+
+481
+00:12:18,160 --> 00:12:20,470
+
+Well, I guess you can see that this is
+
+482
+00:12:20,470 --> 00:12:20,480
+Well, I guess you can see that this is
+ 
+
+483
+00:12:20,480 --> 00:12:22,870
+Well, I guess you can see that this is
+that this does not make sense.
+
+484
+00:12:22,870 --> 00:12:22,880
+that this does not make sense.
+ 
+
+485
+00:12:22,880 --> 00:12:25,350
+that this does not make sense.
+The issue is here that in the first
+
+486
+00:12:25,350 --> 00:12:25,360
+The issue is here that in the first
+ 
+
+487
+00:12:25,360 --> 00:12:29,430
+The issue is here that in the first
+study a very old Range Rover was used.
+
+488
+00:12:29,430 --> 00:12:29,440
+study a very old Range Rover was used.
+ 
+
+489
+00:12:29,440 --> 00:12:32,310
+study a very old Range Rover was used.
+So of course the BMW is much faster than
+
+490
+00:12:32,310 --> 00:12:32,320
+So of course the BMW is much faster than
+ 
+
+491
+00:12:32,320 --> 00:12:35,190
+So of course the BMW is much faster than
+that that Range Rover.
+
+492
+00:12:35,190 --> 00:12:35,200
+that that Range Rover.
+ 
+
+493
+00:12:35,200 --> 00:12:37,509
+that that Range Rover.
+In the second study in which the Range
+
+494
+00:12:37,509 --> 00:12:37,519
+In the second study in which the Range
+ 
+
+495
+00:12:37,519 --> 00:12:40,870
+In the second study in which the Range
+Rover was the winner, the Range Rover
+
+496
+00:12:40,870 --> 00:12:40,880
+Rover was the winner, the Range Rover
+ 
+
+497
+00:12:40,880 --> 00:12:43,990
+Rover was the winner, the Range Rover
+was a very new Range Rover and moreover
+
+498
+00:12:43,990 --> 00:12:44,000
+was a very new Range Rover and moreover
+ 
+
+499
+00:12:44,000 --> 00:12:46,949
+was a very new Range Rover and moreover
+it was tested in very muddy conditions
+
+500
+00:12:46,949 --> 00:12:46,959
+it was tested in very muddy conditions
+ 
+
+501
+00:12:46,959 --> 00:12:50,150
+it was tested in very muddy conditions
+in conditions in which a Porsche is not
+
+502
+00:12:50,150 --> 00:12:50,160
+in conditions in which a Porsche is not
+ 
+
+503
+00:12:50,160 --> 00:12:52,230
+in conditions in which a Porsche is not
+expected to perform well.
+
+504
+00:12:52,230 --> 00:12:52,240
+expected to perform well.
+ 
+
+505
+00:12:52,240 --> 00:12:54,870
+expected to perform well.
+So of course the Range Rover will win in
+
+506
+00:12:54,870 --> 00:12:54,880
+So of course the Range Rover will win in
+ 
+
+507
+00:12:54,880 --> 00:12:58,870
+So of course the Range Rover will win in
+that situation.
+
+508
+00:12:58,870 --> 00:12:58,880
+
+ 
+
+509
+00:12:58,880 --> 00:13:01,829
+
+So you can see that the it's it's yeah
+
+510
+00:13:01,829 --> 00:13:01,839
+So you can see that the it's it's yeah
+ 
+
+511
+00:13:01,839 --> 00:13:05,190
+So you can see that the it's it's yeah
+the Range Rover in the first study was
+
+512
+00:13:05,190 --> 00:13:05,200
+the Range Rover in the first study was
+ 
+
+513
+00:13:05,200 --> 00:13:06,870
+the Range Rover in the first study was
+completely different Range Rover than
+
+514
+00:13:06,870 --> 00:13:06,880
+completely different Range Rover than
+ 
+
+515
+00:13:06,880 --> 00:13:09,269
+completely different Range Rover than
+Range Rover in the second study and it
+
+516
+00:13:09,269 --> 00:13:09,279
+Range Rover in the second study and it
+ 
+
+517
+00:13:09,279 --> 00:13:11,590
+Range Rover in the second study and it
+was also tested in completely different
+
+518
+00:13:11,590 --> 00:13:11,600
+was also tested in completely different
+ 
+
+519
+00:13:11,600 --> 00:13:13,269
+was also tested in completely different
+conditions.
+
+520
+00:13:13,269 --> 00:13:13,279
+conditions.
+ 
+
+521
+00:13:13,279 --> 00:13:15,350
+conditions.
+So therefore we cannot use a
+
+522
+00:13:15,350 --> 00:13:15,360
+So therefore we cannot use a
+ 
+
+523
+00:13:15,360 --> 00:13:17,509
+So therefore we cannot use a
+transitivity assumption. We cannot
+
+524
+00:13:17,509 --> 00:13:17,519
+transitivity assumption. We cannot
+ 
+
+525
+00:13:17,519 --> 00:13:20,870
+transitivity assumption. We cannot
+predict that indeed a BMW will be much
+
+526
+00:13:20,870 --> 00:13:20,880
+predict that indeed a BMW will be much
+ 
+
+527
+00:13:20,880 --> 00:13:23,670
+predict that indeed a BMW will be much
+faster than a Porsche on a highway for
+
+528
+00:13:23,670 --> 00:13:23,680
+faster than a Porsche on a highway for
+ 
+
+529
+00:13:23,680 --> 00:13:29,430
+faster than a Porsche on a highway for
+instance.
+
+530
+00:13:29,430 --> 00:13:29,440
+
+ 
+
+531
+00:13:29,440 --> 00:13:32,710
+
+So this transitivity assumption
+
+532
+00:13:32,710 --> 00:13:32,720
+So this transitivity assumption
+ 
+
+533
+00:13:32,720 --> 00:13:35,750
+So this transitivity assumption
+assumes that treatment B
+
+534
+00:13:35,750 --> 00:13:35,760
+assumes that treatment B
+ 
+
+535
+00:13:35,760 --> 00:13:38,710
+assumes that treatment B
+is doing equally good in the AB
+
+536
+00:13:38,710 --> 00:13:38,720
+is doing equally good in the AB
+ 
+
+537
+00:13:38,720 --> 00:13:42,150
+is doing equally good in the AB
+comparison studies compared to the BC
+
+538
+00:13:42,150 --> 00:13:42,160
+comparison studies compared to the BC
+ 
+
+539
+00:13:42,160 --> 00:13:44,550
+comparison studies compared to the BC
+comparison studies
+
+540
+00:13:44,550 --> 00:13:44,560
+comparison studies
+ 
+
+541
+00:13:44,560 --> 00:13:46,870
+comparison studies
+which is definitely not the case in the
+
+542
+00:13:46,870 --> 00:13:46,880
+which is definitely not the case in the
+ 
+
+543
+00:13:46,880 --> 00:13:49,509
+which is definitely not the case in the
+example on the previous slide. So, the
+
+544
+00:13:49,509 --> 00:13:49,519
+example on the previous slide. So, the
+ 
+
+545
+00:13:49,519 --> 00:13:51,670
+example on the previous slide. So, the
+Range Rover
+
+546
+00:13:51,670 --> 00:13:51,680
+Range Rover
+ 
+
+547
+00:13:51,680 --> 00:13:54,310
+Range Rover
+was not doing equally good when being
+
+548
+00:13:54,310 --> 00:13:54,320
+was not doing equally good when being
+ 
+
+549
+00:13:54,320 --> 00:13:57,269
+was not doing equally good when being
+compared to the the Porsche than when
+
+550
+00:13:57,269 --> 00:13:57,279
+compared to the the Porsche than when
+ 
+
+551
+00:13:57,279 --> 00:14:00,629
+compared to the the Porsche than when
+being compared to the BMW because it was
+
+552
+00:14:00,629 --> 00:14:00,639
+being compared to the BMW because it was
+ 
+
+553
+00:14:00,639 --> 00:14:03,030
+being compared to the BMW because it was
+an older
+
+554
+00:14:03,030 --> 00:14:03,040
+an older
+ 
+
+555
+00:14:03,040 --> 00:14:06,629
+an older
+um or or in comparison with the Porsche.
+
+556
+00:14:06,629 --> 00:14:06,639
+um or or in comparison with the Porsche.
+ 
+
+557
+00:14:06,639 --> 00:14:09,509
+um or or in comparison with the Porsche.
+It was a newer version of Range Rover
+
+558
+00:14:09,509 --> 00:14:09,519
+It was a newer version of Range Rover
+ 
+
+559
+00:14:09,519 --> 00:14:11,750
+It was a newer version of Range Rover
+and it was tested in a condition for
+
+560
+00:14:11,750 --> 00:14:11,760
+and it was tested in a condition for
+ 
+
+561
+00:14:11,760 --> 00:14:16,230
+and it was tested in a condition for
+which a Range Rover was made.
+
+562
+00:14:16,230 --> 00:14:16,240
+
+ 
+
+563
+00:14:16,240 --> 00:14:19,189
+
+So in general we can uh think about
+
+564
+00:14:19,189 --> 00:14:19,199
+So in general we can uh think about
+ 
+
+565
+00:14:19,199 --> 00:14:21,670
+So in general we can uh think about
+effect modifiers that are all kinds of
+
+566
+00:14:21,670 --> 00:14:21,680
+effect modifiers that are all kinds of
+ 
+
+567
+00:14:21,680 --> 00:14:24,629
+effect modifiers that are all kinds of
+characteristics of studies that can have
+
+568
+00:14:24,629 --> 00:14:24,639
+characteristics of studies that can have
+ 
+
+569
+00:14:24,639 --> 00:14:27,110
+characteristics of studies that can have
+an influence on the performance of a
+
+570
+00:14:27,110 --> 00:14:27,120
+an influence on the performance of a
+ 
+
+571
+00:14:27,120 --> 00:14:29,269
+an influence on the performance of a
+specific treatment. So for instance
+
+572
+00:14:29,269 --> 00:14:29,279
+specific treatment. So for instance
+ 
+
+573
+00:14:29,279 --> 00:14:31,910
+specific treatment. So for instance
+participant characteristics, study
+
+574
+00:14:31,910 --> 00:14:31,920
+participant characteristics, study
+ 
+
+575
+00:14:31,920 --> 00:14:33,269
+participant characteristics, study
+characteristics, treatment
+
+576
+00:14:33,269 --> 00:14:33,279
+characteristics, treatment
+ 
+
+577
+00:14:33,279 --> 00:14:35,189
+characteristics, treatment
+characteristics
+
+578
+00:14:35,189 --> 00:14:35,199
+characteristics
+ 
+
+579
+00:14:35,199 --> 00:14:36,949
+characteristics
+um
+
+580
+00:14:36,949 --> 00:14:36,959
+um
+ 
+
+581
+00:14:36,959 --> 00:14:40,310
+um
+and so on. And so the assumption
+
+582
+00:14:40,310 --> 00:14:40,320
+and so on. And so the assumption
+ 
+
+583
+00:14:40,320 --> 00:14:42,150
+and so on. And so the assumption
+underlying the transitivity assumption
+
+584
+00:14:42,150 --> 00:14:42,160
+underlying the transitivity assumption
+ 
+
+585
+00:14:42,160 --> 00:14:45,350
+underlying the transitivity assumption
+is that these effect modifiers
+
+586
+00:14:45,350 --> 00:14:45,360
+is that these effect modifiers
+ 
+
+587
+00:14:45,360 --> 00:14:49,829
+is that these effect modifiers
+are distributed similarly in studies in
+
+588
+00:14:49,829 --> 00:14:49,839
+are distributed similarly in studies in
+ 
+
+589
+00:14:49,839 --> 00:14:53,430
+are distributed similarly in studies in
+which A is compared to B compared to
+
+590
+00:14:53,430 --> 00:14:53,440
+which A is compared to B compared to
+ 
+
+591
+00:14:53,440 --> 00:15:03,590
+which A is compared to B compared to
+studies in which B is compared to C.
+
+592
+00:15:03,590 --> 00:15:03,600
+
+ 
+
+593
+00:15:03,600 --> 00:15:07,269
+
+So I think the the example of the cars
+
+594
+00:15:07,269 --> 00:15:07,279
+So I think the the example of the cars
+ 
+
+595
+00:15:07,279 --> 00:15:08,550
+So I think the the example of the cars
+is
+
+596
+00:15:08,550 --> 00:15:08,560
+is
+ 
+
+597
+00:15:08,560 --> 00:15:11,189
+is
+straightforward but this can also happen
+
+598
+00:15:11,189 --> 00:15:11,199
+straightforward but this can also happen
+ 
+
+599
+00:15:11,199 --> 00:15:14,629
+straightforward but this can also happen
+in meta analysis of drugs for instance.
+
+600
+00:15:14,629 --> 00:15:14,639
+in meta analysis of drugs for instance.
+ 
+
+601
+00:15:14,639 --> 00:15:17,750
+in meta analysis of drugs for instance.
+So there would be a problem if a new
+
+602
+00:15:17,750 --> 00:15:17,760
+So there would be a problem if a new
+ 
+
+603
+00:15:17,760 --> 00:15:22,710
+So there would be a problem if a new
+drug
+
+604
+00:15:22,710 --> 00:15:22,720
+
+ 
+
+605
+00:15:22,720 --> 00:15:25,030
+
+um is studied
+
+606
+00:15:25,030 --> 00:15:25,040
+um is studied
+ 
+
+607
+00:15:25,040 --> 00:15:29,110
+um is studied
+in studies uh with patients for which we
+
+608
+00:15:29,110 --> 00:15:29,120
+in studies uh with patients for which we
+ 
+
+609
+00:15:29,120 --> 00:15:31,590
+in studies uh with patients for which we
+know that the traditional treatments uh
+
+610
+00:15:31,590 --> 00:15:31,600
+know that the traditional treatments uh
+ 
+
+611
+00:15:31,600 --> 00:15:34,470
+know that the traditional treatments uh
+will probably not work. So if that new
+
+612
+00:15:34,470 --> 00:15:34,480
+will probably not work. So if that new
+ 
+
+613
+00:15:34,480 --> 00:15:37,829
+will probably not work. So if that new
+drug is used on patients for which we
+
+614
+00:15:37,829 --> 00:15:37,839
+drug is used on patients for which we
+ 
+
+615
+00:15:37,839 --> 00:15:40,310
+drug is used on patients for which we
+know okay there is no other choice that
+
+616
+00:15:40,310 --> 00:15:40,320
+know okay there is no other choice that
+ 
+
+617
+00:15:40,320 --> 00:15:42,550
+know okay there is no other choice that
+the traditional treatment work does not
+
+618
+00:15:42,550 --> 00:15:42,560
+the traditional treatment work does not
+ 
+
+619
+00:15:42,560 --> 00:15:46,790
+the traditional treatment work does not
+work so let's try out a new drug
+
+620
+00:15:46,790 --> 00:15:46,800
+work so let's try out a new drug
+ 
+
+621
+00:15:46,800 --> 00:15:49,430
+work so let's try out a new drug
+and if in other studies the traditional
+
+622
+00:15:49,430 --> 00:15:49,440
+and if in other studies the traditional
+ 
+
+623
+00:15:49,440 --> 00:15:54,389
+and if in other studies the traditional
+treatment is compared to uh another drug
+
+624
+00:15:54,389 --> 00:15:54,399
+treatment is compared to uh another drug
+ 
+
+625
+00:15:54,399 --> 00:15:56,710
+treatment is compared to uh another drug
+but in these other studies traditional
+
+626
+00:15:56,710 --> 00:15:56,720
+but in these other studies traditional
+ 
+
+627
+00:15:56,720 --> 00:15:59,590
+but in these other studies traditional
+treatments are also applied on patients
+
+628
+00:15:59,590 --> 00:15:59,600
+treatments are also applied on patients
+ 
+
+629
+00:15:59,600 --> 00:16:01,990
+treatments are also applied on patients
+for which possibly these traditional
+
+630
+00:16:01,990 --> 00:16:02,000
+for which possibly these traditional
+ 
+
+631
+00:16:02,000 --> 00:16:04,710
+for which possibly these traditional
+treatments work.
+
+632
+00:16:04,710 --> 00:16:04,720
+treatments work.
+ 
+
+633
+00:16:04,720 --> 00:16:07,430
+treatments work.
+So in that situation, comparing the new
+
+634
+00:16:07,430 --> 00:16:07,440
+So in that situation, comparing the new
+ 
+
+635
+00:16:07,440 --> 00:16:12,230
+So in that situation, comparing the new
+drug with um the other drug will not be
+
+636
+00:16:12,230 --> 00:16:12,240
+drug with um the other drug will not be
+ 
+
+637
+00:16:12,240 --> 00:16:15,110
+drug with um the other drug will not be
+a fair comparison
+
+638
+00:16:15,110 --> 00:16:15,120
+a fair comparison
+ 
+
+639
+00:16:15,120 --> 00:16:16,710
+a fair comparison
+because the transitivity assumption
+
+640
+00:16:16,710 --> 00:16:16,720
+because the transitivity assumption
+ 
+
+641
+00:16:16,720 --> 00:16:20,069
+because the transitivity assumption
+cannot be made or I mean an indirect
+
+642
+00:16:20,069 --> 00:16:20,079
+cannot be made or I mean an indirect
+ 
+
+643
+00:16:20,079 --> 00:16:22,470
+cannot be made or I mean an indirect
+comparison of the new drug and the other
+
+644
+00:16:22,470 --> 00:16:22,480
+comparison of the new drug and the other
+ 
+
+645
+00:16:22,480 --> 00:16:28,790
+comparison of the new drug and the other
+drug is not fair.
+
+646
+00:16:28,790 --> 00:16:28,800
+
+ 
+
+647
+00:16:28,800 --> 00:16:30,629
+
+An issue is that that assumption of
+
+648
+00:16:30,629 --> 00:16:30,639
+An issue is that that assumption of
+ 
+
+649
+00:16:30,639 --> 00:16:33,269
+An issue is that that assumption of
+transitivity cannot be tested
+
+650
+00:16:33,269 --> 00:16:33,279
+transitivity cannot be tested
+ 
+
+651
+00:16:33,279 --> 00:16:35,670
+transitivity cannot be tested
+statistically.
+
+652
+00:16:35,670 --> 00:16:35,680
+statistically.
+ 
+
+653
+00:16:35,680 --> 00:16:41,749
+statistically.
+But what we can do is we can ask experts
+
+654
+00:16:41,749 --> 00:16:41,759
+But what we can do is we can ask experts
+ 
+
+655
+00:16:41,759 --> 00:16:43,829
+But what we can do is we can ask experts
+to have a look at the different studies
+
+656
+00:16:43,829 --> 00:16:43,839
+to have a look at the different studies
+ 
+
+657
+00:16:43,839 --> 00:16:48,310
+to have a look at the different studies
+and to evaluate whether these potential
+
+658
+00:16:48,310 --> 00:16:48,320
+and to evaluate whether these potential
+ 
+
+659
+00:16:48,320 --> 00:16:50,949
+and to evaluate whether these potential
+effect modifiers are indeed equally
+
+660
+00:16:50,949 --> 00:16:50,959
+effect modifiers are indeed equally
+ 
+
+661
+00:16:50,959 --> 00:16:53,509
+effect modifiers are indeed equally
+distributed across these different
+
+662
+00:16:53,509 --> 00:16:53,519
+distributed across these different
+ 
+
+663
+00:16:53,519 --> 00:16:55,990
+distributed across these different
+designs or across these different types
+
+664
+00:16:55,990 --> 00:16:56,000
+designs or across these different types
+ 
+
+665
+00:16:56,000 --> 00:16:58,870
+designs or across these different types
+of studies. studies comparing A with B
+
+666
+00:16:58,870 --> 00:16:58,880
+of studies. studies comparing A with B
+ 
+
+667
+00:16:58,880 --> 00:17:02,310
+of studies. studies comparing A with B
+and studies comparing B with C.
+
+668
+00:17:02,310 --> 00:17:02,320
+and studies comparing B with C.
+ 
+
+669
+00:17:02,320 --> 00:17:05,350
+and studies comparing B with C.
+So the idea is that these studies should
+
+670
+00:17:05,350 --> 00:17:05,360
+So the idea is that these studies should
+ 
+
+671
+00:17:05,360 --> 00:17:08,710
+So the idea is that these studies should
+be comparable so that we can expect that
+
+672
+00:17:08,710 --> 00:17:08,720
+be comparable so that we can expect that
+ 
+
+673
+00:17:08,720 --> 00:17:11,990
+be comparable so that we can expect that
+treatment B will perform equally good in
+
+674
+00:17:11,990 --> 00:17:12,000
+treatment B will perform equally good in
+ 
+
+675
+00:17:12,000 --> 00:17:14,150
+treatment B will perform equally good in
+the first type of studies compared to
+
+676
+00:17:14,150 --> 00:17:14,160
+the first type of studies compared to
+ 
+
+677
+00:17:14,160 --> 00:17:19,429
+the first type of studies compared to
+the second type type of studies.
+
+678
+00:17:19,429 --> 00:17:19,439
+
+ 
+
+679
+00:17:19,439 --> 00:17:21,510
+
+The violation of the transitivity
+
+680
+00:17:21,510 --> 00:17:21,520
+The violation of the transitivity
+ 
+
+681
+00:17:21,520 --> 00:17:23,829
+The violation of the transitivity
+assumption can however lead to
+
+682
+00:17:23,829 --> 00:17:23,839
+assumption can however lead to
+ 
+
+683
+00:17:23,839 --> 00:17:29,350
+assumption can however lead to
+inconsistencies in the data.
+
+684
+00:17:29,350 --> 00:17:29,360
+
+ 
+
+685
+00:17:29,360 --> 00:17:31,510
+
+I mean
+
+686
+00:17:31,510 --> 00:17:31,520
+I mean
+ 
+
+687
+00:17:31,520 --> 00:17:35,029
+I mean
+if you have a closed loop so not uh in
+
+688
+00:17:35,029 --> 00:17:35,039
+if you have a closed loop so not uh in
+ 
+
+689
+00:17:35,039 --> 00:17:37,350
+if you have a closed loop so not uh in
+the graph that I show here here we do
+
+690
+00:17:37,350 --> 00:17:37,360
+the graph that I show here here we do
+ 
+
+691
+00:17:37,360 --> 00:17:39,590
+the graph that I show here here we do
+not have a closed loop. So A is compared
+
+692
+00:17:39,590 --> 00:17:39,600
+not have a closed loop. So A is compared
+ 
+
+693
+00:17:39,600 --> 00:17:42,390
+not have a closed loop. So A is compared
+with B b with C but A and C are not
+
+694
+00:17:42,390 --> 00:17:42,400
+with B b with C but A and C are not
+ 
+
+695
+00:17:42,400 --> 00:17:44,470
+with B b with C but A and C are not
+directly compared.
+
+696
+00:17:44,470 --> 00:17:44,480
+directly compared.
+ 
+
+697
+00:17:44,480 --> 00:17:47,909
+directly compared.
+So we can uh get an estimate an indirect
+
+698
+00:17:47,909 --> 00:17:47,919
+So we can uh get an estimate an indirect
+ 
+
+699
+00:17:47,919 --> 00:17:52,230
+So we can uh get an estimate an indirect
+estimate of the effect uh of A versus C
+
+700
+00:17:52,230 --> 00:17:52,240
+estimate of the effect uh of A versus C
+ 
+
+701
+00:17:52,240 --> 00:17:55,190
+estimate of the effect uh of A versus C
+but there is no other evidence. So there
+
+702
+00:17:55,190 --> 00:17:55,200
+but there is no other evidence. So there
+ 
+
+703
+00:17:55,200 --> 00:18:00,230
+but there is no other evidence. So there
+cannot be inconsistencies in the data.
+
+704
+00:18:00,230 --> 00:18:00,240
+cannot be inconsistencies in the data.
+ 
+
+705
+00:18:00,240 --> 00:18:02,470
+cannot be inconsistencies in the data.
+But suppose we have a closed loop like
+
+706
+00:18:02,470 --> 00:18:02,480
+But suppose we have a closed loop like
+ 
+
+707
+00:18:02,480 --> 00:18:06,470
+But suppose we have a closed loop like
+here. Then we can uh get an indirect
+
+708
+00:18:06,470 --> 00:18:06,480
+here. Then we can uh get an indirect
+ 
+
+709
+00:18:06,480 --> 00:18:09,590
+here. Then we can uh get an indirect
+estimate of the effect of a versus c.
+
+710
+00:18:09,590 --> 00:18:09,600
+estimate of the effect of a versus c.
+ 
+
+711
+00:18:09,600 --> 00:18:12,789
+estimate of the effect of a versus c.
+And we can compare that indirect uh
+
+712
+00:18:12,789 --> 00:18:12,799
+And we can compare that indirect uh
+ 
+
+713
+00:18:12,799 --> 00:18:16,630
+And we can compare that indirect uh
+evidence with direct evidence of um a
+
+714
+00:18:16,630 --> 00:18:16,640
+evidence with direct evidence of um a
+ 
+
+715
+00:18:16,640 --> 00:18:19,590
+evidence with direct evidence of um a
+versus c. And so we can look at whether
+
+716
+00:18:19,590 --> 00:18:19,600
+versus c. And so we can look at whether
+ 
+
+717
+00:18:19,600 --> 00:18:21,750
+versus c. And so we can look at whether
+these two estimates are in line with
+
+718
+00:18:21,750 --> 00:18:21,760
+these two estimates are in line with
+ 
+
+719
+00:18:21,760 --> 00:18:24,630
+these two estimates are in line with
+each other. This is also the case in
+
+720
+00:18:24,630 --> 00:18:24,640
+each other. This is also the case in
+ 
+
+721
+00:18:24,640 --> 00:18:29,430
+each other. This is also the case in
+this graph. So A and C can be compared
+
+722
+00:18:29,430 --> 00:18:29,440
+this graph. So A and C can be compared
+ 
+
+723
+00:18:29,440 --> 00:18:33,669
+this graph. So A and C can be compared
+indirectly via B but they can also be
+
+724
+00:18:33,669 --> 00:18:33,679
+indirectly via B but they can also be
+ 
+
+725
+00:18:33,679 --> 00:18:37,270
+indirectly via B but they can also be
+compared indirectly via D. So we have
+
+726
+00:18:37,270 --> 00:18:37,280
+compared indirectly via D. So we have
+ 
+
+727
+00:18:37,280 --> 00:18:41,029
+compared indirectly via D. So we have
+two different uh ways in which we can um
+
+728
+00:18:41,029 --> 00:18:41,039
+two different uh ways in which we can um
+ 
+
+729
+00:18:41,039 --> 00:18:43,830
+two different uh ways in which we can um
+estimate an indirect
+
+730
+00:18:43,830 --> 00:18:43,840
+estimate an indirect
+ 
+
+731
+00:18:43,840 --> 00:18:47,350
+estimate an indirect
+um treatment effect or we can indirectly
+
+732
+00:18:47,350 --> 00:18:47,360
+um treatment effect or we can indirectly
+ 
+
+733
+00:18:47,360 --> 00:18:49,350
+um treatment effect or we can indirectly
+estimate the treatment effect of A
+
+734
+00:18:49,350 --> 00:18:49,360
+estimate the treatment effect of A
+ 
+
+735
+00:18:49,360 --> 00:18:52,789
+estimate the treatment effect of A
+versus C. And we can compare these two
+
+736
+00:18:52,789 --> 00:18:52,799
+versus C. And we can compare these two
+ 
+
+737
+00:18:52,799 --> 00:18:58,630
+versus C. And we can compare these two
+indirect estimates.
+
+738
+00:18:58,630 --> 00:18:58,640
+
+ 
+
+739
+00:18:58,640 --> 00:19:02,549
+
+So if there would be a violation of the
+
+740
+00:19:02,549 --> 00:19:02,559
+So if there would be a violation of the
+ 
+
+741
+00:19:02,559 --> 00:19:05,029
+So if there would be a violation of the
+assumption of transitivity then it is
+
+742
+00:19:05,029 --> 00:19:05,039
+assumption of transitivity then it is
+ 
+
+743
+00:19:05,039 --> 00:19:06,950
+assumption of transitivity then it is
+possible that this is shown in
+
+744
+00:19:06,950 --> 00:19:06,960
+possible that this is shown in
+ 
+
+745
+00:19:06,960 --> 00:19:09,830
+possible that this is shown in
+inconsistencies in the data. So that the
+
+746
+00:19:09,830 --> 00:19:09,840
+inconsistencies in the data. So that the
+ 
+
+747
+00:19:09,840 --> 00:19:12,549
+inconsistencies in the data. So that the
+different estimates of the treatment
+
+748
+00:19:12,549 --> 00:19:12,559
+different estimates of the treatment
+ 
+
+749
+00:19:12,559 --> 00:19:15,990
+different estimates of the treatment
+effect of A versus C are not in line
+
+750
+00:19:15,990 --> 00:19:16,000
+effect of A versus C are not in line
+ 
+
+751
+00:19:16,000 --> 00:19:19,110
+effect of A versus C are not in line
+with each other. And we can also test
+
+752
+00:19:19,110 --> 00:19:19,120
+with each other. And we can also test
+ 
+
+753
+00:19:19,120 --> 00:19:24,390
+with each other. And we can also test
+these inconsistencies.
+
+754
+00:19:24,390 --> 00:19:24,400
+
+ 
+
+755
+00:19:24,400 --> 00:19:27,750
+
+So what is an inconsistency? Well, here
+
+756
+00:19:27,750 --> 00:19:27,760
+So what is an inconsistency? Well, here
+ 
+
+757
+00:19:27,760 --> 00:19:29,590
+So what is an inconsistency? Well, here
+we have an example where we have three
+
+758
+00:19:29,590 --> 00:19:29,600
+we have an example where we have three
+ 
+
+759
+00:19:29,600 --> 00:19:33,669
+we have an example where we have three
+studies. A is compared with B, B with C
+
+760
+00:19:33,669 --> 00:19:33,679
+studies. A is compared with B, B with C
+ 
+
+761
+00:19:33,679 --> 00:19:36,950
+studies. A is compared with B, B with C
+leading to an indirect uh treatment
+
+762
+00:19:36,950 --> 00:19:36,960
+leading to an indirect uh treatment
+ 
+
+763
+00:19:36,960 --> 00:19:41,350
+leading to an indirect uh treatment
+effect estimate of 7 and suppose that in
+
+764
+00:19:41,350 --> 00:19:41,360
+effect estimate of 7 and suppose that in
+ 
+
+765
+00:19:41,360 --> 00:19:45,830
+effect estimate of 7 and suppose that in
+study three uh ASC are compared directly
+
+766
+00:19:45,830 --> 00:19:45,840
+study three uh ASC are compared directly
+ 
+
+767
+00:19:45,840 --> 00:19:48,950
+study three uh ASC are compared directly
+and an observed effect size of.9 was
+
+768
+00:19:48,950 --> 00:19:48,960
+and an observed effect size of.9 was
+ 
+
+769
+00:19:48,960 --> 00:19:51,669
+and an observed effect size of.9 was
+found. So we have a direct estimate and
+
+770
+00:19:51,669 --> 00:19:51,679
+found. So we have a direct estimate and
+ 
+
+771
+00:19:51,679 --> 00:19:54,549
+found. So we have a direct estimate and
+an indirect estimate and we can compare
+
+772
+00:19:54,549 --> 00:19:54,559
+an indirect estimate and we can compare
+ 
+
+773
+00:19:54,559 --> 00:19:57,510
+an indirect estimate and we can compare
+the two. So we can evaluate whether
+
+774
+00:19:57,510 --> 00:19:57,520
+the two. So we can evaluate whether
+ 
+
+775
+00:19:57,520 --> 00:19:59,830
+the two. So we can evaluate whether
+these are more or less in line with each
+
+776
+00:19:59,830 --> 00:19:59,840
+these are more or less in line with each
+ 
+
+777
+00:19:59,840 --> 00:20:02,950
+these are more or less in line with each
+other. Of course you can see here that
+
+778
+00:20:02,950 --> 00:20:02,960
+other. Of course you can see here that
+ 
+
+779
+00:20:02,960 --> 00:20:05,029
+other. Of course you can see here that
+these two values are not exactly the
+
+780
+00:20:05,029 --> 00:20:05,039
+these two values are not exactly the
+ 
+
+781
+00:20:05,039 --> 00:20:07,430
+these two values are not exactly the
+same. This does not necessarily mean
+
+782
+00:20:07,430 --> 00:20:07,440
+same. This does not necessarily mean
+ 
+
+783
+00:20:07,440 --> 00:20:09,430
+same. This does not necessarily mean
+that there is inconsistency that the
+
+784
+00:20:09,430 --> 00:20:09,440
+that there is inconsistency that the
+ 
+
+785
+00:20:09,440 --> 00:20:12,390
+that there is inconsistency that the
+transitivity assumption is not correct.
+
+786
+00:20:12,390 --> 00:20:12,400
+transitivity assumption is not correct.
+ 
+
+787
+00:20:12,400 --> 00:20:15,510
+transitivity assumption is not correct.
+We know that there is always uh yeah
+
+788
+00:20:15,510 --> 00:20:15,520
+We know that there is always uh yeah
+ 
+
+789
+00:20:15,520 --> 00:20:18,230
+We know that there is always uh yeah
+sampling variation within studies. So
+
+790
+00:20:18,230 --> 00:20:18,240
+sampling variation within studies. So
+ 
+
+791
+00:20:18,240 --> 00:20:21,270
+sampling variation within studies. So
+the result that we obtain the observed
+
+792
+00:20:21,270 --> 00:20:21,280
+the result that we obtain the observed
+ 
+
+793
+00:20:21,280 --> 00:20:23,110
+the result that we obtain the observed
+effect size we obtain in a specific
+
+794
+00:20:23,110 --> 00:20:23,120
+effect size we obtain in a specific
+ 
+
+795
+00:20:23,120 --> 00:20:25,669
+effect size we obtain in a specific
+study is not necessarily exactly equal
+
+796
+00:20:25,669 --> 00:20:25,679
+study is not necessarily exactly equal
+ 
+
+797
+00:20:25,679 --> 00:20:27,590
+study is not necessarily exactly equal
+to the population effect size. There's
+
+798
+00:20:27,590 --> 00:20:27,600
+to the population effect size. There's
+ 
+
+799
+00:20:27,600 --> 00:20:30,149
+to the population effect size. There's
+the issue of sampling variation that we
+
+800
+00:20:30,149 --> 00:20:30,159
+the issue of sampling variation that we
+ 
+
+801
+00:20:30,159 --> 00:20:33,110
+the issue of sampling variation that we
+have seen before. So that can be an
+
+802
+00:20:33,110 --> 00:20:33,120
+have seen before. So that can be an
+ 
+
+803
+00:20:33,120 --> 00:20:36,630
+have seen before. So that can be an
+explanation why the 0.9 and 7 are not
+
+804
+00:20:36,630 --> 00:20:36,640
+explanation why the 0.9 and 7 are not
+ 
+
+805
+00:20:36,640 --> 00:20:39,750
+explanation why the 0.9 and 7 are not
+exactly the same.
+
+806
+00:20:39,750 --> 00:20:39,760
+exactly the same.
+ 
+
+807
+00:20:39,760 --> 00:20:43,029
+exactly the same.
+Another explanation is that different
+
+808
+00:20:43,029 --> 00:20:43,039
+Another explanation is that different
+ 
+
+809
+00:20:43,039 --> 00:20:44,549
+Another explanation is that different
+studies
+
+810
+00:20:44,549 --> 00:20:44,559
+studies
+ 
+
+811
+00:20:44,559 --> 00:20:47,270
+studies
+they
+
+812
+00:20:47,270 --> 00:20:47,280
+they
+ 
+
+813
+00:20:47,280 --> 00:20:53,029
+they
+um often differ in a lot of aspects and
+
+814
+00:20:53,029 --> 00:20:53,039
+um often differ in a lot of aspects and
+ 
+
+815
+00:20:53,039 --> 00:20:55,029
+um often differ in a lot of aspects and
+so there is heterogeneity between
+
+816
+00:20:55,029 --> 00:20:55,039
+so there is heterogeneity between
+ 
+
+817
+00:20:55,039 --> 00:20:58,630
+so there is heterogeneity between
+studies in in uh in how studies are set
+
+818
+00:20:58,630 --> 00:20:58,640
+studies in in uh in how studies are set
+ 
+
+819
+00:20:58,640 --> 00:21:02,630
+studies in in uh in how studies are set
+up and so on. And also these
+
+820
+00:21:02,630 --> 00:21:02,640
+up and so on. And also these
+ 
+
+821
+00:21:02,640 --> 00:21:05,190
+up and so on. And also these
+effects or this heterogeneity can
+
+822
+00:21:05,190 --> 00:21:05,200
+effects or this heterogeneity can
+ 
+
+823
+00:21:05,200 --> 00:21:08,230
+effects or this heterogeneity can
+possibly explain why. So again by
+
+824
+00:21:08,230 --> 00:21:08,240
+possibly explain why. So again by
+ 
+
+825
+00:21:08,240 --> 00:21:10,710
+possibly explain why. So again by
+coincidence in study three a slightly
+
+826
+00:21:10,710 --> 00:21:10,720
+coincidence in study three a slightly
+ 
+
+827
+00:21:10,720 --> 00:21:13,190
+coincidence in study three a slightly
+different estimate was obtained than uh
+
+828
+00:21:13,190 --> 00:21:13,200
+different estimate was obtained than uh
+ 
+
+829
+00:21:13,200 --> 00:21:16,070
+different estimate was obtained than uh
+the indirect estimate.
+
+830
+00:21:16,070 --> 00:21:16,080
+the indirect estimate.
+ 
+
+831
+00:21:16,080 --> 00:21:18,390
+the indirect estimate.
+A third reason is of course that there
+
+832
+00:21:18,390 --> 00:21:18,400
+A third reason is of course that there
+ 
+
+833
+00:21:18,400 --> 00:21:21,430
+A third reason is of course that there
+is real inconsistency
+
+834
+00:21:21,430 --> 00:21:21,440
+is real inconsistency
+ 
+
+835
+00:21:21,440 --> 00:21:24,870
+is real inconsistency
+that in studies in which A is compared
+
+836
+00:21:24,870 --> 00:21:24,880
+that in studies in which A is compared
+ 
+
+837
+00:21:24,880 --> 00:21:27,590
+that in studies in which A is compared
+to C
+
+838
+00:21:27,590 --> 00:21:27,600
+to C
+ 
+
+839
+00:21:27,600 --> 00:21:32,149
+to C
+that in these kinds of studies while
+
+840
+00:21:32,149 --> 00:21:32,159
+that in these kinds of studies while
+ 
+
+841
+00:21:32,159 --> 00:21:34,470
+that in these kinds of studies while
+conditions are different compared to
+
+842
+00:21:34,470 --> 00:21:34,480
+conditions are different compared to
+ 
+
+843
+00:21:34,480 --> 00:21:37,909
+conditions are different compared to
+conditions in which A is compared to B
+
+844
+00:21:37,909 --> 00:21:37,919
+conditions in which A is compared to B
+ 
+
+845
+00:21:37,919 --> 00:21:41,510
+conditions in which A is compared to B
+or B is compared to C and that this
+
+846
+00:21:41,510 --> 00:21:41,520
+or B is compared to C and that this
+ 
+
+847
+00:21:41,520 --> 00:21:43,510
+or B is compared to C and that this
+makes that transitivity assumption does
+
+848
+00:21:43,510 --> 00:21:43,520
+makes that transitivity assumption does
+ 
+
+849
+00:21:43,520 --> 00:21:46,390
+makes that transitivity assumption does
+not make sense and that Um yeah there
+
+850
+00:21:46,390 --> 00:21:46,400
+not make sense and that Um yeah there
+ 
+
+851
+00:21:46,400 --> 00:21:49,110
+not make sense and that Um yeah there
+are systematic differences between the
+
+852
+00:21:49,110 --> 00:21:49,120
+are systematic differences between the
+ 
+
+853
+00:21:49,120 --> 00:21:51,669
+are systematic differences between the
+direct and the indirect
+
+854
+00:21:51,669 --> 00:21:51,679
+direct and the indirect
+ 
+
+855
+00:21:51,679 --> 00:21:55,270
+direct and the indirect
+um estimates.
+
+856
+00:21:55,270 --> 00:21:55,280
+
+ 
+
+857
+00:21:55,280 --> 00:21:57,510
+
+There can also be inconsistencies when
+
+858
+00:21:57,510 --> 00:21:57,520
+There can also be inconsistencies when
+ 
+
+859
+00:21:57,520 --> 00:22:00,710
+There can also be inconsistencies when
+we have multiple indirect estimates. So
+
+860
+00:22:00,710 --> 00:22:00,720
+we have multiple indirect estimates. So
+ 
+
+861
+00:22:00,720 --> 00:22:03,029
+we have multiple indirect estimates. So
+here for instance stud three and four
+
+862
+00:22:03,029 --> 00:22:03,039
+here for instance stud three and four
+ 
+
+863
+00:22:03,039 --> 00:22:08,230
+here for instance stud three and four
+are comparing a with b d and d with c.
+
+864
+00:22:08,230 --> 00:22:08,240
+are comparing a with b d and d with c.
+ 
+
+865
+00:22:08,240 --> 00:22:11,110
+are comparing a with b d and d with c.
+So based on that information we can get
+
+866
+00:22:11,110 --> 00:22:11,120
+So based on that information we can get
+ 
+
+867
+00:22:11,120 --> 00:22:19,990
+So based on that information we can get
+an indirect estimate of a versus c.
+
+868
+00:22:19,990 --> 00:22:20,000
+
+ 
+
+869
+00:22:20,000 --> 00:22:22,310
+
+So how can you check transitivity or
+
+870
+00:22:22,310 --> 00:22:22,320
+So how can you check transitivity or
+ 
+
+871
+00:22:22,320 --> 00:22:25,909
+So how can you check transitivity or
+consistency? Well, a first way is to
+
+872
+00:22:25,909 --> 00:22:25,919
+consistency? Well, a first way is to
+ 
+
+873
+00:22:25,919 --> 00:22:27,430
+consistency? Well, a first way is to
+check the distribution of the effect
+
+874
+00:22:27,430 --> 00:22:27,440
+check the distribution of the effect
+ 
+
+875
+00:22:27,440 --> 00:22:31,270
+check the distribution of the effect
+modifiers over types of studies.
+
+876
+00:22:31,270 --> 00:22:31,280
+modifiers over types of studies.
+ 
+
+877
+00:22:31,280 --> 00:22:35,029
+modifiers over types of studies.
+So we want to know whether in general
+
+878
+00:22:35,029 --> 00:22:35,039
+So we want to know whether in general
+ 
+
+879
+00:22:35,039 --> 00:22:39,350
+So we want to know whether in general
+when BMWs and um Range Rovers are
+
+880
+00:22:39,350 --> 00:22:39,360
+when BMWs and um Range Rovers are
+ 
+
+881
+00:22:39,360 --> 00:22:41,830
+when BMWs and um Range Rovers are
+compared to each other, the conditions
+
+882
+00:22:41,830 --> 00:22:41,840
+compared to each other, the conditions
+ 
+
+883
+00:22:41,840 --> 00:22:46,149
+compared to each other, the conditions
+are different than when Range Rovers are
+
+884
+00:22:46,149 --> 00:22:46,159
+are different than when Range Rovers are
+ 
+
+885
+00:22:46,159 --> 00:22:52,390
+are different than when Range Rovers are
+compared with Porsches.
+
+886
+00:22:52,390 --> 00:22:52,400
+
+ 
+
+887
+00:22:52,400 --> 00:22:54,950
+
+We can also test an inconsistency
+
+888
+00:22:54,950 --> 00:22:54,960
+We can also test an inconsistency
+ 
+
+889
+00:22:54,960 --> 00:22:58,230
+We can also test an inconsistency
+factor. So we can uh test the difference
+
+890
+00:22:58,230 --> 00:22:58,240
+factor. So we can uh test the difference
+ 
+
+891
+00:22:58,240 --> 00:23:00,310
+factor. So we can uh test the difference
+between a direct and an indirect
+
+892
+00:23:00,310 --> 00:23:00,320
+between a direct and an indirect
+ 
+
+893
+00:23:00,320 --> 00:23:04,390
+between a direct and an indirect
+estimate. So this was proposed by Bher.
+
+894
+00:23:04,390 --> 00:23:04,400
+estimate. So this was proposed by Bher.
+ 
+
+895
+00:23:04,400 --> 00:23:06,870
+estimate. So this was proposed by Bher.
+The glazer and approach is somewhat more
+
+896
+00:23:06,870 --> 00:23:06,880
+The glazer and approach is somewhat more
+ 
+
+897
+00:23:06,880 --> 00:23:09,750
+The glazer and approach is somewhat more
+complex. So it can be used to test
+
+898
+00:23:09,750 --> 00:23:09,760
+complex. So it can be used to test
+ 
+
+899
+00:23:09,760 --> 00:23:11,590
+complex. So it can be used to test
+consistency when you have multiple
+
+900
+00:23:11,590 --> 00:23:11,600
+consistency when you have multiple
+ 
+
+901
+00:23:11,600 --> 00:23:13,590
+consistency when you have multiple
+estimates. So it's possible that for
+
+902
+00:23:13,590 --> 00:23:13,600
+estimates. So it's possible that for
+ 
+
+903
+00:23:13,600 --> 00:23:15,510
+estimates. So it's possible that for
+instance you have one direct estimate
+
+904
+00:23:15,510 --> 00:23:15,520
+instance you have one direct estimate
+ 
+
+905
+00:23:15,520 --> 00:23:18,549
+instance you have one direct estimate
+and two indirect estimates.
+
+906
+00:23:18,549 --> 00:23:18,559
+and two indirect estimates.
+ 
+
+907
+00:23:18,559 --> 00:23:21,990
+and two indirect estimates.
+But it's also possible to estimate and
+
+908
+00:23:21,990 --> 00:23:22,000
+But it's also possible to estimate and
+ 
+
+909
+00:23:22,000 --> 00:23:25,510
+But it's also possible to estimate and
+test uh model inconsistency in general
+
+910
+00:23:25,510 --> 00:23:25,520
+test uh model inconsistency in general
+ 
+
+911
+00:23:25,520 --> 00:23:30,149
+test uh model inconsistency in general
+across all types of um yeah across all
+
+912
+00:23:30,149 --> 00:23:30,159
+across all types of um yeah across all
+ 
+
+913
+00:23:30,159 --> 00:23:35,350
+across all types of um yeah across all
+pairs of treatments.
+
+914
+00:23:35,350 --> 00:23:35,360
+
+ 
+
+915
+00:23:35,360 --> 00:23:37,590
+
+For instance, look at the model of
+
+916
+00:23:37,590 --> 00:23:37,600
+For instance, look at the model of
+ 
+
+917
+00:23:37,600 --> 00:23:40,870
+For instance, look at the model of
+lumly. So a model that can be used if
+
+918
+00:23:40,870 --> 00:23:40,880
+lumly. So a model that can be used if
+ 
+
+919
+00:23:40,880 --> 00:23:43,510
+lumly. So a model that can be used if
+you have um standardized mean
+
+920
+00:23:43,510 --> 00:23:43,520
+you have um standardized mean
+ 
+
+921
+00:23:43,520 --> 00:23:45,110
+you have um standardized mean
+differences that's the dependent
+
+922
+00:23:45,110 --> 00:23:45,120
+differences that's the dependent
+ 
+
+923
+00:23:45,120 --> 00:23:47,190
+differences that's the dependent
+variable.
+
+924
+00:23:47,190 --> 00:23:47,200
+variable.
+ 
+
+925
+00:23:47,200 --> 00:23:49,029
+variable.
+So the dependent variable is the the
+
+926
+00:23:49,029 --> 00:23:49,039
+So the dependent variable is the the
+ 
+
+927
+00:23:49,039 --> 00:23:51,029
+So the dependent variable is the the
+mean difference standardized mean
+
+928
+00:23:51,029 --> 00:23:51,039
+mean difference standardized mean
+ 
+
+929
+00:23:51,039 --> 00:23:54,870
+mean difference standardized mean
+difference um when treatment I is
+
+930
+00:23:54,870 --> 00:23:54,880
+difference um when treatment I is
+ 
+
+931
+00:23:54,880 --> 00:23:57,830
+difference um when treatment I is
+compared with treatment J
+
+932
+00:23:57,830 --> 00:23:57,840
+compared with treatment J
+ 
+
+933
+00:23:57,840 --> 00:24:02,310
+compared with treatment J
+in study K. Well, this mean difference
+
+934
+00:24:02,310 --> 00:24:02,320
+in study K. Well, this mean difference
+ 
+
+935
+00:24:02,320 --> 00:24:05,110
+in study K. Well, this mean difference
+is defined to be equal to a difference
+
+936
+00:24:05,110 --> 00:24:05,120
+is defined to be equal to a difference
+ 
+
+937
+00:24:05,120 --> 00:24:09,029
+is defined to be equal to a difference
+between the mean the expected value for
+
+938
+00:24:09,029 --> 00:24:09,039
+between the mean the expected value for
+ 
+
+939
+00:24:09,039 --> 00:24:12,230
+between the mean the expected value for
+treatment I minus the expected value for
+
+940
+00:24:12,230 --> 00:24:12,240
+treatment I minus the expected value for
+ 
+
+941
+00:24:12,240 --> 00:24:14,390
+treatment I minus the expected value for
+treatment J
+
+942
+00:24:14,390 --> 00:24:14,400
+treatment J
+ 
+
+943
+00:24:14,400 --> 00:24:17,590
+treatment J
+plus random deviation
+
+944
+00:24:17,590 --> 00:24:17,600
+plus random deviation
+ 
+
+945
+00:24:17,600 --> 00:24:19,990
+plus random deviation
+that is due to study heterogeneity and
+
+946
+00:24:19,990 --> 00:24:20,000
+that is due to study heterogeneity and
+ 
+
+947
+00:24:20,000 --> 00:24:23,430
+that is due to study heterogeneity and
+that can have an effect on um yeah the
+
+948
+00:24:23,430 --> 00:24:23,440
+that can have an effect on um yeah the
+ 
+
+949
+00:24:23,440 --> 00:24:26,789
+that can have an effect on um yeah the
+mean that is um
+
+950
+00:24:26,789 --> 00:24:26,799
+mean that is um
+ 
+
+951
+00:24:26,799 --> 00:24:31,590
+mean that is um
+the the the mean for treatment I in that
+
+952
+00:24:31,590 --> 00:24:31,600
+the the the mean for treatment I in that
+ 
+
+953
+00:24:31,600 --> 00:24:35,269
+the the the mean for treatment I in that
+study K or the mean the population the
+
+954
+00:24:35,269 --> 00:24:35,279
+study K or the mean the population the
+ 
+
+955
+00:24:35,279 --> 00:24:39,110
+study K or the mean the population the
+expected value um for treatment J in
+
+956
+00:24:39,110 --> 00:24:39,120
+expected value um for treatment J in
+ 
+
+957
+00:24:39,120 --> 00:24:40,950
+expected value um for treatment J in
+study K
+
+958
+00:24:40,950 --> 00:24:40,960
+study K
+ 
+
+959
+00:24:40,960 --> 00:24:43,190
+study K
+and then and this is important there is
+
+960
+00:24:43,190 --> 00:24:43,200
+and then and this is important there is
+ 
+
+961
+00:24:43,200 --> 00:24:45,029
+and then and this is important there is
+an additional term which is a kind of
+
+962
+00:24:45,029 --> 00:24:45,039
+an additional term which is a kind of
+ 
+
+963
+00:24:45,039 --> 00:24:47,510
+an additional term which is a kind of
+interaction term for modeling the
+
+964
+00:24:47,510 --> 00:24:47,520
+interaction term for modeling the
+ 
+
+965
+00:24:47,520 --> 00:24:50,230
+interaction term for modeling the
+inconsistency so it is the additional
+
+966
+00:24:50,230 --> 00:24:50,240
+inconsistency so it is the additional
+ 
+
+967
+00:24:50,240 --> 00:24:52,870
+inconsistency so it is the additional
+effect on the standardized mean
+
+968
+00:24:52,870 --> 00:24:52,880
+effect on the standardized mean
+ 
+
+969
+00:24:52,880 --> 00:24:56,230
+effect on the standardized mean
+difference when treatment I is compared
+
+970
+00:24:56,230 --> 00:24:56,240
+difference when treatment I is compared
+ 
+
+971
+00:24:56,240 --> 00:24:58,789
+difference when treatment I is compared
+to treatment J
+
+972
+00:24:58,789 --> 00:24:58,799
+to treatment J
+ 
+
+973
+00:24:58,799 --> 00:25:01,669
+to treatment J
+and then you have random deviation uh
+
+974
+00:25:01,669 --> 00:25:01,679
+and then you have random deviation uh
+ 
+
+975
+00:25:01,679 --> 00:25:05,590
+and then you have random deviation uh
+due to sampling variance.
+
+976
+00:25:05,590 --> 00:25:05,600
+due to sampling variance.
+ 
+
+977
+00:25:05,600 --> 00:25:08,470
+due to sampling variance.
+So in this way by estimating uh the
+
+978
+00:25:08,470 --> 00:25:08,480
+So in this way by estimating uh the
+ 
+
+979
+00:25:08,480 --> 00:25:12,870
+So in this way by estimating uh the
+variance of that um interaction term
+
+980
+00:25:12,870 --> 00:25:12,880
+variance of that um interaction term
+ 
+
+981
+00:25:12,880 --> 00:25:15,269
+variance of that um interaction term
+we well if there would be no
+
+982
+00:25:15,269 --> 00:25:15,279
+we well if there would be no
+ 
+
+983
+00:25:15,279 --> 00:25:17,590
+we well if there would be no
+inconsistency then that variance of that
+
+984
+00:25:17,590 --> 00:25:17,600
+inconsistency then that variance of that
+ 
+
+985
+00:25:17,600 --> 00:25:20,870
+inconsistency then that variance of that
+interaction term would be equal to zero.
+
+986
+00:25:20,870 --> 00:25:20,880
+interaction term would be equal to zero.
+ 
+
+987
+00:25:20,880 --> 00:25:23,669
+interaction term would be equal to zero.
+And so in this way we can estimate the
+
+988
+00:25:23,669 --> 00:25:23,679
+And so in this way we can estimate the
+ 
+
+989
+00:25:23,679 --> 00:25:26,950
+And so in this way we can estimate the
+amount of inconsistency and we can test
+
+990
+00:25:26,950 --> 00:25:26,960
+amount of inconsistency and we can test
+ 
+
+991
+00:25:26,960 --> 00:25:30,390
+amount of inconsistency and we can test
+uh whether there is inconsistency.
+
+992
+00:25:30,390 --> 00:25:30,400
+uh whether there is inconsistency.
+ 
+
+993
+00:25:30,400 --> 00:25:33,190
+uh whether there is inconsistency.
+It's also possible even to include
+
+994
+00:25:33,190 --> 00:25:33,200
+It's also possible even to include
+ 
+
+995
+00:25:33,200 --> 00:25:34,789
+It's also possible even to include
+characteristics
+
+996
+00:25:34,789 --> 00:25:34,799
+characteristics
+ 
+
+997
+00:25:34,799 --> 00:25:38,549
+characteristics
+to try to explain this variance in uh
+
+998
+00:25:38,549 --> 00:25:38,559
+to try to explain this variance in uh
+ 
+
+999
+00:25:38,559 --> 00:25:40,710
+to try to explain this variance in uh
+this variance component. So to explain
+
+1000
+00:25:40,710 --> 00:25:40,720
+this variance component. So to explain
+ 
+
+1001
+00:25:40,720 --> 00:25:46,710
+this variance component. So to explain
+this inconsistency.
+
+1002
+00:25:46,710 --> 00:25:46,720
+
+ 
+
+1003
+00:25:46,720 --> 00:25:48,950
+
+So in practice suppose that you have
+
+1004
+00:25:48,950 --> 00:25:48,960
+So in practice suppose that you have
+ 
+
+1005
+00:25:48,960 --> 00:25:51,510
+So in practice suppose that you have
+five different treatments. Well, you
+
+1006
+00:25:51,510 --> 00:25:51,520
+five different treatments. Well, you
+ 
+
+1007
+00:25:51,520 --> 00:25:54,310
+five different treatments. Well, you
+could uh make use of four dummy
+
+1008
+00:25:54,310 --> 00:25:54,320
+could uh make use of four dummy
+ 
+
+1009
+00:25:54,320 --> 00:25:56,230
+could uh make use of four dummy
+variables. A dummy variable for
+
+1010
+00:25:56,230 --> 00:25:56,240
+variables. A dummy variable for
+ 
+
+1011
+00:25:56,240 --> 00:25:59,110
+variables. A dummy variable for
+treatment two for one for treatment
+
+1012
+00:25:59,110 --> 00:25:59,120
+treatment two for one for treatment
+ 
+
+1013
+00:25:59,120 --> 00:26:01,029
+treatment two for one for treatment
+three, one for treatment four, one for
+
+1014
+00:26:01,029 --> 00:26:01,039
+three, one for treatment four, one for
+ 
+
+1015
+00:26:01,039 --> 00:26:04,310
+three, one for treatment four, one for
+treatment five. And suppose that one
+
+1016
+00:26:04,310 --> 00:26:04,320
+treatment five. And suppose that one
+ 
+
+1017
+00:26:04,320 --> 00:26:06,549
+treatment five. And suppose that one
+treatment two is compared to treatment
+
+1018
+00:26:06,549 --> 00:26:06,559
+treatment two is compared to treatment
+ 
+
+1019
+00:26:06,559 --> 00:26:10,470
+treatment two is compared to treatment
+three. Then you have a one for the dummy
+
+1020
+00:26:10,470 --> 00:26:10,480
+three. Then you have a one for the dummy
+ 
+
+1021
+00:26:10,480 --> 00:26:13,430
+three. Then you have a one for the dummy
+variable x2 and you have a minus one for
+
+1022
+00:26:13,430 --> 00:26:13,440
+variable x2 and you have a minus one for
+ 
+
+1023
+00:26:13,440 --> 00:26:16,789
+variable x2 and you have a minus one for
+the dummy variable x3.
+
+1024
+00:26:16,789 --> 00:26:16,799
+the dummy variable x3.
+ 
+
+1025
+00:26:16,799 --> 00:26:18,390
+the dummy variable x3.
+you have an additional column with the
+
+1026
+00:26:18,390 --> 00:26:18,400
+you have an additional column with the
+ 
+
+1027
+00:26:18,400 --> 00:26:20,789
+you have an additional column with the
+mean differences and so on. And so based
+
+1028
+00:26:20,789 --> 00:26:20,799
+mean differences and so on. And so based
+ 
+
+1029
+00:26:20,799 --> 00:26:24,149
+mean differences and so on. And so based
+on the use of this model that is shown
+
+1030
+00:26:24,149 --> 00:26:24,159
+on the use of this model that is shown
+ 
+
+1031
+00:26:24,159 --> 00:26:26,630
+on the use of this model that is shown
+uh on the slide with these dummy
+
+1032
+00:26:26,630 --> 00:26:26,640
+uh on the slide with these dummy
+ 
+
+1033
+00:26:26,640 --> 00:26:32,149
+uh on the slide with these dummy
+variables included, you can estimate um
+
+1034
+00:26:32,149 --> 00:26:32,159
+variables included, you can estimate um
+ 
+
+1035
+00:26:32,159 --> 00:26:34,950
+variables included, you can estimate um
+yeah the means or the expected values
+
+1036
+00:26:34,950 --> 00:26:34,960
+yeah the means or the expected values
+ 
+
+1037
+00:26:34,960 --> 00:26:38,950
+yeah the means or the expected values
+for each of the treatments.
+
+1038
+00:26:38,950 --> 00:26:38,960
+for each of the treatments.
+ 
+
+1039
+00:26:38,960 --> 00:26:41,190
+for each of the treatments.
+Note that for one treatment you do not
+
+1040
+00:26:41,190 --> 00:26:41,200
+Note that for one treatment you do not
+ 
+
+1041
+00:26:41,200 --> 00:26:43,430
+Note that for one treatment you do not
+estimate the mean because uh the
+
+1042
+00:26:43,430 --> 00:26:43,440
+estimate the mean because uh the
+ 
+
+1043
+00:26:43,440 --> 00:26:45,750
+estimate the mean because uh the
+dependent variable are mean differences.
+
+1044
+00:26:45,750 --> 00:26:45,760
+dependent variable are mean differences.
+ 
+
+1045
+00:26:45,760 --> 00:26:48,630
+dependent variable are mean differences.
+So the model would not be defined if you
+
+1046
+00:26:48,630 --> 00:26:48,640
+So the model would not be defined if you
+ 
+
+1047
+00:26:48,640 --> 00:26:51,029
+So the model would not be defined if you
+would try to estimate the mean for each
+
+1048
+00:26:51,029 --> 00:26:51,039
+would try to estimate the mean for each
+ 
+
+1049
+00:26:51,039 --> 00:26:53,110
+would try to estimate the mean for each
+of the treatments. There is one of the
+
+1050
+00:26:53,110 --> 00:26:53,120
+of the treatments. There is one of the
+ 
+
+1051
+00:26:53,120 --> 00:26:55,029
+of the treatments. There is one of the
+treatments that should be used as a
+
+1052
+00:26:55,029 --> 00:26:55,039
+treatments that should be used as a
+ 
+
+1053
+00:26:55,039 --> 00:26:57,669
+treatments that should be used as a
+reference category otherwise the model
+
+1054
+00:26:57,669 --> 00:26:57,679
+reference category otherwise the model
+ 
+
+1055
+00:26:57,679 --> 00:27:03,269
+reference category otherwise the model
+is not identified.
+
+1056
+00:27:03,269 --> 00:27:03,279
+
+ 
+
+1057
+00:27:03,279 --> 00:27:06,390
+
+a remark. So you can test inconsistency
+
+1058
+00:27:06,390 --> 00:27:06,400
+a remark. So you can test inconsistency
+ 
+
+1059
+00:27:06,400 --> 00:27:09,430
+a remark. So you can test inconsistency
+by testing the variance component but
+
+1060
+00:27:09,430 --> 00:27:09,440
+by testing the variance component but
+ 
+
+1061
+00:27:09,440 --> 00:27:12,789
+by testing the variance component but
+this test can be underpowered
+
+1062
+00:27:12,789 --> 00:27:12,799
+this test can be underpowered
+ 
+
+1063
+00:27:12,799 --> 00:27:14,230
+this test can be underpowered
+for instance when you have a small
+
+1064
+00:27:14,230 --> 00:27:14,240
+for instance when you have a small
+ 
+
+1065
+00:27:14,240 --> 00:27:17,830
+for instance when you have a small
+number of studies that give direct
+
+1066
+00:27:17,830 --> 00:27:17,840
+number of studies that give direct
+ 
+
+1067
+00:27:17,840 --> 00:27:19,990
+number of studies that give direct
+evidence or when you have a large
+
+1068
+00:27:19,990 --> 00:27:20,000
+evidence or when you have a large
+ 
+
+1069
+00:27:20,000 --> 00:27:22,950
+evidence or when you have a large
+heterogeneity a lot of heterogeneity.
+
+1070
+00:27:22,950 --> 00:27:22,960
+heterogeneity a lot of heterogeneity.
+ 
+
+1071
+00:27:22,960 --> 00:27:25,110
+heterogeneity a lot of heterogeneity.
+So in these situations it is possible
+
+1072
+00:27:25,110 --> 00:27:25,120
+So in these situations it is possible
+ 
+
+1073
+00:27:25,120 --> 00:27:27,750
+So in these situations it is possible
+that in fact there is inconsistency but
+
+1074
+00:27:27,750 --> 00:27:27,760
+that in fact there is inconsistency but
+ 
+
+1075
+00:27:27,760 --> 00:27:29,830
+that in fact there is inconsistency but
+that based on your analysis you are not
+
+1076
+00:27:29,830 --> 00:27:29,840
+that based on your analysis you are not
+ 
+
+1077
+00:27:29,840 --> 00:27:33,430
+that based on your analysis you are not
+able to confirm the existence of
+
+1078
+00:27:33,430 --> 00:27:33,440
+able to confirm the existence of
+ 
+
+1079
+00:27:33,440 --> 00:27:35,350
+able to confirm the existence of
+inconsistency.
+
+1080
+00:27:35,350 --> 00:27:35,360
+inconsistency.
+ 
+
+1081
+00:27:35,360 --> 00:27:38,789
+inconsistency.
+So you cannot consider a non-significant
+
+1082
+00:27:38,789 --> 00:27:38,799
+So you cannot consider a non-significant
+ 
+
+1083
+00:27:38,799 --> 00:27:42,230
+So you cannot consider a non-significant
+test of inconsistency as a proof that
+
+1084
+00:27:42,230 --> 00:27:42,240
+test of inconsistency as a proof that
+ 
+
+1085
+00:27:42,240 --> 00:27:44,870
+test of inconsistency as a proof that
+there is no inconsistency as a proof of
+
+1086
+00:27:44,870 --> 00:27:44,880
+there is no inconsistency as a proof of
+ 
+
+1087
+00:27:44,880 --> 00:27:53,350
+there is no inconsistency as a proof of
+the transitivity assumption.
+
+1088
+00:27:53,350 --> 00:27:53,360
+
+ 
+
+1089
+00:27:53,360 --> 00:27:55,269
+
+Now suppose that you found that there is
+
+1090
+00:27:55,269 --> 00:27:55,279
+Now suppose that you found that there is
+ 
+
+1091
+00:27:55,279 --> 00:27:56,789
+Now suppose that you found that there is
+inconsistency.
+
+1092
+00:27:56,789 --> 00:27:56,799
+inconsistency.
+ 
+
+1093
+00:27:56,799 --> 00:27:59,990
+inconsistency.
+How can can you continue? Well, if you
+
+1094
+00:27:59,990 --> 00:28:00,000
+How can can you continue? Well, if you
+ 
+
+1095
+00:28:00,000 --> 00:28:02,149
+How can can you continue? Well, if you
+found inconsistency, so you know that
+
+1096
+00:28:02,149 --> 00:28:02,159
+found inconsistency, so you know that
+ 
+
+1097
+00:28:02,159 --> 00:28:04,310
+found inconsistency, so you know that
+the transitivity assumption may not
+
+1098
+00:28:04,310 --> 00:28:04,320
+the transitivity assumption may not
+ 
+
+1099
+00:28:04,320 --> 00:28:07,830
+the transitivity assumption may not
+work. So maybe in that situation, it is
+
+1100
+00:28:07,830 --> 00:28:07,840
+work. So maybe in that situation, it is
+ 
+
+1101
+00:28:07,840 --> 00:28:11,350
+work. So maybe in that situation, it is
+safer to use the direct effect estimates
+
+1102
+00:28:11,350 --> 00:28:11,360
+safer to use the direct effect estimates
+ 
+
+1103
+00:28:11,360 --> 00:28:12,870
+safer to use the direct effect estimates
+only
+
+1104
+00:28:12,870 --> 00:28:12,880
+only
+ 
+
+1105
+00:28:12,880 --> 00:28:15,830
+only
+rather than uh also including indirect
+
+1106
+00:28:15,830 --> 00:28:15,840
+rather than uh also including indirect
+ 
+
+1107
+00:28:15,840 --> 00:28:18,470
+rather than uh also including indirect
+estimates.
+
+1108
+00:28:18,470 --> 00:28:18,480
+estimates.
+ 
+
+1109
+00:28:18,480 --> 00:28:21,510
+estimates.
+An alternative approach is to try to
+
+1110
+00:28:21,510 --> 00:28:21,520
+An alternative approach is to try to
+ 
+
+1111
+00:28:21,520 --> 00:28:24,789
+An alternative approach is to try to
+explain inconsistency.
+
+1112
+00:28:24,789 --> 00:28:24,799
+explain inconsistency.
+ 
+
+1113
+00:28:24,799 --> 00:28:29,190
+explain inconsistency.
+So you can look at effect modifiers
+
+1114
+00:28:29,190 --> 00:28:29,200
+So you can look at effect modifiers
+ 
+
+1115
+00:28:29,200 --> 00:28:31,350
+So you can look at effect modifiers
+uh or you can include effect modifiers
+
+1116
+00:28:31,350 --> 00:28:31,360
+uh or you can include effect modifiers
+ 
+
+1117
+00:28:31,360 --> 00:28:34,070
+uh or you can include effect modifiers
+in your model to try to correct for
+
+1118
+00:28:34,070 --> 00:28:34,080
+in your model to try to correct for
+ 
+
+1119
+00:28:34,080 --> 00:28:37,430
+in your model to try to correct for
+these effect modifiers and to reduce the
+
+1120
+00:28:37,430 --> 00:28:37,440
+these effect modifiers and to reduce the
+ 
+
+1121
+00:28:37,440 --> 00:28:40,870
+these effect modifiers and to reduce the
+variance um component referring to the
+
+1122
+00:28:40,870 --> 00:28:40,880
+variance um component referring to the
+ 
+
+1123
+00:28:40,880 --> 00:28:47,190
+variance um component referring to the
+inconsistency.
+
+1124
+00:28:47,190 --> 00:28:47,200
+
+ 
+
+1125
+00:28:47,200 --> 00:28:51,510
+
+or you can continue with um your effect
+
+1126
+00:28:51,510 --> 00:28:51,520
+or you can continue with um your effect
+ 
+
+1127
+00:28:51,520 --> 00:28:55,029
+or you can continue with um your effect
+estimates. But then it is important to
+
+1128
+00:28:55,029 --> 00:28:55,039
+estimates. But then it is important to
+ 
+
+1129
+00:28:55,039 --> 00:28:58,149
+estimates. But then it is important to
+take into account the variance referring
+
+1130
+00:28:58,149 --> 00:28:58,159
+take into account the variance referring
+ 
+
+1131
+00:28:58,159 --> 00:29:00,630
+take into account the variance referring
+to that inconsistency
+
+1132
+00:29:00,630 --> 00:29:00,640
+to that inconsistency
+ 
+
+1133
+00:29:00,640 --> 00:29:03,430
+to that inconsistency
+when um yeah when constructing
+
+1134
+00:29:03,430 --> 00:29:03,440
+when um yeah when constructing
+ 
+
+1135
+00:29:03,440 --> 00:29:07,269
+when um yeah when constructing
+confidence intervals uh around the um
+
+1136
+00:29:07,269 --> 00:29:07,279
+confidence intervals uh around the um
+ 
+
+1137
+00:29:07,279 --> 00:29:09,669
+confidence intervals uh around the um
+the treatment effects
+
+1138
+00:29:09,669 --> 00:29:09,679
+the treatment effects
+ 
+
+1139
+00:29:09,679 --> 00:29:11,909
+the treatment effects
+or for testing the treatment effects
+
+1140
+00:29:11,909 --> 00:29:11,919
+or for testing the treatment effects
+ 
+
+1141
+00:29:11,919 --> 00:29:15,430
+or for testing the treatment effects
+because this amount of inconsistency
+
+1142
+00:29:15,430 --> 00:29:15,440
+because this amount of inconsistency
+ 
+
+1143
+00:29:15,440 --> 00:29:18,070
+because this amount of inconsistency
+adds to the uncertainty about the
+
+1144
+00:29:18,070 --> 00:29:18,080
+adds to the uncertainty about the
+ 
+
+1145
+00:29:18,080 --> 00:29:22,870
+adds to the uncertainty about the
+treatment effects.
+
+1146
+00:29:22,870 --> 00:29:22,880
+
+ 
+
+1147
+00:29:22,880 --> 00:29:27,190
+
+Then a final a few final remarks. So how
+
+1148
+00:29:27,190 --> 00:29:27,200
+Then a final a few final remarks. So how
+ 
+
+1149
+00:29:27,200 --> 00:29:30,470
+Then a final a few final remarks. So how
+many treatments can you include in your
+
+1150
+00:29:30,470 --> 00:29:30,480
+many treatments can you include in your
+ 
+
+1151
+00:29:30,480 --> 00:29:31,990
+many treatments can you include in your
+network?
+
+1152
+00:29:31,990 --> 00:29:32,000
+network?
+ 
+
+1153
+00:29:32,000 --> 00:29:33,990
+network?
+So the broader you you make your
+
+1154
+00:29:33,990 --> 00:29:34,000
+So the broader you you make your
+ 
+
+1155
+00:29:34,000 --> 00:29:36,070
+So the broader you you make your
+network. So the more treatments you
+
+1156
+00:29:36,070 --> 00:29:36,080
+network. So the more treatments you
+ 
+
+1157
+00:29:36,080 --> 00:29:39,990
+network. So the more treatments you
+include in your network,
+
+1158
+00:29:39,990 --> 00:29:40,000
+include in your network,
+ 
+
+1159
+00:29:40,000 --> 00:29:41,990
+include in your network,
+the more interesting your meta analysis
+
+1160
+00:29:41,990 --> 00:29:42,000
+the more interesting your meta analysis
+ 
+
+1161
+00:29:42,000 --> 00:29:44,950
+the more interesting your meta analysis
+can become because then you compare more
+
+1162
+00:29:44,950 --> 00:29:44,960
+can become because then you compare more
+ 
+
+1163
+00:29:44,960 --> 00:29:47,590
+can become because then you compare more
+treatments with each other and um yeah
+
+1164
+00:29:47,590 --> 00:29:47,600
+treatments with each other and um yeah
+ 
+
+1165
+00:29:47,600 --> 00:29:51,590
+treatments with each other and um yeah
+it can be yeah you get more results, you
+
+1166
+00:29:51,590 --> 00:29:51,600
+it can be yeah you get more results, you
+ 
+
+1167
+00:29:51,600 --> 00:29:54,230
+it can be yeah you get more results, you
+see better what treatments are more
+
+1168
+00:29:54,230 --> 00:29:54,240
+see better what treatments are more
+ 
+
+1169
+00:29:54,240 --> 00:29:56,870
+see better what treatments are more
+effective than what other treatments but
+
+1170
+00:29:56,870 --> 00:29:56,880
+effective than what other treatments but
+ 
+
+1171
+00:29:56,880 --> 00:29:59,350
+effective than what other treatments but
+at the same time
+
+1172
+00:29:59,350 --> 00:29:59,360
+at the same time
+ 
+
+1173
+00:29:59,360 --> 00:30:01,190
+at the same time
+your analysis is becoming much more
+
+1174
+00:30:01,190 --> 00:30:01,200
+your analysis is becoming much more
+ 
+
+1175
+00:30:01,200 --> 00:30:05,029
+your analysis is becoming much more
+complex and especially you are making
+
+1176
+00:30:05,029 --> 00:30:05,039
+complex and especially you are making
+ 
+
+1177
+00:30:05,039 --> 00:30:07,750
+complex and especially you are making
+much more comparisons. So the number of
+
+1178
+00:30:07,750 --> 00:30:07,760
+much more comparisons. So the number of
+ 
+
+1179
+00:30:07,760 --> 00:30:11,029
+much more comparisons. So the number of
+comparisons, the numbers, the number of
+
+1180
+00:30:11,029 --> 00:30:11,039
+comparisons, the numbers, the number of
+ 
+
+1181
+00:30:11,039 --> 00:30:14,389
+comparisons, the numbers, the number of
+pairs of treatments that are compared is
+
+1182
+00:30:14,389 --> 00:30:14,399
+pairs of treatments that are compared is
+ 
+
+1183
+00:30:14,399 --> 00:30:16,710
+pairs of treatments that are compared is
+increasing
+
+1184
+00:30:16,710 --> 00:30:16,720
+increasing
+ 
+
+1185
+00:30:16,720 --> 00:30:21,350
+increasing
+to to a very large degree by including
+
+1186
+00:30:21,350 --> 00:30:21,360
+to to a very large degree by including
+ 
+
+1187
+00:30:21,360 --> 00:30:24,710
+to to a very large degree by including
+additional treatments.
+
+1188
+00:30:24,710 --> 00:30:24,720
+additional treatments.
+ 
+
+1189
+00:30:24,720 --> 00:30:26,789
+additional treatments.
+So this makes that you are estimating
+
+1190
+00:30:26,789 --> 00:30:26,799
+So this makes that you are estimating
+ 
+
+1191
+00:30:26,799 --> 00:30:30,149
+So this makes that you are estimating
+much more parameters
+
+1192
+00:30:30,149 --> 00:30:30,159
+much more parameters
+ 
+
+1193
+00:30:30,159 --> 00:30:33,430
+much more parameters
+and it is possible that at the end um
+
+1194
+00:30:33,430 --> 00:30:33,440
+and it is possible that at the end um
+ 
+
+1195
+00:30:33,440 --> 00:30:35,750
+and it is possible that at the end um
+yeah you do not get stable estimates
+
+1196
+00:30:35,750 --> 00:30:35,760
+yeah you do not get stable estimates
+ 
+
+1197
+00:30:35,760 --> 00:30:37,990
+yeah you do not get stable estimates
+anymore of the different treatment
+
+1198
+00:30:37,990 --> 00:30:38,000
+anymore of the different treatment
+ 
+
+1199
+00:30:38,000 --> 00:30:41,350
+anymore of the different treatment
+effects.
+
+1200
+00:30:41,350 --> 00:30:41,360
+
+ 
+
+1201
+00:30:41,360 --> 00:30:44,310
+
+The suggestion I also want to give is
+
+1202
+00:30:44,310 --> 00:30:44,320
+The suggestion I also want to give is
+ 
+
+1203
+00:30:44,320 --> 00:30:46,789
+The suggestion I also want to give is
+well if you doubt whether to include an
+
+1204
+00:30:46,789 --> 00:30:46,799
+well if you doubt whether to include an
+ 
+
+1205
+00:30:46,799 --> 00:30:50,149
+well if you doubt whether to include an
+additional uh treatment you can also do
+
+1206
+00:30:50,149 --> 00:30:50,159
+additional uh treatment you can also do
+ 
+
+1207
+00:30:50,159 --> 00:30:53,029
+additional uh treatment you can also do
+a sensitivity analysis. We can look at
+
+1208
+00:30:53,029 --> 00:30:53,039
+a sensitivity analysis. We can look at
+ 
+
+1209
+00:30:53,039 --> 00:30:57,350
+a sensitivity analysis. We can look at
+does the um effect that we estimate um
+
+1210
+00:30:57,350 --> 00:30:57,360
+does the um effect that we estimate um
+ 
+
+1211
+00:30:57,360 --> 00:31:02,549
+does the um effect that we estimate um
+for comparing A with C does it change
+
+1212
+00:31:02,549 --> 00:31:02,559
+for comparing A with C does it change
+ 
+
+1213
+00:31:02,559 --> 00:31:05,269
+for comparing A with C does it change
+when we do not include only A, B and C
+
+1214
+00:31:05,269 --> 00:31:05,279
+when we do not include only A, B and C
+ 
+
+1215
+00:31:05,279 --> 00:31:07,190
+when we do not include only A, B and C
+as
+
+1216
+00:31:07,190 --> 00:31:07,200
+as
+ 
+
+1217
+00:31:07,200 --> 00:31:10,230
+as
+treatments in our network but also a
+
+1218
+00:31:10,230 --> 00:31:10,240
+treatments in our network but also a
+ 
+
+1219
+00:31:10,240 --> 00:31:12,630
+treatments in our network but also a
+treatment D.
+
+1220
+00:31:12,630 --> 00:31:12,640
+treatment D.
+ 
+
+1221
+00:31:12,640 --> 00:31:15,029
+treatment D.
+So in that way you can see how stable
+
+1222
+00:31:15,029 --> 00:31:15,039
+So in that way you can see how stable
+ 
+
+1223
+00:31:15,039 --> 00:31:18,310
+So in that way you can see how stable
+your network uh analysis
+
+1224
+00:31:18,310 --> 00:31:18,320
+your network uh analysis
+ 
+
+1225
+00:31:18,320 --> 00:31:20,710
+your network uh analysis
+uh results are.
+
+1226
+00:31:20,710 --> 00:31:20,720
+uh results are.
+ 
+
+1227
+00:31:20,720 --> 00:31:22,470
+uh results are.
+And if you can see that results are not
+
+1228
+00:31:22,470 --> 00:31:22,480
+And if you can see that results are not
+ 
+
+1229
+00:31:22,480 --> 00:31:25,029
+And if you can see that results are not
+very stable, then it is important to be
+
+1230
+00:31:25,029 --> 00:31:25,039
+very stable, then it is important to be
+ 
+
+1231
+00:31:25,039 --> 00:31:28,310
+very stable, then it is important to be
+transparent about it and also warn uh
+
+1232
+00:31:28,310 --> 00:31:28,320
+transparent about it and also warn uh
+ 
+
+1233
+00:31:28,320 --> 00:31:31,190
+transparent about it and also warn uh
+the the reader of your paper that
+
+1234
+00:31:31,190 --> 00:31:31,200
+the the reader of your paper that
+ 
+
+1235
+00:31:31,200 --> 00:31:33,669
+the the reader of your paper that
+results are not very stable or you can
+
+1236
+00:31:33,669 --> 00:31:33,679
+results are not very stable or you can
+ 
+
+1237
+00:31:33,679 --> 00:31:36,230
+results are not very stable or you can
+simplify your model and exclude some of
+
+1238
+00:31:36,230 --> 00:31:36,240
+simplify your model and exclude some of
+ 
+
+1239
+00:31:36,240 --> 00:31:39,350
+simplify your model and exclude some of
+the treatments to make the results more
+
+1240
+00:31:39,350 --> 00:31:39,360
+the treatments to make the results more
+ 
+
+1241
+00:31:39,360 --> 00:31:46,470
+the treatments to make the results more
+stable.
+
+1242
+00:31:46,470 --> 00:31:46,480
+
+ 
+
+1243
+00:31:46,480 --> 00:31:50,070
+
+A second remark is that well up to now I
+
+1244
+00:31:50,070 --> 00:31:50,080
+A second remark is that well up to now I
+ 
+
+1245
+00:31:50,080 --> 00:31:53,190
+A second remark is that well up to now I
+assumed that all studies include only
+
+1246
+00:31:53,190 --> 00:31:53,200
+assumed that all studies include only
+ 
+
+1247
+00:31:53,200 --> 00:31:58,070
+assumed that all studies include only
+one effect. So that um for instance uh
+
+1248
+00:31:58,070 --> 00:31:58,080
+one effect. So that um for instance uh
+ 
+
+1249
+00:31:58,080 --> 00:32:00,470
+one effect. So that um for instance uh
+each study is comparing one treatment
+
+1250
+00:32:00,470 --> 00:32:00,480
+each study is comparing one treatment
+ 
+
+1251
+00:32:00,480 --> 00:32:02,389
+each study is comparing one treatment
+with a control condition or one
+
+1252
+00:32:02,389 --> 00:32:02,399
+with a control condition or one
+ 
+
+1253
+00:32:02,399 --> 00:32:05,269
+with a control condition or one
+treatment with another treatment. But
+
+1254
+00:32:05,269 --> 00:32:05,279
+treatment with another treatment. But
+ 
+
+1255
+00:32:05,279 --> 00:32:06,870
+treatment with another treatment. But
+sometimes
+
+1256
+00:32:06,870 --> 00:32:06,880
+sometimes
+ 
+
+1257
+00:32:06,880 --> 00:32:11,269
+sometimes
+um in one and the same study multiple
+
+1258
+00:32:11,269 --> 00:32:11,279
+um in one and the same study multiple
+ 
+
+1259
+00:32:11,279 --> 00:32:15,590
+um in one and the same study multiple
+treatments are uh compared directly. So
+
+1260
+00:32:15,590 --> 00:32:15,600
+treatments are uh compared directly. So
+ 
+
+1261
+00:32:15,600 --> 00:32:19,190
+treatments are uh compared directly. So
+in that u sense or in that in that
+
+1262
+00:32:19,190 --> 00:32:19,200
+in that u sense or in that in that
+ 
+
+1263
+00:32:19,200 --> 00:32:21,269
+in that u sense or in that in that
+situation we talk about a multi-arm
+
+1264
+00:32:21,269 --> 00:32:21,279
+situation we talk about a multi-arm
+ 
+
+1265
+00:32:21,279 --> 00:32:23,190
+situation we talk about a multi-arm
+study.
+
+1266
+00:32:23,190 --> 00:32:23,200
+study.
+ 
+
+1267
+00:32:23,200 --> 00:32:27,509
+study.
+So such studies will give multiple
+
+1268
+00:32:27,509 --> 00:32:27,519
+So such studies will give multiple
+ 
+
+1269
+00:32:27,519 --> 00:32:30,789
+So such studies will give multiple
+effect sizes will give multiple
+
+1270
+00:32:30,789 --> 00:32:30,799
+effect sizes will give multiple
+ 
+
+1271
+00:32:30,799 --> 00:32:33,669
+effect sizes will give multiple
+standardized mean differences and so we
+
+1272
+00:32:33,669 --> 00:32:33,679
+standardized mean differences and so we
+ 
+
+1273
+00:32:33,679 --> 00:32:36,549
+standardized mean differences and so we
+should take into account that these
+
+1274
+00:32:36,549 --> 00:32:36,559
+should take into account that these
+ 
+
+1275
+00:32:36,559 --> 00:32:39,669
+should take into account that these
+multiple effect sizes are coming from
+
+1276
+00:32:39,669 --> 00:32:39,679
+multiple effect sizes are coming from
+ 
+
+1277
+00:32:39,679 --> 00:32:43,269
+multiple effect sizes are coming from
+the same study and so in that sense that
+
+1278
+00:32:43,269 --> 00:32:43,279
+the same study and so in that sense that
+ 
+
+1279
+00:32:43,279 --> 00:32:46,389
+the same study and so in that sense that
+there they are not independent of each
+
+1280
+00:32:46,389 --> 00:32:46,399
+there they are not independent of each
+ 
+
+1281
+00:32:46,399 --> 00:32:49,029
+there they are not independent of each
+other or there is some overlap in
+
+1282
+00:32:49,029 --> 00:32:49,039
+other or there is some overlap in
+ 
+
+1283
+00:32:49,039 --> 00:32:51,430
+other or there is some overlap in
+information. So we should take into
+
+1284
+00:32:51,430 --> 00:32:51,440
+information. So we should take into
+ 
+
+1285
+00:32:51,440 --> 00:32:54,310
+information. So we should take into
+account that correlation between effect
+
+1286
+00:32:54,310 --> 00:32:54,320
+account that correlation between effect
+ 
+
+1287
+00:32:54,320 --> 00:32:58,789
+account that correlation between effect
+sizes coming from the same study.
+
+1288
+00:32:58,789 --> 00:32:58,799
+sizes coming from the same study.
+ 
+
+1289
+00:32:58,799 --> 00:33:01,110
+sizes coming from the same study.
+But I'm not going to give more details
+
+1290
+00:33:01,110 --> 00:33:01,120
+But I'm not going to give more details
+ 
+
+1291
+00:33:01,120 --> 00:33:03,909
+But I'm not going to give more details
+about uh the techniques for network meta
+
+1292
+00:33:03,909 --> 00:33:03,919
+about uh the techniques for network meta
+ 
+
+1293
+00:33:03,919 --> 00:33:06,919
+about uh the techniques for network meta
+analysis.
+

@@ -1,0 +1,9535 @@
+1
+00:00:01,199 --> 00:00:03,909
+
+In this video, we will look at the study
+
+2
+00:00:03,909 --> 00:00:03,919
+In this video, we will look at the study
+ 
+
+3
+00:00:03,919 --> 00:00:06,950
+In this video, we will look at the study
+retrieval.
+
+4
+00:00:06,950 --> 00:00:06,960
+
+ 
+
+5
+00:00:06,960 --> 00:00:09,350
+
+In the introduction, we have seen that a
+
+6
+00:00:09,350 --> 00:00:09,360
+In the introduction, we have seen that a
+ 
+
+7
+00:00:09,360 --> 00:00:11,270
+In the introduction, we have seen that a
+meta analysis typically consists of
+
+8
+00:00:11,270 --> 00:00:11,280
+meta analysis typically consists of
+ 
+
+9
+00:00:11,280 --> 00:00:13,430
+meta analysis typically consists of
+eight steps.
+
+10
+00:00:13,430 --> 00:00:13,440
+eight steps.
+ 
+
+11
+00:00:13,440 --> 00:00:15,749
+eight steps.
+In this video, we will look at the first
+
+12
+00:00:15,749 --> 00:00:15,759
+In this video, we will look at the first
+ 
+
+13
+00:00:15,759 --> 00:00:18,310
+In this video, we will look at the first
+three steps. Formulating a research
+
+14
+00:00:18,310 --> 00:00:18,320
+three steps. Formulating a research
+ 
+
+15
+00:00:18,320 --> 00:00:20,950
+three steps. Formulating a research
+question, doing a systematic search for
+
+16
+00:00:20,950 --> 00:00:20,960
+question, doing a systematic search for
+ 
+
+17
+00:00:20,960 --> 00:00:23,509
+question, doing a systematic search for
+studies, and selecting the relevant
+
+18
+00:00:23,509 --> 00:00:23,519
+studies, and selecting the relevant
+ 
+
+19
+00:00:23,519 --> 00:00:27,109
+studies, and selecting the relevant
+studies.
+
+20
+00:00:27,109 --> 00:00:27,119
+
+ 
+
+21
+00:00:27,119 --> 00:00:30,070
+
+Let's first look at the first step. the
+
+22
+00:00:30,070 --> 00:00:30,080
+Let's first look at the first step. the
+ 
+
+23
+00:00:30,080 --> 00:00:35,990
+Let's first look at the first step. the
+formulation of the research problem
+
+24
+00:00:35,990 --> 00:00:36,000
+
+ 
+
+25
+00:00:36,000 --> 00:00:38,950
+
+as well as in other studies. It is
+
+26
+00:00:38,950 --> 00:00:38,960
+as well as in other studies. It is
+ 
+
+27
+00:00:38,960 --> 00:00:41,110
+as well as in other studies. It is
+important that you have a clear problem
+
+28
+00:00:41,110 --> 00:00:41,120
+important that you have a clear problem
+ 
+
+29
+00:00:41,120 --> 00:00:43,990
+important that you have a clear problem
+for formulation. So before you start
+
+30
+00:00:43,990 --> 00:00:44,000
+for formulation. So before you start
+ 
+
+31
+00:00:44,000 --> 00:00:47,590
+for formulation. So before you start
+your study, so before you collect data,
+
+32
+00:00:47,590 --> 00:00:47,600
+your study, so before you collect data,
+ 
+
+33
+00:00:47,600 --> 00:00:50,790
+your study, so before you collect data,
+it is good that you know very well what
+
+34
+00:00:50,790 --> 00:00:50,800
+it is good that you know very well what
+ 
+
+35
+00:00:50,800 --> 00:00:54,470
+it is good that you know very well what
+exactly you want to study.
+
+36
+00:00:54,470 --> 00:00:54,480
+exactly you want to study.
+ 
+
+37
+00:00:54,480 --> 00:00:56,150
+exactly you want to study.
+So this includes information on for
+
+38
+00:00:56,150 --> 00:00:56,160
+So this includes information on for
+ 
+
+39
+00:00:56,160 --> 00:00:58,150
+So this includes information on for
+instance a population. So about what
+
+40
+00:00:58,150 --> 00:00:58,160
+instance a population. So about what
+ 
+
+41
+00:00:58,160 --> 00:01:01,590
+instance a population. So about what
+units you want to say something
+
+42
+00:01:01,590 --> 00:01:01,600
+units you want to say something
+ 
+
+43
+00:01:01,600 --> 00:01:04,229
+units you want to say something
+the variables. So what characteristics
+
+44
+00:01:04,229 --> 00:01:04,239
+the variables. So what characteristics
+ 
+
+45
+00:01:04,239 --> 00:01:06,950
+the variables. So what characteristics
+you are interested in
+
+46
+00:01:06,950 --> 00:01:06,960
+you are interested in
+ 
+
+47
+00:01:06,960 --> 00:01:08,950
+you are interested in
+possible hypothesis or research
+
+48
+00:01:08,950 --> 00:01:08,960
+possible hypothesis or research
+ 
+
+49
+00:01:08,960 --> 00:01:11,670
+possible hypothesis or research
+questions. So these are about the
+
+50
+00:01:11,670 --> 00:01:11,680
+questions. So these are about the
+ 
+
+51
+00:01:11,680 --> 00:01:14,710
+questions. So these are about the
+relations between these variables
+
+52
+00:01:14,710 --> 00:01:14,720
+relations between these variables
+ 
+
+53
+00:01:14,720 --> 00:01:17,830
+relations between these variables
+and then finally a further limitation of
+
+54
+00:01:17,830 --> 00:01:17,840
+and then finally a further limitation of
+ 
+
+55
+00:01:17,840 --> 00:01:20,630
+and then finally a further limitation of
+the problem. So you you want to define
+
+56
+00:01:20,630 --> 00:01:20,640
+the problem. So you you want to define
+ 
+
+57
+00:01:20,640 --> 00:01:24,070
+the problem. So you you want to define
+what exactly you want to study um about
+
+58
+00:01:24,070 --> 00:01:24,080
+what exactly you want to study um about
+ 
+
+59
+00:01:24,080 --> 00:01:29,030
+what exactly you want to study um about
+these hypothesis or research questions.
+
+60
+00:01:29,030 --> 00:01:29,040
+
+ 
+
+61
+00:01:29,040 --> 00:01:31,429
+
+To give an example, suppose in a study
+
+62
+00:01:31,429 --> 00:01:31,439
+To give an example, suppose in a study
+ 
+
+63
+00:01:31,439 --> 00:01:34,230
+To give an example, suppose in a study
+one is interested in the relationship
+
+64
+00:01:34,230 --> 00:01:34,240
+one is interested in the relationship
+ 
+
+65
+00:01:34,240 --> 00:01:36,630
+one is interested in the relationship
+between challenging behavior of persons
+
+66
+00:01:36,630 --> 00:01:36,640
+between challenging behavior of persons
+ 
+
+67
+00:01:36,640 --> 00:01:39,190
+between challenging behavior of persons
+with mental retardradation and the
+
+68
+00:01:39,190 --> 00:01:39,200
+with mental retardradation and the
+ 
+
+69
+00:01:39,200 --> 00:01:41,990
+with mental retardradation and the
+behavior of staff.
+
+70
+00:01:41,990 --> 00:01:42,000
+behavior of staff.
+ 
+
+71
+00:01:42,000 --> 00:01:45,350
+behavior of staff.
+This research question may be too broad.
+
+72
+00:01:45,350 --> 00:01:45,360
+This research question may be too broad.
+ 
+
+73
+00:01:45,360 --> 00:01:47,830
+This research question may be too broad.
+If you were to do a met analysis, then
+
+74
+00:01:47,830 --> 00:01:47,840
+If you were to do a met analysis, then
+ 
+
+75
+00:01:47,840 --> 00:01:50,310
+If you were to do a met analysis, then
+it is possible that you will find a lot
+
+76
+00:01:50,310 --> 00:01:50,320
+it is possible that you will find a lot
+ 
+
+77
+00:01:50,320 --> 00:01:53,350
+it is possible that you will find a lot
+of studies and also very yeah
+
+78
+00:01:53,350 --> 00:01:53,360
+of studies and also very yeah
+ 
+
+79
+00:01:53,360 --> 00:01:55,670
+of studies and also very yeah
+heterogeneous studies. So it may be a
+
+80
+00:01:55,670 --> 00:01:55,680
+heterogeneous studies. So it may be a
+ 
+
+81
+00:01:55,680 --> 00:01:58,389
+heterogeneous studies. So it may be a
+better idea idea to limit the problem
+
+82
+00:01:58,389 --> 00:01:58,399
+better idea idea to limit the problem
+ 
+
+83
+00:01:58,399 --> 00:02:01,270
+better idea idea to limit the problem
+somewhat. For instance, it's possible to
+
+84
+00:02:01,270 --> 00:02:01,280
+somewhat. For instance, it's possible to
+ 
+
+85
+00:02:01,280 --> 00:02:06,469
+somewhat. For instance, it's possible to
+limit the problem to uh the self-injury
+
+86
+00:02:06,469 --> 00:02:06,479
+limit the problem to uh the self-injury
+ 
+
+87
+00:02:06,479 --> 00:02:10,869
+limit the problem to uh the self-injury
+injurous behavior of persons with severe
+
+88
+00:02:10,869 --> 00:02:10,879
+injurous behavior of persons with severe
+ 
+
+89
+00:02:10,879 --> 00:02:14,309
+injurous behavior of persons with severe
+mental retardradition and stimulating
+
+90
+00:02:14,309 --> 00:02:14,319
+mental retardradition and stimulating
+ 
+
+91
+00:02:14,319 --> 00:02:17,510
+mental retardradition and stimulating
+behavior of staff. So you limit the
+
+92
+00:02:17,510 --> 00:02:17,520
+behavior of staff. So you limit the
+ 
+
+93
+00:02:17,520 --> 00:02:19,589
+behavior of staff. So you limit the
+problem by looking at the specific
+
+94
+00:02:19,589 --> 00:02:19,599
+problem by looking at the specific
+ 
+
+95
+00:02:19,599 --> 00:02:23,990
+problem by looking at the specific
+behavior of um persons with retradation
+
+96
+00:02:23,990 --> 00:02:24,000
+behavior of um persons with retradation
+ 
+
+97
+00:02:24,000 --> 00:02:26,790
+behavior of um persons with retradation
+and specific behavior of the staff and
+
+98
+00:02:26,790 --> 00:02:26,800
+and specific behavior of the staff and
+ 
+
+99
+00:02:26,800 --> 00:02:29,510
+and specific behavior of the staff and
+you look at a subgroup of persons with
+
+100
+00:02:29,510 --> 00:02:29,520
+you look at a subgroup of persons with
+ 
+
+101
+00:02:29,520 --> 00:02:32,550
+you look at a subgroup of persons with
+mental retradation. So this may make
+
+102
+00:02:32,550 --> 00:02:32,560
+mental retradation. So this may make
+ 
+
+103
+00:02:32,560 --> 00:02:35,190
+mental retradation. So this may make
+your systematic review or meta analysis
+
+104
+00:02:35,190 --> 00:02:35,200
+your systematic review or meta analysis
+ 
+
+105
+00:02:35,200 --> 00:02:40,949
+your systematic review or meta analysis
+more uh realistic more feasible
+
+106
+00:02:40,949 --> 00:02:40,959
+
+ 
+
+107
+00:02:40,959 --> 00:02:43,990
+
+to define the research question. A
+
+108
+00:02:43,990 --> 00:02:44,000
+to define the research question. A
+ 
+
+109
+00:02:44,000 --> 00:02:47,750
+to define the research question. A
+helpful model is the PICO model.
+
+110
+00:02:47,750 --> 00:02:47,760
+helpful model is the PICO model.
+ 
+
+111
+00:02:47,760 --> 00:02:50,150
+helpful model is the PICO model.
+In the PICO model, the P stands for the
+
+112
+00:02:50,150 --> 00:02:50,160
+In the PICO model, the P stands for the
+ 
+
+113
+00:02:50,160 --> 00:02:52,150
+In the PICO model, the P stands for the
+population,
+
+114
+00:02:52,150 --> 00:02:52,160
+population,
+ 
+
+115
+00:02:52,160 --> 00:02:54,309
+population,
+the I stands for the intervention or the
+
+116
+00:02:54,309 --> 00:02:54,319
+the I stands for the intervention or the
+ 
+
+117
+00:02:54,319 --> 00:02:56,949
+the I stands for the intervention or the
+interest, the C for the comparison, and
+
+118
+00:02:56,949 --> 00:02:56,959
+interest, the C for the comparison, and
+ 
+
+119
+00:02:56,959 --> 00:02:59,670
+interest, the C for the comparison, and
+the O for the outcome.
+
+120
+00:02:59,670 --> 00:02:59,680
+the O for the outcome.
+ 
+
+121
+00:02:59,680 --> 00:03:03,030
+the O for the outcome.
+So, a good research question
+
+122
+00:03:03,030 --> 00:03:03,040
+So, a good research question
+ 
+
+123
+00:03:03,040 --> 00:03:05,350
+So, a good research question
+says something about these four
+
+124
+00:03:05,350 --> 00:03:05,360
+says something about these four
+ 
+
+125
+00:03:05,360 --> 00:03:08,309
+says something about these four
+elements.
+
+126
+00:03:08,309 --> 00:03:08,319
+elements.
+ 
+
+127
+00:03:08,319 --> 00:03:10,390
+elements.
+To give an example,
+
+128
+00:03:10,390 --> 00:03:10,400
+To give an example,
+ 
+
+129
+00:03:10,400 --> 00:03:12,470
+To give an example,
+a good question could be what is the
+
+130
+00:03:12,470 --> 00:03:12,480
+a good question could be what is the
+ 
+
+131
+00:03:12,480 --> 00:03:15,910
+a good question could be what is the
+effect on drug abuse in secondary school
+
+132
+00:03:15,910 --> 00:03:15,920
+effect on drug abuse in secondary school
+ 
+
+133
+00:03:15,920 --> 00:03:19,430
+effect on drug abuse in secondary school
+students of giving information at school
+
+134
+00:03:19,430 --> 00:03:19,440
+students of giving information at school
+ 
+
+135
+00:03:19,440 --> 00:03:21,830
+students of giving information at school
+rather than giving sanctions to drug
+
+136
+00:03:21,830 --> 00:03:21,840
+rather than giving sanctions to drug
+ 
+
+137
+00:03:21,840 --> 00:03:25,030
+rather than giving sanctions to drug
+users. So the population are students
+
+138
+00:03:25,030 --> 00:03:25,040
+users. So the population are students
+ 
+
+139
+00:03:25,040 --> 00:03:27,750
+users. So the population are students
+from secondary schools.
+
+140
+00:03:27,750 --> 00:03:27,760
+from secondary schools.
+ 
+
+141
+00:03:27,760 --> 00:03:30,710
+from secondary schools.
+intervention is giving information at
+
+142
+00:03:30,710 --> 00:03:30,720
+intervention is giving information at
+ 
+
+143
+00:03:30,720 --> 00:03:32,309
+intervention is giving information at
+school
+
+144
+00:03:32,309 --> 00:03:32,319
+school
+ 
+
+145
+00:03:32,319 --> 00:03:34,869
+school
+and you compare
+
+146
+00:03:34,869 --> 00:03:34,879
+and you compare
+ 
+
+147
+00:03:34,879 --> 00:03:37,589
+and you compare
+this intervention with another uh
+
+148
+00:03:37,589 --> 00:03:37,599
+this intervention with another uh
+ 
+
+149
+00:03:37,599 --> 00:03:39,589
+this intervention with another uh
+condition more specifically giving
+
+150
+00:03:39,589 --> 00:03:39,599
+condition more specifically giving
+ 
+
+151
+00:03:39,599 --> 00:03:43,430
+condition more specifically giving
+sanctions to drug users and to evaluate
+
+152
+00:03:43,430 --> 00:03:43,440
+sanctions to drug users and to evaluate
+ 
+
+153
+00:03:43,440 --> 00:03:45,270
+sanctions to drug users and to evaluate
+that intervention you look at the
+
+154
+00:03:45,270 --> 00:03:45,280
+that intervention you look at the
+ 
+
+155
+00:03:45,280 --> 00:03:51,990
+that intervention you look at the
+outcome drug abuse.
+
+156
+00:03:51,990 --> 00:03:52,000
+
+ 
+
+157
+00:03:52,000 --> 00:03:53,910
+
+Next, you're going to search for
+
+158
+00:03:53,910 --> 00:03:53,920
+Next, you're going to search for
+ 
+
+159
+00:03:53,920 --> 00:03:58,229
+Next, you're going to search for
+studies.
+
+160
+00:03:58,229 --> 00:03:58,239
+
+ 
+
+161
+00:03:58,239 --> 00:04:00,630
+
+And very often, we want to do a
+
+162
+00:04:00,630 --> 00:04:00,640
+And very often, we want to do a
+ 
+
+163
+00:04:00,640 --> 00:04:03,429
+And very often, we want to do a
+systematic search. So, if you want to do
+
+164
+00:04:03,429 --> 00:04:03,439
+systematic search. So, if you want to do
+ 
+
+165
+00:04:03,439 --> 00:04:06,070
+systematic search. So, if you want to do
+a systematic review, then we need to do
+
+166
+00:04:06,070 --> 00:04:06,080
+a systematic review, then we need to do
+ 
+
+167
+00:04:06,080 --> 00:04:09,350
+a systematic review, then we need to do
+a systematic search as well. And we talk
+
+168
+00:04:09,350 --> 00:04:09,360
+a systematic search as well. And we talk
+ 
+
+169
+00:04:09,360 --> 00:04:11,990
+a systematic search as well. And we talk
+about a systematic search. If we are
+
+170
+00:04:11,990 --> 00:04:12,000
+about a systematic search. If we are
+ 
+
+171
+00:04:12,000 --> 00:04:15,589
+about a systematic search. If we are
+using a thorough and transparent search
+
+172
+00:04:15,589 --> 00:04:15,599
+using a thorough and transparent search
+ 
+
+173
+00:04:15,599 --> 00:04:19,030
+using a thorough and transparent search
+for all relevant studies,
+
+174
+00:04:19,030 --> 00:04:19,040
+for all relevant studies,
+ 
+
+175
+00:04:19,040 --> 00:04:21,990
+for all relevant studies,
+published and unpublished studies. So we
+
+176
+00:04:21,990 --> 00:04:22,000
+published and unpublished studies. So we
+ 
+
+177
+00:04:22,000 --> 00:04:23,990
+published and unpublished studies. So we
+look at articles, books, conference
+
+178
+00:04:23,990 --> 00:04:24,000
+look at articles, books, conference
+ 
+
+179
+00:04:24,000 --> 00:04:26,950
+look at articles, books, conference
+papers, dissertations, research reports
+
+180
+00:04:26,950 --> 00:04:26,960
+papers, dissertations, research reports
+ 
+
+181
+00:04:26,960 --> 00:04:30,390
+papers, dissertations, research reports
+and so on. So we look for all studies
+
+182
+00:04:30,390 --> 00:04:30,400
+and so on. So we look for all studies
+ 
+
+183
+00:04:30,400 --> 00:04:33,430
+and so on. So we look for all studies
+that potentially say something um about
+
+184
+00:04:33,430 --> 00:04:33,440
+that potentially say something um about
+ 
+
+185
+00:04:33,440 --> 00:04:38,950
+that potentially say something um about
+our research question.
+
+186
+00:04:38,950 --> 00:04:38,960
+
+ 
+
+187
+00:04:38,960 --> 00:04:41,430
+
+To that end, we can look for literature
+
+188
+00:04:41,430 --> 00:04:41,440
+To that end, we can look for literature
+ 
+
+189
+00:04:41,440 --> 00:04:45,110
+To that end, we can look for literature
+in several steps. I will discuss six
+
+190
+00:04:45,110 --> 00:04:45,120
+in several steps. I will discuss six
+ 
+
+191
+00:04:45,120 --> 00:04:48,790
+in several steps. I will discuss six
+possible steps.
+
+192
+00:04:48,790 --> 00:04:48,800
+
+ 
+
+193
+00:04:48,800 --> 00:04:52,150
+
+The first step is the use of online uh
+
+194
+00:04:52,150 --> 00:04:52,160
+The first step is the use of online uh
+ 
+
+195
+00:04:52,160 --> 00:04:53,909
+The first step is the use of online uh
+databases.
+
+196
+00:04:53,909 --> 00:04:53,919
+databases.
+ 
+
+197
+00:04:53,919 --> 00:04:55,749
+databases.
+So, it may be a good idea to ask
+
+198
+00:04:55,749 --> 00:04:55,759
+So, it may be a good idea to ask
+ 
+
+199
+00:04:55,759 --> 00:04:57,590
+So, it may be a good idea to ask
+somebody working in a library to help
+
+200
+00:04:57,590 --> 00:04:57,600
+somebody working in a library to help
+ 
+
+201
+00:04:57,600 --> 00:04:59,189
+somebody working in a library to help
+you with that.
+
+202
+00:04:59,189 --> 00:04:59,199
+you with that.
+ 
+
+203
+00:04:59,199 --> 00:05:02,150
+you with that.
+or you can find on the website of uh the
+
+204
+00:05:02,150 --> 00:05:02,160
+or you can find on the website of uh the
+ 
+
+205
+00:05:02,160 --> 00:05:04,710
+or you can find on the website of uh the
+university libraries
+
+206
+00:05:04,710 --> 00:05:04,720
+university libraries
+ 
+
+207
+00:05:04,720 --> 00:05:08,070
+university libraries
+uh some information about how you can
+
+208
+00:05:08,070 --> 00:05:08,080
+uh some information about how you can
+ 
+
+209
+00:05:08,080 --> 00:05:12,310
+uh some information about how you can
+search databases.
+
+210
+00:05:12,310 --> 00:05:12,320
+
+ 
+
+211
+00:05:12,320 --> 00:05:14,469
+
+There are several databases to which uh
+
+212
+00:05:14,469 --> 00:05:14,479
+There are several databases to which uh
+ 
+
+213
+00:05:14,479 --> 00:05:17,830
+There are several databases to which uh
+we have access at the gloven the more
+
+214
+00:05:17,830 --> 00:05:17,840
+we have access at the gloven the more
+ 
+
+215
+00:05:17,840 --> 00:05:20,150
+we have access at the gloven the more
+the most important databases probably
+
+216
+00:05:20,150 --> 00:05:20,160
+the most important databases probably
+ 
+
+217
+00:05:20,160 --> 00:05:24,150
+the most important databases probably
+are ERIC psychonfo
+
+218
+00:05:24,150 --> 00:05:24,160
+
+ 
+
+219
+00:05:24,160 --> 00:05:26,310
+
+citation abstracts international web of
+
+220
+00:05:26,310 --> 00:05:26,320
+citation abstracts international web of
+ 
+
+221
+00:05:26,320 --> 00:05:30,550
+citation abstracts international web of
+science and so on.
+
+222
+00:05:30,550 --> 00:05:30,560
+
+ 
+
+223
+00:05:30,560 --> 00:05:34,230
+
+We can also use Google or Google Scholar
+
+224
+00:05:34,230 --> 00:05:34,240
+We can also use Google or Google Scholar
+ 
+
+225
+00:05:34,240 --> 00:05:36,629
+We can also use Google or Google Scholar
+uh to look for interesting studies or
+
+226
+00:05:36,629 --> 00:05:36,639
+uh to look for interesting studies or
+ 
+
+227
+00:05:36,639 --> 00:05:39,430
+uh to look for interesting studies or
+other search engines like Alta Vista or
+
+228
+00:05:39,430 --> 00:05:39,440
+other search engines like Alta Vista or
+ 
+
+229
+00:05:39,440 --> 00:05:44,150
+other search engines like Alta Vista or
+Jahu. But a problem with these um search
+
+230
+00:05:44,150 --> 00:05:44,160
+Jahu. But a problem with these um search
+ 
+
+231
+00:05:44,160 --> 00:05:47,430
+Jahu. But a problem with these um search
+engines is that
+
+232
+00:05:47,430 --> 00:05:47,440
+engines is that
+ 
+
+233
+00:05:47,440 --> 00:05:50,469
+engines is that
+you cannot replicate the search. I mean
+
+234
+00:05:50,469 --> 00:05:50,479
+you cannot replicate the search. I mean
+ 
+
+235
+00:05:50,479 --> 00:05:53,590
+you cannot replicate the search. I mean
+if somebody else would uh try to repeat
+
+236
+00:05:53,590 --> 00:05:53,600
+if somebody else would uh try to repeat
+ 
+
+237
+00:05:53,600 --> 00:05:55,510
+if somebody else would uh try to repeat
+your search
+
+238
+00:05:55,510 --> 00:05:55,520
+your search
+ 
+
+239
+00:05:55,520 --> 00:05:57,590
+your search
+uh say in for instance one year or two
+
+240
+00:05:57,590 --> 00:05:57,600
+uh say in for instance one year or two
+ 
+
+241
+00:05:57,600 --> 00:06:00,870
+uh say in for instance one year or two
+years the person will probably not get
+
+242
+00:06:00,870 --> 00:06:00,880
+years the person will probably not get
+ 
+
+243
+00:06:00,880 --> 00:06:04,150
+years the person will probably not get
+exactly the same hits as you got uh when
+
+244
+00:06:04,150 --> 00:06:04,160
+exactly the same hits as you got uh when
+ 
+
+245
+00:06:04,160 --> 00:06:06,950
+exactly the same hits as you got uh when
+you do the search. Now this is not true
+
+246
+00:06:06,950 --> 00:06:06,960
+you do the search. Now this is not true
+ 
+
+247
+00:06:06,960 --> 00:06:09,110
+you do the search. Now this is not true
+for the other databases. So if you use
+
+248
+00:06:09,110 --> 00:06:09,120
+for the other databases. So if you use
+ 
+
+249
+00:06:09,120 --> 00:06:12,150
+for the other databases. So if you use
+for instance ERIC, if you search today
+
+250
+00:06:12,150 --> 00:06:12,160
+for instance ERIC, if you search today
+ 
+
+251
+00:06:12,160 --> 00:06:14,950
+for instance ERIC, if you search today
+in the ERIC database with a set of
+
+252
+00:06:14,950 --> 00:06:14,960
+in the ERIC database with a set of
+ 
+
+253
+00:06:14,960 --> 00:06:17,590
+in the ERIC database with a set of
+keywords and you do the same search
+
+254
+00:06:17,590 --> 00:06:17,600
+keywords and you do the same search
+ 
+
+255
+00:06:17,600 --> 00:06:20,870
+keywords and you do the same search
+again next year with the same keywords
+
+256
+00:06:20,870 --> 00:06:20,880
+again next year with the same keywords
+ 
+
+257
+00:06:20,880 --> 00:06:22,950
+again next year with the same keywords
+and you say I'm only interested in
+
+258
+00:06:22,950 --> 00:06:22,960
+and you say I'm only interested in
+ 
+
+259
+00:06:22,960 --> 00:06:26,390
+and you say I'm only interested in
+studies until for instance the end of
+
+260
+00:06:26,390 --> 00:06:26,400
+studies until for instance the end of
+ 
+
+261
+00:06:26,400 --> 00:06:29,909
+studies until for instance the end of
+2021, you will get exactly the same
+
+262
+00:06:29,909 --> 00:06:29,919
+2021, you will get exactly the same
+ 
+
+263
+00:06:29,919 --> 00:06:32,070
+2021, you will get exactly the same
+results.
+
+264
+00:06:32,070 --> 00:06:32,080
+results.
+ 
+
+265
+00:06:32,080 --> 00:06:35,510
+results.
+So you can replicate um the search if
+
+266
+00:06:35,510 --> 00:06:35,520
+So you can replicate um the search if
+ 
+
+267
+00:06:35,520 --> 00:06:37,830
+So you can replicate um the search if
+you use such a database which is not the
+
+268
+00:06:37,830 --> 00:06:37,840
+you use such a database which is not the
+ 
+
+269
+00:06:37,840 --> 00:06:39,990
+you use such a database which is not the
+case for Google, Google Scholar, Alta
+
+270
+00:06:39,990 --> 00:06:40,000
+case for Google, Google Scholar, Alta
+ 
+
+271
+00:06:40,000 --> 00:06:43,029
+case for Google, Google Scholar, Alta
+Vista, Jahu and so on. So that's a
+
+272
+00:06:43,029 --> 00:06:43,039
+Vista, Jahu and so on. So that's a
+ 
+
+273
+00:06:43,039 --> 00:06:47,110
+Vista, Jahu and so on. So that's a
+reason for using um these scientific
+
+274
+00:06:47,110 --> 00:06:47,120
+reason for using um these scientific
+ 
+
+275
+00:06:47,120 --> 00:06:50,790
+reason for using um these scientific
+databases only.
+
+276
+00:06:50,790 --> 00:06:50,800
+databases only.
+ 
+
+277
+00:06:50,800 --> 00:06:54,309
+databases only.
+The same is true for Limo or Limo. This
+
+278
+00:06:54,309 --> 00:06:54,319
+The same is true for Limo or Limo. This
+ 
+
+279
+00:06:54,319 --> 00:06:57,110
+The same is true for Limo or Limo. This
+is the system that is used at K Louven
+
+280
+00:06:57,110 --> 00:06:57,120
+is the system that is used at K Louven
+ 
+
+281
+00:06:57,120 --> 00:07:00,230
+is the system that is used at K Louven
+that can be used to uh search databases
+
+282
+00:07:00,230 --> 00:07:00,240
+that can be used to uh search databases
+ 
+
+283
+00:07:00,240 --> 00:07:04,150
+that can be used to uh search databases
+or search immediately in all uh uh
+
+284
+00:07:04,150 --> 00:07:04,160
+or search immediately in all uh uh
+ 
+
+285
+00:07:04,160 --> 00:07:07,990
+or search immediately in all uh uh
+journals that are available at K Louven.
+
+286
+00:07:07,990 --> 00:07:08,000
+journals that are available at K Louven.
+ 
+
+287
+00:07:08,000 --> 00:07:12,550
+journals that are available at K Louven.
+So also there what databases are in limo
+
+288
+00:07:12,550 --> 00:07:12,560
+So also there what databases are in limo
+ 
+
+289
+00:07:12,560 --> 00:07:15,990
+So also there what databases are in limo
+or what journals are in limo can vary
+
+290
+00:07:15,990 --> 00:07:16,000
+or what journals are in limo can vary
+ 
+
+291
+00:07:16,000 --> 00:07:18,550
+or what journals are in limo can vary
+from day to day
+
+292
+00:07:18,550 --> 00:07:18,560
+from day to day
+ 
+
+293
+00:07:18,560 --> 00:07:21,350
+from day to day
+and it is impossible or it yeah it is
+
+294
+00:07:21,350 --> 00:07:21,360
+and it is impossible or it yeah it is
+ 
+
+295
+00:07:21,360 --> 00:07:25,589
+and it is impossible or it yeah it is
+impossible to know next year what
+
+296
+00:07:25,589 --> 00:07:25,599
+impossible to know next year what
+ 
+
+297
+00:07:25,599 --> 00:07:28,790
+impossible to know next year what
+databases and what journals exactly were
+
+298
+00:07:28,790 --> 00:07:28,800
+databases and what journals exactly were
+ 
+
+299
+00:07:28,800 --> 00:07:32,870
+databases and what journals exactly were
+in limo today. So also there it is
+
+300
+00:07:32,870 --> 00:07:32,880
+in limo today. So also there it is
+ 
+
+301
+00:07:32,880 --> 00:07:35,270
+in limo today. So also there it is
+impossible to replicate the search.
+
+302
+00:07:35,270 --> 00:07:35,280
+impossible to replicate the search.
+ 
+
+303
+00:07:35,280 --> 00:07:37,430
+impossible to replicate the search.
+Moreover, of course, people from outside
+
+304
+00:07:37,430 --> 00:07:37,440
+Moreover, of course, people from outside
+ 
+
+305
+00:07:37,440 --> 00:07:41,510
+Moreover, of course, people from outside
+K Louven uh may not have access to limo.
+
+306
+00:07:41,510 --> 00:07:41,520
+K Louven uh may not have access to limo.
+ 
+
+307
+00:07:41,520 --> 00:07:43,510
+K Louven uh may not have access to limo.
+So, which also makes that your search is
+
+308
+00:07:43,510 --> 00:07:43,520
+So, which also makes that your search is
+ 
+
+309
+00:07:43,520 --> 00:07:46,469
+So, which also makes that your search is
+not replicable. So therefore I recommend
+
+310
+00:07:46,469 --> 00:07:46,479
+not replicable. So therefore I recommend
+ 
+
+311
+00:07:46,479 --> 00:07:51,909
+not replicable. So therefore I recommend
+to use these major databases
+
+312
+00:07:51,909 --> 00:07:51,919
+
+ 
+
+313
+00:07:51,919 --> 00:07:54,070
+
+and the major databases are for the
+
+314
+00:07:54,070 --> 00:07:54,080
+and the major databases are for the
+ 
+
+315
+00:07:54,080 --> 00:07:57,189
+and the major databases are for the
+field of medicine but for the field of
+
+316
+00:07:57,189 --> 00:07:57,199
+field of medicine but for the field of
+ 
+
+317
+00:07:57,199 --> 00:08:01,029
+field of medicine but for the field of
+behavioral sciences or psychology psycho
+
+318
+00:08:01,029 --> 00:08:01,039
+behavioral sciences or psychology psycho
+ 
+
+319
+00:08:01,039 --> 00:08:02,950
+behavioral sciences or psychology psycho
+and for the field of educational
+
+320
+00:08:02,950 --> 00:08:02,960
+and for the field of educational
+ 
+
+321
+00:08:02,960 --> 00:08:06,230
+and for the field of educational
+sciences ERIC
+
+322
+00:08:06,230 --> 00:08:06,240
+sciences ERIC
+ 
+
+323
+00:08:06,240 --> 00:08:08,550
+sciences ERIC
+it is also a good idea to combine
+
+324
+00:08:08,550 --> 00:08:08,560
+it is also a good idea to combine
+ 
+
+325
+00:08:08,560 --> 00:08:10,950
+it is also a good idea to combine
+multiple databases.
+
+326
+00:08:10,950 --> 00:08:10,960
+multiple databases.
+ 
+
+327
+00:08:10,960 --> 00:08:12,950
+multiple databases.
+So for instance, if you're interested in
+
+328
+00:08:12,950 --> 00:08:12,960
+So for instance, if you're interested in
+ 
+
+329
+00:08:12,960 --> 00:08:16,469
+So for instance, if you're interested in
+specific therapy, behavioral therapy,
+
+330
+00:08:16,469 --> 00:08:16,479
+specific therapy, behavioral therapy,
+ 
+
+331
+00:08:16,479 --> 00:08:19,990
+specific therapy, behavioral therapy,
+well, you can find studies in Psych Info
+
+332
+00:08:19,990 --> 00:08:20,000
+well, you can find studies in Psych Info
+ 
+
+333
+00:08:20,000 --> 00:08:23,189
+well, you can find studies in Psych Info
+as well as studies in Pepmmet.
+
+334
+00:08:23,189 --> 00:08:23,199
+as well as studies in Pepmmet.
+ 
+
+335
+00:08:23,199 --> 00:08:25,589
+as well as studies in Pepmmet.
+And there probably will be a lot of
+
+336
+00:08:25,589 --> 00:08:25,599
+And there probably will be a lot of
+ 
+
+337
+00:08:25,599 --> 00:08:27,270
+And there probably will be a lot of
+overlap between the studies that you
+
+338
+00:08:27,270 --> 00:08:27,280
+overlap between the studies that you
+ 
+
+339
+00:08:27,280 --> 00:08:29,350
+overlap between the studies that you
+find in the two databases, but it's
+
+340
+00:08:29,350 --> 00:08:29,360
+find in the two databases, but it's
+ 
+
+341
+00:08:29,360 --> 00:08:31,430
+find in the two databases, but it's
+possible that you also find uh relevant
+
+342
+00:08:31,430 --> 00:08:31,440
+possible that you also find uh relevant
+ 
+
+343
+00:08:31,440 --> 00:08:33,990
+possible that you also find uh relevant
+studies only in Psych Info or only in
+
+344
+00:08:33,990 --> 00:08:34,000
+studies only in Psych Info or only in
+ 
+
+345
+00:08:34,000 --> 00:08:36,389
+studies only in Psych Info or only in
+Pepmmet. So therefore it is a good idea
+
+346
+00:08:36,389 --> 00:08:36,399
+Pepmmet. So therefore it is a good idea
+ 
+
+347
+00:08:36,399 --> 00:08:39,670
+Pepmmet. So therefore it is a good idea
+to combine multiple databases to find as
+
+348
+00:08:39,670 --> 00:08:39,680
+to combine multiple databases to find as
+ 
+
+349
+00:08:39,680 --> 00:08:45,350
+to combine multiple databases to find as
+many studies as possible.
+
+350
+00:08:45,350 --> 00:08:45,360
+
+ 
+
+351
+00:08:45,360 --> 00:08:49,670
+
+If you go to limo at Kuran and you click
+
+352
+00:08:49,670 --> 00:08:49,680
+If you go to limo at Kuran and you click
+ 
+
+353
+00:08:49,680 --> 00:08:52,230
+If you go to limo at Kuran and you click
+on databases then you can type in for
+
+354
+00:08:52,230 --> 00:08:52,240
+on databases then you can type in for
+ 
+
+355
+00:08:52,240 --> 00:08:55,350
+on databases then you can type in for
+instance Eric and then one of the hits
+
+356
+00:08:55,350 --> 00:08:55,360
+instance Eric and then one of the hits
+ 
+
+357
+00:08:55,360 --> 00:08:58,230
+instance Eric and then one of the hits
+is um yeah the second one here
+
+358
+00:08:58,230 --> 00:08:58,240
+is um yeah the second one here
+ 
+
+359
+00:08:58,240 --> 00:09:00,790
+is um yeah the second one here
+educational resources information center
+
+360
+00:09:00,790 --> 00:09:00,800
+educational resources information center
+ 
+
+361
+00:09:00,800 --> 00:09:03,509
+educational resources information center
+ERIC. So that's the database with the
+
+362
+00:09:03,509 --> 00:09:03,519
+ERIC. So that's the database with the
+ 
+
+363
+00:09:03,519 --> 00:09:06,870
+ERIC. So that's the database with the
+educational uh studies in it. If you
+
+364
+00:09:06,870 --> 00:09:06,880
+educational uh studies in it. If you
+ 
+
+365
+00:09:06,880 --> 00:09:09,829
+educational uh studies in it. If you
+click on online access then yeah you can
+
+366
+00:09:09,829 --> 00:09:09,839
+click on online access then yeah you can
+ 
+
+367
+00:09:09,839 --> 00:09:15,509
+click on online access then yeah you can
+consult this database online.
+
+368
+00:09:15,509 --> 00:09:15,519
+
+ 
+
+369
+00:09:15,519 --> 00:09:18,310
+
+To search these databases you try to
+
+370
+00:09:18,310 --> 00:09:18,320
+To search these databases you try to
+ 
+
+371
+00:09:18,320 --> 00:09:20,550
+To search these databases you try to
+translate your research question or
+
+372
+00:09:20,550 --> 00:09:20,560
+translate your research question or
+ 
+
+373
+00:09:20,560 --> 00:09:23,590
+translate your research question or
+research problem in keywords.
+
+374
+00:09:23,590 --> 00:09:23,600
+research problem in keywords.
+ 
+
+375
+00:09:23,600 --> 00:09:26,949
+research problem in keywords.
+Again, the PICO model can be helpful to
+
+376
+00:09:26,949 --> 00:09:26,959
+Again, the PICO model can be helpful to
+ 
+
+377
+00:09:26,959 --> 00:09:29,350
+Again, the PICO model can be helpful to
+make sure that you are searching for
+
+378
+00:09:29,350 --> 00:09:29,360
+make sure that you are searching for
+ 
+
+379
+00:09:29,360 --> 00:09:31,910
+make sure that you are searching for
+studies on the population, intervention,
+
+380
+00:09:31,910 --> 00:09:31,920
+studies on the population, intervention,
+ 
+
+381
+00:09:31,920 --> 00:09:34,949
+studies on the population, intervention,
+and outcome variables of interest.
+
+382
+00:09:34,949 --> 00:09:34,959
+and outcome variables of interest.
+ 
+
+383
+00:09:34,959 --> 00:09:37,990
+and outcome variables of interest.
+You can make use of quotes to keep words
+
+384
+00:09:37,990 --> 00:09:38,000
+You can make use of quotes to keep words
+ 
+
+385
+00:09:38,000 --> 00:09:39,509
+You can make use of quotes to keep words
+together.
+
+386
+00:09:39,509 --> 00:09:39,519
+together.
+ 
+
+387
+00:09:39,519 --> 00:09:41,509
+together.
+For instance, if you're looking for
+
+388
+00:09:41,509 --> 00:09:41,519
+For instance, if you're looking for
+ 
+
+389
+00:09:41,519 --> 00:09:43,750
+For instance, if you're looking for
+studies on machine learning, you do not
+
+390
+00:09:43,750 --> 00:09:43,760
+studies on machine learning, you do not
+ 
+
+391
+00:09:43,760 --> 00:09:46,150
+studies on machine learning, you do not
+want to find all papers on machines and
+
+392
+00:09:46,150 --> 00:09:46,160
+want to find all papers on machines and
+ 
+
+393
+00:09:46,160 --> 00:09:49,590
+want to find all papers on machines and
+all papers on learning. By using quotes,
+
+394
+00:09:49,590 --> 00:09:49,600
+all papers on learning. By using quotes,
+ 
+
+395
+00:09:49,600 --> 00:09:51,910
+all papers on learning. By using quotes,
+you can search for the concept machine
+
+396
+00:09:51,910 --> 00:09:51,920
+you can search for the concept machine
+ 
+
+397
+00:09:51,920 --> 00:09:55,030
+you can search for the concept machine
+learning.
+
+398
+00:09:55,030 --> 00:09:55,040
+
+ 
+
+399
+00:09:55,040 --> 00:09:57,829
+
+Another trick is to use an asterisk to
+
+400
+00:09:57,829 --> 00:09:57,839
+Another trick is to use an asterisk to
+ 
+
+401
+00:09:57,839 --> 00:10:02,710
+Another trick is to use an asterisk to
+truncate a word by using meta analy with
+
+402
+00:10:02,710 --> 00:10:02,720
+truncate a word by using meta analy with
+ 
+
+403
+00:10:02,720 --> 00:10:05,269
+truncate a word by using meta analy with
+an asterisk. For instance, you will look
+
+404
+00:10:05,269 --> 00:10:05,279
+an asterisk. For instance, you will look
+ 
+
+405
+00:10:05,279 --> 00:10:06,870
+an asterisk. For instance, you will look
+for studies that talk about meta
+
+406
+00:10:06,870 --> 00:10:06,880
+for studies that talk about meta
+ 
+
+407
+00:10:06,880 --> 00:10:09,509
+for studies that talk about meta
+analysis, metaanalytical,
+
+408
+00:10:09,509 --> 00:10:09,519
+analysis, metaanalytical,
+ 
+
+409
+00:10:09,519 --> 00:10:14,949
+analysis, metaanalytical,
+meta analysis, meta analyzing and so on.
+
+410
+00:10:14,949 --> 00:10:14,959
+meta analysis, meta analyzing and so on.
+ 
+
+411
+00:10:14,959 --> 00:10:18,069
+meta analysis, meta analyzing and so on.
+Also, using boolean operators to link
+
+412
+00:10:18,069 --> 00:10:18,079
+Also, using boolean operators to link
+ 
+
+413
+00:10:18,079 --> 00:10:21,590
+Also, using boolean operators to link
+the keywords can help. For instance, if
+
+414
+00:10:21,590 --> 00:10:21,600
+the keywords can help. For instance, if
+ 
+
+415
+00:10:21,600 --> 00:10:24,150
+the keywords can help. For instance, if
+a paper does not use the concept machine
+
+416
+00:10:24,150 --> 00:10:24,160
+a paper does not use the concept machine
+ 
+
+417
+00:10:24,160 --> 00:10:26,630
+a paper does not use the concept machine
+learning but talks about artificial
+
+418
+00:10:26,630 --> 00:10:26,640
+learning but talks about artificial
+ 
+
+419
+00:10:26,640 --> 00:10:30,550
+learning but talks about artificial
+intelligence or AI, this paper may also
+
+420
+00:10:30,550 --> 00:10:30,560
+intelligence or AI, this paper may also
+ 
+
+421
+00:10:30,560 --> 00:10:33,750
+intelligence or AI, this paper may also
+be relevant. Therefore, you can search
+
+422
+00:10:33,750 --> 00:10:33,760
+be relevant. Therefore, you can search
+ 
+
+423
+00:10:33,760 --> 00:10:35,990
+be relevant. Therefore, you can search
+for studies that use the word machine
+
+424
+00:10:35,990 --> 00:10:36,000
+for studies that use the word machine
+ 
+
+425
+00:10:36,000 --> 00:10:40,310
+for studies that use the word machine
+learning or artificial intelligence or
+
+426
+00:10:40,310 --> 00:10:40,320
+learning or artificial intelligence or
+ 
+
+427
+00:10:40,320 --> 00:10:42,630
+learning or artificial intelligence or
+AI.
+
+428
+00:10:42,630 --> 00:10:42,640
+AI.
+ 
+
+429
+00:10:42,640 --> 00:10:45,110
+AI.
+If a study uses at least one of these
+
+430
+00:10:45,110 --> 00:10:45,120
+If a study uses at least one of these
+ 
+
+431
+00:10:45,120 --> 00:10:48,949
+If a study uses at least one of these
+three terms, you will find the study.
+
+432
+00:10:48,949 --> 00:10:48,959
+three terms, you will find the study.
+ 
+
+433
+00:10:48,959 --> 00:10:51,910
+three terms, you will find the study.
+You can use the and operator to look for
+
+434
+00:10:51,910 --> 00:10:51,920
+You can use the and operator to look for
+ 
+
+435
+00:10:51,920 --> 00:10:54,389
+You can use the and operator to look for
+studies that talk about something and
+
+436
+00:10:54,389 --> 00:10:54,399
+studies that talk about something and
+ 
+
+437
+00:10:54,399 --> 00:10:57,430
+studies that talk about something and
+about something else. For instance, if
+
+438
+00:10:57,430 --> 00:10:57,440
+about something else. For instance, if
+ 
+
+439
+00:10:57,440 --> 00:10:59,590
+about something else. For instance, if
+you're looking for the use of AI in
+
+440
+00:10:59,590 --> 00:10:59,600
+you're looking for the use of AI in
+ 
+
+441
+00:10:59,600 --> 00:11:03,910
+you're looking for the use of AI in
+education, you could search for AI and
+
+442
+00:11:03,910 --> 00:11:03,920
+education, you could search for AI and
+ 
+
+443
+00:11:03,920 --> 00:11:05,990
+education, you could search for AI and
+education.
+
+444
+00:11:05,990 --> 00:11:06,000
+education.
+ 
+
+445
+00:11:06,000 --> 00:11:07,990
+education.
+You can further restrict your research
+
+446
+00:11:07,990 --> 00:11:08,000
+You can further restrict your research
+ 
+
+447
+00:11:08,000 --> 00:11:10,949
+You can further restrict your research
+by using the not operator. If you're
+
+448
+00:11:10,949 --> 00:11:10,959
+by using the not operator. If you're
+ 
+
+449
+00:11:10,959 --> 00:11:13,750
+by using the not operator. If you're
+interested in AI in primary education,
+
+450
+00:11:13,750 --> 00:11:13,760
+interested in AI in primary education,
+ 
+
+451
+00:11:13,760 --> 00:11:18,790
+interested in AI in primary education,
+you could say AI and education, not
+
+452
+00:11:18,790 --> 00:11:18,800
+you could say AI and education, not
+ 
+
+453
+00:11:18,800 --> 00:11:21,829
+you could say AI and education, not
+higher education.
+
+454
+00:11:21,829 --> 00:11:21,839
+higher education.
+ 
+
+455
+00:11:21,839 --> 00:11:24,870
+higher education.
+Finally, the use of the near operator
+
+456
+00:11:24,870 --> 00:11:24,880
+Finally, the use of the near operator
+ 
+
+457
+00:11:24,880 --> 00:11:27,190
+Finally, the use of the near operator
+can avoid that you will get too many
+
+458
+00:11:27,190 --> 00:11:27,200
+can avoid that you will get too many
+ 
+
+459
+00:11:27,200 --> 00:11:29,829
+can avoid that you will get too many
+irrelevant hits
+
+460
+00:11:29,829 --> 00:11:29,839
+irrelevant hits
+ 
+
+461
+00:11:29,839 --> 00:11:33,670
+irrelevant hits
+when using and. Using near four in
+
+462
+00:11:33,670 --> 00:11:33,680
+when using and. Using near four in
+ 
+
+463
+00:11:33,680 --> 00:11:35,829
+when using and. Using near four in
+between two terms for instance means
+
+464
+00:11:35,829 --> 00:11:35,839
+between two terms for instance means
+ 
+
+465
+00:11:35,839 --> 00:11:39,030
+between two terms for instance means
+that the two terms should be not more
+
+466
+00:11:39,030 --> 00:11:39,040
+that the two terms should be not more
+ 
+
+467
+00:11:39,040 --> 00:11:41,509
+that the two terms should be not more
+than four words apart from each other.
+
+468
+00:11:41,509 --> 00:11:41,519
+than four words apart from each other.
+ 
+
+469
+00:11:41,519 --> 00:11:43,590
+than four words apart from each other.
+In that way you can for instance look
+
+470
+00:11:43,590 --> 00:11:43,600
+In that way you can for instance look
+ 
+
+471
+00:11:43,600 --> 00:11:45,829
+In that way you can for instance look
+for studies that talk about AI and
+
+472
+00:11:45,829 --> 00:11:45,839
+for studies that talk about AI and
+ 
+
+473
+00:11:45,839 --> 00:11:50,470
+for studies that talk about AI and
+education in the same sentence.
+
+474
+00:11:50,470 --> 00:11:50,480
+education in the same sentence.
+ 
+
+475
+00:11:50,480 --> 00:11:52,949
+education in the same sentence.
+Finally in many databases you can
+
+476
+00:11:52,949 --> 00:11:52,959
+Finally in many databases you can
+ 
+
+477
+00:11:52,959 --> 00:11:55,269
+Finally in many databases you can
+indicate in what fields these words
+
+478
+00:11:55,269 --> 00:11:55,279
+indicate in what fields these words
+ 
+
+479
+00:11:55,279 --> 00:11:58,230
+indicate in what fields these words
+should be searched for. Often we will
+
+480
+00:11:58,230 --> 00:11:58,240
+should be searched for. Often we will
+ 
+
+481
+00:11:58,240 --> 00:12:01,110
+should be searched for. Often we will
+get far too many hits if we look for
+
+482
+00:12:01,110 --> 00:12:01,120
+get far too many hits if we look for
+ 
+
+483
+00:12:01,120 --> 00:12:04,230
+get far too many hits if we look for
+these words in the whole paper.
+
+484
+00:12:04,230 --> 00:12:04,240
+these words in the whole paper.
+ 
+
+485
+00:12:04,240 --> 00:12:06,550
+these words in the whole paper.
+Therefore, we typically look into the
+
+486
+00:12:06,550 --> 00:12:06,560
+Therefore, we typically look into the
+ 
+
+487
+00:12:06,560 --> 00:12:09,670
+Therefore, we typically look into the
+titles, keywords and abstracts. In Web
+
+488
+00:12:09,670 --> 00:12:09,680
+titles, keywords and abstracts. In Web
+ 
+
+489
+00:12:09,680 --> 00:12:11,990
+titles, keywords and abstracts. In Web
+of Science, for instance, these fields
+
+490
+00:12:11,990 --> 00:12:12,000
+of Science, for instance, these fields
+ 
+
+491
+00:12:12,000 --> 00:12:16,389
+of Science, for instance, these fields
+are indicated by TI, AK, and AB. But you
+
+492
+00:12:16,389 --> 00:12:16,399
+are indicated by TI, AK, and AB. But you
+ 
+
+493
+00:12:16,399 --> 00:12:18,470
+are indicated by TI, AK, and AB. But you
+can also search in all these three kinds
+
+494
+00:12:18,470 --> 00:12:18,480
+can also search in all these three kinds
+ 
+
+495
+00:12:18,480 --> 00:12:23,190
+can also search in all these three kinds
+of fields together by referring to D S
+
+496
+00:12:23,190 --> 00:12:23,200
+of fields together by referring to D S
+ 
+
+497
+00:12:23,200 --> 00:12:26,949
+of fields together by referring to D S
+which stands for topics.
+
+498
+00:12:26,949 --> 00:12:26,959
+which stands for topics.
+ 
+
+499
+00:12:26,959 --> 00:12:29,269
+which stands for topics.
+There is of course always the risk that
+
+500
+00:12:29,269 --> 00:12:29,279
+There is of course always the risk that
+ 
+
+501
+00:12:29,279 --> 00:12:31,030
+There is of course always the risk that
+your research is missing relevant
+
+502
+00:12:31,030 --> 00:12:31,040
+your research is missing relevant
+ 
+
+503
+00:12:31,040 --> 00:12:33,670
+your research is missing relevant
+studies. If you already know that there
+
+504
+00:12:33,670 --> 00:12:33,680
+studies. If you already know that there
+ 
+
+505
+00:12:33,680 --> 00:12:36,069
+studies. If you already know that there
+are some important papers that are
+
+506
+00:12:36,069 --> 00:12:36,079
+are some important papers that are
+ 
+
+507
+00:12:36,079 --> 00:12:38,389
+are some important papers that are
+definitely eligible, you can check
+
+508
+00:12:38,389 --> 00:12:38,399
+definitely eligible, you can check
+ 
+
+509
+00:12:38,399 --> 00:12:40,389
+definitely eligible, you can check
+whether you can find these papers with
+
+510
+00:12:40,389 --> 00:12:40,399
+whether you can find these papers with
+ 
+
+511
+00:12:40,399 --> 00:12:43,430
+whether you can find these papers with
+your search string. If not, you may want
+
+512
+00:12:43,430 --> 00:12:43,440
+your search string. If not, you may want
+ 
+
+513
+00:12:43,440 --> 00:12:49,430
+your search string. If not, you may want
+to adapt your search.
+
+514
+00:12:49,430 --> 00:12:49,440
+
+ 
+
+515
+00:12:49,440 --> 00:12:51,750
+
+an example. So in a study we have done
+
+516
+00:12:51,750 --> 00:12:51,760
+an example. So in a study we have done
+ 
+
+517
+00:12:51,760 --> 00:12:53,990
+an example. So in a study we have done
+about uh the staff reactions to
+
+518
+00:12:53,990 --> 00:12:54,000
+about uh the staff reactions to
+ 
+
+519
+00:12:54,000 --> 00:12:56,949
+about uh the staff reactions to
+challenging behavior in people with
+
+520
+00:12:56,949 --> 00:12:56,959
+challenging behavior in people with
+ 
+
+521
+00:12:56,959 --> 00:12:59,670
+challenging behavior in people with
+severe mental retardation. We used the
+
+522
+00:12:59,670 --> 00:12:59,680
+severe mental retardation. We used the
+ 
+
+523
+00:12:59,680 --> 00:13:01,590
+severe mental retardation. We used the
+following keywords.
+
+524
+00:13:01,590 --> 00:13:01,600
+following keywords.
+ 
+
+525
+00:13:01,600 --> 00:13:04,069
+following keywords.
+So you can see that we have three that
+
+526
+00:13:04,069 --> 00:13:04,079
+So you can see that we have three that
+ 
+
+527
+00:13:04,079 --> 00:13:05,750
+So you can see that we have three that
+we have defined three groups of
+
+528
+00:13:05,750 --> 00:13:05,760
+we have defined three groups of
+ 
+
+529
+00:13:05,760 --> 00:13:07,750
+we have defined three groups of
+keywords. The first group of keywords
+
+530
+00:13:07,750 --> 00:13:07,760
+keywords. The first group of keywords
+ 
+
+531
+00:13:07,760 --> 00:13:10,870
+keywords. The first group of keywords
+was about yeah the the persons with
+
+532
+00:13:10,870 --> 00:13:10,880
+was about yeah the the persons with
+ 
+
+533
+00:13:10,880 --> 00:13:13,750
+was about yeah the the persons with
+mental retardation. We said well
+
+534
+00:13:13,750 --> 00:13:13,760
+mental retardation. We said well
+ 
+
+535
+00:13:13,760 --> 00:13:15,350
+mental retardation. We said well
+disability
+
+536
+00:13:15,350 --> 00:13:15,360
+disability
+ 
+
+537
+00:13:15,360 --> 00:13:18,069
+disability
+or mental retardation or complex needs
+
+538
+00:13:18,069 --> 00:13:18,079
+or mental retardation or complex needs
+ 
+
+539
+00:13:18,079 --> 00:13:20,550
+or mental retardation or complex needs
+or high support needs or cognitive
+
+540
+00:13:20,550 --> 00:13:20,560
+or high support needs or cognitive
+ 
+
+541
+00:13:20,560 --> 00:13:23,350
+or high support needs or cognitive
+impairment or learning difficulty should
+
+542
+00:13:23,350 --> 00:13:23,360
+impairment or learning difficulty should
+ 
+
+543
+00:13:23,360 --> 00:13:26,629
+impairment or learning difficulty should
+be included in the paper.
+
+544
+00:13:26,629 --> 00:13:26,639
+be included in the paper.
+ 
+
+545
+00:13:26,639 --> 00:13:29,350
+be included in the paper.
+Then we have a second group about the
+
+546
+00:13:29,350 --> 00:13:29,360
+Then we have a second group about the
+ 
+
+547
+00:13:29,360 --> 00:13:32,150
+Then we have a second group about the
+behavior of these persons. So we said
+
+548
+00:13:32,150 --> 00:13:32,160
+behavior of these persons. So we said
+ 
+
+549
+00:13:32,160 --> 00:13:34,629
+behavior of these persons. So we said
+that challenging behavior or problem
+
+550
+00:13:34,629 --> 00:13:34,639
+that challenging behavior or problem
+ 
+
+551
+00:13:34,639 --> 00:13:37,670
+that challenging behavior or problem
+behavior or aggression or self-injury or
+
+552
+00:13:37,670 --> 00:13:37,680
+behavior or aggression or self-injury or
+ 
+
+553
+00:13:37,680 --> 00:13:40,150
+behavior or aggression or self-injury or
+self-insurance behavior should be
+
+554
+00:13:40,150 --> 00:13:40,160
+self-insurance behavior should be
+ 
+
+555
+00:13:40,160 --> 00:13:44,629
+self-insurance behavior should be
+included. And then also a third uh one
+
+556
+00:13:44,629 --> 00:13:44,639
+included. And then also a third uh one
+ 
+
+557
+00:13:44,639 --> 00:13:47,670
+included. And then also a third uh one
+or more um terms from the third group
+
+558
+00:13:47,670 --> 00:13:47,680
+or more um terms from the third group
+ 
+
+559
+00:13:47,680 --> 00:13:49,750
+or more um terms from the third group
+should be included more specifically
+
+560
+00:13:49,750 --> 00:13:49,760
+should be included more specifically
+ 
+
+561
+00:13:49,760 --> 00:13:53,829
+should be included more specifically
+staff care care worker or special
+
+562
+00:13:53,829 --> 00:13:53,839
+staff care care worker or special
+ 
+
+563
+00:13:53,839 --> 00:13:57,910
+staff care care worker or special
+educator.
+
+564
+00:13:57,910 --> 00:13:57,920
+
+ 
+
+565
+00:13:57,920 --> 00:14:02,310
+
+Note that um yeah you you see that we
+
+566
+00:14:02,310 --> 00:14:02,320
+Note that um yeah you you see that we
+ 
+
+567
+00:14:02,320 --> 00:14:05,509
+Note that um yeah you you see that we
+included problem behavior with a U. It
+
+568
+00:14:05,509 --> 00:14:05,519
+included problem behavior with a U. It
+ 
+
+569
+00:14:05,519 --> 00:14:08,629
+included problem behavior with a U. It
+may also be a good idea to include
+
+570
+00:14:08,629 --> 00:14:08,639
+may also be a good idea to include
+ 
+
+571
+00:14:08,639 --> 00:14:12,310
+may also be a good idea to include
+problem behavior with an O only. So
+
+572
+00:14:12,310 --> 00:14:12,320
+problem behavior with an O only. So
+ 
+
+573
+00:14:12,320 --> 00:14:14,389
+problem behavior with an O only. So
+without the U.
+
+574
+00:14:14,389 --> 00:14:14,399
+without the U.
+ 
+
+575
+00:14:14,399 --> 00:14:16,470
+without the U.
+So in that way you have the UK and the
+
+576
+00:14:16,470 --> 00:14:16,480
+So in that way you have the UK and the
+ 
+
+577
+00:14:16,480 --> 00:14:18,550
+So in that way you have the UK and the
+US notation. And in that way it's
+
+578
+00:14:18,550 --> 00:14:18,560
+US notation. And in that way it's
+ 
+
+579
+00:14:18,560 --> 00:14:21,350
+US notation. And in that way it's
+possible that you will find even more uh
+
+580
+00:14:21,350 --> 00:14:21,360
+possible that you will find even more uh
+ 
+
+581
+00:14:21,360 --> 00:14:25,509
+possible that you will find even more uh
+studies
+
+582
+00:14:25,509 --> 00:14:25,519
+
+ 
+
+583
+00:14:25,519 --> 00:14:27,829
+
+an example. So in a study we have done
+
+584
+00:14:27,829 --> 00:14:27,839
+an example. So in a study we have done
+ 
+
+585
+00:14:27,839 --> 00:14:30,150
+an example. So in a study we have done
+about uh the staff reactions to
+
+586
+00:14:30,150 --> 00:14:30,160
+about uh the staff reactions to
+ 
+
+587
+00:14:30,160 --> 00:14:33,110
+about uh the staff reactions to
+challenging behavior in people with
+
+588
+00:14:33,110 --> 00:14:33,120
+challenging behavior in people with
+ 
+
+589
+00:14:33,120 --> 00:14:35,829
+challenging behavior in people with
+severe mental retardation we used the
+
+590
+00:14:35,829 --> 00:14:35,839
+severe mental retardation we used the
+ 
+
+591
+00:14:35,839 --> 00:14:37,750
+severe mental retardation we used the
+following keywords.
+
+592
+00:14:37,750 --> 00:14:37,760
+following keywords.
+ 
+
+593
+00:14:37,760 --> 00:14:40,150
+following keywords.
+So you can see that we have three that
+
+594
+00:14:40,150 --> 00:14:40,160
+So you can see that we have three that
+ 
+
+595
+00:14:40,160 --> 00:14:41,910
+So you can see that we have three that
+we have defined three groups of
+
+596
+00:14:41,910 --> 00:14:41,920
+we have defined three groups of
+ 
+
+597
+00:14:41,920 --> 00:14:43,910
+we have defined three groups of
+keywords. The first group of keywords
+
+598
+00:14:43,910 --> 00:14:43,920
+keywords. The first group of keywords
+ 
+
+599
+00:14:43,920 --> 00:14:47,030
+keywords. The first group of keywords
+was about yeah the the persons with
+
+600
+00:14:47,030 --> 00:14:47,040
+was about yeah the the persons with
+ 
+
+601
+00:14:47,040 --> 00:14:49,829
+was about yeah the the persons with
+mental retardation. We said well
+
+602
+00:14:49,829 --> 00:14:49,839
+mental retardation. We said well
+ 
+
+603
+00:14:49,839 --> 00:14:51,430
+mental retardation. We said well
+disability
+
+604
+00:14:51,430 --> 00:14:51,440
+disability
+ 
+
+605
+00:14:51,440 --> 00:14:54,230
+disability
+or mental retardation or complex needs
+
+606
+00:14:54,230 --> 00:14:54,240
+or mental retardation or complex needs
+ 
+
+607
+00:14:54,240 --> 00:14:56,629
+or mental retardation or complex needs
+or high support needs or cognitive
+
+608
+00:14:56,629 --> 00:14:56,639
+or high support needs or cognitive
+ 
+
+609
+00:14:56,639 --> 00:14:59,509
+or high support needs or cognitive
+impairment or learning difficulty should
+
+610
+00:14:59,509 --> 00:14:59,519
+impairment or learning difficulty should
+ 
+
+611
+00:14:59,519 --> 00:15:02,790
+impairment or learning difficulty should
+be included in the paper.
+
+612
+00:15:02,790 --> 00:15:02,800
+be included in the paper.
+ 
+
+613
+00:15:02,800 --> 00:15:05,509
+be included in the paper.
+Then we have a second group about the
+
+614
+00:15:05,509 --> 00:15:05,519
+Then we have a second group about the
+ 
+
+615
+00:15:05,519 --> 00:15:08,310
+Then we have a second group about the
+behavior of these persons. So we said
+
+616
+00:15:08,310 --> 00:15:08,320
+behavior of these persons. So we said
+ 
+
+617
+00:15:08,320 --> 00:15:10,710
+behavior of these persons. So we said
+that challenging behavior or problem
+
+618
+00:15:10,710 --> 00:15:10,720
+that challenging behavior or problem
+ 
+
+619
+00:15:10,720 --> 00:15:13,509
+that challenging behavior or problem
+behavior or aggression or self-injuring
+
+620
+00:15:13,509 --> 00:15:13,519
+behavior or aggression or self-injuring
+ 
+
+621
+00:15:13,519 --> 00:15:16,310
+behavior or aggression or self-injuring
+or self-insurance behavior should be
+
+622
+00:15:16,310 --> 00:15:16,320
+or self-insurance behavior should be
+ 
+
+623
+00:15:16,320 --> 00:15:20,790
+or self-insurance behavior should be
+included. And then also a third uh one
+
+624
+00:15:20,790 --> 00:15:20,800
+included. And then also a third uh one
+ 
+
+625
+00:15:20,800 --> 00:15:23,829
+included. And then also a third uh one
+or more um terms from the third group
+
+626
+00:15:23,829 --> 00:15:23,839
+or more um terms from the third group
+ 
+
+627
+00:15:23,839 --> 00:15:25,829
+or more um terms from the third group
+should be included more specifically
+
+628
+00:15:25,829 --> 00:15:25,839
+should be included more specifically
+ 
+
+629
+00:15:25,839 --> 00:15:29,910
+should be included more specifically
+staff care care worker or special
+
+630
+00:15:29,910 --> 00:15:29,920
+staff care care worker or special
+ 
+
+631
+00:15:29,920 --> 00:15:34,069
+staff care care worker or special
+educator.
+
+632
+00:15:34,069 --> 00:15:34,079
+
+ 
+
+633
+00:15:34,079 --> 00:15:38,389
+
+Note that um yeah you you see that we
+
+634
+00:15:38,389 --> 00:15:38,399
+Note that um yeah you you see that we
+ 
+
+635
+00:15:38,399 --> 00:15:41,590
+Note that um yeah you you see that we
+included problem behavior with a U. It
+
+636
+00:15:41,590 --> 00:15:41,600
+included problem behavior with a U. It
+ 
+
+637
+00:15:41,600 --> 00:15:44,790
+included problem behavior with a U. It
+may also be a good idea to include
+
+638
+00:15:44,790 --> 00:15:44,800
+may also be a good idea to include
+ 
+
+639
+00:15:44,800 --> 00:15:48,470
+may also be a good idea to include
+problem behavior with an O only. So
+
+640
+00:15:48,470 --> 00:15:48,480
+problem behavior with an O only. So
+ 
+
+641
+00:15:48,480 --> 00:15:50,470
+problem behavior with an O only. So
+without the U.
+
+642
+00:15:50,470 --> 00:15:50,480
+without the U.
+ 
+
+643
+00:15:50,480 --> 00:15:52,629
+without the U.
+So in that way you have the UK and the
+
+644
+00:15:52,629 --> 00:15:52,639
+So in that way you have the UK and the
+ 
+
+645
+00:15:52,639 --> 00:15:54,710
+So in that way you have the UK and the
+US notation. And in that way it's
+
+646
+00:15:54,710 --> 00:15:54,720
+US notation. And in that way it's
+ 
+
+647
+00:15:54,720 --> 00:15:57,509
+US notation. And in that way it's
+possible that you will find even more uh
+
+648
+00:15:57,509 --> 00:15:57,519
+possible that you will find even more uh
+ 
+
+649
+00:15:57,519 --> 00:16:01,670
+possible that you will find even more uh
+studies.
+
+650
+00:16:01,670 --> 00:16:01,680
+
+ 
+
+651
+00:16:01,680 --> 00:16:03,910
+
+Second example, in another study in
+
+652
+00:16:03,910 --> 00:16:03,920
+Second example, in another study in
+ 
+
+653
+00:16:03,920 --> 00:16:05,990
+Second example, in another study in
+which we studied uh students
+
+654
+00:16:05,990 --> 00:16:06,000
+which we studied uh students
+ 
+
+655
+00:16:06,000 --> 00:16:08,629
+which we studied uh students
+misconceptions of statistical inference,
+
+656
+00:16:08,629 --> 00:16:08,639
+misconceptions of statistical inference,
+ 
+
+657
+00:16:08,639 --> 00:16:11,910
+misconceptions of statistical inference,
+we again used uh three groups of
+
+658
+00:16:11,910 --> 00:16:11,920
+we again used uh three groups of
+ 
+
+659
+00:16:11,920 --> 00:16:15,110
+we again used uh three groups of
+keywords. And so for each of the groups
+
+660
+00:16:15,110 --> 00:16:15,120
+keywords. And so for each of the groups
+ 
+
+661
+00:16:15,120 --> 00:16:17,509
+keywords. And so for each of the groups
+at least one of these terms should be
+
+662
+00:16:17,509 --> 00:16:17,519
+at least one of these terms should be
+ 
+
+663
+00:16:17,519 --> 00:16:19,910
+at least one of these terms should be
+included in the paper. So we had
+
+664
+00:16:19,910 --> 00:16:19,920
+included in the paper. So we had
+ 
+
+665
+00:16:19,920 --> 00:16:22,710
+included in the paper. So we had
+misconception or error or misuse or
+
+666
+00:16:22,710 --> 00:16:22,720
+misconception or error or misuse or
+ 
+
+667
+00:16:22,720 --> 00:16:24,870
+misconception or error or misuse or
+misinterpretation or misunderstanding or
+
+668
+00:16:24,870 --> 00:16:24,880
+misinterpretation or misunderstanding or
+ 
+
+669
+00:16:24,880 --> 00:16:27,509
+misinterpretation or misunderstanding or
+fallacy. And then the second group was
+
+670
+00:16:27,509 --> 00:16:27,519
+fallacy. And then the second group was
+ 
+
+671
+00:16:27,519 --> 00:16:29,590
+fallacy. And then the second group was
+inference or sampling or normal or
+
+672
+00:16:29,590 --> 00:16:29,600
+inference or sampling or normal or
+ 
+
+673
+00:16:29,600 --> 00:16:32,470
+inference or sampling or normal or
+confidence or interval or test or level
+
+674
+00:16:32,470 --> 00:16:32,480
+confidence or interval or test or level
+ 
+
+675
+00:16:32,480 --> 00:16:35,509
+confidence or interval or test or level
+or p value. And then the last group was
+
+676
+00:16:35,509 --> 00:16:35,519
+or p value. And then the last group was
+ 
+
+677
+00:16:35,519 --> 00:16:40,230
+or p value. And then the last group was
+course or college or university.
+
+678
+00:16:40,230 --> 00:16:40,240
+course or college or university.
+ 
+
+679
+00:16:40,240 --> 00:16:42,470
+course or college or university.
+So again here you can see that use of
+
+680
+00:16:42,470 --> 00:16:42,480
+So again here you can see that use of
+ 
+
+681
+00:16:42,480 --> 00:16:46,389
+So again here you can see that use of
+the pico model can help you to define uh
+
+682
+00:16:46,389 --> 00:16:46,399
+the pico model can help you to define uh
+ 
+
+683
+00:16:46,399 --> 00:16:51,829
+the pico model can help you to define uh
+keywords
+
+684
+00:16:51,829 --> 00:16:51,839
+
+ 
+
+685
+00:16:51,839 --> 00:16:55,590
+
+to find um other keywords that could be
+
+686
+00:16:55,590 --> 00:16:55,600
+to find um other keywords that could be
+ 
+
+687
+00:16:55,600 --> 00:16:57,749
+to find um other keywords that could be
+relevant. It is possible to use the
+
+688
+00:16:57,749 --> 00:16:57,759
+relevant. It is possible to use the
+ 
+
+689
+00:16:57,759 --> 00:17:00,870
+relevant. It is possible to use the
+taros. So for instance in Eric so here
+
+690
+00:17:00,870 --> 00:17:00,880
+taros. So for instance in Eric so here
+ 
+
+691
+00:17:00,880 --> 00:17:03,350
+taros. So for instance in Eric so here
+we are in Eric you can click there on
+
+692
+00:17:03,350 --> 00:17:03,360
+we are in Eric you can click there on
+ 
+
+693
+00:17:03,360 --> 00:17:05,590
+we are in Eric you can click there on
+search tools and then tool type you can
+
+694
+00:17:05,590 --> 00:17:05,600
+search tools and then tool type you can
+ 
+
+695
+00:17:05,600 --> 00:17:08,549
+search tools and then tool type you can
+click on this and then if you type in a
+
+696
+00:17:08,549 --> 00:17:08,559
+click on this and then if you type in a
+ 
+
+697
+00:17:08,559 --> 00:17:10,789
+click on this and then if you type in a
+word like misconceptions which is a
+
+698
+00:17:10,789 --> 00:17:10,799
+word like misconceptions which is a
+ 
+
+699
+00:17:10,799 --> 00:17:14,630
+word like misconceptions which is a
+relevant uh keyword for uh the study we
+
+700
+00:17:14,630 --> 00:17:14,640
+relevant uh keyword for uh the study we
+ 
+
+701
+00:17:14,640 --> 00:17:18,150
+relevant uh keyword for uh the study we
+were interested in. So then Eric is
+
+702
+00:17:18,150 --> 00:17:18,160
+were interested in. So then Eric is
+ 
+
+703
+00:17:18,160 --> 00:17:21,669
+were interested in. So then Eric is
+given giving several suggestions or is
+
+704
+00:17:21,669 --> 00:17:21,679
+given giving several suggestions or is
+ 
+
+705
+00:17:21,679 --> 00:17:26,069
+given giving several suggestions or is
+uh giving some related words like
+
+706
+00:17:26,069 --> 00:17:26,079
+uh giving some related words like
+ 
+
+707
+00:17:26,079 --> 00:17:28,470
+uh giving some related words like
+cognitive structures, comprehension,
+
+708
+00:17:28,470 --> 00:17:28,480
+cognitive structures, comprehension,
+ 
+
+709
+00:17:28,480 --> 00:17:30,870
+cognitive structures, comprehension,
+concept formation, concept mapping,
+
+710
+00:17:30,870 --> 00:17:30,880
+concept formation, concept mapping,
+ 
+
+711
+00:17:30,880 --> 00:17:34,150
+concept formation, concept mapping,
+learning processes and so on.
+
+712
+00:17:34,150 --> 00:17:34,160
+learning processes and so on.
+ 
+
+713
+00:17:34,160 --> 00:17:37,350
+learning processes and so on.
+So in this way we can look for what
+
+714
+00:17:37,350 --> 00:17:37,360
+So in this way we can look for what
+ 
+
+715
+00:17:37,360 --> 00:17:40,150
+So in this way we can look for what
+other keywords could be relevant for our
+
+716
+00:17:40,150 --> 00:17:40,160
+other keywords could be relevant for our
+ 
+
+717
+00:17:40,160 --> 00:17:42,470
+other keywords could be relevant for our
+search and you can then decide to
+
+718
+00:17:42,470 --> 00:17:42,480
+search and you can then decide to
+ 
+
+719
+00:17:42,480 --> 00:17:49,029
+search and you can then decide to
+include these keywords as well.
+
+720
+00:17:49,029 --> 00:17:49,039
+
+ 
+
+721
+00:17:49,039 --> 00:17:51,750
+
+This is also in ERIC. So here in ERIC I
+
+722
+00:17:51,750 --> 00:17:51,760
+This is also in ERIC. So here in ERIC I
+ 
+
+723
+00:17:51,760 --> 00:17:53,909
+This is also in ERIC. So here in ERIC I
+indicated that we are looking for
+
+724
+00:17:53,909 --> 00:17:53,919
+indicated that we are looking for
+ 
+
+725
+00:17:53,919 --> 00:17:57,510
+indicated that we are looking for
+keywords in the abstract or
+
+726
+00:17:57,510 --> 00:17:57,520
+keywords in the abstract or
+ 
+
+727
+00:17:57,520 --> 00:18:04,549
+keywords in the abstract or
+as a heading word or in the title
+
+728
+00:18:04,549 --> 00:18:04,559
+
+ 
+
+729
+00:18:04,559 --> 00:18:06,950
+
+and then you get a set of hits in the
+
+730
+00:18:06,950 --> 00:18:06,960
+and then you get a set of hits in the
+ 
+
+731
+00:18:06,960 --> 00:18:09,669
+and then you get a set of hits in the
+best case. uh probably you will get a
+
+732
+00:18:09,669 --> 00:18:09,679
+best case. uh probably you will get a
+ 
+
+733
+00:18:09,679 --> 00:18:11,590
+best case. uh probably you will get a
+lot of hits.
+
+734
+00:18:11,590 --> 00:18:11,600
+lot of hits.
+ 
+
+735
+00:18:11,600 --> 00:18:14,950
+lot of hits.
+And you can see here in Eric um if you
+
+736
+00:18:14,950 --> 00:18:14,960
+And you can see here in Eric um if you
+ 
+
+737
+00:18:14,960 --> 00:18:20,630
+And you can see here in Eric um if you
+uh use limo to access access Eric you
+
+738
+00:18:20,630 --> 00:18:20,640
+uh use limo to access access Eric you
+ 
+
+739
+00:18:20,640 --> 00:18:24,710
+uh use limo to access access Eric you
+will find in the hits a link um K Louven
+
+740
+00:18:24,710 --> 00:18:24,720
+will find in the hits a link um K Louven
+ 
+
+741
+00:18:24,720 --> 00:18:27,510
+will find in the hits a link um K Louven
+that can be used to go to the full text.
+
+742
+00:18:27,510 --> 00:18:27,520
+that can be used to go to the full text.
+ 
+
+743
+00:18:27,520 --> 00:18:30,310
+that can be used to go to the full text.
+So to to find the full text um
+
+744
+00:18:30,310 --> 00:18:30,320
+So to to find the full text um
+ 
+
+745
+00:18:30,320 --> 00:18:37,669
+So to to find the full text um
+electronically
+
+746
+00:18:37,669 --> 00:18:37,679
+
+ 
+
+747
+00:18:37,679 --> 00:18:39,830
+
+note that there is a trade-off between
+
+748
+00:18:39,830 --> 00:18:39,840
+note that there is a trade-off between
+ 
+
+749
+00:18:39,840 --> 00:18:41,590
+note that there is a trade-off between
+recall
+
+750
+00:18:41,590 --> 00:18:41,600
+recall
+ 
+
+751
+00:18:41,600 --> 00:18:45,510
+recall
+so we want to to find all relevant
+
+752
+00:18:45,510 --> 00:18:45,520
+so we want to to find all relevant
+ 
+
+753
+00:18:45,520 --> 00:18:47,510
+so we want to to find all relevant
+studies.
+
+754
+00:18:47,510 --> 00:18:47,520
+studies.
+ 
+
+755
+00:18:47,520 --> 00:18:48,950
+studies.
+So we hope that the proportion of
+
+756
+00:18:48,950 --> 00:18:48,960
+So we hope that the proportion of
+ 
+
+757
+00:18:48,960 --> 00:18:51,350
+So we hope that the proportion of
+relevant literature that is found is as
+
+758
+00:18:51,350 --> 00:18:51,360
+relevant literature that is found is as
+ 
+
+759
+00:18:51,360 --> 00:18:54,310
+relevant literature that is found is as
+high as possible. Ideally you will find
+
+760
+00:18:54,310 --> 00:18:54,320
+high as possible. Ideally you will find
+ 
+
+761
+00:18:54,320 --> 00:18:56,950
+high as possible. Ideally you will find
+all relevant literature.
+
+762
+00:18:56,950 --> 00:18:56,960
+all relevant literature.
+ 
+
+763
+00:18:56,960 --> 00:19:00,310
+all relevant literature.
+So this can be done by uh using very
+
+764
+00:19:00,310 --> 00:19:00,320
+So this can be done by uh using very
+ 
+
+765
+00:19:00,320 --> 00:19:02,789
+So this can be done by uh using very
+broad keywords. So the broader the
+
+766
+00:19:02,789 --> 00:19:02,799
+broad keywords. So the broader the
+ 
+
+767
+00:19:02,799 --> 00:19:05,270
+broad keywords. So the broader the
+keywords you use, the more studies you
+
+768
+00:19:05,270 --> 00:19:05,280
+keywords you use, the more studies you
+ 
+
+769
+00:19:05,280 --> 00:19:07,190
+keywords you use, the more studies you
+will find and the li the more likely it
+
+770
+00:19:07,190 --> 00:19:07,200
+will find and the li the more likely it
+ 
+
+771
+00:19:07,200 --> 00:19:09,830
+will find and the li the more likely it
+is that you will find all relevant
+
+772
+00:19:09,830 --> 00:19:09,840
+is that you will find all relevant
+ 
+
+773
+00:19:09,840 --> 00:19:11,590
+is that you will find all relevant
+information.
+
+774
+00:19:11,590 --> 00:19:11,600
+information.
+ 
+
+775
+00:19:11,600 --> 00:19:14,310
+information.
+But the drawback is that in that way
+
+776
+00:19:14,310 --> 00:19:14,320
+But the drawback is that in that way
+ 
+
+777
+00:19:14,320 --> 00:19:16,870
+But the drawback is that in that way
+your search will not will be not be very
+
+778
+00:19:16,870 --> 00:19:16,880
+your search will not will be not be very
+ 
+
+779
+00:19:16,880 --> 00:19:19,909
+your search will not will be not be very
+precise. It's possible that you will
+
+780
+00:19:19,909 --> 00:19:19,919
+precise. It's possible that you will
+ 
+
+781
+00:19:19,919 --> 00:19:21,990
+precise. It's possible that you will
+find a lot of hits that are not
+
+782
+00:19:21,990 --> 00:19:22,000
+find a lot of hits that are not
+ 
+
+783
+00:19:22,000 --> 00:19:25,669
+find a lot of hits that are not
+relevant. So and if you get thousands of
+
+784
+00:19:25,669 --> 00:19:25,679
+relevant. So and if you get thousands of
+ 
+
+785
+00:19:25,679 --> 00:19:29,830
+relevant. So and if you get thousands of
+hits it can be a huge work to select the
+
+786
+00:19:29,830 --> 00:19:29,840
+hits it can be a huge work to select the
+ 
+
+787
+00:19:29,840 --> 00:19:32,870
+hits it can be a huge work to select the
+relevant studies afterwards. So you have
+
+788
+00:19:32,870 --> 00:19:32,880
+relevant studies afterwards. So you have
+ 
+
+789
+00:19:32,880 --> 00:19:35,430
+relevant studies afterwards. So you have
+to find uh to try to find the balance
+
+790
+00:19:35,430 --> 00:19:35,440
+to find uh to try to find the balance
+ 
+
+791
+00:19:35,440 --> 00:19:42,070
+to find uh to try to find the balance
+between recall and precision.
+
+792
+00:19:42,070 --> 00:19:42,080
+
+ 
+
+793
+00:19:42,080 --> 00:19:44,710
+
+So that's the first step
+
+794
+00:19:44,710 --> 00:19:44,720
+So that's the first step
+ 
+
+795
+00:19:44,720 --> 00:19:47,350
+So that's the first step
+uh the use of databases. A second step
+
+796
+00:19:47,350 --> 00:19:47,360
+uh the use of databases. A second step
+ 
+
+797
+00:19:47,360 --> 00:19:50,710
+uh the use of databases. A second step
+can be browsing secondary sources. What
+
+798
+00:19:50,710 --> 00:19:50,720
+can be browsing secondary sources. What
+ 
+
+799
+00:19:50,720 --> 00:19:53,830
+can be browsing secondary sources. What
+are secondary sources that can be for
+
+800
+00:19:53,830 --> 00:19:53,840
+are secondary sources that can be for
+ 
+
+801
+00:19:53,840 --> 00:19:56,230
+are secondary sources that can be for
+instance encyclopedias?
+
+802
+00:19:56,230 --> 00:19:56,240
+instance encyclopedias?
+ 
+
+803
+00:19:56,240 --> 00:19:58,789
+instance encyclopedias?
+So if you are interested in for instance
+
+804
+00:19:58,789 --> 00:19:58,799
+So if you are interested in for instance
+ 
+
+805
+00:19:58,799 --> 00:20:01,590
+So if you are interested in for instance
+learning analytics well you can look in
+
+806
+00:20:01,590 --> 00:20:01,600
+learning analytics well you can look in
+ 
+
+807
+00:20:01,600 --> 00:20:04,390
+learning analytics well you can look in
+encyclopedias what uh is said about
+
+808
+00:20:04,390 --> 00:20:04,400
+encyclopedias what uh is said about
+ 
+
+809
+00:20:04,400 --> 00:20:08,230
+encyclopedias what uh is said about
+learning analytics. So typically also
+
+810
+00:20:08,230 --> 00:20:08,240
+learning analytics. So typically also
+ 
+
+811
+00:20:08,240 --> 00:20:10,630
+learning analytics. So typically also
+think about Wikipedia for instance
+
+812
+00:20:10,630 --> 00:20:10,640
+think about Wikipedia for instance
+ 
+
+813
+00:20:10,640 --> 00:20:12,710
+think about Wikipedia for instance
+typically uh a lot of references are
+
+814
+00:20:12,710 --> 00:20:12,720
+typically uh a lot of references are
+ 
+
+815
+00:20:12,720 --> 00:20:17,510
+typically uh a lot of references are
+given uh that can be used to uh find uh
+
+816
+00:20:17,510 --> 00:20:17,520
+given uh that can be used to uh find uh
+ 
+
+817
+00:20:17,520 --> 00:20:20,950
+given uh that can be used to uh find uh
+important studies. You can also go to
+
+818
+00:20:20,950 --> 00:20:20,960
+important studies. You can also go to
+ 
+
+819
+00:20:20,960 --> 00:20:22,950
+important studies. You can also go to
+special journals. So there are some
+
+820
+00:20:22,950 --> 00:20:22,960
+special journals. So there are some
+ 
+
+821
+00:20:22,960 --> 00:20:25,350
+special journals. So there are some
+journals like psychological bulletin,
+
+822
+00:20:25,350 --> 00:20:25,360
+journals like psychological bulletin,
+ 
+
+823
+00:20:25,360 --> 00:20:29,430
+journals like psychological bulletin,
+educational research review that report
+
+824
+00:20:29,430 --> 00:20:29,440
+educational research review that report
+ 
+
+825
+00:20:29,440 --> 00:20:33,270
+educational research review that report
+um or that publish a lot of reviews
+
+826
+00:20:33,270 --> 00:20:33,280
+um or that publish a lot of reviews
+ 
+
+827
+00:20:33,280 --> 00:20:35,909
+um or that publish a lot of reviews
+or or a lot of meta analysis.
+
+828
+00:20:35,909 --> 00:20:35,919
+or or a lot of meta analysis.
+ 
+
+829
+00:20:35,919 --> 00:20:38,310
+or or a lot of meta analysis.
+So maybe there were already meta
+
+830
+00:20:38,310 --> 00:20:38,320
+So maybe there were already meta
+ 
+
+831
+00:20:38,320 --> 00:20:40,230
+So maybe there were already meta
+analysis or systematic reviews about
+
+832
+00:20:40,230 --> 00:20:40,240
+analysis or systematic reviews about
+ 
+
+833
+00:20:40,240 --> 00:20:43,669
+analysis or systematic reviews about
+your research topic or there are reviews
+
+834
+00:20:43,669 --> 00:20:43,679
+your research topic or there are reviews
+ 
+
+835
+00:20:43,679 --> 00:20:47,750
+your research topic or there are reviews
+about uh yeah very related topics. So it
+
+836
+00:20:47,750 --> 00:20:47,760
+about uh yeah very related topics. So it
+ 
+
+837
+00:20:47,760 --> 00:20:49,590
+about uh yeah very related topics. So it
+can be a good idea to look in these
+
+838
+00:20:49,590 --> 00:20:49,600
+can be a good idea to look in these
+ 
+
+839
+00:20:49,600 --> 00:20:53,350
+can be a good idea to look in these
+journals for relevant reviews so that in
+
+840
+00:20:53,350 --> 00:20:53,360
+journals for relevant reviews so that in
+ 
+
+841
+00:20:53,360 --> 00:20:56,070
+journals for relevant reviews so that in
+that way you already have an idea of
+
+842
+00:20:56,070 --> 00:20:56,080
+that way you already have an idea of
+ 
+
+843
+00:20:56,080 --> 00:20:59,909
+that way you already have an idea of
+what interesting studies could be
+
+844
+00:20:59,909 --> 00:20:59,919
+what interesting studies could be
+ 
+
+845
+00:20:59,919 --> 00:21:01,990
+what interesting studies could be
+also in other journals of course uh
+
+846
+00:21:01,990 --> 00:21:02,000
+also in other journals of course uh
+ 
+
+847
+00:21:02,000 --> 00:21:04,789
+also in other journals of course uh
+often reviews are published. You can
+
+848
+00:21:04,789 --> 00:21:04,799
+often reviews are published. You can
+ 
+
+849
+00:21:04,799 --> 00:21:07,750
+often reviews are published. You can
+also look at handbooks
+
+850
+00:21:07,750 --> 00:21:07,760
+also look at handbooks
+ 
+
+851
+00:21:07,760 --> 00:21:09,750
+also look at handbooks
+at uh conference programs and
+
+852
+00:21:09,750 --> 00:21:09,760
+at uh conference programs and
+ 
+
+853
+00:21:09,760 --> 00:21:13,029
+at uh conference programs and
+proceedings and so on. So secondary
+
+854
+00:21:13,029 --> 00:21:13,039
+proceedings and so on. So secondary
+ 
+
+855
+00:21:13,039 --> 00:21:17,430
+proceedings and so on. So secondary
+sources are sources that are not
+
+856
+00:21:17,430 --> 00:21:17,440
+sources are sources that are not
+ 
+
+857
+00:21:17,440 --> 00:21:21,510
+sources are sources that are not
+reporting directly on individual studies
+
+858
+00:21:21,510 --> 00:21:21,520
+reporting directly on individual studies
+ 
+
+859
+00:21:21,520 --> 00:21:24,630
+reporting directly on individual studies
+but they are referring to studies that
+
+860
+00:21:24,630 --> 00:21:24,640
+but they are referring to studies that
+ 
+
+861
+00:21:24,640 --> 00:21:29,029
+but they are referring to studies that
+can be looked uh for afterwards
+
+862
+00:21:29,029 --> 00:21:29,039
+can be looked uh for afterwards
+ 
+
+863
+00:21:29,039 --> 00:21:32,789
+can be looked uh for afterwards
+in a second step in third step. So once
+
+864
+00:21:32,789 --> 00:21:32,799
+in a second step in third step. So once
+ 
+
+865
+00:21:32,799 --> 00:21:37,270
+in a second step in third step. So once
+you have found interesting studies
+
+866
+00:21:37,270 --> 00:21:37,280
+you have found interesting studies
+ 
+
+867
+00:21:37,280 --> 00:21:40,390
+you have found interesting studies
+you can look at the references.
+
+868
+00:21:40,390 --> 00:21:40,400
+you can look at the references.
+ 
+
+869
+00:21:40,400 --> 00:21:44,230
+you can look at the references.
+So there are two ways you can uh uh yeah
+
+870
+00:21:44,230 --> 00:21:44,240
+So there are two ways you can uh uh yeah
+ 
+
+871
+00:21:44,240 --> 00:21:46,549
+So there are two ways you can uh uh yeah
+do a backward search which which means
+
+872
+00:21:46,549 --> 00:21:46,559
+do a backward search which which means
+ 
+
+873
+00:21:46,559 --> 00:21:49,750
+do a backward search which which means
+that you look in the reference list of
+
+874
+00:21:49,750 --> 00:21:49,760
+that you look in the reference list of
+ 
+
+875
+00:21:49,760 --> 00:21:53,110
+that you look in the reference list of
+these important uh studies. So you look
+
+876
+00:21:53,110 --> 00:21:53,120
+these important uh studies. So you look
+ 
+
+877
+00:21:53,120 --> 00:21:55,510
+these important uh studies. So you look
+at what other studies does this study
+
+878
+00:21:55,510 --> 00:21:55,520
+at what other studies does this study
+ 
+
+879
+00:21:55,520 --> 00:21:59,510
+at what other studies does this study
+referred to and probably also um studies
+
+880
+00:21:59,510 --> 00:21:59,520
+referred to and probably also um studies
+ 
+
+881
+00:21:59,520 --> 00:22:01,190
+referred to and probably also um studies
+will be referred to that are relevant
+
+882
+00:22:01,190 --> 00:22:01,200
+will be referred to that are relevant
+ 
+
+883
+00:22:01,200 --> 00:22:04,870
+will be referred to that are relevant
+for your systematic review as well.
+
+884
+00:22:04,870 --> 00:22:04,880
+for your systematic review as well.
+ 
+
+885
+00:22:04,880 --> 00:22:07,750
+for your systematic review as well.
+You can also do a forward research which
+
+886
+00:22:07,750 --> 00:22:07,760
+You can also do a forward research which
+ 
+
+887
+00:22:07,760 --> 00:22:11,029
+You can also do a forward research which
+means that you look at who or what other
+
+888
+00:22:11,029 --> 00:22:11,039
+means that you look at who or what other
+ 
+
+889
+00:22:11,039 --> 00:22:16,310
+means that you look at who or what other
+papers site this relevant study.
+
+890
+00:22:16,310 --> 00:22:16,320
+papers site this relevant study.
+ 
+
+891
+00:22:16,320 --> 00:22:19,430
+papers site this relevant study.
+So to that end so look again at the hits
+
+892
+00:22:19,430 --> 00:22:19,440
+So to that end so look again at the hits
+ 
+
+893
+00:22:19,440 --> 00:22:22,950
+So to that end so look again at the hits
+we found um from a database here from
+
+894
+00:22:22,950 --> 00:22:22,960
+we found um from a database here from
+ 
+
+895
+00:22:22,960 --> 00:22:25,830
+we found um from a database here from
+Eric you can see there a link for a
+
+896
+00:22:25,830 --> 00:22:25,840
+Eric you can see there a link for a
+ 
+
+897
+00:22:25,840 --> 00:22:28,950
+Eric you can see there a link for a
+specific uh for each specific paper to
+
+898
+00:22:28,950 --> 00:22:28,960
+specific uh for each specific paper to
+ 
+
+899
+00:22:28,960 --> 00:22:32,230
+specific uh for each specific paper to
+find citing articles. So you if you
+
+900
+00:22:32,230 --> 00:22:32,240
+find citing articles. So you if you
+ 
+
+901
+00:22:32,240 --> 00:22:36,549
+find citing articles. So you if you
+click on that link you will see what
+
+902
+00:22:36,549 --> 00:22:36,559
+click on that link you will see what
+ 
+
+903
+00:22:36,559 --> 00:22:39,909
+click on that link you will see what
+papers refer to this paper.
+
+904
+00:22:39,909 --> 00:22:39,919
+papers refer to this paper.
+ 
+
+905
+00:22:39,919 --> 00:22:42,789
+papers refer to this paper.
+So we we call this a forward re uh
+
+906
+00:22:42,789 --> 00:22:42,799
+So we we call this a forward re uh
+ 
+
+907
+00:22:42,799 --> 00:22:45,270
+So we we call this a forward re uh
+search because the papers that link to
+
+908
+00:22:45,270 --> 00:22:45,280
+search because the papers that link to
+ 
+
+909
+00:22:45,280 --> 00:22:52,390
+search because the papers that link to
+this paper are newer papers.
+
+910
+00:22:52,390 --> 00:22:52,400
+
+ 
+
+911
+00:22:52,400 --> 00:22:55,350
+
+A next step could be uh taking contact
+
+912
+00:22:55,350 --> 00:22:55,360
+A next step could be uh taking contact
+ 
+
+913
+00:22:55,360 --> 00:22:57,350
+A next step could be uh taking contact
+with researchers.
+
+914
+00:22:57,350 --> 00:22:57,360
+with researchers.
+ 
+
+915
+00:22:57,360 --> 00:22:59,669
+with researchers.
+So if you found that there are some
+
+916
+00:22:59,669 --> 00:22:59,679
+So if you found that there are some
+ 
+
+917
+00:22:59,679 --> 00:23:02,630
+So if you found that there are some
+specific researchers that are apparently
+
+918
+00:23:02,630 --> 00:23:02,640
+specific researchers that are apparently
+ 
+
+919
+00:23:02,640 --> 00:23:05,190
+specific researchers that are apparently
+doing a lot of research that is relevant
+
+920
+00:23:05,190 --> 00:23:05,200
+doing a lot of research that is relevant
+ 
+
+921
+00:23:05,200 --> 00:23:08,230
+doing a lot of research that is relevant
+for your review, well you can contact
+
+922
+00:23:08,230 --> 00:23:08,240
+for your review, well you can contact
+ 
+
+923
+00:23:08,240 --> 00:23:10,710
+for your review, well you can contact
+these researchers to ask whether they
+
+924
+00:23:10,710 --> 00:23:10,720
+these researchers to ask whether they
+ 
+
+925
+00:23:10,720 --> 00:23:12,710
+these researchers to ask whether they
+have additional studies, studies that
+
+926
+00:23:12,710 --> 00:23:12,720
+have additional studies, studies that
+ 
+
+927
+00:23:12,720 --> 00:23:16,950
+have additional studies, studies that
+you did not yet find.
+
+928
+00:23:16,950 --> 00:23:16,960
+
+ 
+
+929
+00:23:16,960 --> 00:23:19,270
+
+So you can talk to researchers at
+
+930
+00:23:19,270 --> 00:23:19,280
+So you can talk to researchers at
+ 
+
+931
+00:23:19,280 --> 00:23:23,750
+So you can talk to researchers at
+conferences or you can uh
+
+932
+00:23:23,750 --> 00:23:23,760
+conferences or you can uh
+ 
+
+933
+00:23:23,760 --> 00:23:27,110
+conferences or you can uh
+ask your professors um in the field
+
+934
+00:23:27,110 --> 00:23:27,120
+ask your professors um in the field
+ 
+
+935
+00:23:27,120 --> 00:23:29,669
+ask your professors um in the field
+whether they know of uh interesting
+
+936
+00:23:29,669 --> 00:23:29,679
+whether they know of uh interesting
+ 
+
+937
+00:23:29,679 --> 00:23:32,630
+whether they know of uh interesting
+studies that you did not found find yet.
+
+938
+00:23:32,630 --> 00:23:32,640
+studies that you did not found find yet.
+ 
+
+939
+00:23:32,640 --> 00:23:34,950
+studies that you did not found find yet.
+Uh you can go to electronic discussion
+
+940
+00:23:34,950 --> 00:23:34,960
+Uh you can go to electronic discussion
+ 
+
+941
+00:23:34,960 --> 00:23:40,230
+Uh you can go to electronic discussion
+lists or you can uh yeah you can ask uh
+
+942
+00:23:40,230 --> 00:23:40,240
+lists or you can uh yeah you can ask uh
+ 
+
+943
+00:23:40,240 --> 00:23:41,750
+lists or you can uh yeah you can ask uh
+researchers
+
+944
+00:23:41,750 --> 00:23:41,760
+researchers
+ 
+
+945
+00:23:41,760 --> 00:23:46,149
+researchers
+um that are important in this field.
+
+946
+00:23:46,149 --> 00:23:46,159
+um that are important in this field.
+ 
+
+947
+00:23:46,159 --> 00:23:48,230
+um that are important in this field.
+Important is that you look for
+
+948
+00:23:48,230 --> 00:23:48,240
+Important is that you look for
+ 
+
+949
+00:23:48,240 --> 00:23:52,630
+Important is that you look for
+heterogeneous contacts. If you always
+
+950
+00:23:52,630 --> 00:23:52,640
+heterogeneous contacts. If you always
+ 
+
+951
+00:23:52,640 --> 00:23:54,390
+heterogeneous contacts. If you always
+um
+
+952
+00:23:54,390 --> 00:23:54,400
+um
+ 
+
+953
+00:23:54,400 --> 00:23:57,029
+um
+yeah go to the same type of researchers
+
+954
+00:23:57,029 --> 00:23:57,039
+yeah go to the same type of researchers
+ 
+
+955
+00:23:57,039 --> 00:23:59,190
+yeah go to the same type of researchers
+then there will be bias in the list of
+
+956
+00:23:59,190 --> 00:23:59,200
+then there will be bias in the list of
+ 
+
+957
+00:23:59,200 --> 00:24:01,909
+then there will be bias in the list of
+studies you find. So if you know that
+
+958
+00:24:01,909 --> 00:24:01,919
+studies you find. So if you know that
+ 
+
+959
+00:24:01,919 --> 00:24:03,669
+studies you find. So if you know that
+there is a discussion in the domain
+
+960
+00:24:03,669 --> 00:24:03,679
+there is a discussion in the domain
+ 
+
+961
+00:24:03,679 --> 00:24:05,430
+there is a discussion in the domain
+between so if there are different
+
+962
+00:24:05,430 --> 00:24:05,440
+between so if there are different
+ 
+
+963
+00:24:05,440 --> 00:24:07,990
+between so if there are different
+schools within the domain that some
+
+964
+00:24:07,990 --> 00:24:08,000
+schools within the domain that some
+ 
+
+965
+00:24:08,000 --> 00:24:10,950
+schools within the domain that some
+groups of researchers uh use a specific
+
+966
+00:24:10,950 --> 00:24:10,960
+groups of researchers uh use a specific
+ 
+
+967
+00:24:10,960 --> 00:24:13,350
+groups of researchers uh use a specific
+type of of methods for instance and
+
+968
+00:24:13,350 --> 00:24:13,360
+type of of methods for instance and
+ 
+
+969
+00:24:13,360 --> 00:24:15,350
+type of of methods for instance and
+another group of researchers use another
+
+970
+00:24:15,350 --> 00:24:15,360
+another group of researchers use another
+ 
+
+971
+00:24:15,360 --> 00:24:17,750
+another group of researchers use another
+type of methods. It's important that in
+
+972
+00:24:17,750 --> 00:24:17,760
+type of methods. It's important that in
+ 
+
+973
+00:24:17,760 --> 00:24:20,070
+type of methods. It's important that in
+the two schools or in the two groups of
+
+974
+00:24:20,070 --> 00:24:20,080
+the two schools or in the two groups of
+ 
+
+975
+00:24:20,080 --> 00:24:26,310
+the two schools or in the two groups of
+researchers you try to find um studies.
+
+976
+00:24:26,310 --> 00:24:26,320
+
+ 
+
+977
+00:24:26,320 --> 00:24:30,470
+
+Next step could be browsing journals.
+
+978
+00:24:30,470 --> 00:24:30,480
+Next step could be browsing journals.
+ 
+
+979
+00:24:30,480 --> 00:24:34,630
+Next step could be browsing journals.
+So again online you can use databases to
+
+980
+00:24:34,630 --> 00:24:34,640
+So again online you can use databases to
+ 
+
+981
+00:24:34,640 --> 00:24:38,149
+So again online you can use databases to
+see what journals were what articles or
+
+982
+00:24:38,149 --> 00:24:38,159
+see what journals were what articles or
+ 
+
+983
+00:24:38,159 --> 00:24:41,510
+see what journals were what articles or
+what papers are published in journals.
+
+984
+00:24:41,510 --> 00:24:41,520
+what papers are published in journals.
+ 
+
+985
+00:24:41,520 --> 00:24:43,750
+what papers are published in journals.
+Of course here you are going to look at
+
+986
+00:24:43,750 --> 00:24:43,760
+Of course here you are going to look at
+ 
+
+987
+00:24:43,760 --> 00:24:48,470
+Of course here you are going to look at
+journals that um um that are within the
+
+988
+00:24:48,470 --> 00:24:48,480
+journals that um um that are within the
+ 
+
+989
+00:24:48,480 --> 00:24:51,350
+journals that um um that are within the
+scope of your systematic review. So that
+
+990
+00:24:51,350 --> 00:24:51,360
+scope of your systematic review. So that
+ 
+
+991
+00:24:51,360 --> 00:24:53,830
+scope of your systematic review. So that
+that these are publishing a lot of
+
+992
+00:24:53,830 --> 00:24:53,840
+that these are publishing a lot of
+ 
+
+993
+00:24:53,840 --> 00:24:59,190
+that these are publishing a lot of
+papers in the field of interest for you.
+
+994
+00:24:59,190 --> 00:24:59,200
+papers in the field of interest for you.
+ 
+
+995
+00:24:59,200 --> 00:25:01,830
+papers in the field of interest for you.
+And then the last step is looking for
+
+996
+00:25:01,830 --> 00:25:01,840
+And then the last step is looking for
+ 
+
+997
+00:25:01,840 --> 00:25:04,710
+And then the last step is looking for
+research registries.
+
+998
+00:25:04,710 --> 00:25:04,720
+research registries.
+ 
+
+999
+00:25:04,720 --> 00:25:06,950
+research registries.
+It's more and more the case that uh for
+
+1000
+00:25:06,950 --> 00:25:06,960
+It's more and more the case that uh for
+ 
+
+1001
+00:25:06,960 --> 00:25:09,830
+It's more and more the case that uh for
+instance governmental organizations
+
+1002
+00:25:09,830 --> 00:25:09,840
+instance governmental organizations
+ 
+
+1003
+00:25:09,840 --> 00:25:12,710
+instance governmental organizations
+require when they give funding to to uh
+
+1004
+00:25:12,710 --> 00:25:12,720
+require when they give funding to to uh
+ 
+
+1005
+00:25:12,720 --> 00:25:15,510
+require when they give funding to to uh
+research groups or to projects they
+
+1006
+00:25:15,510 --> 00:25:15,520
+research groups or to projects they
+ 
+
+1007
+00:25:15,520 --> 00:25:20,710
+research groups or to projects they
+require that um the data are sent uh to
+
+1008
+00:25:20,710 --> 00:25:20,720
+require that um the data are sent uh to
+ 
+
+1009
+00:25:20,720 --> 00:25:23,830
+require that um the data are sent uh to
+these organizations or at least uh a
+
+1010
+00:25:23,830 --> 00:25:23,840
+these organizations or at least uh a
+ 
+
+1011
+00:25:23,840 --> 00:25:26,470
+these organizations or at least uh a
+report is sent to these organization
+
+1012
+00:25:26,470 --> 00:25:26,480
+report is sent to these organization
+ 
+
+1013
+00:25:26,480 --> 00:25:29,110
+report is sent to these organization
+independently of whether uh the results
+
+1014
+00:25:29,110 --> 00:25:29,120
+independently of whether uh the results
+ 
+
+1015
+00:25:29,120 --> 00:25:31,830
+independently of whether uh the results
+were statistically significant.
+
+1016
+00:25:31,830 --> 00:25:31,840
+were statistically significant.
+ 
+
+1017
+00:25:31,840 --> 00:25:35,350
+were statistically significant.
+Um so for instance uh the food and drug
+
+1018
+00:25:35,350 --> 00:25:35,360
+Um so for instance uh the food and drug
+ 
+
+1019
+00:25:35,360 --> 00:25:37,029
+Um so for instance uh the food and drug
+administration of the US or the
+
+1020
+00:25:37,029 --> 00:25:37,039
+administration of the US or the
+ 
+
+1021
+00:25:37,039 --> 00:25:39,110
+administration of the US or the
+institute of education sciences of the
+
+1022
+00:25:39,110 --> 00:25:39,120
+institute of education sciences of the
+ 
+
+1023
+00:25:39,120 --> 00:25:43,029
+institute of education sciences of the
+US they ask or they keep a record of all
+
+1024
+00:25:43,029 --> 00:25:43,039
+US they ask or they keep a record of all
+ 
+
+1025
+00:25:43,039 --> 00:25:45,590
+US they ask or they keep a record of all
+studies that were funded uh by these
+
+1026
+00:25:45,590 --> 00:25:45,600
+studies that were funded uh by these
+ 
+
+1027
+00:25:45,600 --> 00:25:47,909
+studies that were funded uh by these
+organizations.
+
+1028
+00:25:47,909 --> 00:25:47,919
+organizations.
+ 
+
+1029
+00:25:47,919 --> 00:25:53,909
+organizations.
+um
+
+1030
+00:25:53,909 --> 00:25:53,919
+
+ 
+
+1031
+00:25:53,919 --> 00:25:57,990
+
+a note. So we try to find all relevant
+
+1032
+00:25:57,990 --> 00:25:58,000
+a note. So we try to find all relevant
+ 
+
+1033
+00:25:58,000 --> 00:25:59,830
+a note. So we try to find all relevant
+studies
+
+1034
+00:25:59,830 --> 00:25:59,840
+studies
+ 
+
+1035
+00:25:59,840 --> 00:26:04,390
+studies
+but take into account or keep in mind
+
+1036
+00:26:04,390 --> 00:26:04,400
+but take into account or keep in mind
+ 
+
+1037
+00:26:04,400 --> 00:26:08,710
+but take into account or keep in mind
+that all relevant studies that were done
+
+1038
+00:26:08,710 --> 00:26:08,720
+that all relevant studies that were done
+ 
+
+1039
+00:26:08,720 --> 00:26:11,669
+that all relevant studies that were done
+are not necessarily representative for
+
+1040
+00:26:11,669 --> 00:26:11,679
+are not necessarily representative for
+ 
+
+1041
+00:26:11,679 --> 00:26:15,190
+are not necessarily representative for
+all studies that could have been done.
+
+1042
+00:26:15,190 --> 00:26:15,200
+all studies that could have been done.
+ 
+
+1043
+00:26:15,200 --> 00:26:17,750
+all studies that could have been done.
+very often it is the case that some
+
+1044
+00:26:17,750 --> 00:26:17,760
+very often it is the case that some
+ 
+
+1045
+00:26:17,760 --> 00:26:20,950
+very often it is the case that some
+specific subopuls or interventions or
+
+1046
+00:26:20,950 --> 00:26:20,960
+specific subopuls or interventions or
+ 
+
+1047
+00:26:20,960 --> 00:26:23,990
+specific subopuls or interventions or
+outcomes or designs are not yet
+
+1048
+00:26:23,990 --> 00:26:24,000
+outcomes or designs are not yet
+ 
+
+1049
+00:26:24,000 --> 00:26:27,669
+outcomes or designs are not yet
+sufficiently studied.
+
+1050
+00:26:27,669 --> 00:26:27,679
+sufficiently studied.
+ 
+
+1051
+00:26:27,679 --> 00:26:29,350
+sufficiently studied.
+So it's important that you take this
+
+1052
+00:26:29,350 --> 00:26:29,360
+So it's important that you take this
+ 
+
+1053
+00:26:29,360 --> 00:26:31,510
+So it's important that you take this
+into account when you make
+
+1054
+00:26:31,510 --> 00:26:31,520
+into account when you make
+ 
+
+1055
+00:26:31,520 --> 00:26:34,870
+into account when you make
+interpretations or or draw conclusions.
+
+1056
+00:26:34,870 --> 00:26:34,880
+interpretations or or draw conclusions.
+ 
+
+1057
+00:26:34,880 --> 00:26:36,950
+interpretations or or draw conclusions.
+But it can also be an important role of
+
+1058
+00:26:36,950 --> 00:26:36,960
+But it can also be an important role of
+ 
+
+1059
+00:26:36,960 --> 00:26:40,630
+But it can also be an important role of
+a meta analysis or a systematic review
+
+1060
+00:26:40,630 --> 00:26:40,640
+a meta analysis or a systematic review
+ 
+
+1061
+00:26:40,640 --> 00:26:43,029
+a meta analysis or a systematic review
+to give an overview of what has been
+
+1062
+00:26:43,029 --> 00:26:43,039
+to give an overview of what has been
+ 
+
+1063
+00:26:43,039 --> 00:26:45,669
+to give an overview of what has been
+studied yet and what does not have been
+
+1064
+00:26:45,669 --> 00:26:45,679
+studied yet and what does not have been
+ 
+
+1065
+00:26:45,679 --> 00:26:47,269
+studied yet and what does not have been
+studied
+
+1066
+00:26:47,269 --> 00:26:47,279
+studied
+ 
+
+1067
+00:26:47,279 --> 00:26:51,430
+studied
+what does not was not studied yet. So
+
+1068
+00:26:51,430 --> 00:26:51,440
+what does not was not studied yet. So
+ 
+
+1069
+00:26:51,440 --> 00:26:54,710
+what does not was not studied yet. So
+based on your systematic review, you can
+
+1070
+00:26:54,710 --> 00:26:54,720
+based on your systematic review, you can
+ 
+
+1071
+00:26:54,720 --> 00:26:57,990
+based on your systematic review, you can
+uh suggest uh directions for future
+
+1072
+00:26:57,990 --> 00:26:58,000
+uh suggest uh directions for future
+ 
+
+1073
+00:26:58,000 --> 00:27:02,230
+uh suggest uh directions for future
+research.
+
+1074
+00:27:02,230 --> 00:27:02,240
+
+ 
+
+1075
+00:27:02,240 --> 00:27:04,470
+
+In the previous step, we search for
+
+1076
+00:27:04,470 --> 00:27:04,480
+In the previous step, we search for
+ 
+
+1077
+00:27:04,480 --> 00:27:07,590
+In the previous step, we search for
+studies. Often we will initially find a
+
+1078
+00:27:07,590 --> 00:27:07,600
+studies. Often we will initially find a
+ 
+
+1079
+00:27:07,600 --> 00:27:10,630
+studies. Often we will initially find a
+lot of potentially relevant studies. In
+
+1080
+00:27:10,630 --> 00:27:10,640
+lot of potentially relevant studies. In
+ 
+
+1081
+00:27:10,640 --> 00:27:12,950
+lot of potentially relevant studies. In
+the next step, we make a selection of
+
+1082
+00:27:12,950 --> 00:27:12,960
+the next step, we make a selection of
+ 
+
+1083
+00:27:12,960 --> 00:27:15,269
+the next step, we make a selection of
+the studies that are really relevant.
+
+1084
+00:27:15,269 --> 00:27:15,279
+the studies that are really relevant.
+ 
+
+1085
+00:27:15,279 --> 00:27:17,830
+the studies that are really relevant.
+It's not uncommon that initially there
+
+1086
+00:27:17,830 --> 00:27:17,840
+It's not uncommon that initially there
+ 
+
+1087
+00:27:17,840 --> 00:27:19,909
+It's not uncommon that initially there
+are two or three thousand potentially
+
+1088
+00:27:19,909 --> 00:27:19,919
+are two or three thousand potentially
+ 
+
+1089
+00:27:19,919 --> 00:27:22,070
+are two or three thousand potentially
+relevant studies, but that from these
+
+1090
+00:27:22,070 --> 00:27:22,080
+relevant studies, but that from these
+ 
+
+1091
+00:27:22,080 --> 00:27:26,230
+relevant studies, but that from these
+studies only about 100 studies appear to
+
+1092
+00:27:26,230 --> 00:27:26,240
+studies only about 100 studies appear to
+ 
+
+1093
+00:27:26,240 --> 00:27:28,549
+studies only about 100 studies appear to
+be really relevant and are to be
+
+1094
+00:27:28,549 --> 00:27:28,559
+be really relevant and are to be
+ 
+
+1095
+00:27:28,559 --> 00:27:34,549
+be really relevant and are to be
+included in the meta analysis.
+
+1096
+00:27:34,549 --> 00:27:34,559
+
+ 
+
+1097
+00:27:34,559 --> 00:27:38,149
+
+For the selection of studies, we make a
+
+1098
+00:27:38,149 --> 00:27:38,159
+For the selection of studies, we make a
+ 
+
+1099
+00:27:38,159 --> 00:27:40,390
+For the selection of studies, we make a
+list of inclusion and exclusion
+
+1100
+00:27:40,390 --> 00:27:40,400
+list of inclusion and exclusion
+ 
+
+1101
+00:27:40,400 --> 00:27:41,990
+list of inclusion and exclusion
+criteria.
+
+1102
+00:27:41,990 --> 00:27:42,000
+criteria.
+ 
+
+1103
+00:27:42,000 --> 00:27:45,350
+criteria.
+for instance about yeah the population.
+
+1104
+00:27:45,350 --> 00:27:45,360
+for instance about yeah the population.
+ 
+
+1105
+00:27:45,360 --> 00:27:48,070
+for instance about yeah the population.
+So do we look at all kinds of of persons
+
+1106
+00:27:48,070 --> 00:27:48,080
+So do we look at all kinds of of persons
+ 
+
+1107
+00:27:48,080 --> 00:27:50,630
+So do we look at all kinds of of persons
+or do we look do we look only at a
+
+1108
+00:27:50,630 --> 00:27:50,640
+or do we look do we look only at a
+ 
+
+1109
+00:27:50,640 --> 00:27:52,789
+or do we look do we look only at a
+specific age
+
+1110
+00:27:52,789 --> 00:27:52,799
+specific age
+ 
+
+1111
+00:27:52,799 --> 00:27:55,350
+specific age
+uh range?
+
+1112
+00:27:55,350 --> 00:27:55,360
+uh range?
+ 
+
+1113
+00:27:55,360 --> 00:27:59,029
+uh range?
+You can also uh limit the type of
+
+1114
+00:27:59,029 --> 00:27:59,039
+You can also uh limit the type of
+ 
+
+1115
+00:27:59,039 --> 00:28:01,269
+You can also uh limit the type of
+treatment or the duration of the
+
+1116
+00:28:01,269 --> 00:28:01,279
+treatment or the duration of the
+ 
+
+1117
+00:28:01,279 --> 00:28:03,029
+treatment or the duration of the
+treatment.
+
+1118
+00:28:03,029 --> 00:28:03,039
+treatment.
+ 
+
+1119
+00:28:03,039 --> 00:28:05,669
+treatment.
+You can also say that uh you will only
+
+1120
+00:28:05,669 --> 00:28:05,679
+You can also say that uh you will only
+ 
+
+1121
+00:28:05,679 --> 00:28:08,149
+You can also say that uh you will only
+look at uh studies using a specific
+
+1122
+00:28:08,149 --> 00:28:08,159
+look at uh studies using a specific
+ 
+
+1123
+00:28:08,159 --> 00:28:10,789
+look at uh studies using a specific
+design. For instance, you can say that
+
+1124
+00:28:10,789 --> 00:28:10,799
+design. For instance, you can say that
+ 
+
+1125
+00:28:10,799 --> 00:28:12,389
+design. For instance, you can say that
+there should be a control group or at
+
+1126
+00:28:12,389 --> 00:28:12,399
+there should be a control group or at
+ 
+
+1127
+00:28:12,399 --> 00:28:14,950
+there should be a control group or at
+least a control condition.
+
+1128
+00:28:14,950 --> 00:28:14,960
+least a control condition.
+ 
+
+1129
+00:28:14,960 --> 00:28:19,430
+least a control condition.
+You can also look at um or use the study
+
+1130
+00:28:19,430 --> 00:28:19,440
+You can also look at um or use the study
+ 
+
+1131
+00:28:19,440 --> 00:28:23,110
+You can also look at um or use the study
+quality as an inclusion criteria. So you
+
+1132
+00:28:23,110 --> 00:28:23,120
+quality as an inclusion criteria. So you
+ 
+
+1133
+00:28:23,120 --> 00:28:25,190
+quality as an inclusion criteria. So you
+can say that only studies of a good
+
+1134
+00:28:25,190 --> 00:28:25,200
+can say that only studies of a good
+ 
+
+1135
+00:28:25,200 --> 00:28:28,389
+can say that only studies of a good
+quality will be included
+
+1136
+00:28:28,389 --> 00:28:28,399
+quality will be included
+ 
+
+1137
+00:28:28,399 --> 00:28:30,549
+quality will be included
+or of course you can say that yeah we
+
+1138
+00:28:30,549 --> 00:28:30,559
+or of course you can say that yeah we
+ 
+
+1139
+00:28:30,559 --> 00:28:32,789
+or of course you can say that yeah we
+need enough information about the
+
+1140
+00:28:32,789 --> 00:28:32,799
+need enough information about the
+ 
+
+1141
+00:28:32,799 --> 00:28:35,350
+need enough information about the
+outcome variable or about specific uh
+
+1142
+00:28:35,350 --> 00:28:35,360
+outcome variable or about specific uh
+ 
+
+1143
+00:28:35,360 --> 00:28:37,269
+outcome variable or about specific uh
+study characteristics before we can
+
+1144
+00:28:37,269 --> 00:28:37,279
+study characteristics before we can
+ 
+
+1145
+00:28:37,279 --> 00:28:39,909
+study characteristics before we can
+include that study in our systematic
+
+1146
+00:28:39,909 --> 00:28:39,919
+include that study in our systematic
+ 
+
+1147
+00:28:39,919 --> 00:28:43,430
+include that study in our systematic
+review.
+
+1148
+00:28:43,430 --> 00:28:43,440
+
+ 
+
+1149
+00:28:43,440 --> 00:28:46,310
+
+So it is important to make uh an
+
+1150
+00:28:46,310 --> 00:28:46,320
+So it is important to make uh an
+ 
+
+1151
+00:28:46,320 --> 00:28:49,590
+So it is important to make uh an
+explicit list of inclusion and exclusion
+
+1152
+00:28:49,590 --> 00:28:49,600
+explicit list of inclusion and exclusion
+ 
+
+1153
+00:28:49,600 --> 00:28:52,710
+explicit list of inclusion and exclusion
+criterion criteria and it's also
+
+1154
+00:28:52,710 --> 00:28:52,720
+criterion criteria and it's also
+ 
+
+1155
+00:28:52,720 --> 00:28:55,350
+criterion criteria and it's also
+important to report on that list. Why is
+
+1156
+00:28:55,350 --> 00:28:55,360
+important to report on that list. Why is
+ 
+
+1157
+00:28:55,360 --> 00:28:57,430
+important to report on that list. Why is
+it important? Well, it's important
+
+1158
+00:28:57,430 --> 00:28:57,440
+it important? Well, it's important
+ 
+
+1159
+00:28:57,440 --> 00:29:00,710
+it important? Well, it's important
+because in that way you can uh make a
+
+1160
+00:29:00,710 --> 00:29:00,720
+because in that way you can uh make a
+ 
+
+1161
+00:29:00,720 --> 00:29:02,710
+because in that way you can uh make a
+selection of studies in a consistent
+
+1162
+00:29:02,710 --> 00:29:02,720
+selection of studies in a consistent
+ 
+
+1163
+00:29:02,720 --> 00:29:05,350
+selection of studies in a consistent
+way. So it's important that if you
+
+1164
+00:29:05,350 --> 00:29:05,360
+way. So it's important that if you
+ 
+
+1165
+00:29:05,360 --> 00:29:08,710
+way. So it's important that if you
+selected a study for uh for your
+
+1166
+00:29:08,710 --> 00:29:08,720
+selected a study for uh for your
+ 
+
+1167
+00:29:08,720 --> 00:29:11,830
+selected a study for uh for your
+systematic review then another study
+
+1168
+00:29:11,830 --> 00:29:11,840
+systematic review then another study
+ 
+
+1169
+00:29:11,840 --> 00:29:16,470
+systematic review then another study
+that is very similar uh also has to be
+
+1170
+00:29:16,470 --> 00:29:16,480
+that is very similar uh also has to be
+ 
+
+1171
+00:29:16,480 --> 00:29:18,950
+that is very similar uh also has to be
+included in your systematic review and
+
+1172
+00:29:18,950 --> 00:29:18,960
+included in your systematic review and
+ 
+
+1173
+00:29:18,960 --> 00:29:21,029
+included in your systematic review and
+the other way around if you decide that
+
+1174
+00:29:21,029 --> 00:29:21,039
+the other way around if you decide that
+ 
+
+1175
+00:29:21,039 --> 00:29:23,510
+the other way around if you decide that
+a specific study should be excluded then
+
+1176
+00:29:23,510 --> 00:29:23,520
+a specific study should be excluded then
+ 
+
+1177
+00:29:23,520 --> 00:29:26,310
+a specific study should be excluded then
+a very similar study should also be
+
+1178
+00:29:26,310 --> 00:29:26,320
+a very similar study should also be
+ 
+
+1179
+00:29:26,320 --> 00:29:28,549
+a very similar study should also be
+excluded.
+
+1180
+00:29:28,549 --> 00:29:28,559
+excluded.
+ 
+
+1181
+00:29:28,559 --> 00:29:31,190
+excluded.
+So that's consistency but also for
+
+1182
+00:29:31,190 --> 00:29:31,200
+So that's consistency but also for
+ 
+
+1183
+00:29:31,200 --> 00:29:32,789
+So that's consistency but also for
+replicability.
+
+1184
+00:29:32,789 --> 00:29:32,799
+replicability.
+ 
+
+1185
+00:29:32,799 --> 00:29:35,909
+replicability.
+So this means that other researchers
+
+1186
+00:29:35,909 --> 00:29:35,919
+So this means that other researchers
+ 
+
+1187
+00:29:35,919 --> 00:29:39,430
+So this means that other researchers
+should be able to replicate or repeat
+
+1188
+00:29:39,430 --> 00:29:39,440
+should be able to replicate or repeat
+ 
+
+1189
+00:29:39,440 --> 00:29:42,389
+should be able to replicate or repeat
+your research and come to very similar
+
+1190
+00:29:42,389 --> 00:29:42,399
+your research and come to very similar
+ 
+
+1191
+00:29:42,399 --> 00:29:45,190
+your research and come to very similar
+conclusions. So therefore it's important
+
+1192
+00:29:45,190 --> 00:29:45,200
+conclusions. So therefore it's important
+ 
+
+1193
+00:29:45,200 --> 00:29:49,430
+conclusions. So therefore it's important
+that you uh make clear what exact
+
+1194
+00:29:49,430 --> 00:29:49,440
+that you uh make clear what exact
+ 
+
+1195
+00:29:49,440 --> 00:29:51,830
+that you uh make clear what exact
+inclusion and exclusion criteria you
+
+1196
+00:29:51,830 --> 00:29:51,840
+inclusion and exclusion criteria you
+ 
+
+1197
+00:29:51,840 --> 00:29:54,950
+inclusion and exclusion criteria you
+used so that if another person would do
+
+1198
+00:29:54,950 --> 00:29:54,960
+used so that if another person would do
+ 
+
+1199
+00:29:54,960 --> 00:29:57,669
+used so that if another person would do
+the search and the study selection again
+
+1200
+00:29:57,669 --> 00:29:57,679
+the search and the study selection again
+ 
+
+1201
+00:29:57,679 --> 00:29:59,750
+the search and the study selection again
+that that person will get exactly the
+
+1202
+00:29:59,750 --> 00:29:59,760
+that that person will get exactly the
+ 
+
+1203
+00:29:59,760 --> 00:30:07,269
+that that person will get exactly the
+same uh uh results.
+
+1204
+00:30:07,269 --> 00:30:07,279
+
+ 
+
+1205
+00:30:07,279 --> 00:30:09,830
+
+A remark is that if you use a very
+
+1206
+00:30:09,830 --> 00:30:09,840
+A remark is that if you use a very
+ 
+
+1207
+00:30:09,840 --> 00:30:11,990
+A remark is that if you use a very
+narrow criteria
+
+1208
+00:30:11,990 --> 00:30:12,000
+narrow criteria
+ 
+
+1209
+00:30:12,000 --> 00:30:14,549
+narrow criteria
+then you will probably have uh will end
+
+1210
+00:30:14,549 --> 00:30:14,559
+then you will probably have uh will end
+ 
+
+1211
+00:30:14,559 --> 00:30:17,750
+then you will probably have uh will end
+up with a small set of studies which is
+
+1212
+00:30:17,750 --> 00:30:17,760
+up with a small set of studies which is
+ 
+
+1213
+00:30:17,760 --> 00:30:20,950
+up with a small set of studies which is
+not good in a sense because the smaller
+
+1214
+00:30:20,950 --> 00:30:20,960
+not good in a sense because the smaller
+ 
+
+1215
+00:30:20,960 --> 00:30:24,230
+not good in a sense because the smaller
+the set of studies the lower the
+
+1216
+00:30:24,230 --> 00:30:24,240
+the set of studies the lower the
+ 
+
+1217
+00:30:24,240 --> 00:30:27,029
+the set of studies the lower the
+statistical power.
+
+1218
+00:30:27,029 --> 00:30:27,039
+statistical power.
+ 
+
+1219
+00:30:27,039 --> 00:30:30,149
+statistical power.
+On the other hand if you use narrow
+
+1220
+00:30:30,149 --> 00:30:30,159
+On the other hand if you use narrow
+ 
+
+1221
+00:30:30,159 --> 00:30:32,549
+On the other hand if you use narrow
+criteria then your set of studies will
+
+1222
+00:30:32,549 --> 00:30:32,559
+criteria then your set of studies will
+ 
+
+1223
+00:30:32,559 --> 00:30:35,430
+criteria then your set of studies will
+be probably more homogeneous. So we'll
+
+1224
+00:30:35,430 --> 00:30:35,440
+be probably more homogeneous. So we'll
+ 
+
+1225
+00:30:35,440 --> 00:30:38,630
+be probably more homogeneous. So we'll
+be more alike which is which makes that
+
+1226
+00:30:38,630 --> 00:30:38,640
+be more alike which is which makes that
+ 
+
+1227
+00:30:38,640 --> 00:30:42,389
+be more alike which is which makes that
+uh it is easier to draw conclusions or
+
+1228
+00:30:42,389 --> 00:30:42,399
+uh it is easier to draw conclusions or
+ 
+
+1229
+00:30:42,399 --> 00:30:47,029
+uh it is easier to draw conclusions or
+to interpret the results.
+
+1230
+00:30:47,029 --> 00:30:47,039
+
+ 
+
+1231
+00:30:47,039 --> 00:30:50,549
+
+So a possible approach is that um you
+
+1232
+00:30:50,549 --> 00:30:50,559
+So a possible approach is that um you
+ 
+
+1233
+00:30:50,559 --> 00:30:54,549
+So a possible approach is that um you
+start with somewhat broader criteria
+
+1234
+00:30:54,549 --> 00:30:54,559
+start with somewhat broader criteria
+ 
+
+1235
+00:30:54,559 --> 00:30:58,070
+start with somewhat broader criteria
+in a pilot search and if you see that uh
+
+1236
+00:30:58,070 --> 00:30:58,080
+in a pilot search and if you see that uh
+ 
+
+1237
+00:30:58,080 --> 00:31:02,710
+in a pilot search and if you see that uh
+you will have too many hits. So making
+
+1238
+00:31:02,710 --> 00:31:02,720
+you will have too many hits. So making
+ 
+
+1239
+00:31:02,720 --> 00:31:05,669
+you will have too many hits. So making
+it not feasible anymore uh to do this
+
+1240
+00:31:05,669 --> 00:31:05,679
+it not feasible anymore uh to do this
+ 
+
+1241
+00:31:05,679 --> 00:31:07,590
+it not feasible anymore uh to do this
+search
+
+1242
+00:31:07,590 --> 00:31:07,600
+search
+ 
+
+1243
+00:31:07,600 --> 00:31:10,149
+search
+uh to do this uh systematic review then
+
+1244
+00:31:10,149 --> 00:31:10,159
+uh to do this uh systematic review then
+ 
+
+1245
+00:31:10,159 --> 00:31:16,389
+uh to do this uh systematic review then
+you still can refine um the search.
+
+1246
+00:31:16,389 --> 00:31:16,399
+
+ 
+
+1247
+00:31:16,399 --> 00:31:19,590
+
+So an example an example of in an
+
+1248
+00:31:19,590 --> 00:31:19,600
+So an example an example of in an
+ 
+
+1249
+00:31:19,600 --> 00:31:22,389
+So an example an example of in an
+exclusion criteria we used in a
+
+1250
+00:31:22,389 --> 00:31:22,399
+exclusion criteria we used in a
+ 
+
+1251
+00:31:22,399 --> 00:31:26,310
+exclusion criteria we used in a
+systematic review on the effects of
+
+1252
+00:31:26,310 --> 00:31:26,320
+systematic review on the effects of
+ 
+
+1253
+00:31:26,320 --> 00:31:29,269
+systematic review on the effects of
+priming.
+
+1254
+00:31:29,269 --> 00:31:29,279
+priming.
+ 
+
+1255
+00:31:29,279 --> 00:31:32,310
+priming.
+Yeah. For instance, one of the uh
+
+1256
+00:31:32,310 --> 00:31:32,320
+Yeah. For instance, one of the uh
+ 
+
+1257
+00:31:32,320 --> 00:31:34,710
+Yeah. For instance, one of the uh
+criteria was the relationship between
+
+1258
+00:31:34,710 --> 00:31:34,720
+criteria was the relationship between
+ 
+
+1259
+00:31:34,720 --> 00:31:36,549
+criteria was the relationship between
+the prime and a target should be of a
+
+1260
+00:31:36,549 --> 00:31:36,559
+the prime and a target should be of a
+ 
+
+1261
+00:31:36,559 --> 00:31:39,669
+the prime and a target should be of a
+direct semantic nature. Not I will not
+
+1262
+00:31:39,669 --> 00:31:39,679
+direct semantic nature. Not I will not
+ 
+
+1263
+00:31:39,679 --> 00:31:41,909
+direct semantic nature. Not I will not
+give uh details about the meaning of
+
+1264
+00:31:41,909 --> 00:31:41,919
+give uh details about the meaning of
+ 
+
+1265
+00:31:41,919 --> 00:31:45,110
+give uh details about the meaning of
+this but you see that uh we said studies
+
+1266
+00:31:45,110 --> 00:31:45,120
+this but you see that uh we said studies
+ 
+
+1267
+00:31:45,120 --> 00:31:48,470
+this but you see that uh we said studies
+investigating other types of of priming
+
+1268
+00:31:48,470 --> 00:31:48,480
+investigating other types of of priming
+ 
+
+1269
+00:31:48,480 --> 00:31:51,110
+investigating other types of of priming
+such as phological priming morphological
+
+1270
+00:31:51,110 --> 00:31:51,120
+such as phological priming morphological
+ 
+
+1271
+00:31:51,120 --> 00:31:56,310
+such as phological priming morphological
+priming and so on were excluded.
+
+1272
+00:31:56,310 --> 00:31:56,320
+
+ 
+
+1273
+00:31:56,320 --> 00:31:58,710
+
+We said the primes have to be presented
+
+1274
+00:31:58,710 --> 00:31:58,720
+We said the primes have to be presented
+ 
+
+1275
+00:31:58,720 --> 00:32:00,710
+We said the primes have to be presented
+subliminally
+
+1276
+00:32:00,710 --> 00:32:00,720
+subliminally
+ 
+
+1277
+00:32:00,720 --> 00:32:02,950
+subliminally
+which means that it is beneath the
+
+1278
+00:32:02,950 --> 00:32:02,960
+which means that it is beneath the
+ 
+
+1279
+00:32:02,960 --> 00:32:05,509
+which means that it is beneath the
+conscious threshold. And then we defined
+
+1280
+00:32:05,509 --> 00:32:05,519
+conscious threshold. And then we defined
+ 
+
+1281
+00:32:05,519 --> 00:32:07,909
+conscious threshold. And then we defined
+further what we called the cons
+
+1282
+00:32:07,909 --> 00:32:07,919
+further what we called the cons
+ 
+
+1283
+00:32:07,919 --> 00:32:10,549
+further what we called the cons
+conscious threshold
+
+1284
+00:32:10,549 --> 00:32:10,559
+conscious threshold
+ 
+
+1285
+00:32:10,559 --> 00:32:17,509
+conscious threshold
+and so on and so further.
+
+1286
+00:32:17,509 --> 00:32:17,519
+
+ 
+
+1287
+00:32:17,519 --> 00:32:20,870
+
+In this study, we
+
+1288
+00:32:20,870 --> 00:32:20,880
+In this study, we
+ 
+
+1289
+00:32:20,880 --> 00:32:26,070
+In this study, we
+found based on a search in databases 749
+
+1290
+00:32:26,070 --> 00:32:26,080
+found based on a search in databases 749
+ 
+
+1291
+00:32:26,080 --> 00:32:28,710
+found based on a search in databases 749
+published articles.
+
+1292
+00:32:28,710 --> 00:32:28,720
+published articles.
+ 
+
+1293
+00:32:28,720 --> 00:32:31,990
+published articles.
+And here we can see an overview of um
+
+1294
+00:32:31,990 --> 00:32:32,000
+And here we can see an overview of um
+ 
+
+1295
+00:32:32,000 --> 00:32:35,269
+And here we can see an overview of um
+what happened to these articles. So what
+
+1296
+00:32:35,269 --> 00:32:35,279
+what happened to these articles. So what
+ 
+
+1297
+00:32:35,279 --> 00:32:38,789
+what happened to these articles. So what
+how many studies we excluded for various
+
+1298
+00:32:38,789 --> 00:32:38,799
+how many studies we excluded for various
+ 
+
+1299
+00:32:38,799 --> 00:32:40,310
+how many studies we excluded for various
+reasons.
+
+1300
+00:32:40,310 --> 00:32:40,320
+reasons.
+ 
+
+1301
+00:32:40,320 --> 00:32:43,350
+reasons.
+So for instance 213
+
+1302
+00:32:43,350 --> 00:32:43,360
+So for instance 213
+ 
+
+1303
+00:32:43,360 --> 00:32:45,269
+So for instance 213
+studies were excluded because the prime
+
+1304
+00:32:45,269 --> 00:32:45,279
+studies were excluded because the prime
+ 
+
+1305
+00:32:45,279 --> 00:32:47,990
+studies were excluded because the prime
+was not presented unconsciously
+
+1306
+00:32:47,990 --> 00:32:48,000
+was not presented unconsciously
+ 
+
+1307
+00:32:48,000 --> 00:32:51,029
+was not presented unconsciously
+and then it is uh further explained. So
+
+1308
+00:32:51,029 --> 00:32:51,039
+and then it is uh further explained. So
+ 
+
+1309
+00:32:51,039 --> 00:32:53,909
+and then it is uh further explained. So
+for instance the prime duration was uh
+
+1310
+00:32:53,909 --> 00:32:53,919
+for instance the prime duration was uh
+ 
+
+1311
+00:32:53,919 --> 00:32:56,630
+for instance the prime duration was uh
+more than 100 milliseconds. This was the
+
+1312
+00:32:56,630 --> 00:32:56,640
+more than 100 milliseconds. This was the
+ 
+
+1313
+00:32:56,640 --> 00:33:01,509
+more than 100 milliseconds. This was the
+case for 139 uh studies and so on. So we
+
+1314
+00:33:01,509 --> 00:33:01,519
+case for 139 uh studies and so on. So we
+ 
+
+1315
+00:33:01,519 --> 00:33:04,630
+case for 139 uh studies and so on. So we
+give a a rather complete overview of the
+
+1316
+00:33:04,630 --> 00:33:04,640
+give a a rather complete overview of the
+ 
+
+1317
+00:33:04,640 --> 00:33:07,590
+give a a rather complete overview of the
+reasons why we decided to exclude
+
+1318
+00:33:07,590 --> 00:33:07,600
+reasons why we decided to exclude
+ 
+
+1319
+00:33:07,600 --> 00:33:09,350
+reasons why we decided to exclude
+studies
+
+1320
+00:33:09,350 --> 00:33:09,360
+studies
+ 
+
+1321
+00:33:09,360 --> 00:33:12,470
+studies
+and after excluding a lot of the studies
+
+1322
+00:33:12,470 --> 00:33:12,480
+and after excluding a lot of the studies
+ 
+
+1323
+00:33:12,480 --> 00:33:17,110
+and after excluding a lot of the studies
+only 46 uh articles remained in our data
+
+1324
+00:33:17,110 --> 00:33:17,120
+only 46 uh articles remained in our data
+ 
+
+1325
+00:33:17,120 --> 00:33:20,710
+only 46 uh articles remained in our data
+set. So the final meta analysis included
+
+1326
+00:33:20,710 --> 00:33:20,720
+set. So the final meta analysis included
+ 
+
+1327
+00:33:20,720 --> 00:33:23,909
+set. So the final meta analysis included
+only 46 published articles. So you see
+
+1328
+00:33:23,909 --> 00:33:23,919
+only 46 published articles. So you see
+ 
+
+1329
+00:33:23,919 --> 00:33:28,230
+only 46 published articles. So you see
+that we uh started from 749
+
+1330
+00:33:28,230 --> 00:33:28,240
+that we uh started from 749
+ 
+
+1331
+00:33:28,240 --> 00:33:31,830
+that we uh started from 749
+studies and we ended up with only 46
+
+1332
+00:33:31,830 --> 00:33:31,840
+studies and we ended up with only 46
+ 
+
+1333
+00:33:31,840 --> 00:33:34,230
+studies and we ended up with only 46
+published articles. This is not
+
+1334
+00:33:34,230 --> 00:33:34,240
+published articles. This is not
+ 
+
+1335
+00:33:34,240 --> 00:33:37,029
+published articles. This is not
+uncommon. Sometimes we even have much
+
+1336
+00:33:37,029 --> 00:33:37,039
+uncommon. Sometimes we even have much
+ 
+
+1337
+00:33:37,039 --> 00:33:41,590
+uncommon. Sometimes we even have much
+more hits. We we start from say 1,000 or
+
+1338
+00:33:41,590 --> 00:33:41,600
+more hits. We we start from say 1,000 or
+ 
+
+1339
+00:33:41,600 --> 00:33:45,350
+more hits. We we start from say 1,000 or
+two or 3,000 papers and at the end we
+
+1340
+00:33:45,350 --> 00:33:45,360
+two or 3,000 papers and at the end we
+ 
+
+1341
+00:33:45,360 --> 00:33:48,149
+two or 3,000 papers and at the end we
+sometimes have even a smaller number of
+
+1342
+00:33:48,149 --> 00:33:48,159
+sometimes have even a smaller number of
+ 
+
+1343
+00:33:48,159 --> 00:33:50,870
+sometimes have even a smaller number of
+uh papers that are included in the meta
+
+1344
+00:33:50,870 --> 00:33:50,880
+uh papers that are included in the meta
+ 
+
+1345
+00:33:50,880 --> 00:33:52,470
+uh papers that are included in the meta
+analysis.
+
+1346
+00:33:52,470 --> 00:33:52,480
+analysis.
+ 
+
+1347
+00:33:52,480 --> 00:33:55,430
+analysis.
+So it's clear that this process of study
+
+1348
+00:33:55,430 --> 00:33:55,440
+So it's clear that this process of study
+ 
+
+1349
+00:33:55,440 --> 00:33:59,110
+So it's clear that this process of study
+selection is a very timeconsuming
+
+1350
+00:33:59,110 --> 00:33:59,120
+selection is a very timeconsuming
+ 
+
+1351
+00:33:59,120 --> 00:34:03,029
+selection is a very timeconsuming
+process.
+
+1352
+00:34:03,029 --> 00:34:03,039
+
+ 
+
+1353
+00:34:03,039 --> 00:34:05,430
+
+One of the selection criteria could also
+
+1354
+00:34:05,430 --> 00:34:05,440
+One of the selection criteria could also
+ 
+
+1355
+00:34:05,440 --> 00:34:07,029
+One of the selection criteria could also
+be that the studies should be of
+
+1356
+00:34:07,029 --> 00:34:07,039
+be that the studies should be of
+ 
+
+1357
+00:34:07,039 --> 00:34:12,149
+be that the studies should be of
+sufficient quality.
+
+1358
+00:34:12,149 --> 00:34:12,159
+
+ 
+
+1359
+00:34:12,159 --> 00:34:14,389
+
+So this means that we have to make sure
+
+1360
+00:34:14,389 --> 00:34:14,399
+So this means that we have to make sure
+ 
+
+1361
+00:34:14,399 --> 00:34:16,310
+So this means that we have to make sure
+that the quality of the individual
+
+1362
+00:34:16,310 --> 00:34:16,320
+that the quality of the individual
+ 
+
+1363
+00:34:16,320 --> 00:34:18,710
+that the quality of the individual
+studies is
+
+1364
+00:34:18,710 --> 00:34:18,720
+studies is
+ 
+
+1365
+00:34:18,720 --> 00:34:23,190
+studies is
+um high enough. But whereas this is true
+
+1366
+00:34:23,190 --> 00:34:23,200
+um high enough. But whereas this is true
+ 
+
+1367
+00:34:23,200 --> 00:34:26,389
+um high enough. But whereas this is true
+in theory, in practice, this is uh a
+
+1368
+00:34:26,389 --> 00:34:26,399
+in theory, in practice, this is uh a
+ 
+
+1369
+00:34:26,399 --> 00:34:30,069
+in theory, in practice, this is uh a
+very difficult issue. Why? Well, first
+
+1370
+00:34:30,069 --> 00:34:30,079
+very difficult issue. Why? Well, first
+ 
+
+1371
+00:34:30,079 --> 00:34:33,270
+very difficult issue. Why? Well, first
+of all, quality is a continuum. It's not
+
+1372
+00:34:33,270 --> 00:34:33,280
+of all, quality is a continuum. It's not
+ 
+
+1373
+00:34:33,280 --> 00:34:35,030
+of all, quality is a continuum. It's not
+a dichotomy.
+
+1374
+00:34:35,030 --> 00:34:35,040
+a dichotomy.
+ 
+
+1375
+00:34:35,040 --> 00:34:38,149
+a dichotomy.
+There is no perfect study.
+
+1376
+00:34:38,149 --> 00:34:38,159
+There is no perfect study.
+ 
+
+1377
+00:34:38,159 --> 00:34:41,510
+There is no perfect study.
+So even if as a researcher, you
+
+1378
+00:34:41,510 --> 00:34:41,520
+So even if as a researcher, you
+ 
+
+1379
+00:34:41,520 --> 00:34:44,310
+So even if as a researcher, you
+permanently have to make decisions and
+
+1380
+00:34:44,310 --> 00:34:44,320
+permanently have to make decisions and
+ 
+
+1381
+00:34:44,320 --> 00:34:46,950
+permanently have to make decisions and
+you very often know that there is no
+
+1382
+00:34:46,950 --> 00:34:46,960
+you very often know that there is no
+ 
+
+1383
+00:34:46,960 --> 00:34:50,310
+you very often know that there is no
+perfect decision. So if you decide
+
+1384
+00:34:50,310 --> 00:34:50,320
+perfect decision. So if you decide
+ 
+
+1385
+00:34:50,320 --> 00:34:52,629
+perfect decision. So if you decide
+option A, you know that there are some
+
+1386
+00:34:52,629 --> 00:34:52,639
+option A, you know that there are some
+ 
+
+1387
+00:34:52,639 --> 00:34:55,990
+option A, you know that there are some
+disadvantages. If you choose option B,
+
+1388
+00:34:55,990 --> 00:34:56,000
+disadvantages. If you choose option B,
+ 
+
+1389
+00:34:56,000 --> 00:34:58,790
+disadvantages. If you choose option B,
+there are maybe other disadvantages.
+
+1390
+00:34:58,790 --> 00:34:58,800
+there are maybe other disadvantages.
+ 
+
+1391
+00:34:58,800 --> 00:35:04,310
+there are maybe other disadvantages.
+So there is no perfect study. Um
+
+1392
+00:35:04,310 --> 00:35:04,320
+So there is no perfect study. Um
+ 
+
+1393
+00:35:04,320 --> 00:35:05,829
+So there is no perfect study. Um
+but of course there are differences
+
+1394
+00:35:05,829 --> 00:35:05,839
+but of course there are differences
+ 
+
+1395
+00:35:05,839 --> 00:35:08,230
+but of course there are differences
+between studies in the size of the
+
+1396
+00:35:08,230 --> 00:35:08,240
+between studies in the size of the
+ 
+
+1397
+00:35:08,240 --> 00:35:10,630
+between studies in the size of the
+quality, but it's a continuum, not a
+
+1398
+00:35:10,630 --> 00:35:10,640
+quality, but it's a continuum, not a
+ 
+
+1399
+00:35:10,640 --> 00:35:12,470
+quality, but it's a continuum, not a
+dichotomy.
+
+1400
+00:35:12,470 --> 00:35:12,480
+dichotomy.
+ 
+
+1401
+00:35:12,480 --> 00:35:15,829
+dichotomy.
+Another problem is how to judge quality.
+
+1402
+00:35:15,829 --> 00:35:15,839
+Another problem is how to judge quality.
+ 
+
+1403
+00:35:15,839 --> 00:35:18,710
+Another problem is how to judge quality.
+If you ask multiple people what a
+
+1404
+00:35:18,710 --> 00:35:18,720
+If you ask multiple people what a
+ 
+
+1405
+00:35:18,720 --> 00:35:22,230
+If you ask multiple people what a
+qualitative good study is, probably you
+
+1406
+00:35:22,230 --> 00:35:22,240
+qualitative good study is, probably you
+ 
+
+1407
+00:35:22,240 --> 00:35:24,790
+qualitative good study is, probably you
+will get different answers. So there are
+
+1408
+00:35:24,790 --> 00:35:24,800
+will get different answers. So there are
+ 
+
+1409
+00:35:24,800 --> 00:35:27,670
+will get different answers. So there are
+a lot of criteria that can be used and
+
+1410
+00:35:27,670 --> 00:35:27,680
+a lot of criteria that can be used and
+ 
+
+1411
+00:35:27,680 --> 00:35:29,270
+a lot of criteria that can be used and
+maybe it's also a good idea to use
+
+1412
+00:35:29,270 --> 00:35:29,280
+maybe it's also a good idea to use
+ 
+
+1413
+00:35:29,280 --> 00:35:32,310
+maybe it's also a good idea to use
+multiple criteria.
+
+1414
+00:35:32,310 --> 00:35:32,320
+multiple criteria.
+ 
+
+1415
+00:35:32,320 --> 00:35:36,069
+multiple criteria.
+But if you use multiple criteria, how
+
+1416
+00:35:36,069 --> 00:35:36,079
+But if you use multiple criteria, how
+ 
+
+1417
+00:35:36,079 --> 00:35:38,790
+But if you use multiple criteria, how
+are you going to
+
+1418
+00:35:38,790 --> 00:35:38,800
+are you going to
+ 
+
+1419
+00:35:38,800 --> 00:35:44,069
+are you going to
+weight this criteria?
+
+1420
+00:35:44,069 --> 00:35:44,079
+
+ 
+
+1421
+00:35:44,079 --> 00:35:46,150
+
+If you want to say something about the
+
+1422
+00:35:46,150 --> 00:35:46,160
+If you want to say something about the
+ 
+
+1423
+00:35:46,160 --> 00:35:48,790
+If you want to say something about the
+quality of a study in general, are you
+
+1424
+00:35:48,790 --> 00:35:48,800
+quality of a study in general, are you
+ 
+
+1425
+00:35:48,800 --> 00:35:50,710
+quality of a study in general, are you
+going to calculate an average of these
+
+1426
+00:35:50,710 --> 00:35:50,720
+going to calculate an average of these
+ 
+
+1427
+00:35:50,720 --> 00:35:54,550
+going to calculate an average of these
+criteria and to what criteria you are
+
+1428
+00:35:54,550 --> 00:35:54,560
+criteria and to what criteria you are
+ 
+
+1429
+00:35:54,560 --> 00:35:56,550
+criteria and to what criteria you are
+going to give larger weights than to
+
+1430
+00:35:56,550 --> 00:35:56,560
+going to give larger weights than to
+ 
+
+1431
+00:35:56,560 --> 00:35:59,990
+going to give larger weights than to
+what other criteria? Or maybe it's
+
+1432
+00:35:59,990 --> 00:36:00,000
+what other criteria? Or maybe it's
+ 
+
+1433
+00:36:00,000 --> 00:36:03,750
+what other criteria? Or maybe it's
+possible that you have 20 criteria and
+
+1434
+00:36:03,750 --> 00:36:03,760
+possible that you have 20 criteria and
+ 
+
+1435
+00:36:03,760 --> 00:36:05,990
+possible that you have 20 criteria and
+that a study performs well on 19
+
+1436
+00:36:05,990 --> 00:36:06,000
+that a study performs well on 19
+ 
+
+1437
+00:36:06,000 --> 00:36:08,630
+that a study performs well on 19
+criteria, but that that study does not
+
+1438
+00:36:08,630 --> 00:36:08,640
+criteria, but that that study does not
+ 
+
+1439
+00:36:08,640 --> 00:36:11,589
+criteria, but that that study does not
+perform well on the 20 criterion. Now
+
+1440
+00:36:11,589 --> 00:36:11,599
+perform well on the 20 criterion. Now
+ 
+
+1441
+00:36:11,599 --> 00:36:15,030
+perform well on the 20 criterion. Now
+based on that you say well this final
+
+1442
+00:36:15,030 --> 00:36:15,040
+based on that you say well this final
+ 
+
+1443
+00:36:15,040 --> 00:36:19,190
+based on that you say well this final
+criterion is for me that important that
+
+1444
+00:36:19,190 --> 00:36:19,200
+criterion is for me that important that
+ 
+
+1445
+00:36:19,200 --> 00:36:23,510
+criterion is for me that important that
+if a study fails on this criterion
+
+1446
+00:36:23,510 --> 00:36:23,520
+if a study fails on this criterion
+ 
+
+1447
+00:36:23,520 --> 00:36:28,870
+if a study fails on this criterion
+I cannot call this study a good study.
+
+1448
+00:36:28,870 --> 00:36:28,880
+I cannot call this study a good study.
+ 
+
+1449
+00:36:28,880 --> 00:36:31,190
+I cannot call this study a good study.
+Another problem is very often the data
+
+1450
+00:36:31,190 --> 00:36:31,200
+Another problem is very often the data
+ 
+
+1451
+00:36:31,200 --> 00:36:36,230
+Another problem is very often the data
+to judge quality are not reported.
+
+1452
+00:36:36,230 --> 00:36:36,240
+to judge quality are not reported.
+ 
+
+1453
+00:36:36,240 --> 00:36:38,069
+to judge quality are not reported.
+For instance,
+
+1454
+00:36:38,069 --> 00:36:38,079
+For instance,
+ 
+
+1455
+00:36:38,079 --> 00:36:40,630
+For instance,
+um in qualitative good study,
+
+1456
+00:36:40,630 --> 00:36:40,640
+um in qualitative good study,
+ 
+
+1457
+00:36:40,640 --> 00:36:43,270
+um in qualitative good study,
+assumptions are tested. Assumptions
+
+1458
+00:36:43,270 --> 00:36:43,280
+assumptions are tested. Assumptions
+ 
+
+1459
+00:36:43,280 --> 00:36:45,510
+assumptions are tested. Assumptions
+underlying statistical tests are
+
+1460
+00:36:45,510 --> 00:36:45,520
+underlying statistical tests are
+ 
+
+1461
+00:36:45,520 --> 00:36:49,270
+underlying statistical tests are
+checked. But very often
+
+1462
+00:36:49,270 --> 00:36:49,280
+checked. But very often
+ 
+
+1463
+00:36:49,280 --> 00:36:51,510
+checked. But very often
+uh researchers check these assumptions
+
+1464
+00:36:51,510 --> 00:36:51,520
+uh researchers check these assumptions
+ 
+
+1465
+00:36:51,520 --> 00:36:53,670
+uh researchers check these assumptions
+but simply do not report that they
+
+1466
+00:36:53,670 --> 00:36:53,680
+but simply do not report that they
+ 
+
+1467
+00:36:53,680 --> 00:36:55,829
+but simply do not report that they
+checked these assumptions.
+
+1468
+00:36:55,829 --> 00:36:55,839
+checked these assumptions.
+ 
+
+1469
+00:36:55,839 --> 00:36:59,990
+checked these assumptions.
+So how can you can you judge the quality
+
+1470
+00:36:59,990 --> 00:37:00,000
+So how can you can you judge the quality
+ 
+
+1471
+00:37:00,000 --> 00:37:02,710
+So how can you can you judge the quality
+based on
+
+1472
+00:37:02,710 --> 00:37:02,720
+based on
+ 
+
+1473
+00:37:02,720 --> 00:37:05,430
+based on
+information that is not complete?
+
+1474
+00:37:05,430 --> 00:37:05,440
+information that is not complete?
+ 
+
+1475
+00:37:05,440 --> 00:37:08,150
+information that is not complete?
+If it's not, if researchers do not
+
+1476
+00:37:08,150 --> 00:37:08,160
+If it's not, if researchers do not
+ 
+
+1477
+00:37:08,160 --> 00:37:10,790
+If it's not, if researchers do not
+report on the check of the assumptions,
+
+1478
+00:37:10,790 --> 00:37:10,800
+report on the check of the assumptions,
+ 
+
+1479
+00:37:10,800 --> 00:37:13,190
+report on the check of the assumptions,
+can you conclude that they did not check
+
+1480
+00:37:13,190 --> 00:37:13,200
+can you conclude that they did not check
+ 
+
+1481
+00:37:13,200 --> 00:37:16,150
+can you conclude that they did not check
+the assumptions?
+
+1482
+00:37:16,150 --> 00:37:16,160
+the assumptions?
+ 
+
+1483
+00:37:16,160 --> 00:37:18,069
+the assumptions?
+Another problem is the problem of
+
+1484
+00:37:18,069 --> 00:37:18,079
+Another problem is the problem of
+ 
+
+1485
+00:37:18,079 --> 00:37:21,030
+Another problem is the problem of
+efficiency. If you are very severe, if
+
+1486
+00:37:21,030 --> 00:37:21,040
+efficiency. If you are very severe, if
+ 
+
+1487
+00:37:21,040 --> 00:37:22,470
+efficiency. If you are very severe, if
+you want to include in your math
+
+1488
+00:37:22,470 --> 00:37:22,480
+you want to include in your math
+ 
+
+1489
+00:37:22,480 --> 00:37:25,349
+you want to include in your math
+analysis only the studies from with the
+
+1490
+00:37:25,349 --> 00:37:25,359
+analysis only the studies from with the
+ 
+
+1491
+00:37:25,359 --> 00:37:27,910
+analysis only the studies from with the
+highest quality, then maybe at the end
+
+1492
+00:37:27,910 --> 00:37:27,920
+highest quality, then maybe at the end
+ 
+
+1493
+00:37:27,920 --> 00:37:30,310
+highest quality, then maybe at the end
+you will only combine two or three
+
+1494
+00:37:30,310 --> 00:37:30,320
+you will only combine two or three
+ 
+
+1495
+00:37:30,320 --> 00:37:33,030
+you will only combine two or three
+studies.
+
+1496
+00:37:33,030 --> 00:37:33,040
+studies.
+ 
+
+1497
+00:37:33,040 --> 00:37:35,910
+studies.
+Whereas if you are more lenient maybe in
+
+1498
+00:37:35,910 --> 00:37:35,920
+Whereas if you are more lenient maybe in
+ 
+
+1499
+00:37:35,920 --> 00:37:38,470
+Whereas if you are more lenient maybe in
+your meta analysis you can include 20 30
+
+1500
+00:37:38,470 --> 00:37:38,480
+your meta analysis you can include 20 30
+ 
+
+1501
+00:37:38,480 --> 00:37:42,390
+your meta analysis you can include 20 30
+studies and you can say okay the other
+
+1502
+00:37:42,390 --> 00:37:42,400
+studies and you can say okay the other
+ 
+
+1503
+00:37:42,400 --> 00:37:45,030
+studies and you can say okay the other
+studies have a lower quality but still
+
+1504
+00:37:45,030 --> 00:37:45,040
+studies have a lower quality but still
+ 
+
+1505
+00:37:45,040 --> 00:37:47,270
+studies have a lower quality but still
+studies with a lower quality can still
+
+1506
+00:37:47,270 --> 00:37:47,280
+studies with a lower quality can still
+ 
+
+1507
+00:37:47,280 --> 00:37:49,030
+studies with a lower quality can still
+give some information about the
+
+1508
+00:37:49,030 --> 00:37:49,040
+give some information about the
+ 
+
+1509
+00:37:49,040 --> 00:37:53,349
+give some information about the
+population effect size.
+
+1510
+00:37:53,349 --> 00:37:53,359
+
+ 
+
+1511
+00:37:53,359 --> 00:37:56,950
+
+Another problem is the problem of bias.
+
+1512
+00:37:56,950 --> 00:37:56,960
+Another problem is the problem of bias.
+ 
+
+1513
+00:37:56,960 --> 00:37:59,190
+Another problem is the problem of bias.
+For instance, we know that the internal
+
+1514
+00:37:59,190 --> 00:37:59,200
+For instance, we know that the internal
+ 
+
+1515
+00:37:59,200 --> 00:38:01,670
+For instance, we know that the internal
+validity of experimental designs is
+
+1516
+00:38:01,670 --> 00:38:01,680
+validity of experimental designs is
+ 
+
+1517
+00:38:01,680 --> 00:38:03,750
+validity of experimental designs is
+higher than the internal validity of
+
+1518
+00:38:03,750 --> 00:38:03,760
+higher than the internal validity of
+ 
+
+1519
+00:38:03,760 --> 00:38:06,230
+higher than the internal validity of
+correlational designs.
+
+1520
+00:38:06,230 --> 00:38:06,240
+correlational designs.
+ 
+
+1521
+00:38:06,240 --> 00:38:10,230
+correlational designs.
+But sometimes it's very hard to use an
+
+1522
+00:38:10,230 --> 00:38:10,240
+But sometimes it's very hard to use an
+ 
+
+1523
+00:38:10,240 --> 00:38:12,790
+But sometimes it's very hard to use an
+experimental design.
+
+1524
+00:38:12,790 --> 00:38:12,800
+experimental design.
+ 
+
+1525
+00:38:12,800 --> 00:38:15,190
+experimental design.
+So for instance um if you want to test
+
+1526
+00:38:15,190 --> 00:38:15,200
+So for instance um if you want to test
+ 
+
+1527
+00:38:15,200 --> 00:38:18,470
+So for instance um if you want to test
+whether smoking results in lung cancer
+
+1528
+00:38:18,470 --> 00:38:18,480
+whether smoking results in lung cancer
+ 
+
+1529
+00:38:18,480 --> 00:38:20,550
+whether smoking results in lung cancer
+or an increased probability of lung
+
+1530
+00:38:20,550 --> 00:38:20,560
+or an increased probability of lung
+ 
+
+1531
+00:38:20,560 --> 00:38:23,109
+or an increased probability of lung
+cancer you cannot use an experimental
+
+1532
+00:38:23,109 --> 00:38:23,119
+cancer you cannot use an experimental
+ 
+
+1533
+00:38:23,119 --> 00:38:26,710
+cancer you cannot use an experimental
+design in sense that you cannot say to
+
+1534
+00:38:26,710 --> 00:38:26,720
+design in sense that you cannot say to
+ 
+
+1535
+00:38:26,720 --> 00:38:30,470
+design in sense that you cannot say to
+one group of people that is randomly uh
+
+1536
+00:38:30,470 --> 00:38:30,480
+one group of people that is randomly uh
+ 
+
+1537
+00:38:30,480 --> 00:38:34,310
+one group of people that is randomly uh
+um selected. You cannot say to one group
+
+1538
+00:38:34,310 --> 00:38:34,320
+um selected. You cannot say to one group
+ 
+
+1539
+00:38:34,320 --> 00:38:36,230
+um selected. You cannot say to one group
+from now on you have to smoke one
+
+1540
+00:38:36,230 --> 00:38:36,240
+from now on you have to smoke one
+ 
+
+1541
+00:38:36,240 --> 00:38:39,030
+from now on you have to smoke one
+package a day and to another group that
+
+1542
+00:38:39,030 --> 00:38:39,040
+package a day and to another group that
+ 
+
+1543
+00:38:39,040 --> 00:38:41,589
+package a day and to another group that
+is also randomly selected you cannot say
+
+1544
+00:38:41,589 --> 00:38:41,599
+is also randomly selected you cannot say
+ 
+
+1545
+00:38:41,599 --> 00:38:44,550
+is also randomly selected you cannot say
+now you cannot uh smoke anymore for two
+
+1546
+00:38:44,550 --> 00:38:44,560
+now you cannot uh smoke anymore for two
+ 
+
+1547
+00:38:44,560 --> 00:38:48,950
+now you cannot uh smoke anymore for two
+years.
+
+1548
+00:38:48,950 --> 00:38:48,960
+
+ 
+
+1549
+00:38:48,960 --> 00:38:51,510
+
+So there are some practical and ethical
+
+1550
+00:38:51,510 --> 00:38:51,520
+So there are some practical and ethical
+ 
+
+1551
+00:38:51,520 --> 00:38:54,470
+So there are some practical and ethical
+concerns that make that sometimes you
+
+1552
+00:38:54,470 --> 00:38:54,480
+concerns that make that sometimes you
+ 
+
+1553
+00:38:54,480 --> 00:38:56,710
+concerns that make that sometimes you
+cannot use experimental designs and you
+
+1554
+00:38:56,710 --> 00:38:56,720
+cannot use experimental designs and you
+ 
+
+1555
+00:38:56,720 --> 00:39:00,630
+cannot use experimental designs and you
+will have to use um designs with lower
+
+1556
+00:39:00,630 --> 00:39:00,640
+will have to use um designs with lower
+ 
+
+1557
+00:39:00,640 --> 00:39:04,790
+will have to use um designs with lower
+internal validity
+
+1558
+00:39:04,790 --> 00:39:04,800
+
+ 
+
+1559
+00:39:04,800 --> 00:39:06,470
+
+as an illustration of the lack of
+
+1560
+00:39:06,470 --> 00:39:06,480
+as an illustration of the lack of
+ 
+
+1561
+00:39:06,480 --> 00:39:10,470
+as an illustration of the lack of
+consensus.
+
+1562
+00:39:10,470 --> 00:39:10,480
+
+ 
+
+1563
+00:39:10,480 --> 00:39:13,750
+
+So I have here an overview of what some
+
+1564
+00:39:13,750 --> 00:39:13,760
+So I have here an overview of what some
+ 
+
+1565
+00:39:13,760 --> 00:39:16,950
+So I have here an overview of what some
+organizations said about single case or
+
+1566
+00:39:16,950 --> 00:39:16,960
+organizations said about single case or
+ 
+
+1567
+00:39:16,960 --> 00:39:21,109
+organizations said about single case or
+single subject experimental designs
+
+1568
+00:39:21,109 --> 00:39:21,119
+single subject experimental designs
+ 
+
+1569
+00:39:21,119 --> 00:39:25,589
+single subject experimental designs
+about the value of these designs
+
+1570
+00:39:25,589 --> 00:39:25,599
+about the value of these designs
+ 
+
+1571
+00:39:25,599 --> 00:39:28,390
+about the value of these designs
+um to give evidence to be included in
+
+1572
+00:39:28,390 --> 00:39:28,400
+um to give evidence to be included in
+ 
+
+1573
+00:39:28,400 --> 00:39:30,630
+um to give evidence to be included in
+the met analysis. And then you can see
+
+1574
+00:39:30,630 --> 00:39:30,640
+the met analysis. And then you can see
+ 
+
+1575
+00:39:30,640 --> 00:39:33,109
+the met analysis. And then you can see
+that some organizations
+
+1576
+00:39:33,109 --> 00:39:33,119
+that some organizations
+ 
+
+1577
+00:39:33,119 --> 00:39:35,589
+that some organizations
+said well single case experimental
+
+1578
+00:39:35,589 --> 00:39:35,599
+said well single case experimental
+ 
+
+1579
+00:39:35,599 --> 00:39:38,870
+said well single case experimental
+designs give persuasive evidence whereas
+
+1580
+00:39:38,870 --> 00:39:38,880
+designs give persuasive evidence whereas
+ 
+
+1581
+00:39:38,880 --> 00:39:41,670
+designs give persuasive evidence whereas
+other uh organizations
+
+1582
+00:39:41,670 --> 00:39:41,680
+other uh organizations
+ 
+
+1583
+00:39:41,680 --> 00:39:44,950
+other uh organizations
+said well they give some evidence but
+
+1584
+00:39:44,950 --> 00:39:44,960
+said well they give some evidence but
+ 
+
+1585
+00:39:44,960 --> 00:39:47,270
+said well they give some evidence but
+less than uh for instance group
+
+1586
+00:39:47,270 --> 00:39:47,280
+less than uh for instance group
+ 
+
+1587
+00:39:47,280 --> 00:39:49,510
+less than uh for instance group
+comparison designs and some
+
+1588
+00:39:49,510 --> 00:39:49,520
+comparison designs and some
+ 
+
+1589
+00:39:49,520 --> 00:39:52,069
+comparison designs and some
+organizations said no single case
+
+1590
+00:39:52,069 --> 00:39:52,079
+organizations said no single case
+ 
+
+1591
+00:39:52,079 --> 00:39:54,950
+organizations said no single case
+experimental designs are non-informative
+
+1592
+00:39:54,950 --> 00:39:54,960
+experimental designs are non-informative
+ 
+
+1593
+00:39:54,960 --> 00:40:01,750
+experimental designs are non-informative
+at all.
+
+1594
+00:40:01,750 --> 00:40:01,760
+
+ 
+
+1595
+00:40:01,760 --> 00:40:04,630
+
+Various free-touse tools or checklists
+
+1596
+00:40:04,630 --> 00:40:04,640
+Various free-touse tools or checklists
+ 
+
+1597
+00:40:04,640 --> 00:40:07,190
+Various free-touse tools or checklists
+are available online
+
+1598
+00:40:07,190 --> 00:40:07,200
+are available online
+ 
+
+1599
+00:40:07,200 --> 00:40:09,270
+are available online
+that are meant to evaluate the quality
+
+1600
+00:40:09,270 --> 00:40:09,280
+that are meant to evaluate the quality
+ 
+
+1601
+00:40:09,280 --> 00:40:12,870
+that are meant to evaluate the quality
+of studies. Note that on this site you
+
+1602
+00:40:12,870 --> 00:40:12,880
+of studies. Note that on this site you
+ 
+
+1603
+00:40:12,880 --> 00:40:15,430
+of studies. Note that on this site you
+cannot only find checklists for primary
+
+1604
+00:40:15,430 --> 00:40:15,440
+cannot only find checklists for primary
+ 
+
+1605
+00:40:15,440 --> 00:40:17,910
+cannot only find checklists for primary
+studies including RCTs, qualitative
+
+1606
+00:40:17,910 --> 00:40:17,920
+studies including RCTs, qualitative
+ 
+
+1607
+00:40:17,920 --> 00:40:20,310
+studies including RCTs, qualitative
+studies, diagnostic studies and so on
+
+1608
+00:40:20,310 --> 00:40:20,320
+studies, diagnostic studies and so on
+ 
+
+1609
+00:40:20,320 --> 00:40:23,109
+studies, diagnostic studies and so on
+but also to evaluate the quality of
+
+1610
+00:40:23,109 --> 00:40:23,119
+but also to evaluate the quality of
+ 
+
+1611
+00:40:23,119 --> 00:40:26,550
+but also to evaluate the quality of
+systematic reviews and meta analysis.
+
+1612
+00:40:26,550 --> 00:40:26,560
+systematic reviews and meta analysis.
+ 
+
+1613
+00:40:26,560 --> 00:40:28,470
+systematic reviews and meta analysis.
+Also
+
+1614
+00:40:28,470 --> 00:40:28,480
+Also
+ 
+
+1615
+00:40:28,480 --> 00:40:31,349
+Also
+on this page you find several tools for
+
+1616
+00:40:31,349 --> 00:40:31,359
+on this page you find several tools for
+ 
+
+1617
+00:40:31,359 --> 00:40:33,829
+on this page you find several tools for
+quality appraisal of studies. The risk
+
+1618
+00:40:33,829 --> 00:40:33,839
+quality appraisal of studies. The risk
+ 
+
+1619
+00:40:33,839 --> 00:40:37,030
+quality appraisal of studies. The risk
+of bias 2 tool for instance is good tool
+
+1620
+00:40:37,030 --> 00:40:37,040
+of bias 2 tool for instance is good tool
+ 
+
+1621
+00:40:37,040 --> 00:40:39,030
+of bias 2 tool for instance is good tool
+to evaluate the quality of randomized
+
+1622
+00:40:39,030 --> 00:40:39,040
+to evaluate the quality of randomized
+ 
+
+1623
+00:40:39,040 --> 00:40:43,190
+to evaluate the quality of randomized
+trials. Robins one for assessing the
+
+1624
+00:40:43,190 --> 00:40:43,200
+trials. Robins one for assessing the
+ 
+
+1625
+00:40:43,200 --> 00:40:46,630
+trials. Robins one for assessing the
+quality of non-randomized trials.
+
+1626
+00:40:46,630 --> 00:40:46,640
+quality of non-randomized trials.
+ 
+
+1627
+00:40:46,640 --> 00:40:48,230
+quality of non-randomized trials.
+Here
+
+1628
+00:40:48,230 --> 00:40:48,240
+Here
+ 
+
+1629
+00:40:48,240 --> 00:40:50,069
+Here
+you see some questions of the risk of
+
+1630
+00:40:50,069 --> 00:40:50,079
+you see some questions of the risk of
+ 
+
+1631
+00:40:50,079 --> 00:40:53,510
+you see some questions of the risk of
+bias 2 tool to get a question some
+
+1632
+00:40:53,510 --> 00:40:53,520
+bias 2 tool to get a question some
+ 
+
+1633
+00:40:53,520 --> 00:40:55,829
+bias 2 tool to get a question some
+further explanation and then you can
+
+1634
+00:40:55,829 --> 00:40:55,839
+further explanation and then you can
+ 
+
+1635
+00:40:55,839 --> 00:40:59,829
+further explanation and then you can
+give an answer yes probably yes probably
+
+1636
+00:40:59,829 --> 00:40:59,839
+give an answer yes probably yes probably
+ 
+
+1637
+00:40:59,839 --> 00:41:01,750
+give an answer yes probably yes probably
+no
+
+1638
+00:41:01,750 --> 00:41:01,760
+no
+ 
+
+1639
+00:41:01,760 --> 00:41:05,589
+no
+or not indicated
+
+1640
+00:41:05,589 --> 00:41:05,599
+or not indicated
+ 
+
+1641
+00:41:05,599 --> 00:41:08,309
+or not indicated
+hard job.
+
+1642
+00:41:08,309 --> 00:41:08,319
+hard job.
+ 
+
+1643
+00:41:08,319 --> 00:41:10,390
+hard job.
+If you look at these tools, well, in
+
+1644
+00:41:10,390 --> 00:41:10,400
+If you look at these tools, well, in
+ 
+
+1645
+00:41:10,400 --> 00:41:15,589
+If you look at these tools, well, in
+general, these types of um aspects come
+
+1646
+00:41:15,589 --> 00:41:15,599
+general, these types of um aspects come
+ 
+
+1647
+00:41:15,599 --> 00:41:18,790
+general, these types of um aspects come
+back regularly. Construct validity,
+
+1648
+00:41:18,790 --> 00:41:18,800
+back regularly. Construct validity,
+ 
+
+1649
+00:41:18,800 --> 00:41:22,309
+back regularly. Construct validity,
+which is about um how the variables are
+
+1650
+00:41:22,309 --> 00:41:22,319
+which is about um how the variables are
+ 
+
+1651
+00:41:22,319 --> 00:41:23,990
+which is about um how the variables are
+measured.
+
+1652
+00:41:23,990 --> 00:41:24,000
+measured.
+ 
+
+1653
+00:41:24,000 --> 00:41:25,750
+measured.
+External validity is about the
+
+1654
+00:41:25,750 --> 00:41:25,760
+External validity is about the
+ 
+
+1655
+00:41:25,760 --> 00:41:28,870
+External validity is about the
+generalization or the generalizability
+
+1656
+00:41:28,870 --> 00:41:28,880
+generalization or the generalizability
+ 
+
+1657
+00:41:28,880 --> 00:41:31,190
+generalization or the generalizability
+of the results.
+
+1658
+00:41:31,190 --> 00:41:31,200
+of the results.
+ 
+
+1659
+00:41:31,200 --> 00:41:34,710
+of the results.
+Internal validity is about
+
+1660
+00:41:34,710 --> 00:41:34,720
+Internal validity is about
+ 
+
+1661
+00:41:34,720 --> 00:41:37,510
+Internal validity is about
+um the problem of uh possible
+
+1662
+00:41:37,510 --> 00:41:37,520
+um the problem of uh possible
+ 
+
+1663
+00:41:37,520 --> 00:41:41,270
+um the problem of uh possible
+confounding variables
+
+1664
+00:41:41,270 --> 00:41:41,280
+
+ 
+
+1665
+00:41:41,280 --> 00:41:43,190
+
+and then then the statistical conclusion
+
+1666
+00:41:43,190 --> 00:41:43,200
+and then then the statistical conclusion
+ 
+
+1667
+00:41:43,200 --> 00:41:46,230
+and then then the statistical conclusion
+validity is about whether statistical
+
+1668
+00:41:46,230 --> 00:41:46,240
+validity is about whether statistical
+ 
+
+1669
+00:41:46,240 --> 00:41:49,990
+validity is about whether statistical
+tests are or statistics were used in a
+
+1670
+00:41:49,990 --> 00:41:50,000
+tests are or statistics were used in a
+ 
+
+1671
+00:41:50,000 --> 00:41:55,109
+tests are or statistics were used in a
+correct way. So these general criteria
+
+1672
+00:41:55,109 --> 00:41:55,119
+correct way. So these general criteria
+ 
+
+1673
+00:41:55,119 --> 00:42:01,990
+correct way. So these general criteria
+come back very often in these tools.
+
+1674
+00:42:01,990 --> 00:42:02,000
+
+ 
+
+1675
+00:42:02,000 --> 00:42:04,950
+
+Suppose that at the end you assessed the
+
+1676
+00:42:04,950 --> 00:42:04,960
+Suppose that at the end you assessed the
+ 
+
+1677
+00:42:04,960 --> 00:42:07,109
+Suppose that at the end you assessed the
+quality of individual studies. How do
+
+1678
+00:42:07,109 --> 00:42:07,119
+quality of individual studies. How do
+ 
+
+1679
+00:42:07,119 --> 00:42:09,270
+quality of individual studies. How do
+you deal with quality then afterwards in
+
+1680
+00:42:09,270 --> 00:42:09,280
+you deal with quality then afterwards in
+ 
+
+1681
+00:42:09,280 --> 00:42:12,150
+you deal with quality then afterwards in
+your meta analysis? One option could be
+
+1682
+00:42:12,150 --> 00:42:12,160
+your meta analysis? One option could be
+ 
+
+1683
+00:42:12,160 --> 00:42:14,069
+your meta analysis? One option could be
+that you include only the very best
+
+1684
+00:42:14,069 --> 00:42:14,079
+that you include only the very best
+ 
+
+1685
+00:42:14,079 --> 00:42:17,349
+that you include only the very best
+studies.
+
+1686
+00:42:17,349 --> 00:42:17,359
+
+ 
+
+1687
+00:42:17,359 --> 00:42:21,589
+
+Or you could also say well because this
+
+1688
+00:42:21,589 --> 00:42:21,599
+Or you could also say well because this
+ 
+
+1689
+00:42:21,599 --> 00:42:24,150
+Or you could also say well because this
+will reduce the power the precision
+
+1690
+00:42:24,150 --> 00:42:24,160
+will reduce the power the precision
+ 
+
+1691
+00:42:24,160 --> 00:42:25,829
+will reduce the power the precision
+because in that way I I will only
+
+1692
+00:42:25,829 --> 00:42:25,839
+because in that way I I will only
+ 
+
+1693
+00:42:25,839 --> 00:42:28,309
+because in that way I I will only
+include a few studies maybe it's better
+
+1694
+00:42:28,309 --> 00:42:28,319
+include a few studies maybe it's better
+ 
+
+1695
+00:42:28,319 --> 00:42:30,550
+include a few studies maybe it's better
+to include much more studies and I'm
+
+1696
+00:42:30,550 --> 00:42:30,560
+to include much more studies and I'm
+ 
+
+1697
+00:42:30,560 --> 00:42:32,470
+to include much more studies and I'm
+going to exclude only the very worst
+
+1698
+00:42:32,470 --> 00:42:32,480
+going to exclude only the very worst
+ 
+
+1699
+00:42:32,480 --> 00:42:35,750
+going to exclude only the very worst
+studies.
+
+1700
+00:42:35,750 --> 00:42:35,760
+
+ 
+
+1701
+00:42:35,760 --> 00:42:37,829
+
+Still an alternative is that you include
+
+1702
+00:42:37,829 --> 00:42:37,839
+Still an alternative is that you include
+ 
+
+1703
+00:42:37,839 --> 00:42:40,069
+Still an alternative is that you include
+all studies but that you weight the
+
+1704
+00:42:40,069 --> 00:42:40,079
+all studies but that you weight the
+ 
+
+1705
+00:42:40,079 --> 00:42:42,150
+all studies but that you weight the
+studies according to the quality that
+
+1706
+00:42:42,150 --> 00:42:42,160
+studies according to the quality that
+ 
+
+1707
+00:42:42,160 --> 00:42:44,790
+studies according to the quality that
+you give a larger weight the the larger
+
+1708
+00:42:44,790 --> 00:42:44,800
+you give a larger weight the the larger
+ 
+
+1709
+00:42:44,800 --> 00:42:49,030
+you give a larger weight the the larger
+the quality of a study is.
+
+1710
+00:42:49,030 --> 00:42:49,040
+the quality of a study is.
+ 
+
+1711
+00:42:49,040 --> 00:42:51,190
+the quality of a study is.
+It's also possible to investigate the
+
+1712
+00:42:51,190 --> 00:42:51,200
+It's also possible to investigate the
+ 
+
+1713
+00:42:51,200 --> 00:42:53,589
+It's also possible to investigate the
+effect of quality. You can include
+
+1714
+00:42:53,589 --> 00:42:53,599
+effect of quality. You can include
+ 
+
+1715
+00:42:53,599 --> 00:42:55,910
+effect of quality. You can include
+quality as a predictor variable in your
+
+1716
+00:42:55,910 --> 00:42:55,920
+quality as a predictor variable in your
+ 
+
+1717
+00:42:55,920 --> 00:43:00,150
+quality as a predictor variable in your
+meta analysis to look at whether the
+
+1718
+00:43:00,150 --> 00:43:00,160
+meta analysis to look at whether the
+ 
+
+1719
+00:43:00,160 --> 00:43:03,510
+meta analysis to look at whether the
+quality is related to the size of the
+
+1720
+00:43:03,510 --> 00:43:03,520
+quality is related to the size of the
+ 
+
+1721
+00:43:03,520 --> 00:43:06,790
+quality is related to the size of the
+effect that was observed.
+
+1722
+00:43:06,790 --> 00:43:06,800
+effect that was observed.
+ 
+
+1723
+00:43:06,800 --> 00:43:09,270
+effect that was observed.
+It's also possible to do a kind of
+
+1724
+00:43:09,270 --> 00:43:09,280
+It's also possible to do a kind of
+ 
+
+1725
+00:43:09,280 --> 00:43:11,829
+It's also possible to do a kind of
+sensitivity analysis by performing a
+
+1726
+00:43:11,829 --> 00:43:11,839
+sensitivity analysis by performing a
+ 
+
+1727
+00:43:11,839 --> 00:43:14,470
+sensitivity analysis by performing a
+meta analysis with all studies and
+
+1728
+00:43:14,470 --> 00:43:14,480
+meta analysis with all studies and
+ 
+
+1729
+00:43:14,480 --> 00:43:16,390
+meta analysis with all studies and
+performing a meta analysis only on the
+
+1730
+00:43:16,390 --> 00:43:16,400
+performing a meta analysis only on the
+ 
+
+1731
+00:43:16,400 --> 00:43:18,870
+performing a meta analysis only on the
+better studies and then you compare the
+
+1732
+00:43:18,870 --> 00:43:18,880
+better studies and then you compare the
+ 
+
+1733
+00:43:18,880 --> 00:43:20,950
+better studies and then you compare the
+results to see whether there is a
+
+1734
+00:43:20,950 --> 00:43:20,960
+results to see whether there is a
+ 
+
+1735
+00:43:20,960 --> 00:43:23,190
+results to see whether there is a
+difference between
+
+1736
+00:43:23,190 --> 00:43:23,200
+difference between
+ 
+
+1737
+00:43:23,200 --> 00:43:24,710
+difference between
+um
+
+1738
+00:43:24,710 --> 00:43:24,720
+um
+ 
+
+1739
+00:43:24,720 --> 00:43:27,829
+um
+highly qualitative studies uh compared
+
+1740
+00:43:27,829 --> 00:43:27,839
+highly qualitative studies uh compared
+ 
+
+1741
+00:43:27,839 --> 00:43:31,270
+highly qualitative studies uh compared
+to the whole set of studies. If there is
+
+1742
+00:43:31,270 --> 00:43:31,280
+to the whole set of studies. If there is
+ 
+
+1743
+00:43:31,280 --> 00:43:34,230
+to the whole set of studies. If there is
+no difference, conclusion is we do not
+
+1744
+00:43:34,230 --> 00:43:34,240
+no difference, conclusion is we do not
+ 
+
+1745
+00:43:34,240 --> 00:43:36,710
+no difference, conclusion is we do not
+have to worry too much about quality.
+
+1746
+00:43:36,710 --> 00:43:36,720
+have to worry too much about quality.
+ 
+
+1747
+00:43:36,720 --> 00:43:38,790
+have to worry too much about quality.
+The results are not affected by the
+
+1748
+00:43:38,790 --> 00:43:38,800
+The results are not affected by the
+ 
+
+1749
+00:43:38,800 --> 00:43:41,589
+The results are not affected by the
+quality. If there is difference then
+
+1750
+00:43:41,589 --> 00:43:41,599
+quality. If there is difference then
+ 
+
+1751
+00:43:41,599 --> 00:43:44,470
+quality. If there is difference then
+it's a good practice to present the
+
+1752
+00:43:44,470 --> 00:43:44,480
+it's a good practice to present the
+ 
+
+1753
+00:43:44,480 --> 00:43:48,230
+it's a good practice to present the
+results of both analysis and to make
+
+1754
+00:43:48,230 --> 00:43:48,240
+results of both analysis and to make
+ 
+
+1755
+00:43:48,240 --> 00:43:51,349
+results of both analysis and to make
+sure that the reader of your meta
+
+1756
+00:43:51,349 --> 00:43:51,359
+sure that the reader of your meta
+ 
+
+1757
+00:43:51,359 --> 00:43:54,230
+sure that the reader of your meta
+analysis is aware of the problem of
+
+1758
+00:43:54,230 --> 00:43:54,240
+analysis is aware of the problem of
+ 
+
+1759
+00:43:54,240 --> 00:43:58,790
+analysis is aware of the problem of
+assessing the quality and um
+
+1760
+00:43:58,790 --> 00:43:58,800
+assessing the quality and um
+ 
+
+1761
+00:43:58,800 --> 00:44:01,109
+assessing the quality and um
+yeah the difficulty of interpreting the
+
+1762
+00:44:01,109 --> 00:44:01,119
+yeah the difficulty of interpreting the
+ 
+
+1763
+00:44:01,119 --> 00:44:04,630
+yeah the difficulty of interpreting the
+results of your analysis.
+
+1764
+00:44:04,630 --> 00:44:04,640
+results of your analysis.
+ 
+
+1765
+00:44:04,640 --> 00:44:07,270
+results of your analysis.
+So in general some guidelines I would
+
+1766
+00:44:07,270 --> 00:44:07,280
+So in general some guidelines I would
+ 
+
+1767
+00:44:07,280 --> 00:44:09,589
+So in general some guidelines I would
+not include studies if they really have
+
+1768
+00:44:09,589 --> 00:44:09,599
+not include studies if they really have
+ 
+
+1769
+00:44:09,599 --> 00:44:12,630
+not include studies if they really have
+a low quality. I definitely would use
+
+1770
+00:44:12,630 --> 00:44:12,640
+a low quality. I definitely would use
+ 
+
+1771
+00:44:12,640 --> 00:44:16,150
+a low quality. I definitely would use
+several indices for quality. I also
+
+1772
+00:44:16,150 --> 00:44:16,160
+several indices for quality. I also
+ 
+
+1773
+00:44:16,160 --> 00:44:19,109
+several indices for quality. I also
+would look for the effect of the design.
+
+1774
+00:44:19,109 --> 00:44:19,119
+would look for the effect of the design.
+ 
+
+1775
+00:44:19,119 --> 00:44:21,109
+would look for the effect of the design.
+So if you have experimental designs and
+
+1776
+00:44:21,109 --> 00:44:21,119
+So if you have experimental designs and
+ 
+
+1777
+00:44:21,119 --> 00:44:23,829
+So if you have experimental designs and
+correlational designs, I would also
+
+1778
+00:44:23,829 --> 00:44:23,839
+correlational designs, I would also
+ 
+
+1779
+00:44:23,839 --> 00:44:26,470
+correlational designs, I would also
+include the type of design as a
+
+1780
+00:44:26,470 --> 00:44:26,480
+include the type of design as a
+ 
+
+1781
+00:44:26,480 --> 00:44:29,349
+include the type of design as a
+predictor in the analysis to see whether
+
+1782
+00:44:29,349 --> 00:44:29,359
+predictor in the analysis to see whether
+ 
+
+1783
+00:44:29,359 --> 00:44:33,349
+predictor in the analysis to see whether
+the effect depends on the design.
+
+1784
+00:44:33,349 --> 00:44:33,359
+the effect depends on the design.
+ 
+
+1785
+00:44:33,359 --> 00:44:37,030
+the effect depends on the design.
+It's also a good idea to train coders of
+
+1786
+00:44:37,030 --> 00:44:37,040
+It's also a good idea to train coders of
+ 
+
+1787
+00:44:37,040 --> 00:44:39,750
+It's also a good idea to train coders of
+the individual studies
+
+1788
+00:44:39,750 --> 00:44:39,760
+the individual studies
+ 
+
+1789
+00:44:39,760 --> 00:44:42,950
+the individual studies
+um
+
+1790
+00:44:42,950 --> 00:44:42,960
+
+ 
+
+1791
+00:44:42,960 --> 00:44:45,910
+
+coders that um assess the quality of
+
+1792
+00:44:45,910 --> 00:44:45,920
+coders that um assess the quality of
+ 
+
+1793
+00:44:45,920 --> 00:44:49,990
+coders that um assess the quality of
+studies to make sure that all coders are
+
+1794
+00:44:49,990 --> 00:44:50,000
+studies to make sure that all coders are
+ 
+
+1795
+00:44:50,000 --> 00:44:51,750
+studies to make sure that all coders are
+assessing the quality in exactly the
+
+1796
+00:44:51,750 --> 00:44:51,760
+assessing the quality in exactly the
+ 
+
+1797
+00:44:51,760 --> 00:44:53,430
+assessing the quality in exactly the
+same way.
+
+1798
+00:44:53,430 --> 00:44:53,440
+same way.
+ 
+
+1799
+00:44:53,440 --> 00:44:55,750
+same way.
+And it's also a good idea to assess the
+
+1800
+00:44:55,750 --> 00:44:55,760
+And it's also a good idea to assess the
+ 
+
+1801
+00:44:55,760 --> 00:44:59,030
+And it's also a good idea to assess the
+size of reliability between uh the
+
+1802
+00:44:59,030 --> 00:44:59,040
+size of reliability between uh the
+ 
+
+1803
+00:44:59,040 --> 00:45:02,069
+size of reliability between uh the
+coders.
+
+1804
+00:45:02,069 --> 00:45:02,079
+
+ 
+
+1805
+00:45:02,079 --> 00:45:05,349
+
+If you code the quality, it's important
+
+1806
+00:45:05,349 --> 00:45:05,359
+If you code the quality, it's important
+ 
+
+1807
+00:45:05,359 --> 00:45:08,150
+If you code the quality, it's important
+that you are also transparent about what
+
+1808
+00:45:08,150 --> 00:45:08,160
+that you are also transparent about what
+ 
+
+1809
+00:45:08,160 --> 00:45:12,630
+that you are also transparent about what
+criteria you used to assess quality.
+
+1810
+00:45:12,630 --> 00:45:12,640
+criteria you used to assess quality.
+ 
+
+1811
+00:45:12,640 --> 00:45:15,270
+criteria you used to assess quality.
+And an argument that is sometimes given
+
+1812
+00:45:15,270 --> 00:45:15,280
+And an argument that is sometimes given
+ 
+
+1813
+00:45:15,280 --> 00:45:17,270
+And an argument that is sometimes given
+uh for including only peer-reviewed
+
+1814
+00:45:17,270 --> 00:45:17,280
+uh for including only peer-reviewed
+ 
+
+1815
+00:45:17,280 --> 00:45:19,990
+uh for including only peer-reviewed
+papers is that peer-reviewed papers in
+
+1816
+00:45:19,990 --> 00:45:20,000
+papers is that peer-reviewed papers in
+ 
+
+1817
+00:45:20,000 --> 00:45:22,309
+papers is that peer-reviewed papers in
+general have a higher quality because
+
+1818
+00:45:22,309 --> 00:45:22,319
+general have a higher quality because
+ 
+
+1819
+00:45:22,319 --> 00:45:24,710
+general have a higher quality because
+these papers were already reviewed by
+
+1820
+00:45:24,710 --> 00:45:24,720
+these papers were already reviewed by
+ 
+
+1821
+00:45:24,720 --> 00:45:27,910
+these papers were already reviewed by
+experts in the field.
+
+1822
+00:45:27,910 --> 00:45:27,920
+experts in the field.
+ 
+
+1823
+00:45:27,920 --> 00:45:32,710
+experts in the field.
+This is true but there is a problem.
+
+1824
+00:45:32,710 --> 00:45:32,720
+This is true but there is a problem.
+ 
+
+1825
+00:45:32,720 --> 00:45:35,990
+This is true but there is a problem.
+I already mentioned that is important
+
+1826
+00:45:35,990 --> 00:45:36,000
+I already mentioned that is important
+ 
+
+1827
+00:45:36,000 --> 00:45:39,910
+I already mentioned that is important
+that you use very clear and ambiguous in
+
+1828
+00:45:39,910 --> 00:45:39,920
+that you use very clear and ambiguous in
+ 
+
+1829
+00:45:39,920 --> 00:45:42,870
+that you use very clear and ambiguous in
+an exclusion criteria.
+
+1830
+00:45:42,870 --> 00:45:42,880
+an exclusion criteria.
+ 
+
+1831
+00:45:42,880 --> 00:45:45,510
+an exclusion criteria.
+So this is important for obtaining
+
+1832
+00:45:45,510 --> 00:45:45,520
+So this is important for obtaining
+ 
+
+1833
+00:45:45,520 --> 00:45:47,829
+So this is important for obtaining
+consistency.
+
+1834
+00:45:47,829 --> 00:45:47,839
+consistency.
+ 
+
+1835
+00:45:47,839 --> 00:45:49,990
+consistency.
+So for instance, this also includes if
+
+1836
+00:45:49,990 --> 00:45:50,000
+So for instance, this also includes if
+ 
+
+1837
+00:45:50,000 --> 00:45:53,510
+So for instance, this also includes if
+you uh uh say that uh only studies with
+
+1838
+00:45:53,510 --> 00:45:53,520
+you uh uh say that uh only studies with
+ 
+
+1839
+00:45:53,520 --> 00:45:56,710
+you uh uh say that uh only studies with
+a good quality are included
+
+1840
+00:45:56,710 --> 00:45:56,720
+a good quality are included
+ 
+
+1841
+00:45:56,720 --> 00:45:59,270
+a good quality are included
+that you defined what good quality is
+
+1842
+00:45:59,270 --> 00:45:59,280
+that you defined what good quality is
+ 
+
+1843
+00:45:59,280 --> 00:46:02,069
+that you defined what good quality is
+for you. So how you operationalized good
+
+1844
+00:46:02,069 --> 00:46:02,079
+for you. So how you operationalized good
+ 
+
+1845
+00:46:02,079 --> 00:46:03,589
+for you. So how you operationalized good
+quality
+
+1846
+00:46:03,589 --> 00:46:03,599
+quality
+ 
+
+1847
+00:46:03,599 --> 00:46:06,550
+quality
+but not only for consistency also for
+
+1848
+00:46:06,550 --> 00:46:06,560
+but not only for consistency also for
+ 
+
+1849
+00:46:06,560 --> 00:46:09,109
+but not only for consistency also for
+replicability it's important that you
+
+1850
+00:46:09,109 --> 00:46:09,119
+replicability it's important that you
+ 
+
+1851
+00:46:09,119 --> 00:46:11,910
+replicability it's important that you
+have very clear in and exclusion
+
+1852
+00:46:11,910 --> 00:46:11,920
+have very clear in and exclusion
+ 
+
+1853
+00:46:11,920 --> 00:46:14,790
+have very clear in and exclusion
+criteria and that you report on these
+
+1854
+00:46:14,790 --> 00:46:14,800
+criteria and that you report on these
+ 
+
+1855
+00:46:14,800 --> 00:46:18,470
+criteria and that you report on these
+criteria.
+
+1856
+00:46:18,470 --> 00:46:18,480
+
+ 
+
+1857
+00:46:18,480 --> 00:46:21,109
+
+It's also important that the coder so
+
+1858
+00:46:21,109 --> 00:46:21,119
+It's also important that the coder so
+ 
+
+1859
+00:46:21,119 --> 00:46:23,670
+It's also important that the coder so
+that the person or the persons who make
+
+1860
+00:46:23,670 --> 00:46:23,680
+that the person or the persons who make
+ 
+
+1861
+00:46:23,680 --> 00:46:27,829
+that the person or the persons who make
+the selection of the studies are trained
+
+1862
+00:46:27,829 --> 00:46:27,839
+the selection of the studies are trained
+ 
+
+1863
+00:46:27,839 --> 00:46:31,190
+the selection of the studies are trained
+so that they very that they know very
+
+1864
+00:46:31,190 --> 00:46:31,200
+so that they very that they know very
+ 
+
+1865
+00:46:31,200 --> 00:46:34,069
+so that they very that they know very
+well what the different in and exclusion
+
+1866
+00:46:34,069 --> 00:46:34,079
+well what the different in and exclusion
+ 
+
+1867
+00:46:34,079 --> 00:46:36,710
+well what the different in and exclusion
+criteria mean and that they are able
+
+1868
+00:46:36,710 --> 00:46:36,720
+criteria mean and that they are able
+ 
+
+1869
+00:46:36,720 --> 00:46:38,870
+criteria mean and that they are able
+that they have the knowledge to judge
+
+1870
+00:46:38,870 --> 00:46:38,880
+that they have the knowledge to judge
+ 
+
+1871
+00:46:38,880 --> 00:46:43,829
+that they have the knowledge to judge
+whether these criteria are met.
+
+1872
+00:46:43,829 --> 00:46:43,839
+whether these criteria are met.
+ 
+
+1873
+00:46:43,839 --> 00:46:46,710
+whether these criteria are met.
+It's also a good idea to do at least
+
+1874
+00:46:46,710 --> 00:46:46,720
+It's also a good idea to do at least
+ 
+
+1875
+00:46:46,720 --> 00:46:49,270
+It's also a good idea to do at least
+part of the selection
+
+1876
+00:46:49,270 --> 00:46:49,280
+part of the selection
+ 
+
+1877
+00:46:49,280 --> 00:46:53,190
+part of the selection
+by two independent coders. Why is that
+
+1878
+00:46:53,190 --> 00:46:53,200
+by two independent coders. Why is that
+ 
+
+1879
+00:46:53,200 --> 00:46:55,589
+by two independent coders. Why is that
+good? Well, in that way you can study
+
+1880
+00:46:55,589 --> 00:46:55,599
+good? Well, in that way you can study
+ 
+
+1881
+00:46:55,599 --> 00:46:59,030
+good? Well, in that way you can study
+whether um the study selection is done
+
+1882
+00:46:59,030 --> 00:46:59,040
+whether um the study selection is done
+ 
+
+1883
+00:46:59,040 --> 00:47:03,670
+whether um the study selection is done
+in a reliable way. So in principle the
+
+1884
+00:47:03,670 --> 00:47:03,680
+in a reliable way. So in principle the
+ 
+
+1885
+00:47:03,680 --> 00:47:06,710
+in a reliable way. So in principle the
+two coders should come to exactly the
+
+1886
+00:47:06,710 --> 00:47:06,720
+two coders should come to exactly the
+ 
+
+1887
+00:47:06,720 --> 00:47:10,150
+two coders should come to exactly the
+same study selection. If this is not the
+
+1888
+00:47:10,150 --> 00:47:10,160
+same study selection. If this is not the
+ 
+
+1889
+00:47:10,160 --> 00:47:14,630
+same study selection. If this is not the
+case then you can look at uh uh you can
+
+1890
+00:47:14,630 --> 00:47:14,640
+case then you can look at uh uh you can
+ 
+
+1891
+00:47:14,640 --> 00:47:18,150
+case then you can look at uh uh you can
+have again uh have a look at uh the
+
+1892
+00:47:18,150 --> 00:47:18,160
+have again uh have a look at uh the
+ 
+
+1893
+00:47:18,160 --> 00:47:21,109
+have again uh have a look at uh the
+inclusion and exclusion criteria or the
+
+1894
+00:47:21,109 --> 00:47:21,119
+inclusion and exclusion criteria or the
+ 
+
+1895
+00:47:21,119 --> 00:47:22,710
+inclusion and exclusion criteria or the
+operationalization.
+
+1896
+00:47:22,710 --> 00:47:22,720
+operationalization.
+ 
+
+1897
+00:47:22,720 --> 00:47:26,950
+operationalization.
+So maybe the criteria are not clear yet.
+
+1898
+00:47:26,950 --> 00:47:26,960
+So maybe the criteria are not clear yet.
+ 
+
+1899
+00:47:26,960 --> 00:47:29,990
+So maybe the criteria are not clear yet.
+It's also a good idea to report about
+
+1900
+00:47:29,990 --> 00:47:30,000
+It's also a good idea to report about
+ 
+
+1901
+00:47:30,000 --> 00:47:32,309
+It's also a good idea to report about
+the reli reliability of the selection
+
+1902
+00:47:32,309 --> 00:47:32,319
+the reli reliability of the selection
+ 
+
+1903
+00:47:32,319 --> 00:47:35,990
+the reli reliability of the selection
+process. So for instance, you could uh
+
+1904
+00:47:35,990 --> 00:47:36,000
+process. So for instance, you could uh
+ 
+
+1905
+00:47:36,000 --> 00:47:38,309
+process. So for instance, you could uh
+uh report on the percentage of
+
+1906
+00:47:38,309 --> 00:47:38,319
+uh report on the percentage of
+ 
+
+1907
+00:47:38,319 --> 00:47:41,319
+uh report on the percentage of
+agreement.
+

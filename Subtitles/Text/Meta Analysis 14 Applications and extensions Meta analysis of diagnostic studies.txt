@@ -1,0 +1,453 @@
+In this session, I will talk about the meta analysis of diagnostic studies.
+
+What is a diagnostic study?
+
+The purpose of a diagnostic study is to evaluate the quality of diagnostic test.
+
+So think for instance of a self test for corona.
+
+You hope that your tests can make a distinction between people who are positive and people who are not ne uh positive.
+
+In diagnostic studies, often multiple tests are compared to each other, but it's also possible that only one specific test is studied.
+
+What kind of data reported in a diagnostic test study?
+
+Well, if you want to say something about the quality of a diagnostic test, we need to have uh yeah a standard or we we need to have a criterion to decide on whether a person is positive or not. and we use that criterion to see whether our test that we want to evaluate works well.
+
+So let's look at the cases that are positive.
+
+We hope that with our tests, most of these cases that are positive are also positively tested.
+
+So we hope that the cases that are truly positive is as high as possible compared to cases that are positive but that are not positively tested.
+
+So these cases are called false negatives.
+
+So we hope that the true positives is larger than the false negative number.
+
+Similarly, for the cases that are in reality negative, we hope that most of them are tested negatively.
+
+So, these cases are called true negatives and that there are only a few or non uh cases that are positively tested.
+
+So, these cases are called false positives.
+
+So in general, we hope that the dark blue and the dark red cell uh include as many cases as possible and that the other two cells include as few cases as possible.
+
+So think for instance of an instrument uh a screening instrument for the down syndrome.
+
+So suppose that in a study we have data from about 5,000 uh persons 5,000 uh babies.
+
+Some of them are positive.
+
+So some of them shown down syndrome more specifically about 10 persons and the other persons are not positive.
+
+So suppose that these 5,000 babies were also screened previously so during the pregnancy and that from the 10 positive cases nine cases were positively tested in using the screening instrument and one of them was not detected using the screening instrument from all the negative cases.
+
+So there are um 4,800 negative cases.
+
+From all these negative cases, most of them were tested negatively based on the screening instrument, which is good.
+
+But 351 cases were tested positively.
+
+So of course um both errors are not desirable.
+
+So if a specific baby has the down syndrome and this was not detected using the screening instrument, this has negative consequences.
+
+For instance, maybe uh the parents um would have um decided to abort the baby or maybe um it has negative consequences in the sense that that the parents are not prepared at all for having a baby with Down syndrome. the other type of error.
+
+So the negative and the cases that were tested positive whereas in fact these babies did not have the down syndrome also is not desirable.
+
+This induces unnecessary stress for the parents.
+
+So if parents are told that maybe uh the baby that they will get um will have the down syndrome whereas in fact this is not true.
+
+This induces ne unnecessary stress.
+
+The measure that we can use to express the quality of the screening instrument is the odds ratio.
+
+Here we can talk about the diagnostic odds ratio.
+
+We have already seen the odds ratio as a measure of association between two dichoamous variables.
+
+So we can use this uh measure here as well.
+
+Odds ratio can be calculated by multiplying the true positives and the true negatives.
+
+So that are the dark red and the dark blue cells.
+
+And we divide this multiplication by the false positives multiplied by the false negatives.
+
+So these are the two kinds of cases for which we made a wrong decision.
+
+The diagnostic odds ratio in the example is 114.08.
+
+Note that there will be no association between the two uh uh variables if the odds ratio is equal to one.
+
+So here the ratio is clearly much higher than one.
+
+An alter of one would mean that the screening instrument does not say anything about um whether or not um a case is positive.
+
+We've also seen that an drawback of the ozio is that it has a skewed distribution.
+
+It's also not very um very handy that the um the absence of an effect the absence of an association means that the odds ratio would be equal to one. it's easier um if if the value if the um measure of association would be equal to zero if there is no association at all.
+
+Another drawback of the odds ratio is that the sampling variance is not easily uh calculated.
+
+So therefore very often the natural logarithm of the odds ratio is taken.
+
+So we use the LO odds ratio.
+
+In this example, the LO odds ratio is 4.74.
+
+A loss ratio equal to zero means that there is no association at all.
+
+So again here we see that there is evidence that the screening instrument seems to work.
+
+The sampling variance of the lostu can be calculated by taking one over the the sample size in the first cell plus one over the sample size in the second cell and so on.
+
+And so in our example this gives a sampling variance of 1.11.
+
+We can use that uh sampling variance to calculate a confidence interval around the loz ratio. the sampling distribution of the loit loss ratio is more or less a normal distribution.
+
+So we can calculate the confidence interval or 95% confidence interval by taking the mean or the uh the estimate of the local ops ratio and subtracting or adding 1.96 times the square root of the sampling variance.
+
+This gives us confidence interval starting from 2.67 going to 6.81.
+
+A zero is not included in the confidence interval.
+
+So again here it's clear that there is an association between the two variables or in other words that the screening instrument says something about um uh being positive or not.
+
+Remark uh suppose that uh one of the cells does not include uh cases or that in one of the cells the number is equal to zero.
+
+In that case you cannot calculate um the odds ratio and or the sampling variance of the odds ratio.
+
+So a solution um that is often used is that you can add 0.5 to all of the four cells to avoid that in one of the cells you have zero.
+
+Now suppose that you have a sample of studies of diagnostic studies and in each of these studies you have an ulcer rates or you can calculate an ulcer rates.
+
+How can you combine the data from these um studies?
+
+Well, we can combine these diagnostic odds ratios or more specifically we can combine the loss ratios using ordinary precision weighted metalic techniques that we have seen before.
+
+You can also if in some of the studies uh odds ratios are calculated but in other studies you have standardized mean differences.
+
+We have seen that you can convert loss ratios to standardized mean differences using this formula.
+
+So the standardized mean difference is equal to the loss ratio multiplied by the square root of 3 / pi.
+
+And so this means that you have to to multiply the sampling variance of the lock ratio by three divided by pi squared to obtain um the sampling variance of the standardized mean difference.
+
+Of course you can also calculate um lo ratios based on standardized mean differences.
+
+So convert um measures in the other direction.
+
+Um when are you going to use loss ratios in your meta analysis?
+
+When are you going to use standardized main differences?
+
+So you can choose between these two options.
+
+But a good idea is to use um yeah the effect size that is uh more commonly used in our set of studies.
+
+So if you have 10 studies in which a loss ratio can immediately be calculated and one study in which a standardized mean difference is uh reported then it makes sense to convert that one standardized mean difference to the loss ratio.
+
+Note that by calculating an odds ratio or loss ratio, you lose some information in the sense that it's possible that different kind of tables will give exactly the same uh os ratio and therefore also the same loss ratio.
+
+So you lose information that is uh included in your table by uh calculating the odds ratio.
+
+Can we avoid losing information?
+
+Yes, we can.
+
+It is possible to calculate two measures of quality instead of that one measure uh the odds ratio.
+
+More specifically, we can calculate the sensitivity and the specificity.
+
+What is the sensitivity?
+
+The sensitivity is the number of true positives divided by the total number of positives.
+
+So here in the example we have 10 positive cases and nine of them of them were uh were detected using the screening instrument.
+
+So that means that the sensitivity is 90%.
+
+So it's the probability that a positive case will be tested positively.
+
+The specificity is the number of true negatives divided by the total number of negative cases.
+
+So in our example, there were 4,800 negative cases and 4,449 of these cases were indeed tested negatively.
+
+So that means that for 93% of the negative cases um these cases were tested negatively.
+
+So we hope that both the sensitivity and the specificity are as high as possible.
+
+Note um 93% of the negative cases were tested negatively.
+
+So this means that 7% of the negative cases were tested positively.
+
+So this is called the false positive rate.
+
+The false positive rate is the probability that a negative case is still tested positively.
+
+What is also sometimes reported in diagnostic studies is the like likely likelihood ratio for cases that were positively tested and the likelihood ratio for cases that were negatively tested.
+
+What is that likelihood ratio for positive positively tested cases?
+
+Well, that's the probability that a positive case is tested positively.
+
+So that's the sensitivity divided by the probability that a negative case is tested positively.
+
+So that's one minus specificity.
+
+And the likelihood ratio for the negative negatively tested cases is the probability of a positive case tested negatively divided by the probability of a negative case tested negatively.
+
+So it's one minus the sensitivity divided by um the specificity and the ratio between that uh likelihood ratio for the positively tested cases divided by uh the likelihood ratio for the cases that are negatively tested. that ratio is another way um of calculating the diagnostic odds ratio.
+
+Now instead of doing a meta analysis of the diagnostic odds ratios, it's also possible to do meta analysis of the sensitivity and specificity values.
+
+One way is to do two separate met analysis.
+
+So again using precision weight uh weighted analysis but separately for the sensitivity values and specificity values.
+
+Another approach which is somewhat more efficient is to use a bariate meta analysis.
+
+So how does it work?
+
+Well, we say that um the number of positive test results for positive cases in study I and the number of positive test results for negative cases in study I.
+
+These two numbers follow binomial distributions.
+
+So the number of positive test results for positive cases in study I follow a binomial distribution with uh yeah the number of positive cases and with a probability.
+
+So the probability that a positive case is tested positively.
+
+So that's the sensitivity for the negative uh cases.
+
+The probability of that binomial distribution is the false positive rate.
+
+So one minus um the specificity.
+
+So that's the probability that a negative case will be tested positively.
+
+And then we say well these two probabilities so the sensitivity and the false positive rate they follow a normal distribution across studies. with means theta 1 and theta 2.
+
+So theta 1 is the overall sensitivity across all studies and the U1 I is the random effect of study I for the sensitivity.
+
+So if that is positive then this means that the true sensitivity for study I is larger than the mean sensitivity across all studies.
+
+The same is true for the false positive rate.
+
+So theta 2 is the overall false positive rate across all studies and the U2I is the random deviation for study I.
+
+Um so if that is positive then the false positive rate for that study or the true false positive rate for that study is larger than the overall false positive rate.
+
+And we assume that both random effects follow a normal distribution a multivariate normal distribution with means zero and with variances and a covariance that should be estimated.
+
+So now yeah we use a multivariate or a bariate meta analysis.
+
+So now we have two between study variances.
+
+So the between study variance in the sensitivity rate and the between study variance in the false positive rate and there is a co or there's possibly co-variance um between the two um parameters across studies.
+
+Note the sensitivity and the specificity that is found in a specific study depends on the cut off or the threshold that is used in that study.
+
+So suppose that you have that you have a test value and that um when the value exceeds a specific value the threshold you conclude okay that case is positive when that person or the test value does not um exceed the threshold then that person is called a negative case.
+
+Well, and suppose that you have um in reality so two distributions two normal distributions of these test values.
+
+Uh the uh the blue distribution is a distribution of the negative cases.
+
+So the really negative cases, the red distribution is the distribution of the cases that are in reality positive.
+
+And you can see that um part of the negative cases have a value um that is larger than the threshold.
+
+So that's the light blue um surface.
+
+So these are the false positives.
+
+You can also see that from all positive cases.
+
+So that's the right normal distribution.
+
+Part of them have has a value lower than the threshold.
+
+So these cases are not tested positively whereas they are positive.
+
+So these are the false negatives.
+
+So that part is given in light red.
+
+Note that by increasing the thresholds, so by moving the green line line to the right, the number of false positives will become smaller.
+
+So this means that the specificity that is found in that study will become higher.
+
+At the same time, there will be more false negatives.
+
+So the light red surface will become larger.
+
+So this means that the sensitivity will become lower.
+
+So by incre increasing the green line you increase the specificity which is good but at the same time you decrease the sensitivity which is not good.
+
+So therefore you can expect that there is an association between specificity and sensitivity.
+
+So that there is a a co-variance.
+
+So in the previous slide I explained that we can estimate the coariance between specificity and sensitivity.
+
+Well in fact we can expect that there is a negative association between the two measures because different studies can use different thresholds.
+
+And so studies using a very large threshold will probably have a higher specificity rate but a lower sensitivity rate.
+
+So the sensitivity and the specificity depend on the cutoff used.
+
+So this means that the results of the math analysis are not very not that interesting in the sense that uh variances in specificity and sensitivity may not reflect true differences um between the study findings but may rather reflect difference between studies in the threshold that is used as an alternative approach which is however um statistically equivalent.
+
+You can also use the receiving operating characteristic curves.
+
+So the rock curves.
+
+So a rock curve summarizes the data per study or possibly over studies.
+
+So a rock curves looks like this.
+
+So on the yaxis you have the sensitivity.
+
+On the x axis you have um the one minus the specificity.
+
+So on the y-axis you have the probability that positive cases are tested positively.
+
+On the x-axis you have the probability that negative cases are tested positively.
+
+So you hope that um a study will find Yeah.
+
+Well, and and for each study you will have you can calculate these two measures and you hope that the sensitivity will be as high as possible and the one minus the specificity will be as small as possible but you can expect that there is a relationship between the two.
+
+So the higher the sensitivity, the lower the specificity and therefore also the higher one minus the specificity.
+
+Now suppose that yeah so here you can see the results of multiple studies.
+
+Each dot stands for one specific study.
+
+Um all these studies uh studied one specific instrument.
+
+So all these data together give some evidence that that instrument seems to work.
+
+If the instrument does not work at all, then the dots would um would be scattered around that diagonal um line.
+
+More specifically, then you would expect that the probability that positive cases are tested positively is exactly the same as a probability that negative cases are positively tested.
+
+So in that case um the dots would be distributed around that diagonal uh line.
+
+But here you can see that the majority of the dots are higher than that uh diagonal line.
+
+So which means that even if the yeah the spec yeah for given a specific specificity um sensitivity one minus the specificity is smaller.
+
+So this is what we hope to find.
+
+You can go to that site uh uh from which I I have put the link on the slide to play around with a threshold.
+
+And you can see indeed that if you change a threshold then you would uh expect to find another sensitivity and another one minus specificity.
+
+And so that curve um that is uh given in that uh in that plot um yeah describes how um the sensitivity and u the specificity are related to each other and um the values depend on the threshold that is used.
+
+So based on that curve you can find the best solution.
+
+You can um you can think about what is the cost of making one specific error and the cost of making another type of error.
+
+For instance, what is the cost of not finding a positive case versus what is the cost of um saying that the case is positive whereas that case is not positive.
+
+And by balancing these two costs, you can decide on what threshold you could use.
+
+Note that uh the second plot here looks better than the first plot.
+
+In the second plot, the instrument seems to to be able uh better to make a distinction between these two distributions.
+
+So whereas in the first plot in the upper plot there is a large part or large surface of false positives and false negatives in the um the plot at the bottom it's clear that these two surfaces are much smaller.
+
+This is also reflected in the um rock curve.
+
+You can see that here the rock curve is much higher is much farther away from the diagonal line.
+
+A measure that can be used to express express how good the instrument is is the area under the curve.
+
+So the area under the diagonal line would be 0 50.
+
+So the area under the curve for the instrument at the uh upper plot is 73.
+
+For the under plot it is almost one.
+
+So you can see that uh there's only a small part of the total surface that is on the left side of the curve.
+
+So you hope that that curve that that area is as large as possibly possible.
+
+Ideally this equal to one.
+
+So the higher the area under the curve the better.
+
+Now how you how can you met analyze rock curves?
+
+Well you can use this model.
+
+So at the lowest level so within studies we have the same equations as before.
+
+So we say that the number of positively tested cases um given that cases are positive follow a binomial distribution with number of positive cases and with a specific sensitivity rate. the number of positively tested negative cases.
+
+Uh it follows a binomial distribution with the number of negative cases in that study and with a probability that is equal to one minus specificity.
+
+And then we say well these two um probabilities so these two pies can be described as a nonlinear function of theta i plus alpha i * x i j * x - beta xig J.
+
+So there are two uh probabilities.
+
+So pi 1 i and pi 2 i.
+
+So the j in the equation uh of level two refers to positive subjects or negative subjects. and the Xig J is equal to one for positive subjects and zero for negative subjects.
+
+And then the parameters that are estimated in our meta analysis are the means of theta eyes and the alpha eyes as well as the variances and the covariances across studies of these two parameters.
+
+But what are the uh the meanings of these parameters?
+
+Well, so suppose that you have um so so so xig reverse is equal to one for positive cases and zero for negative cases.
+
+So for negative cases the equation uh simplifies a lot.
+
+So for negative cases the logit of pi is equal to theta i.
+
+So theta i determines the probability for a negative person of being tested positively.
+
+So that refers to the threshold used in the study.
+
+And so the variance in the ice refers to uh the differences between studies in the threshold that is used.
+
+Alpha I.
+
+So which is a parameter for study I indicates to what extent the probability for testing positively changes when um a person in reality is positive and not negative.
+
+So it refers to the discrimination of the test.
+
+So we hope that alpha i is as high as possible.
+
+So alpha i refers to the quality of the test.
+
+And what is the meaning of beta?
+
+So you can see that in the graph.
+
+So in the graph you can see uh look first at the red and the blue curve.
+
+So the blue curve is for a test that discriminates not at all.
+
+So for a test with a quality of zero.
+
+So alpha is equal to zero.
+
+Whereas for the red curve alpha is equal to two.
+
+You can see that um it's better the the higher alpha the better the test discriminates between the two uh groups between true positives and true negatives.
+
+What's the meaning of beta?
+
+Well, compare the red and the gray curve.
+
+Well, the red curve is a symmetric curve whereas the gray curve is an asymmetric curve.
+
+So the beta um yeah describes or expresses the asymmetry of the rock curve.

@@ -1,0 +1,58 @@
+study_id,site,delta_T_C,PCY_pct,yield_metric,crop_model,climate_model,scenario,future,baseline,irrigation,variety
+65VYUJZ8,"Chhapar, India",1,-1.58,stalk yield,DSSAT-CANEGRO v4.6,N/A,N/A,N/A,1979–2013,unknown,CoS-767
+65VYUJZ8,"Chhapar, India",2,−5.06,stalk yield,DSSAT-CANEGRO v4.6,N/A,N/A,N/A,1979–2013,unknown,CoS-767
+65VYUJZ8,"Chhapar, India",3,-10.56,stalk yield,DSSAT-CANEGRO v4.6,N/A,N/A,N/A,1979–2013,unknown,CoS-767
+65VYUJZ8,"Chhapar, India",1,-2.5,stalk yield,DSSAT-CANEGRO v4.6,N/A,N/A,N/A,1979–2013,unknown,CoSe-98231
+65VYUJZ8,"Chhapar, India",2,−6.73,stalk yield,DSSAT-CANEGRO v4.6,N/A,N/A,N/A,1979–2013,unknown,CoSe-98231
+65VYUJZ8,"Chhapar, India",3,-12.72,stalk yield,DSSAT-CANEGRO v4.6,N/A,N/A,N/A,1979–2013,unknown,CoSe-98231
+7PCFLLSK,Tamil Nadu avg,2,-3,stalk fresh mass,DSSAT CANEGRO v4.7,N/A,N/A,N/A,1981–2022,unknown,CO-86032
+7PCFLLSK,Tamil Nadu avg,3,-5,stalk fresh mass,DSSAT CANEGRO v4.7,N/A,N/A,N/A,1981–2022,unknown,CO-86032
+7PCFLLSK,Tamil Nadu avg,4,-9,stalk fresh mass,DSSAT CANEGRO v4.7,N/A,N/A,N/A,1981–2022,unknown,CO-86032
+4SSMUULF,"Marathwada, India",1.5,,standardized yield,DSSAT v4.7,CESM,1.5°C warming,2065–2100,1997–2015,unknown,—
+4SSMUULF,"Marathwada, India",2,,standardized yield,DSSAT v4.7,CESM,2.0°C warming,2065–2100,1997–2015,unknown,—
+AADRMRIW,Honduras,2.3,-37,fresh mass (MT/ha),AgMIP GGCMI (EPIC),GFDL/IPSL/HadGEM/MIROC,AR5 RCP8.5,2000–2050,1960–1990,rainfed,—
+AADRMRIW,Honduras,2.3,-30,fresh mass (MT/ha),AgMIP GGCMI (EPIC),GFDL/IPSL/HadGEM/MIROC,AR5 RCP8.5,2000–2050,1960–1990,irrigated,—
+FWLHHVEY,"La Mercy, SA",3.2,14.1,cane yield (t/ha),DSSAT-Canegro v4.5,MIROC3.2/MPI ECHAM5/HADCM3,A2,2070–2100,1980–2010,irrigated,—
+FWLHHVEY,"La Mercy, SA",3.2,15,cane yield (t/ha),DSSAT-Canegro v4.5,MIROC3.2/MPI ECHAM5/HADCM3,A2,2070–2100,1980–2010,rainfed,—
+FWLHHVEY,"Pongola, SA",3.5,12.1,cane yield (t/ha),DSSAT-Canegro v4.5,MIROC3.2/MPI ECHAM5/HADCM3,A2,2070–2100,1980–2010,irrigated,—
+FWLHHVEY,"Malelane, SA",3.7,10.8,cane yield (t/ha),DSSAT-Canegro v4.5,MIROC3.2/MPI ECHAM5/HADCM3,A2,2070–2100,1980–2010,irrigated,—
+GPZP6LTX,"Daka River, Ghana",4,,stalk biomass (t/ha),JULES-SC,N/A (idealized),N/A,N/A,1984–2008,rainfed,—
+GPZP6LTX,"Daka River, Ghana",4,,stalk biomass (t/ha),JULES-SC,N/A (idealized),N/A,N/A,1984–2008,irrigated,—
+HP54EZKH,"Komatipoort, SA",-3,-18.1,stalk dry mass (t/ha),DSSAT-Canegro,N/A,N/A,N/A,1980–2010,irrigated,—
+HP54EZKH,"Chiredzi, Zimbabwe",-3,-14,stalk dry mass (t/ha),DSSAT-Canegro,N/A,N/A,N/A,1980–2010,irrigated,—
+HP54EZKH,"Ligne Paradis, Reunion",-3,-14,stalk dry mass (t/ha),DSSAT-Canegro,N/A,N/A,N/A,1980–2010,irrigated,—
+HP54EZKH,"Ayr, Australia",-3,-8.7,stalk dry mass (t/ha),DSSAT-Canegro,N/A,N/A,N/A,1980–2010,irrigated,—
+HP54EZKH,"Ligne Paradis, Reunion",3,0.7,stalk dry mass (t/ha),DSSAT-Canegro,N/A,N/A,N/A,1980–2010,irrigated,—
+HP54EZKH,"Piracicaba, Brazil",3,7,stalk dry mass (t/ha),DSSAT-Canegro,N/A,N/A,N/A,1980–2010,rainfed,—
+HP54EZKH,"Komatipoort, SA",6,0.5,stalk dry mass (t/ha),DSSAT-Canegro,N/A,N/A,N/A,1980–2010,irrigated,—
+HP54EZKH,"Ayr, Australia",9,-17.5,stalk dry mass (t/ha),DSSAT-Canegro,N/A,N/A,N/A,1980–2010,irrigated,—
+HP54EZKH,"Ligne Paradis, Reunion",9,-10.6,stalk dry mass (t/ha),DSSAT-Canegro,N/A,N/A,N/A,1980–2010,irrigated,—
+HP54EZKH,"La Mercy, SA",9,-31.5,stalk dry mass (t/ha),DSSAT-Canegro,N/A,N/A,N/A,1980–2010,rainfed,—
+HP54EZKH,"Piracicaba, Brazil",9,-24.9,stalk dry mass (t/ha),DSSAT-Canegro,N/A,N/A,N/A,1980–2010,rainfed,—
+PCXRP7XW,"Piracicaba, Brazil",3,11,stalk fresh mass (t/ha),DSSAT/CANEGRO v4.5,N/A,N/A,N/A,1992–2007,unknown,RB86-7515
+PCXRP7XW,"Ilha Solteira, Brazil",3,3,stalk fresh mass (t/ha),DSSAT/CANEGRO v4.5,N/A,N/A,N/A,1992–2007,unknown,RB86-7515
+PCXRP7XW,"Ilha Solteira, Brazil",9,-5,stalk fresh mass (t/ha),DSSAT/CANEGRO v4.5,N/A,N/A,N/A,1992–2007,unknown,RB86-7515
+PCXRP7XW,"São Paulo, Brazil",2,29,stalk fresh mass (t/ha),DSSAT/CANEGRO v4.5,PRECIS (HadRM3P),A2,2050s,1992–2007,mixed,RB86-7515
+PCXRP7XW,"São Paulo, Brazil",2,29,stalk fresh mass (t/ha),DSSAT/CANEGRO v4.5,PRECIS (HadRM3P),B2,2050s,1992–2007,mixed,RB86-7515
+PCXRP7XW,"São Paulo, Brazil",0,15,stalk fresh mass (t/ha),DSSAT/CANEGRO v4.5,CSIRO,A2,2050s,1992–2007,mixed,RB86-7515
+PCXRP7XW,"São Paulo, Brazil",0,15,stalk fresh mass (t/ha),DSSAT/CANEGRO v4.5,CSIRO,B2,2050s,1992–2007,mixed,RB86-7515
+Q6N2E27T,"Tamil Nadu, India",0.8,-1.8,relative yield (%),DSSAT V4.5 CANEGRO,RegCM4.4/HadGEM2-ES,RCP4.5,2010–2040,1970–2000,unknown,—
+Q6N2E27T,"Tamil Nadu, India",1.6,-2.6,relative yield (%),DSSAT V4.5 CANEGRO,RegCM4.4/HadGEM2-ES,RCP4.5,2041–2070,1970–2000,unknown,—
+Q6N2E27T,"Tamil Nadu, India",2.4,-2.8,relative yield (%),DSSAT V4.5 CANEGRO,RegCM4.4/HadGEM2-ES,RCP4.5,2071–2098,1970–2000,unknown,—
+XA3Z3WRK,"Piracicaba, Brazil",-3,,stalk fresh mass (t/ha),APSIM-Sugar,N/A,N/A,N/A,1980–2010,rainfed,RB867515
+XA3Z3WRK,"Piracicaba, Brazil",3,,stalk fresh mass (t/ha),APSIM-Sugar,N/A,N/A,N/A,1980–2010,rainfed,RB867515
+XA3Z3WRK,"Piracicaba, Brazil",6,,stalk fresh mass (t/ha),APSIM-Sugar,N/A,N/A,N/A,1980–2010,rainfed,RB867515
+XA3Z3WRK,"Piracicaba, Brazil",9,,stalk fresh mass (t/ha),APSIM-Sugar,N/A,N/A,N/A,1980–2010,rainfed,RB867515
+XA3Z3WRK,"Piracicaba, Brazil",-3,,stalk fresh mass (t/ha),DSSAT/CANEGRO,N/A,N/A,N/A,1980–2010,rainfed,RB867515
+XA3Z3WRK,"Piracicaba, Brazil",3,,stalk fresh mass (t/ha),DSSAT/CANEGRO,N/A,N/A,N/A,1980–2010,rainfed,RB867515
+XA3Z3WRK,"Piracicaba, Brazil",6,,stalk fresh mass (t/ha),DSSAT/CANEGRO,N/A,N/A,N/A,1980–2010,rainfed,RB867515
+XA3Z3WRK,"Piracicaba, Brazil",9,,stalk fresh mass (t/ha),DSSAT/CANEGRO,N/A,N/A,N/A,1980–2010,rainfed,RB867515
+YUT8GHZN,"Piracicaba, Brazil",6,11,stalk fresh mass,DSSAT/CANEGRO,N/A,N/A,N/A,1992–2007,unknown,RB867515
+YUT8GHZN,"Ilha Solteira, Brazil",3,3,stalk fresh mass,DSSAT/CANEGRO,N/A,N/A,N/A,1992–2007,unknown,RB867515
+YUT8GHZN,"Ilha Solteira, Brazil",9,-5,stalk fresh mass,DSSAT/CANEGRO,N/A,N/A,N/A,1992–2007,unknown,RB867515
+Z5PF5XNQ,Uttar Pradesh avg,1,-3,stalk fresh mass (%),CANEGRO-Sugarcane,N/A,N/A,N/A,1971–2000,rainfed,—
+Z5PF5XNQ,Uttar Pradesh avg,4,-13,stalk fresh mass (%),CANEGRO-Sugarcane,N/A,N/A,N/A,1971–2000,rainfed,—
+Z5PF5XNQ,Uttar Pradesh avg,1,2,stalk fresh mass (%),CANEGRO-Sugarcane,N/A,N/A,N/A,1971–2000,irrigated,—
+Z5PF5XNQ,Uttar Pradesh avg,4,-7,stalk fresh mass (%),CANEGRO-Sugarcane,N/A,N/A,N/A,1971–2000,irrigated,—
+Z5PF5XNQ,Uttar Pradesh avg,,,stalk fresh mass (%),CANEGRO-Sugarcane,RegCM4 (LMDZ),RCP4.5,2040–2060,1971–2000,rainfed,—
+Z5PF5XNQ,Uttar Pradesh avg,,,stalk fresh mass (%),CANEGRO-Sugarcane,RegCM4 (LMDZ),RCP4.5,2040–2060,1971–2000,irrigated,—

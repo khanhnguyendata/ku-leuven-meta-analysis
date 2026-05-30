@@ -1,0 +1,1027 @@
+Thank you very much for the introduction.
+
+Also, thank you for inviting me.
+
+Um, it's a really exciting conference.
+
+I'm sorry that I could not attend yesterday and before yesterday.
+
+I had to examine my poor students yesterday.
+
+So, I can only attend today.
+
+So I'm going to talk about the use of multi-level models for performing meta analysis.
+
+And so my talk will consist of several parts.
+
+First I will introduce uh multi-level analysis.
+
+Afterwards I will talk about how you can consider meta analysis as a specific case of multi-level analysis.
+
+Afterwards I will talk about some opportunities um when you use multi the multi-level modeling framework for analyzing pro data over studies or for analyzing uh effect sizes.
+
+Afterwards, I will say something about when and how multi-level models are used for performing meta analysis.
+
+And finally, I want to give some ideas, some reflections on how you can present the results of multi-level meta analysis.
+
+So first short introduction in multi-level analysis and I will use an example uh data collected in Flanders in Flemish part of Belgium uh longitudinal study in which uh more than 6,000 students were measured uh five measurement occasions during their secondary education 6,000 more than 6,000 students coming from 57 schools and so here for instance you can see part of the data so on the xaxis You can see the performance of the students on an exam of mathematics in the beginning of of secondary education.
+
+On the y-axis you can see the performance of the students on the mathematics exam at the end of secondary at the end of the second year of secondary education.
+
+And of course you can see a positive linear relationship that can be described using an accretion equation aggression equation that can also be used to make predictions.
+
+But there is a problem with this kind of analysis in this kind of data sets.
+
+The problem is that here students are nested within schools.
+
+So you have several students coming from the same school and this can make that residuals are not independent.
+
+Whereas this is an assumption in ordinary regression analysis.
+
+What does it mean?
+
+Well, suppose there is a school that is performing very good.
+
+So in the sense that that teaching is very good and this makes that uh students are performing better than you would expect at the end of the second year then you would expect based on their score uh in the beginning of secondary education or there may be a school that is not doing such a good job and then you can see that that the scores of these students are lower than you would expect.
+
+So you can see now that the residuals are not independent.
+
+If a new student is saying well I'm from school too you can already expect that for this student you also will have a positive residual.
+
+So in other words positive residuals of the students of that school too will give information on the residual uh of that new student.
+
+So residuals are not independent.
+
+Why is this a problem?
+
+Well, if residuals or if students are nested within schools and if there are differences between schools, then this means that there is some overlap of information.
+
+Um there is well students are to a certain extent copies of other students from the same school.
+
+So there's overlap in information and if we do not take this into account then we are overestimating the total amount of information we have.
+
+And from a statistical point of view, this is reflected in two small standard errors.
+
+And if we use these standard errors to perform statistical significance tests, this will make that the type one error rate is not under control that we make too many type one errors.
+
+So if another hypothesis is correct, we will too easily reject this null hypothesis.
+
+What can be the solution?
+
+Well, we could do separate regression analysis for each school.
+
+But remember in this data set we had 57 schools.
+
+So this would mean that we have to do 57 separate meta analys um regression analysis.
+
+This could be a solution as you see in this graph because now the residuals are independent for each school.
+
+Now you have positive residuals as well as negative residuals.
+
+So residuals do not give information anymore on the residual of a new student.
+
+But this is not yeah here you can see the separate regression equations for each of the uh capital J schools but this is not a very efficient way.
+
+We have to do 57 analysis and maybe for some schools we only have data from a few students which means that yeah parameter estimates will be not very reliable.
+
+Also in this way we cannot study to what extent there are differences between schools.
+
+An alternative is that we use school dummy variables in our regression analysis.
+
+Then we can do one regression analysis but you will have a lot of coefficients.
+
+So here for instance we have a dummy variable for school two dummy variable for school three and until school 57.
+
+So this would mean that we have instead of one intercept we have 57 coefficients and instead of one uh regression weight for our x variable we will again have 57 uh coefficients.
+
+So we have two times 57 regression coefficients which is of course not very efficient.
+
+How can we solve this?
+
+Well a multi-level analysis can be a solution.
+
+So the idea is well we start from an equation the equation that I showed before but now I added an index J referring to the score also the intercept and regression weight of X gets an index J which means these coefficients can vary over schools and this variation is described with additional equations equations.
+
+So the first equation is describing the variation within schools.
+
+These equations are describing the variation over schools.
+
+So what does it mean?
+
+So the weight regression weight of X depends on the school.
+
+And here we say when it is equal to an overall slope plus random residual residual that is typical to the school.
+
+And so what is nice about multi-level models is that we do not have to estimate all these betas.
+
+We do not have to estimate regression coefficients for each school separately.
+
+We simply estimate the mean intercept, the mean slope as well as the variances and the coariance.
+
+I did this analysis for the example.
+
+You get very similar um uh regression coefficients here.
+
+But now this analysis takes into account um when testing these parameters that students are nested within schools.
+
+So standardize will be larger.
+
+You can also uh you get also information about the variation between schools in the intercept and in the slope also coariation.
+
+So positive coariation means that if for a specific school the intercept is higher you would also expect that for that school the slope is higher.
+
+Afterwards if you want you can also estimate the individual betas.
+
+And so based on these estimates I I compose this graph.
+
+So for each school you can see a blue regression line and the red line refers to the mean intercept and the mean slope over all schools.
+
+Of course if there is variation between schools in intercept and in slope it can be interesting um to try to explain why there is variation.
+
+So maybe we can include characteristics school characteristics in these equations at the second level.
+
+For instance, in the example, I included a dummy variable indicating whether this school is a private school rather than a public school.
+
+And these are the results.
+
+So for public schools, the intercept is 13.73.
+
+For private schools, the intercept is 1.12 points lower.
+
+Yeah.
+
+So 13.73 minus 1.12.
+
+The slope for private schools is slightly higher than for public schools.
+
+Okay, this is illustrated in this graph.
+
+So we have an interaction effect.
+
+This term in fact is an interaction term.
+
+It's cross level interaction between um yeah the mathematics zero and the type of school.
+
+So in this example we had a two-level structure.
+
+So we have students nested within schools.
+
+But of course this structure it can also be recognized if we have repeated measures.
+
+If we have repeated measures um then again we have two levels and at both at both levels there can be variation.
+
+So we have at the second level subjects and within subjects we have repeated measurements can be variation between measurements within subjects can be variation between subjects and we can try to explain this variation by including characteristics.
+
+It can be more complicated for instance well in the data set that I discussed uh some analysis were done using four level models.
+
+So we have schools but in some of the schools more than one class was uh was studied within classes you have multiple students and students were repeatedly measured.
+
+So we have a fourlevel structure.
+
+Um okay how does it look like such a this is a four a three-level model.
+
+So compared to the two-level model we have an additional index K and so the coefficients at the first level can vary randomly over the second level units possibly we can uh we can explain part of the variance by including characteristics um and then these coefficients in turn can vary over third level units.
+
+So to summarize why would we use multi-level models?
+
+First reason is a statistical reason.
+
+We take into account the nesting of units in higher level units and so this makes sure that type one rate will not be exceeded.
+
+But there is also a conceptual reason of course in this kind of data sets.
+
+It's interesting to study to what extent are there differences between schools or between classes and why where do these differences come from?
+
+Can we explain these differences by including school or class characteristics?
+
+This was my short introduction in multi-level analysis.
+
+Now meta analysis as a specific situation or specific um instance of a multi-level analysis.
+
+So in our example we had two levels.
+
+We had students nested within schools.
+
+In fact in meta analysis we have a very similar structure.
+
+We have we have multiple studies and within studies we typically have multiple participants and there can be variation between participants from the same study but there can also be variation between studies and it's interesting to study why there is variation.
+
+We can include stud characteristics.
+
+We can include participant characteristics to try to explain this variation at the two levels.
+
+How does this multilevel look multi-level model look like?
+
+Well, suppose you have a set of studies and in each study you have control group and an experimental group.
+
+Well, you could use this model, this equation to describe the variation within the study.
+
+So, it's a simple model.
+
+Our dependent variable is regressed on a treatment dummy variable to indicate whether this person is part of of the treatment group rather than the control group.
+
+And so how do we have to interpret this?
+
+Well, so the beta zero intercept is the expected value for somebody from the control group.
+
+Yeah.
+
+So it's the expected value or the the population mean of the control condition in that study.
+
+The effect of treatment is what is added to this expected value if somebody belongs to the treatment group rather than to the control group.
+
+And so this coefficient refers to the mean difference um the population mean difference between these two conditions.
+
+So you see it's it's a measure of effect the effect of the treatment.
+
+So the effect of the treatment is expressed by this coefficient beta one and the variation well it's possible that the intercept as well as the effect the treatment effect can vary over studies and this variation can be described using additional equations.
+
+So the intercept is equal to a mean plus random deviation random effect that is typical to that study.
+
+Same for a treatment effect.
+
+So the mean here you have the mean treatment effect or the overall treatment effect and this is a random residual specific to that study.
+
+Of course it's also interesting to study the between study heterogeneity in treatment effects.
+
+This is expressed using this parameter.
+
+So the variance between studies in the treatment effect.
+
+So you can recognize the parameters that we typically estimate in a meta analysis.
+
+To illustrate this, I simulated a small data set using this population model.
+
+So um the mean intercept.
+
+So the overall expected value in control condition is equal to one.
+
+The overall treatment effect is equal to one.
+
+But there is some variation between studies in both coefficients and at the first level within studies uh you have residual variation of one.
+
+I simulated data from 30 studies with each two groups of 30 units.
+
+I analyzed the data using the level analysis and so here are the parameter estimates.
+
+You can see that well these parameters are quite close to the population values.
+
+Um but of course if I I would have thrown another sample would have simulated another data set these values would have been slightly different and and maybe now this value is slightly smaller.
+
+Maybe by simulating another data set that value would be larger than one.
+
+Yeah.
+
+Of course you could say well this is not a typical meta analysis.
+
+In a typical meta analysis, yeah, you you have data from several studies and in these different studies typically outcome variable is not measured on exactly the same scale.
+
+So we have to standardize the data.
+
+Okay, one way of standardizing the data is by dividing the dependent variable by the standard deviation within the study.
+
+In fact, an estimate of this parameter is the pulled standard deviation which is also used when we used when we uh when we calculate a standardized mean difference.
+
+So in fact the coefficient now it was a mean difference now it is a standardized mean difference that you recognize from that analysis. uh I I put here primes because yeah the parameters of course change or can change but otherwise it remains the same model you can again use multi-level uh modeling software um so let's look again at a simulated data set so now parameter estimates or the population parameters remain exactly the same because already in the first uh uh data set the variance within studies was one so standard izing doesn't make a difference here.
+
+But now in the simulated data set, I analyze the data after standardizing the data within each study with an estimate of the um of the the within study residual um standard deviation.
+
+And so you get uh similar results as the ones I've used before in a real meta analysis.
+
+Of course again this is not a realistic situation because in a real meta analysis we typically do not have the data of each individual participant.
+
+Yeah.
+
+So such an ordinary multi-level analysis is not possible.
+
+So rather instead of having the data from each individual participant we have data we have summary statistics about the sample of participants within each study.
+
+We might have uh test statistics, means, standard deviations and so on or effect sizes.
+
+Um and yeah, we can do we can use these effect sizes to perform a met analysis.
+
+Typically for common uh effect sizes, we also know or we we the sampling variance or we can obtain good estimates of the sampling variance.
+
+So the sampling variance or the variance at this first level does not have to be estimated anymore.
+
+Sorry.
+
+So we only have to estimate uh the variance at the study level.
+
+But otherwise we can use the same framework.
+
+Let's look at at the model I've showed before.
+
+So remember that this parameter is a standardized mean difference.
+
+So what if we have effect sizes?
+
+Well, a standardized mean difference that is estimated um in a specific study in fact is an estimate of this beta y prime.
+
+So it's an estimate of the population effect size.
+
+Of course it's possible that the effect that the estimate is slightly too high or too low.
+
+So there is a residual and uh the residual we assume that these residuals from a normal distribution with a variance that we do not have to estimate anymore.
+
+We already know that frequency at the second level.
+
+So here this equation remains the same equation.
+
+Yeah.
+
+So the population effect size is equal to a mean effect size plus random residual typical to that study.
+
+Let's look at the results of the simulated data set.
+
+So in a simulated data set I calculated uh observed effect sizes or standardized mean differences for each of the individual studies and I analyzed them using such a multi-level model for effect sizes and look at the values you get exactly the same values for the mean effect as well as for the variance between studies in the effect.
+
+So this is just to show that effect sizes in this situation are sufficient.
+
+We have we do not need more information than information we have with these effect sizes.
+
+Now, why would we use a multi-level model for analyzing or meta analyzing data?
+
+Well, first I'm going to talk about the meta analysis of raw data.
+
+You can say well typically we do not have raw data but sometime sometimes we do.
+
+And to illustrate this, I will uh discuss a reanalysis of a meta analysis that was done by Terry Shan.
+
+She did a meta analysis on several single case studies.
+
+Single case studies that studied the effect of choice making or yeah she she looked at studies that investigated whether problem behavior of students in classes can be reduced by giving these students a choice in the activities or in the order of the activities.
+
+And so she found several studies, single case studies and single case studies are experimental studies in which uh individual participants are measured repeatedly over time under different conditions.
+
+So here without having the choice and with having the choice here are the data for one single participant from one of the studies.
+
+And so for instance well this is a typical way in which uh the data are presented in single case studies.
+
+So they are typically presented visually graphically and they're typically also analyzed visually so without statistical analysis.
+
+But the nice thing about this tradition is that from these graphs we can retrieve raw data and so we can use multi-level models to analyze these data or to meta analyze the data over several studies.
+
+Um so what do you see here?
+
+Well first that person was measured during eight sessions without having the choice.
+
+You can see that the problem behavior um is relatively large.
+
+So this is percentage of intervals in which there was problem behavior.
+
+In the second phase there were sessions in which the students could choose um the activities or the order of activities and then you can see that the problem behavior was reduced.
+
+It's much lower.
+
+Then in the third phase again they did not have the choice again problem behavior is larger.
+
+Then in the fourth phase again there was no choice or they could choose again and so you can see that the problem behavior was reduced again.
+
+So looking at this graph you can see that at least for this participant there seems to be an effect of um giving choice but we had uh data uh or Gary Shogun collected data from several studies and in some of these studies two three four cases or participants were studied.
+
+So we had a lot of these time series graphs and so we have analyzed this data using this model.
+
+So at the first level we say well the score is equal to uh an expected score in the baseline phase.
+
+So without having the choice but something is added and here something negatively is added if uh people are getting the choice.
+
+So problem behavior here is reduced.
+
+So beta one is the size of the effect for this participant um of having the choice in the data set. uh we had 13 single case studies in total data from 30 cases.
+
+So we used the tree level model to study variation between yeah measurement occasions within cases and of course we took into account whether at that moment they had a choice or not.
+
+There can be variation between cases. can be variation between studies and we can try to explain this variation by including case and study characteristics.
+
+So we use this model three level model here are the results.
+
+So on average the intercept after standardizing the data for each study separately or for each case separately.
+
+So on average the um yeah the amount of problem behavior in the control condition was 3 But you can see that the amount of problem behavior was reduced.
+
+It was yeah more than 50% reduced by uh giving uh the students choice.
+
+We can include characteristics of studies, characteristics of cases as moderator variables um or as as predictors in the second and the third level equations.
+
+So at the second level we include included um the gender of the person.
+
+At the third level we included well there were two types of studies.
+
+In some studies the students could choose the activities.
+
+In other studies the students could choose only the order of activities.
+
+So we included here uh a predictor a dummy variable indicating whether they could choose the order rather than the activities themselves.
+
+And so yeah here are the results.
+
+So if you are talking about a female and if they could choose the activities themselves then the reduction of problem behavior was minus 2.86 but if it was a male then the reduction was somewhat smaller.
+
+If they only could choose the order then the reduction was even smaller.
+
+Okay so that's the meaning of these coefficients.
+
+What is nice about the use of multi-level models is that multi-level models are very flexible.
+
+So you can extend this simple model in several ways.
+
+For instance, you can include or you can model autocorrelation.
+
+You can model heterogeneity.
+
+So you do not have to assume that the variance within the baseline faces for instance is the same as the variance within uh treatment phases.
+
+You can also include additional coariantss at the first level.
+
+For instance, if you have two treatments, you can use two dummy variables for two treatments.
+
+You can if you have count data, you can uh use generalized multi-level model rather than an ordinary multi-level model.
+
+You can also include linear and non nonlinear trends over time at the first level and so on.
+
+So a lot of extensions are possible.
+
+So for instance here yeah this is a model that can be used to model a time trend in the baseline phase, a time trend in the treatment phase and and yeah in this model we have two effect sizes.
+
+In fact, beta 2 here refers to the immediate effect whereas beta 3 refers to the interaction effect.
+
+So the effect of the treatment on the slope over time.
+
+So you can see it's yeah very flexible model.
+
+What about the multi-level meta analysis of effect sizes?
+
+So this is a typical structure for each this is the structure that is assumed when using traditional meta analytic techniques.
+
+So we assume that for each study we have one sample of participants and so for each sample we only have one effect size.
+
+So theta here refers to the population effect size t to an observed effect size and so these observed effect sizes can be assumed independent but sometimes well there can be various reasons why effect sizes might be dependent.
+
+For instance it's possible that there that there are dependencies over studies.
+
+For instance, maybe some studies were done in Belgium, some in Germany, some in the United States and so on.
+
+Suppose that that these are studies done in education, but the educational system is is completely different in the United States compared to Germany.
+
+So, you can expect that the results of studies done within the United States are more similar than uh results of studies done in Germany.
+
+So again there is overlap in information and it's important to take that overlap into account otherwise your type one error rate will be too high.
+
+So we could use a three-level model.
+
+We can extend the two-level model that I showed before by including an additional higher level model.
+
+It's also possible that you have dependencies within studies.
+
+So for instance sometimes you you have studies and within studies several experiments are done and so again it's it can be interesting to study to what extent there are differences between studies but also to study to what extent there are differences within studies between these sub studies or experiments within studies.
+
+And in the next step we can try to explain this variation by including study characteristics or by including characteristics of these sub studies.
+
+For instance, what sub population was studied in this sub study or what variation of treatment was evaluated and so on.
+
+This is a model we again we can use a tree level model.
+
+So we have at the first level we have our sample level.
+
+So the with the sampling variance at the second level we have uh the level of sub studies with variation between possibly variation between sub studies and at the third level we have the studies.
+
+This is the model we used um for a meta analysis on priming effect studies and we found that in a lot of studies several experiments were done.
+
+Typically these experiments were replicated in different groups but with a slight variation in in the way uh the treatment was operationalized.
+
+Yeah.
+
+And so by by calculating a simple average within each study you would lose that information.
+
+Yeah.
+
+Whereas when using a tree level analysis, you still keep that variation between substudies within studies and you can try to explain this variation by looking at uh for instance the time that the prime was offered.
+
+Does it make uh does it have an influence on the size of the effect?
+
+So in the first step we did random effects model analysis at the tree level random effects model.
+
+So we found that yeah at the tree levels we had more or less um the same amount of variation and then we did moderator analysis and we found that with only one moderator variable one study characteristic and one um moderator variable at the second level.
+
+So one characteristic of the experiments within studies we could explain a large part of the variation especially the variation at the third level.
+
+So the variation between studies you see that only a small part was left.
+
+So you can you could call this a mixed effects model because it includes uh moderator variables but still accounts for possible remaining unexplained variance at the three levels.
+
+It becomes somewhat more complicated in very common situation where within a study you have one sample but within that sample multiple outcome variables were measured.
+
+And this is more complicated because you have in a typical net analysis we assume that we know the sampling variance but here we do not only have sampling variance we also have sampling covariance.
+
+Suppose that you have two kinds of uh of outcomes. you have depression and anxiety that are two variables that are strongly related.
+
+Suppose that in one specific study uh the effect on both variables is evaluated.
+
+But if in a study by coincidence that effect size for anxiety is relatively low.
+
+Well, you would expect for that study that also the effect size for depression uh will be high.
+
+So you can expect that there is not only sampling variance but also sampling co-variance.
+
+Um well I guess most of you are familiar with the the the formula for calculating the sampling variance.
+
+This is a formula for calculating the uh sampling coariance for standardized mean differences.
+
+And note that the sampling coariance depends on row.
+
+Row is the correlation between the outcome variables.
+
+And this is this is yeah this is a problem.
+
+We typically do not know this correlation and very often this correlation is not reported.
+
+So how can we take that coariance into account in our meta analysis?
+
+Well maybe one solution is to use a tree level model again with a structure I showed before.
+
+So we have studies within studies now we have multiple outcomes and for each outcome we have a sample.
+
+In fact this is not the correct structure here.
+
+I say well we have different outcomes but for each outcome we have one sample so we ignore the sampling coariance if we use this structure in our met analysis.
+
+Yeah but maybe this coariance this dependence is taken into account by saying well yes these two outcomes belong to the same study.
+
+Okay, so that's that's the idea.
+
+This is this is the model we use for instance in met analysis on uh on 39 studies reporting on 584 effect sizes.
+
+In each of these studies, the effect was evaluated of prevention programs uh for child abuse and neglect.
+
+So why do we have that many effect sizes?
+
+This is because child abuse and neglect is very hard to measure. you if you ask to to parents how many times did you beat your children this week of course they will say zero so it's very hard to measure and so there is yeah right you can also not observe it if if uh researchers would make observations at home of course parents will not uh abuse or neglect their children during the observations so that's why in a lot of studies researchers were very creative in finding ways of getting an idea of um yeah whether there is child abuse or neglect.
+
+I saw in some studies they looked at um yeah reports done by teachers or by uh supporting services but also sometimes they looked at the number of visits to emergency rooms or number of visits to a doctor or sometimes they they some even in simply looked at risk factors like the number of friends of the family or the the income of the family or things like that.
+
+Yeah.
+
+And in In some studies we only found one effect size but in one study we found up to 51 effect sizes.
+
+Yeah.
+
+So we had a lot of effect sizes.
+
+We we did a three-level analysis and we found well on average so we calculated standardized mean differences.
+
+So on average we found a relatively small effect but it was clearly significant between parenthesis.
+
+You have the standard error.
+
+Um here you can see the variances between studies between outcomes within studies and this is the median sampling variance.
+
+So in total if you sum these three values you have the total variance.
+
+So you can see that about 11% of the variance.
+
+So this is comparable to to what Mike uh showed.
+
+So the values I squared at the third level or at the second level.
+
+So about 11% of the total variance is variance between studies.
+
+About 33% of the variance was variance between outcomes within studies.
+
+And so of course we we try to explain these var variances by including characteristics for instance the type of indicator variable or that's a variable a moderator variable at the second level or for instance the prevention program that was evaluated and that was a characteristic of the study.
+
+But is this a good idea?
+
+Because I said it's not a it's not a correct model. we ignore the sampling coariance and we hope that it is accounted for by using such a tree level model.
+
+So what we did we we performed several simulation studies for instance here using this this multivariant model.
+
+So we simulated data for two outcome variables that possibly can covary within studies but these two outcome variables possibly can also covary at a second level over studies.
+
+And so we used so we analyzed or we we generated raw data but we calculated effect sizes standardized mean differences and we analyze them using a tree level uh meta analytic model.
+
+So here are some results.
+
+So these are the standard deviations for specific conditions, standard deviations of the mean effect estimate.
+
+And you see that the standard deviation is going up if there is more coariance which is what you would expect.
+
+If there is more coariance that then this means that the outcome variables overlap more.
+
+There is more overlap.
+
+So the estimates are less precise.
+
+They vary much more.
+
+Okay.
+
+So you can see that the standard deviation of the estimates were going up and you see that there is no difference between using a three-level model or a two-level model.
+
+Yeah.
+
+In fact, we found that estimates were almost exactly equal when using the two models.
+
+But here we also looked at the the median or the mean standard error.
+
+And what you can see here if you use a tree level model the standard error is also going up together with the sampling variance.
+
+Note that the standard error of the estimate is an estimate of the standard deviation of the sampling distribution of the mean effect.
+
+Yeah.
+
+So you would expect or you hope that the standard errors are very similar to the standard deviations here.
+
+And this is the case for a three-level model. for a two-level model.
+
+You see the two-level model does not take into account the sampling coarience.
+
+So a traditional model using a traditional model is not a good idea.
+
+Uh the standard remains the same and as a result you can see that the type one error rate is not under control when using a two-level model.
+
+But for a three-level model it is nicely under control.
+
+We test it here with a significance level of 0.05.
+
+A type one erate indeed for a three-level model is 0.05.
+
+So the type one error rate it is under control.
+
+Uh what is also nice is that we now have an estimate of the variance between studies and within studies.
+
+We can also try to explain these two variances.
+
+So I think it it's you can solve interesting questions by using such a tree level model.
+
+Of course the drawback is that it's well it's not that very well known.
+
+Also some software like or CMA does not allow for doing tree level analysis.
+
+We also make some assumptions.
+
+For instance, we implicitly assume that the correlation between each pair of outcomes is the same or we assume that the between study variance is the same for each outcome.
+
+But we also did additional simulation studies varying these variances and and correlations and we found that results are fairly robust.
+
+What are alternatives?
+
+But ignoring the dependence is not a good idea.
+
+As we have seen, type one rate is not under control.
+
+An alternative is randomly choosing one effect size for each study, which was already mentioned this morning by Mike or um it's statistically correct because in this way you only have one effect size per study.
+
+So effect sizes are independent.
+
+But you of course you lose information.
+
+You do not use all effect sizes and moreover you do not get an insight in how many variation is there within studies and can we explain this variation averaging effect sizes within the study same problem.
+
+Um so you lose information.
+
+Moreover, um yeah, if you want to to use the sampling variance as a in your meta analysis, well, the sampling variance of that mean depends also on the correlation between the outcomes.
+
+So again, we have the same problem.
+
+And what is typically done is also sampling variance is averaged within the study.
+
+But that's not a good idea because the more outcomes or the more effect sizes within a study you combine, the more precise the result is.
+
+Yeah.
+
+So you should take that into account in your sampling variants.
+
+The problem is how if you do not know what the correlation is between uh outcomes.
+
+Um it's also possible to perform separate meta analysis for each kind of treatment or indicator.
+
+But of course um again for each of these separate meta analysis you only use part of the data.
+
+So it's not a very efficient way.
+
+Moreover, think about that that example that I gave of child abuse.
+
+In one of the studies you had 51 outcome variables.
+
+So are you going to do 51 meta analysis?
+
+So this is not realistic.
+
+Performing a multivariat meta analysis that's statistically okay.
+
+But again you have some problems often if you want to do a multivariate meta analysis typically you you are also going to use an estimate of the correlation between outcomes which is typically not reported and it's only feasible if you have a limited set of outcome variables.
+
+Again think back of that example of child outcomes.
+
+If you have 51 variables in one study, you cannot expect that that for each pair of outcomes, you have a good estimate of the correlation between these outcomes.
+
+Another alternative is robust variance estimation.
+
+So in fact in in this procedure you are estimating a two-level model.
+
+So a misspecified model in fact but by using robust techniques you make sure that the center is still okay.
+
+And indeed it is it it has been demonstrated well mathematically but also via simulation that it gives correct standard that the results are fine.
+
+Um I think also an advantage of this approach is that you can use standard two-level model which is much better known by a lot of people.
+
+So you will not have such a hard job to explain why you are using three levels.
+
+But I think an disadvantage is that you do not get separate estimates of the variance between studies and variance within studies.
+
+Of course, it's possible related to your remark this morning.
+
+It's possible to extend this even more to to additional levels.
+
+It's possible to do a four or five level analysis for instance.
+
+So here for instance, you have a level of an additional upper level. have the studies and within studies you have a level of substies in principle that's possible but it's not very common another kind of model um that was described by by Ben Fernandez Castellia one of the PhD students in our group is a crossclassified model so here we say well we illustrated is also using a data set on on the loneliness um loneliness outcome from variables.
+
+Um but we had we assumed that we can have variance between studies in the size of the effect.
+
+But there can be also uh variance between the instruments that can be used and this model is more complicated or the structure is more complicated in the sense that it is a non- hierarchal structure.
+
+So instruments are not nested within studies.
+
+So the same instrument can be used in several studies at the same time. studies are not nested within instruments.
+
+So the same study can use multiple instruments like like this study.
+
+Yeah.
+
+So we have a cross classification.
+
+A population effect size is a population effect size for this study when this study uses this instrument.
+
+So there are two effects, two random effects and again we can include characteristics of the instruments or characteristics of the studies.
+
+Very shortly something about the use of multi-level meta analysis.
+
+When is it used?
+
+Well, I did a very quick search in the web of of science using these uh keywords in the topics.
+
+I found 90 studies and what is remarkable is that the first study that I found was from 1996 whereas of course this is this is not a complete overview and there are much more studies but this gives already a quick idea.
+
+So although the fact that um that the use of melting levels for math analysis was already described for instance in the book of crowd bush and brick uh in 1992 you see that it is hardly it was hardly used until the 2010s and and now you can see that it's getting ex yeah much more popular.
+
+So this is a nice finding an interesting finding also number of citations it was these kinds of studies were hardly cited until 2010 in what domains were these studies published well typically in psychology behavioral sciences which is also yeah interesting I don't know how to explain this but it's a finding we also looked at what applied to multi level method analytic papers referred to these three uh papers.
+
+So a paper of of Mike and two papers of our research group on three level or multi-level meta analysis and we found that 104 studies referred to these papers and and per indeed used multi-level models.
+
+Interesting uh an interesting finding was that 99 of these studies used a tree level model with an intermediate level.
+
+So um with a study level at the highest level and then within study level at the second level.
+
+Two of the studies also use a tree level model but with an additional level.
+
+So for instance yeah um so we had the sample level we had papers level and then we had a studies level.
+
+So the same studies was um I think it was also mentioned by you this morning.
+
+So maybe the same data set is used in different papers.
+
+So this is this situation.
+
+So we did not find here a study with countries or research teams at the highest level.
+
+There were only three levels that used the fourle model with samples outcomes studies countries.
+
+Sample outcomes substudy studies or sample subtasks task studies.
+
+Again we found that that most of these studies were in the psychological field.
+
+Well, another um PhD student of our group uh Lala Yangi did a meta did or made a review of meta analysis of single case studies and she found that between 1985 and 2015 178 meta meta analysis were done on single case studies and 22 of these studies used multi-level models.
+
+It was striking that most of these almost all of them were also published after 2011.
+
+So you can see that the use of multi-level models is becoming much more popular.
+
+A few more words if I have the time um on yeah how to present the data or the results.
+
+Well of course if you take into account each individual effect size for within studies you can have a lot of effect sizes.
+
+So how are you going to present this?
+
+Well, this is a way of presenting this.
+
+So here here you have one uh confidence interval for each observed effect size, but it does not give a clear overview.
+
+Moreover, you cannot see what effect sizes are nested in what studies.
+
+Okay, you could of course use different colors, but if you have a lot of studies, then the use of colors or different markers also does not give a good overview.
+
+So now we are exploring ways of uh giving better presentations of the data and this is a possibility.
+
+Um so Ben uh is uh is describing several ways of presenting the data and and so this is one way.
+
+So here we have a dot for each study. effect.
+
+The dot represents the mean effect for that study and around that dot and yeah the the size of the dot represents the weight that is given to that study in the three-level meta analysis and around that dot you have two confidence intervals.
+
+So the the bold confidence interval refers to the precision of that mean of that study.
+
+Okay.
+
+Whereas the the lighter confidence interval refers to the median or um yeah refers to the confidence interval based on the median sampling variance of an individual effect size within that study.
+
+So for instance here if you look at study five you see that the black or the the bold confidence interval is much smaller than uh the light one.
+
+This is because you had a lot of effect sizes.
+
+So therefore the mean effect size is much more precise than an individual effect size.
+
+Whereas for study seven you have one effect size within that study and therefore the two confidence intervals are exactly the same.
+
+So that's one way of presenting.
+
+What can also be interesting is to to make a caterpillar plot.
+
+So of all observed effect sizes individual effect sizes.
+
+So here you can immediately see that the majority of effect sizes are positive.
+
+We have a lot are also zero and some are negative.
+
+It's also possible to make a caterpillar plot over studies or yeah on the on the mean effect sizes for the individual studies.
+
+Uh again using these two kinds of confidence intervals.
+
+So maybe this is also a way of presenting the data.
+
+But as I said, we are simply exploring possibilities.
+
+So if you have better suggestions, um I'm very curious to hear them about funnel plots.
+
+Well, we can use uh we can make a funnel plot for the individual effect sizes, but we can append this information by making a funnel plot with the mean effect sizes for these studies.
+
+So here each dot refers to the mean effect size for one study.
+
+Maybe we can also add the number of observed effect sizes within each study as additional information.
+
+Okay, thank you.
+
+Thank you very much for a very interesting uh talk.
+
+I was wondering I like the pictures that you showed in the end.
+
+So are they did you make a package or R functions that we can use to immediately create those pictures for our own data? >> It's the purpose yes to make our scripts that can be used. uh we will make them available using our website.
+
+Yeah. >> Yeah.
+
+Thanks. >> Thanks.
+
+Is very nice and I'm interested in various combinations.
+
+For example, there are um three level meta analysis crossified with some for some of these meta analysis maybe there are two dependent variables or more.
+
+So do you think it is possible to write some general or easy code let's say our packages for somebody to to analyze because it looks like uh nowadays for each problem we have to write a single our code or to customize to analyze the models.
+
+So I understand you're using SAS right or other packages. >> Yes I'm I'm using mostly SUS.
+
+Yeah. >> And there it's easy to say what what the random effects are. >> Yeah.
+
+Um yeah so so what effects very randomly over what units >> yeah so I'm thinking whether it will be some user friendly either SAS macro or so that they can easily mix and match one one of the issue I always have is they have multiple effect sizes but they have also dependence so there are should be something similar to multi three level meta analysis then uh you always have struggle how to analyze it we all know there are methods But how to implement it is an issue. >> Yes, that's a very good point.
+
+Yeah.
+
+Yeah.
+
+We we are aware of that.
+
+Um we are not really planning to to write an additional package.
+
+Uh but we hope that maybe in existing packages uh extensions can be made to to model this kind of to analyze data using these models.
+
+But we certainly will also make available the codes that we that we use in in SAS or in uh in R.
+
+Yeah, thank you.
+
+Thanks.
+
+Nice presentation.
+
+Um did you did you compare the results of the cross-classified multi-level meta analysis to standard meta analysis and what are the differences?
+
+So what is the benefit of estimating these more complicated models >> comparing the cross type? >> Yeah.
+
+To the standard >> to the standard meta analytics to the standard.
+
+Yes. >> We didn't need we did a simulation study um yeah comparing the results of using this model with a model in which you um include only one type of random effect.
+
+So the random effect for the studies or the random effect of uh of the instruments.
+
+We also compared it uh to the analysis of the data using a tree level model where you have um or sorry no um well a tree level model but with um sorry I have to I have to think um we had random effects within studies so it was not exactly the same structure as I showed here.
+
+So we had within studies we had two kinds of random effects in our simulation study and we also analyzed the data using a tree level model in which we looked at can we solve this by taking a combination of these two cross uh cross factors.
+
+And so we found that the yeah that the best solution or the best performance was for the model that indeed took into account the cross classification structure.
+
+And so the results are as expected um from other simulation studies that the type one error rate was not under control when using other models.
+
+Thank you for the great talk.
+
+Um I was wondering can you say something about the minimum number of sampling units that is needed on level two and level three because um sometimes we have meta analysis with um a relatively low number of studies or if you want to compare countries you only have a low number of countries >> and um how important is it that you get a certain minimum amount or if you're under the minimum level is that a huge problem? >> Yeah, thank you.
+
+That's a that's of course a very important question and uh it is an issue.
+
+It is sometimes an issue.
+
+Um so first of all for the fixed effect estimates it does not matter.
+
+I mean we we found in a lot of simulation studies that fixed effects are well estimated in even if you have small numbers of units even if the model is not correct like like in simulation study I showed before whether you use a two-level model or a three-level model fixed effects estimates are almost identical so that's not a problem but for the standard errors it's important that you use the correct model and uh you should indeed have enough units at least at the highest level.
+
+So it's not a problem if within studies for instance you only have for some studies one effect size for other studies two or three effect sizes.
+
+That's fine.
+
+It's especially important that at the highest level you have enough units.
+
+And what is enough?
+
+Well yeah in multi level analysis in general sometimes uh as a rule of thumb um they say you need at least 20 or 30 units.
+
+Now we have done a lot of simia studies and sometimes we found that with much smaller numbers of units you still get uh correct results type one rate is still under control at least if you do not have in uh moderator variables in your model if you simply estimate the mean effect.
+
+So sometimes with 10 or even with five studies you get reasonable good estimates of the center and therefore correct uh coverage proportions of confidence intervals and so on.
+
+Of course if you want to to study moderator effects and also if you want to uh to make inferences on the variances then you need more um more studies.
+
+So for instance in a simulation study of Antonio Lopez Lopez from the University of Morsia um well he found that if you want to include moderators at the third level so at the study level you need at least 20 studies.
+
+Um otherwise your type one rate is too high.
+
+By the way, when you use the RVE approach of the robust variance estimate estimation procedure, um, type one is still under control if you use somewhat smaller numbers, although the procedure is somewhat conservative.
+
+Okay.
+
+Yeah.
+
+Maybe one additional remark.
+
+Of course, there is also the issue of power.
+
+So even if with five studies or with 10 studies, results might be okay. the power will be very low. >> I think you is very interesting.
+
+I think there are a lot of um possible examples where you could imagine this would be useful.
+
+So I was thinking of um for example also subgroup analysis and meta analysis.
+
+So you have subgroups within the studies and you um you mentioned this right is you could say that within the same sample they have um shared variance.
+
+Um, so do you have some rule of thumb maybe um like there's out there for other types of analysis um when to include a level in your analysis?
+
+Maybe compare it and then or leave it out to simplify it a little. >> Yes, that's a hard question but of course again yeah a very interesting and important question.
+
+So what I didn't really mention is that implicitly we assume when we use random effects we assume that the units that we have are random sample out of an infinite population.
+
+So for instance I I give the example of instruments.
+
+So yeah this was also a remark we got from a reviewer.
+
+Yeah there are not an infinite number of instruments available to measure loneliness.
+
+So that's that that's that's one issue.
+
+So do you want to say something about individual instruments and then it's not a good idea to use a level or or use random effects for the instrument?
+
+Then you can include the instrument in your analysis as a moderator.
+
+You can use dummy variables for the different instruments and then you get an estimate for each instrument.
+
+You can so so that's that's one thing.
+
+Second thing is yeah if if you want to generalize to instruments in general what are instruments in general can we assume that there is such a population of instruments and also we make the assumption that these random effects are normally distributed.
+
+So why is it reasonable to assume that these random effects are normally distributed over instruments?
+
+So does it mean you would say that to purely think theoretical and not look at how much variance is explained on that level at all? >> Okay.
+
+Uh yeah.
+
+So that's that's indeed another issue.
+
+So yeah, sometimes it's it's from a theoretical point of view it can be can be a good idea to use a four or fifth level.
+
+Um but it's possible that the variance at an additional level may be very small.
+
+And so in that situation it's not such a a problem if you ignore that level.
+
+Yeah.
+
+The results will be very similar.
+
+And that makes also that it's easier to interpret your data that it's easier to communicate about your results.
+
+So it's always yeah trade-off.
+
+How complicated do I want to make this model?
+
+You also do not want to uh to oversp specify your model.
+
+You also do not want to to catch the pecularities, the random errors in your data set.
+
+So it's yeah finding a matter of finding a balance of yeah estimating a reasonable realistic model on one hand but not making it too complex on the other hand.
+
+Thank you.

@@ -1,0 +1,107 @@
+After selecting the studies, we are ready to extract the data needed for our meta analysis.
+
+This is the fourth step of the eight steps of a meta analysis.
+
+What data do we want to extract?
+
+Of course, effect sizes.
+
+We want to say something about the size of the effect.
+
+So uh sometimes effect sizes are immediately reported in the papers but sometimes we have to calculate the effect sizes and we now extract summary data test statistics p values and so on that can be used to calculate effect sizes afterwards.
+
+But we are not only interested in the size of the effect but we are also interested in the confidence about the size of the effect.
+
+So we also want to um extract data like standard errors, the sample size, test statistics, p values because these also give an idea about um yeah how precise the size of the effect was estimated.
+
+Typically in a meta analysis, we do not only estimate only a mean effect size, but we also are interested in um yeah study characteristics that are related to the effect size.
+
+So it's also a good idea to uh extract other information about the studies like for instance characteristics of participants the way the dependent variable and treatment was operationalized uh some contextual elements the tests that were used the design that was used the quality of the study and so on.
+
+So this is not only interesting for doing moderator analysis afterwards, but it's also a good idea in your systematic review that you give a clear overview of um how the studies that you found look like.
+
+This means that you will collect a lot of data.
+
+Um how are you going to collect these data?
+
+Well, it can be a good idea or it is a good idea to use a coding scheme.
+
+Um, so for instance, one sheet, one paper for each or one document for each study or for part of the study.
+
+Um so if you extract data it's always a good idea to well you could for instance copy exact um sentences from the original paper but what is important is that you also clearly mention um yeah the page numbers so that afterwards if you want to go back if you do not uh remember very well what that meant or if you you want to know more about the context in which that sentence was given given you can easily find back uh uh that part in the text.
+
+Note that it's it is better to code somewhat too much than too little.
+
+I mean if out after afterwards you you say well maybe I also need information on that characteristic and you did not code that yet then it is much more work to uh extract the data um or yeah it's much more work if you have to look at all individual studies again to look for that uh variable.
+
+It's better to coat a characteristic uh too much even if you use if you will not use it afterwards anymore than uh one too little.
+
+But of course also pay attention um so if you have a very long coding scheme.
+
+So if you want to extract a lot of information it can also very time consuming.
+
+So also think about what information I will use afterwards so that you do not code far too much.
+
+So here is an example of such a coding uh form.
+
+So uh yeah so these are some study characteristics and so in the blanks you fill in that information for the study.
+
+So afterwards, so when you uh filled in these coding forms, um it is probably a good idea that you use uh a spreadsheet uh program like Excel uh to bring together all these data so that afterwards you can analyze them in a statistical program or in a program specifically for meta analysis.
+
+So here for this study I used or we used uh several uh sheets.
+
+So in the first sheet you see in the first sheet we have one line for each study.
+
+And so in the first column in column A you can see the study ID.
+
+So the first study was study 10,01.
+
+So in the second column you have the publication year which was 2012.
+
+In the second column you have the publication type.
+
+I think one was published and two was unpublished.
+
+And then in the fourth column you have another uh characteristic.
+
+So here you have an overview of all studies that were found.
+
+So probably another column is the authors um and so on or the complete reference.
+
+In a second sheet, we have here um again the study ID but now we also have an additional column sample ID and you see that for some studies like study 10,2 you have two samples.
+
+So in that study two groups of persons were studied.
+
+The same is true for study uh 108.
+
+So also there there were two samples.
+
+So whereas the first sheet had one line for each study, in this sheet we have one line for each sample, for the majority of the studies there was indeed only one sample but for some studies there were more than one sample.
+
+And then in the following columns you have some uh yeah uh characteristics of these samples.
+
+In a third sheet you have the results results that will be used afterwards to calculate effect sizes or yes this was a study about uh uh reliability coefficients.
+
+What you see here in the last column are the alphas, so the reliability coefficients.
+
+But for some studies and for some studies and for some samples you had different skills that were given to these samples like for instance in uh in study 10,03.
+
+So in sample one there was the scale laca lart and laca l pierce.
+
+So two different subs skills of uh the laca scale and so for each of these subscals you have an alpha coefficient.
+
+So in that way by using multiple sheets um yeah it is possible to yeah to keep the number of variables and the number of rows limited.
+
+Of course, it's important that you can link these different sheets to each other.
+
+So, um, make sure that in the tree sheets then you have the same variable names like for instance ID study and ID sample.
+
+Also for the data extraction it's important that you make sure that this is done in a reliable way.
+
+So also here you have to make sure that your coding scheme is very clear.
+
+So again for consistency but also for replicability it's important that this uh scheme is very clear and that you report on that scheme as well or that you make it somewhere available uh as supplementary material uh linked to your paper for instance.
+
+Also here the coders should be trained.
+
+Also here it is a good idea uh to let at least part of the coding done by two independent coders and to report on the reliability.

@@ -1,0 +1,575 @@
+In this video, we will look at the study retrieval.
+
+In the introduction, we have seen that a meta analysis typically consists of eight steps.
+
+In this video, we will look at the first three steps.
+
+Formulating a research question, doing a systematic search for studies, and selecting the relevant studies.
+
+Let's first look at the first step. the formulation of the research problem as well as in other studies.
+
+It is important that you have a clear problem for formulation.
+
+So before you start your study, so before you collect data, it is good that you know very well what exactly you want to study.
+
+So this includes information on for instance a population.
+
+So about what units you want to say something the variables.
+
+So what characteristics you are interested in possible hypothesis or research questions.
+
+So these are about the relations between these variables and then finally a further limitation of the problem.
+
+So you you want to define what exactly you want to study um about these hypothesis or research questions.
+
+To give an example, suppose in a study one is interested in the relationship between challenging behavior of persons with mental retardradation and the behavior of staff.
+
+This research question may be too broad.
+
+If you were to do a met analysis, then it is possible that you will find a lot of studies and also very yeah heterogeneous studies.
+
+So it may be a better idea idea to limit the problem somewhat.
+
+For instance, it's possible to limit the problem to uh the self-injury injurous behavior of persons with severe mental retardradition and stimulating behavior of staff.
+
+So you limit the problem by looking at the specific behavior of um persons with retradation and specific behavior of the staff and you look at a subgroup of persons with mental retradation.
+
+So this may make your systematic review or meta analysis more uh realistic more feasible to define the research question.
+
+A helpful model is the PICO model.
+
+In the PICO model, the P stands for the population, the I stands for the intervention or the interest, the C for the comparison, and the O for the outcome.
+
+So, a good research question says something about these four elements.
+
+To give an example, a good question could be what is the effect on drug abuse in secondary school students of giving information at school rather than giving sanctions to drug users.
+
+So the population are students from secondary schools. intervention is giving information at school and you compare this intervention with another uh condition more specifically giving sanctions to drug users and to evaluate that intervention you look at the outcome drug abuse.
+
+Next, you're going to search for studies.
+
+And very often, we want to do a systematic search.
+
+So, if you want to do a systematic review, then we need to do a systematic search as well.
+
+And we talk about a systematic search.
+
+If we are using a thorough and transparent search for all relevant studies, published and unpublished studies.
+
+So we look at articles, books, conference papers, dissertations, research reports and so on.
+
+So we look for all studies that potentially say something um about our research question.
+
+To that end, we can look for literature in several steps.
+
+I will discuss six possible steps.
+
+The first step is the use of online uh databases.
+
+So, it may be a good idea to ask somebody working in a library to help you with that. or you can find on the website of uh the university libraries uh some information about how you can search databases.
+
+There are several databases to which uh we have access at the gloven the more the most important databases probably are ERIC psychonfo citation abstracts international web of science and so on.
+
+We can also use Google or Google Scholar uh to look for interesting studies or other search engines like Alta Vista or Jahu.
+
+But a problem with these um search engines is that you cannot replicate the search.
+
+I mean if somebody else would uh try to repeat your search uh say in for instance one year or two years the person will probably not get exactly the same hits as you got uh when you do the search.
+
+Now this is not true for the other databases.
+
+So if you use for instance ERIC, if you search today in the ERIC database with a set of keywords and you do the same search again next year with the same keywords and you say I'm only interested in studies until for instance the end of 2021, you will get exactly the same results.
+
+So you can replicate um the search if you use such a database which is not the case for Google, Google Scholar, Alta Vista, Jahu and so on.
+
+So that's a reason for using um these scientific databases only.
+
+The same is true for Limo or Limo.
+
+This is the system that is used at K Louven that can be used to uh search databases or search immediately in all uh uh journals that are available at K Louven.
+
+So also there what databases are in limo or what journals are in limo can vary from day to day and it is impossible or it yeah it is impossible to know next year what databases and what journals exactly were in limo today.
+
+So also there it is impossible to replicate the search.
+
+Moreover, of course, people from outside K Louven uh may not have access to limo.
+
+So, which also makes that your search is not replicable.
+
+So therefore I recommend to use these major databases and the major databases are for the field of medicine but for the field of behavioral sciences or psychology psycho and for the field of educational sciences ERIC it is also a good idea to combine multiple databases.
+
+So for instance, if you're interested in specific therapy, behavioral therapy, well, you can find studies in Psych Info as well as studies in Pepmmet.
+
+And there probably will be a lot of overlap between the studies that you find in the two databases, but it's possible that you also find uh relevant studies only in Psych Info or only in Pepmmet.
+
+So therefore it is a good idea to combine multiple databases to find as many studies as possible.
+
+If you go to limo at Kuran and you click on databases then you can type in for instance Eric and then one of the hits is um yeah the second one here educational resources information center ERIC.
+
+So that's the database with the educational uh studies in it.
+
+If you click on online access then yeah you can consult this database online.
+
+To search these databases you try to translate your research question or research problem in keywords.
+
+Again, the PICO model can be helpful to make sure that you are searching for studies on the population, intervention, and outcome variables of interest.
+
+You can make use of quotes to keep words together.
+
+For instance, if you're looking for studies on machine learning, you do not want to find all papers on machines and all papers on learning.
+
+By using quotes, you can search for the concept machine learning.
+
+Another trick is to use an asterisk to truncate a word by using meta analy with an asterisk.
+
+For instance, you will look for studies that talk about meta analysis, metaanalytical, meta analysis, meta analyzing and so on.
+
+Also, using boolean operators to link the keywords can help.
+
+For instance, if a paper does not use the concept machine learning but talks about artificial intelligence or AI, this paper may also be relevant.
+
+Therefore, you can search for studies that use the word machine learning or artificial intelligence or AI.
+
+If a study uses at least one of these three terms, you will find the study.
+
+You can use the and operator to look for studies that talk about something and about something else.
+
+For instance, if you're looking for the use of AI in education, you could search for AI and education.
+
+You can further restrict your research by using the not operator.
+
+If you're interested in AI in primary education, you could say AI and education, not higher education.
+
+Finally, the use of the near operator can avoid that you will get too many irrelevant hits when using and.
+
+Using near four in between two terms for instance means that the two terms should be not more than four words apart from each other.
+
+In that way you can for instance look for studies that talk about AI and education in the same sentence.
+
+Finally in many databases you can indicate in what fields these words should be searched for.
+
+Often we will get far too many hits if we look for these words in the whole paper.
+
+Therefore, we typically look into the titles, keywords and abstracts.
+
+In Web of Science, for instance, these fields are indicated by TI, AK, and AB.
+
+But you can also search in all these three kinds of fields together by referring to D S which stands for topics.
+
+There is of course always the risk that your research is missing relevant studies.
+
+If you already know that there are some important papers that are definitely eligible, you can check whether you can find these papers with your search string.
+
+If not, you may want to adapt your search. an example.
+
+So in a study we have done about uh the staff reactions to challenging behavior in people with severe mental retardation.
+
+We used the following keywords.
+
+So you can see that we have three that we have defined three groups of keywords.
+
+The first group of keywords was about yeah the the persons with mental retardation.
+
+We said well disability or mental retardation or complex needs or high support needs or cognitive impairment or learning difficulty should be included in the paper.
+
+Then we have a second group about the behavior of these persons.
+
+So we said that challenging behavior or problem behavior or aggression or self-injury or self-insurance behavior should be included.
+
+And then also a third uh one or more um terms from the third group should be included more specifically staff care care worker or special educator.
+
+Note that um yeah you you see that we included problem behavior with a U.
+
+It may also be a good idea to include problem behavior with an O only.
+
+So without the U.
+
+So in that way you have the UK and the US notation.
+
+And in that way it's possible that you will find even more uh studies an example.
+
+So in a study we have done about uh the staff reactions to challenging behavior in people with severe mental retardation we used the following keywords.
+
+So you can see that we have three that we have defined three groups of keywords.
+
+The first group of keywords was about yeah the the persons with mental retardation.
+
+We said well disability or mental retardation or complex needs or high support needs or cognitive impairment or learning difficulty should be included in the paper.
+
+Then we have a second group about the behavior of these persons.
+
+So we said that challenging behavior or problem behavior or aggression or self-injuring or self-insurance behavior should be included.
+
+And then also a third uh one or more um terms from the third group should be included more specifically staff care care worker or special educator.
+
+Note that um yeah you you see that we included problem behavior with a U.
+
+It may also be a good idea to include problem behavior with an O only.
+
+So without the U.
+
+So in that way you have the UK and the US notation.
+
+And in that way it's possible that you will find even more uh studies.
+
+Second example, in another study in which we studied uh students misconceptions of statistical inference, we again used uh three groups of keywords.
+
+And so for each of the groups at least one of these terms should be included in the paper.
+
+So we had misconception or error or misuse or misinterpretation or misunderstanding or fallacy.
+
+And then the second group was inference or sampling or normal or confidence or interval or test or level or p value.
+
+And then the last group was course or college or university.
+
+So again here you can see that use of the pico model can help you to define uh keywords to find um other keywords that could be relevant.
+
+It is possible to use the taros.
+
+So for instance in Eric so here we are in Eric you can click there on search tools and then tool type you can click on this and then if you type in a word like misconceptions which is a relevant uh keyword for uh the study we were interested in.
+
+So then Eric is given giving several suggestions or is uh giving some related words like cognitive structures, comprehension, concept formation, concept mapping, learning processes and so on.
+
+So in this way we can look for what other keywords could be relevant for our search and you can then decide to include these keywords as well.
+
+This is also in ERIC.
+
+So here in ERIC I indicated that we are looking for keywords in the abstract or as a heading word or in the title and then you get a set of hits in the best case. uh probably you will get a lot of hits.
+
+And you can see here in Eric um if you uh use limo to access access Eric you will find in the hits a link um K Louven that can be used to go to the full text.
+
+So to to find the full text um electronically note that there is a trade-off between recall so we want to to find all relevant studies.
+
+So we hope that the proportion of relevant literature that is found is as high as possible.
+
+Ideally you will find all relevant literature.
+
+So this can be done by uh using very broad keywords.
+
+So the broader the keywords you use, the more studies you will find and the li the more likely it is that you will find all relevant information.
+
+But the drawback is that in that way your search will not will be not be very precise.
+
+It's possible that you will find a lot of hits that are not relevant.
+
+So and if you get thousands of hits it can be a huge work to select the relevant studies afterwards.
+
+So you have to find uh to try to find the balance between recall and precision.
+
+So that's the first step uh the use of databases.
+
+A second step can be browsing secondary sources.
+
+What are secondary sources that can be for instance encyclopedias?
+
+So if you are interested in for instance learning analytics well you can look in encyclopedias what uh is said about learning analytics.
+
+So typically also think about Wikipedia for instance typically uh a lot of references are given uh that can be used to uh find uh important studies.
+
+You can also go to special journals.
+
+So there are some journals like psychological bulletin, educational research review that report um or that publish a lot of reviews or or a lot of meta analysis.
+
+So maybe there were already meta analysis or systematic reviews about your research topic or there are reviews about uh yeah very related topics.
+
+So it can be a good idea to look in these journals for relevant reviews so that in that way you already have an idea of what interesting studies could be also in other journals of course uh often reviews are published.
+
+You can also look at handbooks at uh conference programs and proceedings and so on.
+
+So secondary sources are sources that are not reporting directly on individual studies but they are referring to studies that can be looked uh for afterwards in a second step in third step.
+
+So once you have found interesting studies you can look at the references.
+
+So there are two ways you can uh uh yeah do a backward search which which means that you look in the reference list of these important uh studies.
+
+So you look at what other studies does this study referred to and probably also um studies will be referred to that are relevant for your systematic review as well.
+
+You can also do a forward research which means that you look at who or what other papers site this relevant study.
+
+So to that end so look again at the hits we found um from a database here from Eric you can see there a link for a specific uh for each specific paper to find citing articles.
+
+So you if you click on that link you will see what papers refer to this paper.
+
+So we we call this a forward re uh search because the papers that link to this paper are newer papers.
+
+A next step could be uh taking contact with researchers.
+
+So if you found that there are some specific researchers that are apparently doing a lot of research that is relevant for your review, well you can contact these researchers to ask whether they have additional studies, studies that you did not yet find.
+
+So you can talk to researchers at conferences or you can uh ask your professors um in the field whether they know of uh interesting studies that you did not found find yet.
+
+Uh you can go to electronic discussion lists or you can uh yeah you can ask uh researchers um that are important in this field.
+
+Important is that you look for heterogeneous contacts.
+
+If you always um yeah go to the same type of researchers then there will be bias in the list of studies you find.
+
+So if you know that there is a discussion in the domain between so if there are different schools within the domain that some groups of researchers uh use a specific type of of methods for instance and another group of researchers use another type of methods.
+
+It's important that in the two schools or in the two groups of researchers you try to find um studies.
+
+Next step could be browsing journals.
+
+So again online you can use databases to see what journals were what articles or what papers are published in journals.
+
+Of course here you are going to look at journals that um um that are within the scope of your systematic review.
+
+So that that these are publishing a lot of papers in the field of interest for you.
+
+And then the last step is looking for research registries.
+
+It's more and more the case that uh for instance governmental organizations require when they give funding to to uh research groups or to projects they require that um the data are sent uh to these organizations or at least uh a report is sent to these organization independently of whether uh the results were statistically significant.
+
+Um so for instance uh the food and drug administration of the US or the institute of education sciences of the US they ask or they keep a record of all studies that were funded uh by these organizations. um a note.
+
+So we try to find all relevant studies but take into account or keep in mind that all relevant studies that were done are not necessarily representative for all studies that could have been done. very often it is the case that some specific subopuls or interventions or outcomes or designs are not yet sufficiently studied.
+
+So it's important that you take this into account when you make interpretations or or draw conclusions.
+
+But it can also be an important role of a meta analysis or a systematic review to give an overview of what has been studied yet and what does not have been studied what does not was not studied yet.
+
+So based on your systematic review, you can uh suggest uh directions for future research.
+
+In the previous step, we search for studies.
+
+Often we will initially find a lot of potentially relevant studies.
+
+In the next step, we make a selection of the studies that are really relevant.
+
+It's not uncommon that initially there are two or three thousand potentially relevant studies, but that from these studies only about 100 studies appear to be really relevant and are to be included in the meta analysis.
+
+For the selection of studies, we make a list of inclusion and exclusion criteria. for instance about yeah the population.
+
+So do we look at all kinds of of persons or do we look do we look only at a specific age uh range?
+
+You can also uh limit the type of treatment or the duration of the treatment.
+
+You can also say that uh you will only look at uh studies using a specific design.
+
+For instance, you can say that there should be a control group or at least a control condition.
+
+You can also look at um or use the study quality as an inclusion criteria.
+
+So you can say that only studies of a good quality will be included or of course you can say that yeah we need enough information about the outcome variable or about specific uh study characteristics before we can include that study in our systematic review.
+
+So it is important to make uh an explicit list of inclusion and exclusion criterion criteria and it's also important to report on that list.
+
+Why is it important?
+
+Well, it's important because in that way you can uh make a selection of studies in a consistent way.
+
+So it's important that if you selected a study for uh for your systematic review then another study that is very similar uh also has to be included in your systematic review and the other way around if you decide that a specific study should be excluded then a very similar study should also be excluded.
+
+So that's consistency but also for replicability.
+
+So this means that other researchers should be able to replicate or repeat your research and come to very similar conclusions.
+
+So therefore it's important that you uh make clear what exact inclusion and exclusion criteria you used so that if another person would do the search and the study selection again that that person will get exactly the same uh uh results.
+
+A remark is that if you use a very narrow criteria then you will probably have uh will end up with a small set of studies which is not good in a sense because the smaller the set of studies the lower the statistical power.
+
+On the other hand if you use narrow criteria then your set of studies will be probably more homogeneous.
+
+So we'll be more alike which is which makes that uh it is easier to draw conclusions or to interpret the results.
+
+So a possible approach is that um you start with somewhat broader criteria in a pilot search and if you see that uh you will have too many hits.
+
+So making it not feasible anymore uh to do this search uh to do this uh systematic review then you still can refine um the search.
+
+So an example an example of in an exclusion criteria we used in a systematic review on the effects of priming.
+
+Yeah.
+
+For instance, one of the uh criteria was the relationship between the prime and a target should be of a direct semantic nature.
+
+Not I will not give uh details about the meaning of this but you see that uh we said studies investigating other types of of priming such as phological priming morphological priming and so on were excluded.
+
+We said the primes have to be presented subliminally which means that it is beneath the conscious threshold.
+
+And then we defined further what we called the cons conscious threshold and so on and so further.
+
+In this study, we found based on a search in databases 749 published articles.
+
+And here we can see an overview of um what happened to these articles.
+
+So what how many studies we excluded for various reasons.
+
+So for instance 213 studies were excluded because the prime was not presented unconsciously and then it is uh further explained.
+
+So for instance the prime duration was uh more than 100 milliseconds.
+
+This was the case for 139 uh studies and so on.
+
+So we give a a rather complete overview of the reasons why we decided to exclude studies and after excluding a lot of the studies only 46 uh articles remained in our data set.
+
+So the final meta analysis included only 46 published articles.
+
+So you see that we uh started from 749 studies and we ended up with only 46 published articles.
+
+This is not uncommon.
+
+Sometimes we even have much more hits.
+
+We we start from say 1,000 or two or 3,000 papers and at the end we sometimes have even a smaller number of uh papers that are included in the meta analysis.
+
+So it's clear that this process of study selection is a very timeconsuming process.
+
+One of the selection criteria could also be that the studies should be of sufficient quality.
+
+So this means that we have to make sure that the quality of the individual studies is um high enough.
+
+But whereas this is true in theory, in practice, this is uh a very difficult issue.
+
+Why?
+
+Well, first of all, quality is a continuum.
+
+It's not a dichotomy.
+
+There is no perfect study.
+
+So even if as a researcher, you permanently have to make decisions and you very often know that there is no perfect decision.
+
+So if you decide option A, you know that there are some disadvantages.
+
+If you choose option B, there are maybe other disadvantages.
+
+So there is no perfect study.
+
+Um but of course there are differences between studies in the size of the quality, but it's a continuum, not a dichotomy.
+
+Another problem is how to judge quality.
+
+If you ask multiple people what a qualitative good study is, probably you will get different answers.
+
+So there are a lot of criteria that can be used and maybe it's also a good idea to use multiple criteria.
+
+But if you use multiple criteria, how are you going to weight this criteria?
+
+If you want to say something about the quality of a study in general, are you going to calculate an average of these criteria and to what criteria you are going to give larger weights than to what other criteria?
+
+Or maybe it's possible that you have 20 criteria and that a study performs well on 19 criteria, but that that study does not perform well on the 20 criterion.
+
+Now based on that you say well this final criterion is for me that important that if a study fails on this criterion I cannot call this study a good study.
+
+Another problem is very often the data to judge quality are not reported.
+
+For instance, um in qualitative good study, assumptions are tested.
+
+Assumptions underlying statistical tests are checked.
+
+But very often uh researchers check these assumptions but simply do not report that they checked these assumptions.
+
+So how can you can you judge the quality based on information that is not complete?
+
+If it's not, if researchers do not report on the check of the assumptions, can you conclude that they did not check the assumptions?
+
+Another problem is the problem of efficiency.
+
+If you are very severe, if you want to include in your math analysis only the studies from with the highest quality, then maybe at the end you will only combine two or three studies.
+
+Whereas if you are more lenient maybe in your meta analysis you can include 20 30 studies and you can say okay the other studies have a lower quality but still studies with a lower quality can still give some information about the population effect size.
+
+Another problem is the problem of bias.
+
+For instance, we know that the internal validity of experimental designs is higher than the internal validity of correlational designs.
+
+But sometimes it's very hard to use an experimental design.
+
+So for instance um if you want to test whether smoking results in lung cancer or an increased probability of lung cancer you cannot use an experimental design in sense that you cannot say to one group of people that is randomly uh um selected.
+
+You cannot say to one group from now on you have to smoke one package a day and to another group that is also randomly selected you cannot say now you cannot uh smoke anymore for two years.
+
+So there are some practical and ethical concerns that make that sometimes you cannot use experimental designs and you will have to use um designs with lower internal validity as an illustration of the lack of consensus.
+
+So I have here an overview of what some organizations said about single case or single subject experimental designs about the value of these designs um to give evidence to be included in the met analysis.
+
+And then you can see that some organizations said well single case experimental designs give persuasive evidence whereas other uh organizations said well they give some evidence but less than uh for instance group comparison designs and some organizations said no single case experimental designs are non-informative at all.
+
+Various free-touse tools or checklists are available online that are meant to evaluate the quality of studies.
+
+Note that on this site you cannot only find checklists for primary studies including RCTs, qualitative studies, diagnostic studies and so on but also to evaluate the quality of systematic reviews and meta analysis.
+
+Also on this page you find several tools for quality appraisal of studies.
+
+The risk of bias 2 tool for instance is good tool to evaluate the quality of randomized trials.
+
+Robins one for assessing the quality of non-randomized trials.
+
+Here you see some questions of the risk of bias 2 tool to get a question some further explanation and then you can give an answer yes probably yes probably no or not indicated hard job.
+
+If you look at these tools, well, in general, these types of um aspects come back regularly.
+
+Construct validity, which is about um how the variables are measured.
+
+External validity is about the generalization or the generalizability of the results.
+
+Internal validity is about um the problem of uh possible confounding variables and then then the statistical conclusion validity is about whether statistical tests are or statistics were used in a correct way.
+
+So these general criteria come back very often in these tools.
+
+Suppose that at the end you assessed the quality of individual studies.
+
+How do you deal with quality then afterwards in your meta analysis?
+
+One option could be that you include only the very best studies.
+
+Or you could also say well because this will reduce the power the precision because in that way I I will only include a few studies maybe it's better to include much more studies and I'm going to exclude only the very worst studies.
+
+Still an alternative is that you include all studies but that you weight the studies according to the quality that you give a larger weight the the larger the quality of a study is.
+
+It's also possible to investigate the effect of quality.
+
+You can include quality as a predictor variable in your meta analysis to look at whether the quality is related to the size of the effect that was observed.
+
+It's also possible to do a kind of sensitivity analysis by performing a meta analysis with all studies and performing a meta analysis only on the better studies and then you compare the results to see whether there is a difference between um highly qualitative studies uh compared to the whole set of studies.
+
+If there is no difference, conclusion is we do not have to worry too much about quality.
+
+The results are not affected by the quality.
+
+If there is difference then it's a good practice to present the results of both analysis and to make sure that the reader of your meta analysis is aware of the problem of assessing the quality and um yeah the difficulty of interpreting the results of your analysis.
+
+So in general some guidelines I would not include studies if they really have a low quality.
+
+I definitely would use several indices for quality.
+
+I also would look for the effect of the design.
+
+So if you have experimental designs and correlational designs, I would also include the type of design as a predictor in the analysis to see whether the effect depends on the design.
+
+It's also a good idea to train coders of the individual studies um coders that um assess the quality of studies to make sure that all coders are assessing the quality in exactly the same way.
+
+And it's also a good idea to assess the size of reliability between uh the coders.
+
+If you code the quality, it's important that you are also transparent about what criteria you used to assess quality.
+
+And an argument that is sometimes given uh for including only peer-reviewed papers is that peer-reviewed papers in general have a higher quality because these papers were already reviewed by experts in the field.
+
+This is true but there is a problem.
+
+I already mentioned that is important that you use very clear and ambiguous in an exclusion criteria.
+
+So this is important for obtaining consistency.
+
+So for instance, this also includes if you uh uh say that uh only studies with a good quality are included that you defined what good quality is for you.
+
+So how you operationalized good quality but not only for consistency also for replicability it's important that you have very clear in and exclusion criteria and that you report on these criteria.
+
+It's also important that the coder so that the person or the persons who make the selection of the studies are trained so that they very that they know very well what the different in and exclusion criteria mean and that they are able that they have the knowledge to judge whether these criteria are met.
+
+It's also a good idea to do at least part of the selection by two independent coders.
+
+Why is that good?
+
+Well, in that way you can study whether um the study selection is done in a reliable way.
+
+So in principle the two coders should come to exactly the same study selection.
+
+If this is not the case then you can look at uh uh you can have again uh have a look at uh the inclusion and exclusion criteria or the operationalization.
+
+So maybe the criteria are not clear yet.
+
+It's also a good idea to report about the reli reliability of the selection process.
+
+So for instance, you could uh uh report on the percentage of agreement.

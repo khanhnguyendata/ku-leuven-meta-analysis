@@ -1,0 +1,255 @@
+In the first part of the introduction, we looked at the principles of meta analysis.
+
+Let's look now at some examples and alternatives.
+
+First, we look at two examples.
+
+First, an example in education.
+
+Let's look at a meta analysis that was done already in 1984 by Stephenbush.
+
+He did a study on teacher expectancy effects.
+
+In several experiments, 19 experiments in total, teachers were told that part of the students of their class were weak students.
+
+Another part of the students were called strong students without there being a real difference between these two groups of students.
+
+After a while, the researchers looked at the grades that were given by the teachers to these students.
+
+The researchers were interested in the question whether teachers would give higher grades to the so-called strong students.
+
+If this is the case, this would be an indication of the expectancy that teachers had sorry this would be this would indicate that the expectancy that teachers had regarding their students influenced their scores.
+
+This is called a teacher expectancy effect.
+
+In all these experiments, we had two groups and based on the data, we can calculate a standardized mean difference which you can see in the column called G here.
+
+A positive G refers to an effect in a direction that was expected in the sense that teachers are given giving higher grades to the so-called strong students.
+
+A negative effect size, a negative G, would mean that the opposite difference is observed or specifically that teachers give higher grades to the so-called weak students, which is definitely not what you would expect.
+
+Now, if you look at the cheese, then you can see that often these GS are positive, but sometimes they're negative.
+
+Further, you can see that in general, these GS are relatively small.
+
+Remember the guidelines of cone with 0.20 called a small effect, 050 a moderate effect, and 0.80 a large effect.
+
+Very often, the effect sizes that were observed were even smaller than 0.20.
+
+In the last column, you can see the standard error of these estimates.
+
+In other words, the square root of the sampling variance.
+
+We have seen that for the standardized mean difference this variance of the sampling distribution is about 4 divided by n.
+
+There is another column called weeks of prior contact.
+
+In some studies, there was no prior contact between teachers and students.
+
+So teachers did not know the students yet at the start of the study.
+
+In other studies, teachers already knew their students for one, two, or three weeks before the study took place.
+
+The value three refers to three weeks or more than three weeks of prior contact.
+
+Here the results of the meta analysis.
+
+It was found that on average the observed effect size is equal to 0.084.
+
+Remember the guidelines.
+
+This effect can be called a very small effect and the corresponding p value is1.
+
+Therefore the effect is statistically not significant.
+
+Conclusion would be that in general there is no teacher expectancy effect.
+
+Maybe in some studies the effect was positive and in other studies negative.
+
+But on average the effect is close to zero and it is statistically not significantly different from zero.
+
+But performing a met analysis with a regression model including the weeks of prior contact as a predictor gives interesting results.
+
+The intercept can be interpreted as the expected effect when there was no prior contact.
+
+So when the prior contact was equal to zero, the estimate of the intercept is equal to 0.41.
+
+So if there was no prior contact, this is a moderate teacher expectancy effect.
+
+Moreover, the p value is very small, which means that we can conclude that the effect is really there.
+
+The estimated regression rate of the number of weeks is minus 0.16.
+
+Which means that with each additional week of prior contact, the expected effect decreases with 0.6.
+
+A decrease that is also statistically significant.
+
+This makes sense.
+
+It is indeed hard to make a teacher believe that one group is smarter than the other group when there is no difference between these two groups if the teacher already knows the students.
+
+A second example, an example from medical research.
+
+Kieran and Chen performed a meta analysis of some randomized controlled trials, RCTs, comparing long course and short course antibiotic therapy for urinary tract infections.
+
+The measure that was used is the relative risk or the risk ratio which is the probability that the treatment does not work if a short course antibiotic therapy was given divided by the probability that the treatment fails if a long course antibiotic therapy was given.
+
+Suppose that the short course therapy is equally effective as the long course therapy. then the probability that the treatment would fail is equal in both conditions and then the ratio of the two probabilities will be more or less equal to one.
+
+So here no effect means that the relative risk is equal to one.
+
+If the ratio is far from one then this is an indication that one of the two lengths is more effective.
+
+An estimate of this relative risk in a study is the observed risk ratio which is the ratio of the proportions of patients in both conditions for which the treatment failed.
+
+Here the results.
+
+Let's look first at the observed effect sizes given with dots in the confidence intervals.
+
+You can see that the observed effect sizes are typically larger than one.
+
+But confidence intervals most often include one.
+
+This means that in most of these studies, no convincing EV uh difference between the short course therapy and the long course therapy was was observed.
+
+And therefore, it was concluded that the short course therapy is equally effective as the long course therapy. only in two out of the 12 studies a zero was not included in the confidence interval and therefore the null hypothesis was rejected.
+
+Therefore, it looks like there is no difference between the two conditions.
+
+But you get another conclusion if you combine all these observed effect sizes in a meta analysis.
+
+The weighted average of all these effect sizes is 1.94, which means that the risk of failure is almost twice as large when using a short course therapy.
+
+The 95% confidence interval from 1.19 to 3.15 does not include one anymore.
+
+So whereas in most of the individual studies the conclusion was that we do not see a difference between the conditions combining the data gives us convincing evidence that the short course therapy is less effective than the long course therapy.
+
+What we see here in this data set looks very similar to what we have seen in the simulation.
+
+Individual studies are small making confidence intervals large and statistical power small.
+
+But by combining the data the interval becomes much smaller and the power higher.
+
+Here are the conclusions of the researchers.
+
+They remark that very often in individual studies no statistically significant difference between the two treatments was found and therefore it was concluded that the short course therapy was equally effective.
+
+But they also note that the fact there was no statistical significance can be due to the lack of statistical power.
+
+By combining the results over all studies, we get a risk ratio of 1.94, which means that the probability that the treatment will fail is 94% larger if you would use short course therapy.
+
+These were some examples of met analysis.
+
+What are alternative procedures?
+
+One procedure that is very often used is a so-called vote counting procedure.
+
+The idea is very simple.
+
+You collect the data of all studies that already were done on a specific research question.
+
+You count how many studies found no effect, how many studies found a negative effect, and how many studies found a positive effect.
+
+The category that is largest is the winner.
+
+Therefore, if the majority of studies did not find an effect, then the conclusion would be that there is no effect.
+
+The advantage of this procedure is that it is a relatively simple procedure.
+
+Everybody can understand this procedure.
+
+Yet, there are some drawbacks and these drawbacks are clear from what we have seen before.
+
+Think of the last example we have seen, the example of the meta analysis of Kieran Chen.
+
+It's possible that the power in individual studies is low and therefore we can expect that in a lot of individual studies we will not find an effect even if in reality there is an effect.
+
+Therefore the power of the vote counting procedure can be very low.
+
+Moreover, the power will not increase if you add more small studies to your data set.
+
+On the contrary, it can become even more unlikely that the majority of studies will show a significant effect and therefore the power of the vote counting procedure can even decrease by adding additional studies.
+
+Another drawback is that in this procedure all studies are given the same weight whereas we have seen that smaller studies will give less precise information on the population effect size and therefore it is better to give a larger weight to larger studies.
+
+A final drawback is that based on the vote counting procedure we only give an answer to the question whether there is an effect in meta analysis.
+
+On the other hand, we can answer much more questions.
+
+We can also say something about how large the effect is.
+
+We can test whether the effect size is the same in all studies.
+
+And we can investigate whether the effect size depends on characteristics of the studies.
+
+Another alternative procedure is the combination of p values.
+
+For instance, look at the stufur method.
+
+What is the idea?
+
+Well, suppose that the null hypothesis is true in a specific primary study.
+
+In that case, all one-sided p values between 0ero and one are equally likely.
+
+For instance, the probability that we will find the p value smaller than 0.05 is exactly equal to 0.05 or the probability that our p value will be larger than 050 is 50.
+
+Indeed, when the null hypothesis is true, the p values follow a norm a uniform distribution with limits zero and one.
+
+We can normalize the p values by calculating the z value from a standard normal distribution that has a cumulative density corresponding to that p value.
+
+For instance, suppose you find a p value of 0.025.
+
+Then you look for the ZV value in a standard normal distribution for which a probability that you will find the value smaller than this value is. 025.
+
+This ZV valueue is minus 1.96.
+
+If the null hypothesis is true, the resulting ZV values follow a standard normal distribution.
+
+Now suppose that we have multiple p values from multiple studies and that in all these individual studies the null hypothesis is true.
+
+In that case all z values would follow a standard normal distribution.
+
+The mean z value this is the sum divided by the number of studies k therefore will follow a normal distribution with zero mean and variance 1 over k.
+
+Therefore, if we divide the sum of the Z values by the square root of K instead of by K, we get a standard normal distribution.
+
+If however there is a study or few studies that show in effect in one direction, the one-sided P values from these studies will go in one direction and hence also the Z values will go in one direction and our test statistic will go away from zero.
+
+We reject our null hypothesis if our test statistic is situated in the tail of the standard normal distribution.
+
+Again, this procedure has some advantages and disadvantages.
+
+One advantage is that we can use this approach whenever we have p values from multiple studies.
+
+Indeed, we can combine P values even if the if these come from different statistical tests.
+
+Therefore, the procedure can be used for instance if some of the P p values come from non-parametric tests, some come from analysis of variance and still others come from t tests for the difference between means and so on.
+
+Another advantage is that we do not make assumptions.
+
+Of course, maybe in an individual study, assumptions were made to obtain the p value from that study.
+
+But when combining the p values, we do not make additional assumptions anymore about the distributions.
+
+There are however also drawbacks.
+
+One drawback is that the interpretation of the results is not straightforward.
+
+The null hypothesis is that in all individual studies, the null hypothesis is true.
+
+The alternative hypothesis is that at least in one of at least one of the null hypothesis is not correct.
+
+If we reject the null hypothesis, we cannot conclude that on average there is an effect.
+
+Instead, we have to conclude that in at least one of the studies there is an effect.
+
+But the procedure will not tell us in what specific studies there is an effect.
+
+Moreover, again we cannot answer other questions like how large is the effect?
+
+Is the effect the same in all studies?
+
+When does the effect show up?
+
+And is the effect related to characteristics of the studies.

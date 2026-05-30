@@ -1,0 +1,471 @@
+In this screencast, I will introduce the principles of meta analysis.
+
+To do so, I will start from a simulation to explain the problem of failures to replicate and to show how meta analysis can help us out.
+
+Next, we will look at more complex scenarios than the one from the simulation.
+
+And finally, I will give an overview of questions that are often studied in met analysis and of the steps that are typically involved.
+
+First, the problem of failures to replicate.
+
+Suppose there is an association between gender and the scores on the mathematics exam in the sense that female students perform better than male students.
+
+Suppose that both uh for female and male students the scores follow a normal distribution with a common standard deviation but that female students perform on average half a point better than male students.
+
+A measure that we can use to express a size of the association between gender and met is the difference between the means which here is 050.
+
+A drawback of this measure, however, is that its size depends on the way the variable is measured.
+
+Suppose that the exam is not measured.
+
+It's not an exam with scores on a scale from 0 to 10, but rather with scores on a scale from 0 to 100.
+
+Then maybe on average, female students will perform 85 and male students 80.
+
+Therefore, the difference would be five points instead of half a point.
+
+In other words, talking about the difference between the means to express a size of the association only makes sense if you know on what scale the variable is measured.
+
+To solve that problem, very often a standardized mean difference is calculated.
+
+The difference between the means is standardized by dividing this difference by the standard deviation.
+
+In this example, the standardized mean difference is a difference of 050 divided by the standard deviation of 1.5.
+
+Therefore, the standardized mean difference is equal to 0.33.
+
+This measure was already introduced in 1969 by con.
+
+Note that we are talking here about the population of female and me and male students.
+
+That's also why I use Greek symbols to refer to the means and to the standard deviation and why I use the Greek symbol delta to refer to the standardized mean difference.
+
+Now suppose that in a study samples are drawn from these populations based on the scores you observe in these samples.
+
+You can also calculate a standardized mean difference.
+
+More specifically, you can calculate a difference in sample means and standardize this difference by dividing it by a kind of pulled or averaged standard deviation which I will explain later in this course.
+
+We will call the statistic calculated based on the sample data an observed standardized mean difference or an observed effect size.
+
+And this observed standardized mean difference can be used to estimate the population standardized mean difference also called the true standardized mean difference.
+
+In other words, G is used as an estimate of delta.
+
+Note that thanks to the standardizing it becomes possible to say something about whether a specific value can be considered as high or small because this does not depend on the scale anymore.
+
+Cohen gave us guidelines for interpreting standardized mean differences in the behavioral sciences by calculating standardized mean differences for a large number of studies and looking at the interpretation the authors of these studies gave to the effects they found based on the guidelines of con a standardized mean difference of 0.20 20 is considered a small effect.
+
+A standardized mean difference of 050 a moderate effect and 0.80 is considered a large effect.
+
+Now back to the example we have seen that in the that the population standardized mean difference is 0.33.
+
+Of course in reality we often do not know the population means and standard deviation.
+
+What we have instead in a typical study is a sample of scores from both populations.
+
+Still, we can use these two samples to say something about the standardized mean difference from the population.
+
+I simulated this process by asking the computer to give me a sample of 20 scores from a normal distribution with mean 8 and standard deviation 1.5 and to give me also a random sample of 20 scores from the female population with a normal distribution with mean 8.5 and standard deviation 1.5.
+
+Here you see the results for the fe for the male students.
+
+The average score is somewhat higher than the population mean.
+
+We obtained the sample mean of 8.10 whereas the population mean was equal to 8.
+
+That on average the scores were a little bit higher than the mean of the population is due to coincidence.
+
+In a sample of 20 scores for female students, I obtained an average score of 9.34.
+
+This is much higher than the mean of the female population 8.5.
+
+In the two samples, the standard deviations were exactly equal to each other 1.55.
+
+It is again due to coincidence that these standard deviations were slightly larger than the population standard deviation of 1.5 and that they are exactly the same in both samples.
+
+Now suppose that the values I have drawn were the values observed in a real study.
+
+In that case probably the researchers would perform a t test to test whether on average there is a difference between male and female students.
+
+Based on the simulated data we get a relatively small p value a p value of 0.015.
+
+If we would use a significance level of 5% then we would reject the null hypothesis.
+
+The null hypothesis saying that the two population means are equal.
+
+In other words, we would conclude that there is a difference between male and female students in the sense that female students perform better than male students.
+
+In this example, this is indeed the correct conclusion.
+
+Female students indeed perform better than male students.
+
+I also calculated the observed standardized mean difference.
+
+This gives a value of 0.80.
+
+In other words, if these were the data of a real study, in this study, the standardized mean difference of the population would have been overestimated.
+
+In reality, the population standardized mean difference is equal to 0.33.
+
+Whereas based on our sample data, our estimate is 0.80.
+
+In some if these were the data of real study, we would overestimate the difference between male and female students, but we would come to the correct conclusion that female students perform better than male students.
+
+I've done this simulation a second time.
+
+In a new sample of 20 male students, the mean is 7.60, 60 which is somewhat too smaller than population mean of eight.
+
+The sample mean for the female students now is 7.59 which is much too small and it is even slightly smaller than the sample mean for the male students.
+
+Now the two standard deviations are different and are slightly smaller than the population standard deviation.
+
+You can see that the two sample means are very similar.
+
+Using a t test to test the difference between the population means therefore results in a large p value.
+
+The p value is equal to 98.
+
+Based on these data, the conclusion would be that there is no difference between male and female students, which is an incorrect conclusion.
+
+If we then estimate the size of the effect, we get a standardized mean difference very close to zero because the two sample means are very close to each other.
+
+You can also see that the standardized mean difference now is negative because now our sample of female students perform on average slightly worse than our sample of male students.
+
+In some if this were the data of real study, the conclusion of the researchers would be wrong.
+
+They would conclude that there is no difference between male and female students.
+
+Moreover, the estimate of the standardized mean difference would be completely wrong. our estimate is almost equal to zero and even slightly negative whereas in reality there is a positive effect in the sense that female students perform better.
+
+I've done this simulation another eight times.
+
+Therefore in total I simulated 10 data sets.
+
+Now look at the p values.
+
+You can see that very often the p value is not very small.
+
+Often the p value is larger than 0.05. of five.
+
+This means that often the null hypothesis that there is no difference between male and female students.
+
+So the null hypothesis that there is no association between gender and mathematics is not rejected.
+
+Therefore often an incorrect conclusion is drawn.
+
+Only in two out of the 10 times the correct conclusion was drawn that female students perform better than male students.
+
+Now look at the standardized mean differences.
+
+Remember that in reality the population standardized mean difference is equal to 0.33.
+
+But now we see that our estimates sometimes sometimes are much larger like in the first simulated data set.
+
+But sometimes our estimates are much smaller like in the second simulated data set.
+
+Sometimes the standardized mean difference is negative.
+
+Sometimes it's positive.
+
+In general, you can see that these observed standardized mean differences are varying around the population standardized mean difference.
+
+And indeed, it can be shown mathematically that the observed standardized mean difference is normally distributed around the population standardized mean difference.
+
+In other words, if you would draw a very large or an infinite number of samples and each time calculate the observed standardized mean difference, at the end you would observe a normal distribution of values around the true population effect size.
+
+This distribution is called the sampling distribution of the standardized mean difference.
+
+It can also be shown that the variance of this sampling distribution called the sampling variance is more or less equal to four divided by the total size of the study.
+
+Remember that in our example we simulated samples of size 20.
+
+Therefore in total the study sample size was equal to 40.
+
+Therefore the sampling variance of G is equal to 4 / 40.
+
+This is equal to 0.10. 10.
+
+If we know that G follows a normal distribution with mean delta and a variance that we can calculate, we can use this to construct confidence intervals.
+
+For instance, to calculate a 95% confidence interval, we can subtract and add 1.96* the square root of 0.10 to G.
+
+We can now say with 95 com 95% confidence that the population effect size studied in this study is situated within this interval.
+
+I have constructed confidence intervals for each of the 10 observed effect sizes from the 10 simulated data sets.
+
+Remember that population effect size was equal to 0.33.
+
+You can see in this plot that sometimes the simulated effect size was somewhat too high and sometimes it was somewhat too low.
+
+But the observed effect sizes clearly vary around the population effect size of 0.33.
+
+Only in the fourth simulated data set, the observed effect size was very close to the population effect size.
+
+Further note that zero is included in almost all of these confidence intervals for eight out of the 10 simulated data sets.
+
+Zero is included in the confidence interval, which means that the null hypothesis that the population effect size is equal to zero is not rejected.
+
+Only in two data sets in the first and in the sixth data set zero is not included in the confidence interval.
+
+Only in these two cases the significance test reveals that the population effect sizes are different from zero.
+
+But as you can see exactly in these two studies the size of the effects is highly overestimated.
+
+Now suppose that these 10 simulated data sets came from 10 real studies.
+
+You can see the issue of failures to replicate.
+
+By coincidence, studies can come to very different estimates and even different conclusions.
+
+So what can we conclude about the population effect size?
+
+Well, we have seen that the observed effect sizes vary around the population effect size.
+
+So sometimes of observed effect sizes will be too large, sometimes they will be too small.
+
+Therefore, if you want to say something about the population effect size, we can calculate an average of all these observed effect sizes to get a more precise estimate of the population effect size.
+
+In other words, we sum all the effect sizes and divide this sum by the number of studies, which in metanalytic literature is very often referred to with a symbol K.
+
+We can now use this mean as an estimate of the population effect size.
+
+In our example, the mean effect size is equal to 0.25, which is not too far from the real um value of 0.33.
+
+If you would have the data from 10 other studies, probably we would get a different mean effect size.
+
+Again, it can be shown that the mean effect size fluctuates around the population effect size.
+
+So sometimes our mean will be smaller, sometimes it will be larger than the population effect size.
+
+This sampling distribution is again a normal distribution around the population effect size.
+
+But importantly, the sampling variance now is k times smaller.
+
+The sampling variance now is not sigma squared anymore, but it's sigma squar divided by k.
+
+In our example, we had 10 effect sizes.
+
+And for each of the effect sizes, the sampling variance was equal to 0.10.
+
+The sampling variance of the mean effect size now is not 0.10 anymore.
+
+It's 0.010.
+
+In some if we use a mean effect size rather than an individual effect size, our estimate becomes more precise.
+
+In other words, the estimate is more likely to be close to the population value.
+
+I calculated confidence interval for the mean of the 10 simulated effect sizes given in red in the graph.
+
+You can observe several things.
+
+First, you can see that the individual observed effect sizes vary a lot around the population effect size, but the mean is relatively close to the population effect size.
+
+A second observation is that the confidence interval now is smaller than for the individual studies.
+
+For the individual studies, we had large confidence intervals which also had resulted in the fact that only in two out of the 10 studies we simulated a zero was not included in the confidence interval.
+
+Therefore, only in two out of the 10 studies, the conclusion was correct.
+
+More specifically, that female students perform better than male students.
+
+This illustrates that in the individual studies, the statistical power is relatively small.
+
+But if you combine the results of several studies, you can see that the confidence interval becomes much smaller and now zero is not included in the confidence interval anymore.
+
+So based on the combination of the data from the 10 data sets, we conclude that there is a difference between male and female students.
+
+So that female students perform better than male students.
+
+Based on the combination of the data, we draw the correct conclusion. there is an association between gender and met.
+
+This illustrates that the statistical power or the probability that we will reject a null hypothesis increases by combining the data of several studies.
+
+To summarize, observed effect sizes in individual studies may vary a lot, whereas the combined effect size is often close to the population effect size. we are indeed averaging out the noise.
+
+Negative and positive deviations are canceled out.
+
+A second observation is that for the individual studies, confidence intervals were relatively uh large.
+
+Whereas for our combined confidence interval, the confidence interval was relatively small, illustrating that the accuracy or the precision is higher. we can better estimate what the population effect size is.
+
+Third, zero was often included in the confidence intervals for the individual studies.
+
+Whereas, if we combine the results, zero was not included in the confidence interval, illustrating that by combining the results of several studies, we can increase the statistical power.
+
+If you want to try out out this simulation yourself, you can make use of the Excel file simulation MA which you can find on to.
+
+This file contains several sheets.
+
+The first sheet called raw data includes a data of 10 studies.
+
+Data that are randomly drawn from normal distributions.
+
+For each study, random samples of 20 scores are drawn from two normal distributions.
+
+If you click on the function key F9, all these values are replaced by new randomly drawn values from these normal distributions.
+
+The second sheet called study one, you can see the means, standard deviations, sample sizes, the observed standardized mean difference, the t and the p value for the first study.
+
+The values are calculated based on the data from the first study from the previous sheet.
+
+Again, if you click on F9, new random data will be sampled and these values will change.
+
+In the third sheet called K studies, you get an overview of all the means, standard deviations, sample sizes, standardized mean differences, TMP values for all 10 studies.
+
+And in the final sheet called meta analysis, you can see the calculation of the mean effect size.
+
+You can also see a plot with a confidence interval for the individual studies as well as for the mean effect size.
+
+I suggest you to click a few times on F9.
+
+Each time data for a new data for a new set of 10 studies will be simulated and all means, standard deviations and so on will be adapted.
+
+In that way you will see that the observed effect sizes will indeed vary a lot around the population effect size.
+
+But we'll also see that the mean of the observed effect sizes will in general be very close to the population effect size which illustrates the increase of precision.
+
+You can also see that very often zero um will be included in the conference interval if we look at the individual studies, but it will often be not included in the conference interval when we look at the combined results which illustrates that combining effect sizes increases the statistical power.
+
+In fact, what we have done here is a meta analysis.
+
+Jean Glass introduced this term meta analysis to refer to the analysis of analysis or the analysis of the results of multiple studies.
+
+But of course in reality meta analysis often are much more complex.
+
+A first complexity is that very often studies have samples of different sizes.
+
+We have seen that the sampling distribution of G is a normal distribution with a mean of delta with a sampling variance more or less equal to four divided by the size of the study.
+
+This means that if you take small samples for instance samples of size 20 observed effect sizes fluctuate a lot and can deviate a lot from the population effect size.
+
+But if instead we would take large samples, the sampling distribution would become much smaller.
+
+If for instance we have two groups of size 100, the sampling variance becomes becomes 4 divided by 200.
+
+This means that our sampling distribution is much smaller.
+
+In other words, that the observed effect sizes are in general closer to the population effect size.
+
+Now suppose that you have access to several observed effect sizes, some from small studies and some from large studies.
+
+You know that all these effect sizes tell us something about the population effect size.
+
+But as you can see on this slide, effect sizes from large studies probably are close to the population effect size.
+
+Whereas for small studies, observed effect sizes can be far away from the population effect size.
+
+Therefore, if you want to estimate the population effect size, we are going to look especially at the larger studies.
+
+Therefore, instead of calculating an ordinary average, it is better to calculate a weighted average of the observed effect sizes.
+
+As weights, we can use the size of the study or even better we can use the precision which is equal to one over the sampling variance.
+
+If we have an observed effect size from a large study, the sampling variance of this effect size will be small.
+
+Therefore, the precision of the effect size will be high and a large weight will be given to that study.
+
+Note that if all studies would be of the same size, the precision would be the same for all these studies and the weighted average of the observed effect sizes would be exactly the same as the ordinary average effect size.
+
+A second complication is the following.
+
+In our simulation, we assumed that population effect sizes were exactly the same in all 10 studies.
+
+Delta 1 is equal to delta 2 is equal to delta 3 and so on.
+
+Of course, even if the population effect size is the same for all studies, there can be differences between observed effect sizes because in each study only a sample of scores is taken.
+
+In other words, observed effect sizes can vary due to sampling variation and the amount of sampling variation depends on the size of the study.
+
+Yet, it's also possible that the assumption that the population effect size is the same for all studies is not true.
+
+If a similar research question has been studied multiple times, this is typically not done in exactly the same way.
+
+There can be a lot of differences between studies.
+
+For instance, it's possible that the kind of participants is not the same in all studies.
+
+Maybe in some studies children are studied whereas in other studies adults are studied.
+
+It's also possible that the context of the study is not exactly the same in all studies.
+
+Also the outcome variables or the way in which they are measured can vary across studies.
+
+Also the kind of and dose of treatment can differ between studies.
+
+Another study characteristic that can vary between studies is a study design.
+
+Maybe some studies may use an experimental designs whereas other studies may use a correlational design.
+
+In some there can be a lot of differences between studies.
+
+And importantly, these differences can make it unlikely that the population effect size that is studied is exactly the same in all studies.
+
+So maybe there are also differences between the population effect sizes.
+
+In this scenario, there are two sources of variation.
+
+We have variation between the population effect sizes from studies.
+
+So, variation between the deltas in metanalytic literature.
+
+This variation in population effect sizes is often called the true variation or the systematic variation.
+
+On top of that, we still have the sampling variation.
+
+For instance, in study five, you can see that population effect size delta 5 is relatively small.
+
+Yet, the observed effect size can be different.
+
+It can by coincidence be even smaller than the population effect size or it can be larger than the population effect size from that study.
+
+Finally, we will look at the questions and steps that can be distinguished in a typical meta analysis.
+
+In a meta analysis, we typically try to answer multiple questions.
+
+First question is, is there on average an effect?
+
+Secondly, if overall there is an effect, how large is this effect?
+
+So we want to test whether there is an effect and we want to estimate the size of the effect.
+
+Another question that is very often answered in a meta analysis is can we consider population effect sizes to be the same in all studies.
+
+If not, we talk about heterogeneity.
+
+We do not only want to test whether there is heterogeneity, we also want to estimate the size of heterogeneity.
+
+Next, if there is heterogeneity, a challenge is to try to explain this between study varants.
+
+In what kind of studies is the effect larger than in what other kind of studies?
+
+Another question that is sometimes but not often answered in a meta analysis is what is the effect in specific individual studies?
+
+Based on the results of a meta analysis, we can indeed make improved estimates of the effect sizes for specific studies.
+
+The coming sessions, we will look at how we can answer these different questions.
+
+In a typical meta analysis, multiple steps are taken.
+
+The first step is a formulation of research question.
+
+Afterwards, a search is done for studies.
+
+Often there will be a lot of hits, a lot of potentially relevant studies, but these may not all be relevant for our research interest or research question.
+
+In the third step, therefore, we will select the relevant studies.
+
+After selecting the relevant studies, we will extract the data that we need for doing our meta analysis.
+
+Next, we convert the data to a common effect size measure.
+
+In a statistical analysis, we combine and compare these effect sizes.
+
+We also typically look for moderator variables.
+
+These are study characteristics that are related to the size of the effect and therefore explain the heterogenity.
+
+Finally, we report the results and draw conclusions.
+
+These steps define the structure of this course.

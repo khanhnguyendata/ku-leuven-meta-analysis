@@ -1,0 +1,147 @@
+In this video, we will look at the reporting and discussion of the results.
+
+First, it is important that you describe the process of your review or meta analysis because this will make your study replicable and helps the reader understand and contextualize your findings.
+
+For instance, a good practice is to describe this process of searching and selecting studies.
+
+To that end, a flowchart can be helpful to describe how many studies you initially found and then explain how you ended up with a smaller set of studies. you see a more elaborated flowchart based on the Prisma format that you can download via the link given in red.
+
+Note that in this meta analysis, more than 18,000 sources were initially identified.
+
+But after screening the titles and abstracts, the large majority of sources was excluded.
+
+After reading the full text of the remaining sources, only 67 studies were considered eligible.
+
+In the flowchart, the reasons for excluding studies are also listed together with a number of studies excluded for each of these reasons.
+
+Also, other aspects of the metal analytic process should be described such as how effect sizes were calculated.
+
+What software was used to do the analysis, what decisions were made and why, what problems were encountered and so on.
+
+Also explore and describe the data by means of tables and graphs before doing the actual statistical analysis.
+
+It's a good idea to make a table with the most important features of the studies that were found.
+
+In this way, the reader gets a good idea of what kind of research was done and also what kind of research has not yet been done.
+
+It's also an efficient way to give a lot of information on each of the individual studies.
+
+Such a table can be quite long.
+
+So sometimes it's not included in the paper itself but added in an appendix or in online supplemental material.
+
+Forest plot gives a nice overview of the effects that were observed.
+
+In this plot for instance, one can immediately see that the majority of studies found a positive effect and about half of them a significant positive effect.
+
+A similar plot is a caterpillar plot.
+
+In contrast to the forest plot, observed effect sizes are now ordered from small to large, resulting in the shape of a caterpill.
+
+Based on the plot in this example, you can immediately see that a large majority of studies found a positive effect size, but that only a minority of studies found a significant effect.
+
+It's also good to describe the proportion of positive and negative effects as well as a proportion of positive and negative significant effects.
+
+After describing the data clearly report on the results of the meta analysis again a forest plot can be helpful.
+
+A forest plot does not only give the individual observed effect sizes but also gives the mean effect size with a corresponding confidence interval which you can see here at the bottom of the plot.
+
+Here are an example of how you can report results of a moderator analysis for categorical uh moderators.
+
+For the moderator level of processing, for example, there are two categories of effect sizes, local and global.
+
+For each category, the number of observed effect sizes is reported as well as the mean effect size and the results of the t testing that this mean effect size is zero.
+
+In addition, the results of an F test is reported.
+
+Testing the moderating effect.
+
+This is this is whether the expected effect size is different for the different categories to communicate on the findings of categorical moderator analysis.
+
+You can also use sorted caterpillar plot with it with for the different categories the observed effect sizes as well as the estimated mean effect which is given in the shaded areas.
+
+In this example, it shows that the majority of effect sizes fall in the first category and that for this category the mean effect is largest. or numerical or continuous moderator variables, regression plot can be helpful.
+
+Here the size of the dots refers to the weight that is given to the observed effect sizes.
+
+In other words, refers to the precision of the effect sizes. course, you should also help the reader in interpreting the results.
+
+In this regard, I want to make an important remark regarding the external validity.
+
+The golden standard in empirical research is to draw a random sample of participants from a population of participants so that we can more easily generalize the findings to that population.
+
+In a meta analysis, we also typically consider the observed studies as a random sample or population of studies that are done or could have been done.
+
+But in fact, we did not draw a random sample.
+
+We collected the results from studies that we found.
+
+We have seen that publication bias can be an issue.
+
+The studies that you find may be a systematic selection of the studies that were done.
+
+But even if you could find all the studies that were done, the studies that are done are probably also a systematic selection of studies that could have been done.
+
+For instance, if you search for studies, it's not unlikely that onethird or even half of the studies are from the United States and another large part from Europe.
+
+Often there is a smaller part of studies coming from Asia and very little very few studies from South America and especially Africa.
+
+Therefore, it's hard to generalize the findings to the whole world.
+
+In addition, it's possible that interventions were studied not only in contexts in which it is expected that these interventions may work which also can give a biased idea of the overall effect of the interventions.
+
+In some take care with interpretation of your results.
+
+Always wonder to what extent your results can be generalized and how the population of studies to which you would generalize your findings looks like.
+
+Another golden rule is that in order to draw causal conclusions, it's best to assign participants randomly to different conditions while keeping all other variables under control.
+
+If you then find the difference between conditions in the outcome variable, it's likely that this difference is caused by the condition.
+
+But in a meta analysis, you cannot randomly assign studies to conditions and keep other characteristics under control.
+
+You simply can observe the characteristics of studies and the effects that these studies found.
+
+Therefore, if you observe, for instance that studies with female researchers found higher effects than studies with male researchers, you cannot say that the intervention effect is affected by the gender of the researcher.
+
+Other study characteristics may be related to the gender of the researcher and these other characteristics could be the real reason why the effect is different.
+
+For instance, female researchers may be more common in some countries or they may be more common for some participant age groups or for some kinds of interventions.
+
+It is of course also important to check the assumptions that that you made in the analysis and to report on these checks.
+
+Like we discussed earlier, it's a good idea to check for evidence for publication bias and possibly correct for publication bias.
+
+Also look for possible outlying effect sizes and their impact on the results and check other assumption as well like for instance the assumption that effect sizes or at least residuals are normally distributed.
+
+Finally I highly recommend doing several sensitivity analysis.
+
+In a math analysis, we indeed have to make a lot of decisions and often it's not clear what decision is the best decision.
+
+Therefore, it's a good idea to assess what the effect is of your decisions by looking at whether and how your conclusions would change if you had taken another decision.
+
+If the conclusion remains unaltered, then this confirms that your conclusion can be trusted.
+
+Yet if the conclusion changes when another decision is taken, this reduces your confidence in your conclusion.
+
+It is important to be transparent about this in your report and so to to share to share your uncertainty about the conclusion.
+
+For instance, you can look at how sensitive the conclusions are for the inclusion or exclusion of outliers.
+
+Also, when calculating effect sizes, we may have to make decisions.
+
+For instance, sometimes no information is given on the correlation between pre-est and post- test scores.
+
+Whereas this is needed to calculate the precision of a standardized mean difference in such a design.
+
+Therefore, you can impute a value, but it is good to assess how sensitive the conclusions of your meta analysis are for the value that was imputed.
+
+Similarly, one could choose to include all studies in the met analysis or only um include studies with a strong design or a high quality.
+
+You can assess the impact of this choice on the conclusions by comparing the results of both choices.
+
+Further, you can assess the robustness of the conclusions for the researcher who did the research uh the effect size calculation, the analysis and so on by letting another researcher redo these steps and then compare the results.
+
+Also redoing the analysis with other model choices can help to assess the confidence one can have in the conclusions.
+
+I want to conclude by saying that good reporting is an essential component of good research.

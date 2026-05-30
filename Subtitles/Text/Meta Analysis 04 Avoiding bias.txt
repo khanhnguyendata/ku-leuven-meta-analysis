@@ -1,0 +1,229 @@
+In the search studies, in the selection of the studies and in the interpretation of the meta analytic results, you have to be aware of the risk of bias.
+
+This is what this screencast is about.
+
+The problem is if you include only papers that are published then the results may be biased.
+
+There can be different kinds of bias. outcome reporting bias which refers to the the idea that maybe researchers will report the results only if the results are going in a specific direction.
+
+So if you include in your meta analysis only studies that you found in the literature so that um results that were reported by the researchers you can get a biased view.
+
+Another issue is publication bias which refers to the problem that what is published may also yeah give a biased view of um the results maybe effects that are positive and that are large are more likely to be p to be published than uh smaller effects or negative effects.
+
+So if you look only at public published effects then maybe you will overestimate the size of the effect.
+
+Another problem is citation bias.
+
+So spectacular effects very large effects are much likely much more likely to be cited frequently.
+
+And so if effects are cited frequently, if studies are cited frequently, then it is much more likely that you will find that study and that you will include it in your meta analysis.
+
+If one study has not been cited yet or has been cited only once for instance, then the probability that you will find that study will be smaller and maybe you will miss that study in your math analysis.
+
+So this will also uh possibly um induce bias.
+
+Another kind of bias is multiple publication bias.
+
+You know that for researchers it's important to publish as much as possible and some researchers when they do when they did a study they try to make multiple publications out of that study.
+
+And so as a metalist you have to be very careful especially if you see that um the same author or the same authors published multiple papers then you have to make clear you have to make sure that these multiple papers are publishing on different data sets otherwise you can include in your meta analysis only one of these papers otherwise you will use the same data multiple times in your math analytic uh study, you will give a larger weight to that study that has been published multiple times.
+
+There can also be a bias in keywords.
+
+Um so it's possible that a specific word um a specific term is used more by specific researchers or in specific subdomains than in other domains.
+
+So if you do not try to use um other keywords um almost synonyms to search for literature, it's possible that you miss part of literature and that you miss systematic um that that your set of studies that you will find is not representative anymore for all studies that were done.
+
+It's also possible that there is bias in the sources that uh are used.
+
+So if you um if you use only uh journal articles then possibly so that are again published uh papers then again this can induce bias.
+
+So it's a good idea to use not only journal articles but maybe also look for books also look for technical reports and so on or conference proceedings and so on.
+
+Um also make sure that by defining the criteria that you use to decide on whether or not include uh individual studies that you make sure that by defining these criteria you do not induce uh bias.
+
+For instance, if you if one of your criteria is that you will include only experimental studies, then it's possible that specific studies or specific uh questions um will be or specific findings will be underrepresented in your meta analysis.
+
+There can also be geographical or language bias.
+
+For instance, if you um include only studies that were published in English, then maybe you will miss a lot of studies that were done, for instance, in China, which are often published in Chinese.
+
+Or you may miss a lot of uh studies that were done in France or in French-speaking countries because they also have their own journals in French language.
+
+And it is possible that for instance in China or in France or the French speakaking countries results are somewhat different than the results in the English-speaking countries or the countries in which a lot of studies were published in English.
+
+So there are several sources of bias.
+
+Let's look at the issue of publication or reporting bias.
+
+There are a there is a lot of evidence for this kind of bias.
+
+For instance, here Edgar and Schmidt did a met analysis on studies studying the um yeah monotherapy calculating agent versus a combination with chemotherapy to treat advanced ovarian cancer. and they did a meta analysis on published trials on published uh experimental studies and on average so they calculated the survival ratio for each study.
+
+So if the probability of surviving is equally high for both kinds of treatment then the survival ratio will be equal to one.
+
+Now they did a meta analysis and they based on the trials that were published and they found that on average the survival ratio is larger than one.
+
+It's about 1 15 and if you look at the confidence interval you can see that one is not included in the confidence interval.
+
+So this means that based on the published data, their conclusion is well the combination with chemotherapy is more effective.
+
+It's statistically more effective than the monotherapy calculating agent only.
+
+But they repeated this meta analysis including all studies that were included uh that were registered.
+
+Um so note that some organizations if they give fundings to do research they require that the results are sent regardless of what results are and these results will be included in register the research register.
+
+So you can consider this register or the published trials as a sub set of the registered trials.
+
+And if you look at all trials that were registered then you see that on average the survival ratio is only slightly slightly larger than one and now the confidence interval includes one.
+
+So based on all trials, so published and unpublished trials, the conclusion is no, we do not see really a difference between the monotherapy calculating agent versus combination with chemotherapy.
+
+Whereas if you look at the published trials, you can see that difference.
+
+So this could be an indication of publication bias in the sense that more spectacular results.
+
+Studies that found a large difference between the two are more likely to be published or researchers are more likely to report these results.
+
+So this can be an indication of reporting bias and publication wise.
+
+Another example, Krishnanovski Kanovska uh looked at the proportion of studies that were published after five years after a conference conferences of the Society of Clinical Oncology.
+
+And I found that for studies that found significant results, the probability that these results will be published after five years after the conference is 81%.
+
+Whereas for the non-significant results, only 68% of these studies were published after 5 years.
+
+So again, this is an indication of outcome uh reporting bias or publication bias.
+
+So it's possible that researchers did not send non-significant results to journals or if they sent it to journals maybe these results were not published because they were not significant. some other indications.
+
+Well, um if yeah, Finelli uh in 2012 looked at um a set of papers a large set of papers in psychology and psych psychiatry and they found that in 95% of the test null hypothesis um these null hypothesis were rejected.
+
+Whereas if you look at the size of uh the samples and if you look at what reasonable estimate of population effect size is then you see that the statistical power is only about uh 35%.
+
+So you would expect that um the probability of rejecting a null hypothesis is only about 35%.
+
+But still in most of the studies that are published the null hypothesis is rejected.
+
+Another example is uh in the reproducibility project they found that um that yeah in a lot of large studies um significant results were found but um it was very hard to replicate these uh significant results.
+
+So if other research groups were trying to do exactly the same study very often they did not find a significant result anymore.
+
+So it is possible that in reality there was no significant uh there is no effect but in a specific study a significant effect was found and this significant effect was uh uh was submitted to a journal and was published.
+
+Whereas in other studies maybe no effect was found but these results were not published or not sent to a journal.
+
+These results one explanation for these results is that uh researchers fabricated or falsified or modified the results in order to make sure that the results are statistically significant.
+
+A somewhat less pessimistic um explanation is that researchers um are using B hacking which means that well you know as a researcher you can you have a lot of freedom in how you analyze the data.
+
+You can include coariantss or not include coariantss.
+
+You can often do multiple tests.
+
+You can uh uh you can for instance use an analysis of variance, but you can also use uh regression analysis.
+
+And maybe the results or the conclusion will depend slightly on what type of analysis you did.
+
+And it is possible that some researchers or it is practice that some researchers are doing multiple analysis and only report the results of analysis that show significant results and fail to send or report uh the non-significant results to a journal.
+
+So this is what is called P hacking.
+
+So people are looking for significant results by doing a lot of analysis and only selecting significant results.
+
+So to illustrate that this problem of publication bias is a real problem and to illustrate where it could come from here.
+
+Um yeah part of a letter that we received from an editor of a chi scientific journal to which we submitted a paper reporting on a study we have done.
+
+So when we do a study and we write a paper, we send that paper to an editor of a journal.
+
+That editor often reads the paper and then decides um to send that paper out to several experts throughout the world uh to ask the opinion of these experts on whether this paper can be published or not.
+
+Very often experts will give comments, will give suggestions to improve the paper and then uh the authors revise the paper and submit it again after which maybe the paper will be accepted for publication.
+
+So, but here we sent our paper to a journal and the editor mailed back to us and he said, "Well, I have decided not to send out your manuscript for full review because the effects you were you found are very small in magnitude and so this could be interpreted as relatively trivial by readers.
+
+We replied to the editor that this is exactly the problem or this is exactly the process that may lead to publication buys.
+
+If only spectacular effects will be published and small effects are looked at or are considered as trivial and therefore not published.
+
+Then we get a biased view because as we have seen in our simulation study and in the other studies you can expect that if there is a population effect that sometimes your observed effect will be smaller sometimes it will be larger.
+
+So if we if we if we submit and if we publish only the largest effects then we we will get an overestimate of our population effect size when we calculate the mean effect that we find in the literature.
+
+But of course the editor did not reply anymore.
+
+Um fortunately we sent it to another journal and our paper was was published in the other journal. a very similar experience um which is much more recent um so again we submitted the paper to a journal and the editor said um yeah I'm not going to publish this paper there are some issues with that problem with that paper but if your findings had been particularly large or striking then having only measured engagement once a year might not have been a concern.
+
+So again based on the size of the effect the editor made a decision.
+
+So again this is disappointing.
+
+This is um the underlying process of publication bias.
+
+So to summarize, there is no reason why an effect size that is not statistically significant is less interesting as an effect that is not that is statistically significant.
+
+On the contrary, if in reality there is no effect, then I want to know that there is no effect.
+
+There is a problem that in the situation in the scenario where there is no effect but sometimes by coincidence a study finds a an effect and only these studies are published.
+
+In that way people will think that there is an effect.
+
+So it's equally important to publish non-significant effects.
+
+But of course if there is if you do not find a significant effect this can also be due to other reasons which may be good reasons for not publishing your results.
+
+For instance it's possible that uh you have a very very underpowered study.
+
+So you have a very small study and therefore um your results are very inaccurate.
+
+Your estimate is very inaccurate imprecise. uh the statistical power is very small and therefore the probability of finding a statistically significant effect is very small.
+
+It's also possible that you are looking at an hypothesis that simply does not make sense.
+
+For instance, if you would do a study studying whether drinking one glass of water water each morning after two years will lead to larger ears.
+
+Why would you expect such an uh such an association?
+
+If you do not have reasons to expect such an association, then it also does not make sense to study this association and it may not be worthwhile to publish these kinds of studies.
+
+Or it's possible that your treatment that you are study studying is not uh implemented in a good way and that this is the reason why you do not find an effect of this treatment.
+
+So there can be reasons why studies should not be published but there is a problem if a study of high quality is not published because the results are statistically not significant. to illustrate citation bias.
+
+Um well, we have done um a meta analysis uh yeah several years ago on the effects of early prevention programs for families with young children at risk for physical child abuse and neglect.
+
+As I look at the distribution of all the observed effect sizes so in bold we have our uh mean effect size with confidence interval.
+
+You can see that the mean effect size was around30 um which is considered a small effect or a moderate effect.
+
+But there was one study with an observed effect size that was very large about 1.2 and it was striking when we were looking at the literature that that one single study was cited a lot of times.
+
+So very often it was said that prevention programs um are effective and then this single study was cited.
+
+So because in this single study a large effect was found uh this study was uh cited much more.
+
+So again, readers of the literature can get a biased view because this is the study that receives a lot of attention and therefore people may think that the effect indeed is very large.
+
+But the reality it seems that the effect is much smaller than the effect found in that single study.
+
+And probably this it may be due to coincidence that in that study such a large effect was found.
+
+In coming videos we will see that there are some techniques that can be used to detect bias and to correct for bias.
+
+Unfortunately these techniques do not always work well.
+
+For instance the type one erate may not be under control and the power may be low.
+
+Therefore, it is better to avoid bias.
+
+To that end, you can try to find also unpublished literature, also called gray literature.
+
+For instance, by making use of databases that are exactly developed with that goal.
+
+You can also contact research groups that are active in the domain to ask whether they have done other studies that were not published and if so, if they're willing to share the results.
+
+And of course, it's important that you try to avoid bias in your own research.
+
+Therefore, report all findings regarding your research interest or questions regardless of their significance.

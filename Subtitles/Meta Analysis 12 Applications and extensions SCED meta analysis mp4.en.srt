@@ -1,0 +1,4455 @@
+1
+00:00:02,879 --> 00:00:06,630
+
+applications and extensions.
+
+2
+00:00:06,630 --> 00:00:06,640
+applications and extensions.
+ 
+
+3
+00:00:06,640 --> 00:00:08,629
+applications and extensions.
+A first application is discussed in
+
+4
+00:00:08,629 --> 00:00:08,639
+A first application is discussed in
+ 
+
+5
+00:00:08,639 --> 00:00:12,070
+A first application is discussed in
+another PowerPoint presentation. Here I
+
+6
+00:00:12,070 --> 00:00:12,080
+another PowerPoint presentation. Here I
+ 
+
+7
+00:00:12,080 --> 00:00:13,589
+another PowerPoint presentation. Here I
+would like to focus on a second
+
+8
+00:00:13,589 --> 00:00:13,599
+would like to focus on a second
+ 
+
+9
+00:00:13,599 --> 00:00:15,749
+would like to focus on a second
+application of meta analysis, the meta
+
+10
+00:00:15,749 --> 00:00:15,759
+application of meta analysis, the meta
+ 
+
+11
+00:00:15,759 --> 00:00:18,630
+application of meta analysis, the meta
+analysis of single case experimental
+
+12
+00:00:18,630 --> 00:00:18,640
+analysis of single case experimental
+ 
+
+13
+00:00:18,640 --> 00:00:22,150
+analysis of single case experimental
+studies.
+
+14
+00:00:22,150 --> 00:00:22,160
+
+ 
+
+15
+00:00:22,160 --> 00:00:25,109
+
+Marion and others investigated
+
+16
+00:00:25,109 --> 00:00:25,119
+Marion and others investigated
+ 
+
+17
+00:00:25,119 --> 00:00:26,790
+Marion and others investigated
+whether they could stimulate the
+
+18
+00:00:26,790 --> 00:00:26,800
+whether they could stimulate the
+ 
+
+19
+00:00:26,800 --> 00:00:29,189
+whether they could stimulate the
+response behavior of students by working
+
+20
+00:00:29,189 --> 00:00:29,199
+response behavior of students by working
+ 
+
+21
+00:00:29,199 --> 00:00:32,870
+response behavior of students by working
+with response cards. Current practice is
+
+22
+00:00:32,870 --> 00:00:32,880
+with response cards. Current practice is
+ 
+
+23
+00:00:32,880 --> 00:00:35,590
+with response cards. Current practice is
+that students raise their hand after the
+
+24
+00:00:35,590 --> 00:00:35,600
+that students raise their hand after the
+ 
+
+25
+00:00:35,600 --> 00:00:38,310
+that students raise their hand after the
+teacher asks a question and that only
+
+26
+00:00:38,310 --> 00:00:38,320
+teacher asks a question and that only
+ 
+
+27
+00:00:38,320 --> 00:00:40,869
+teacher asks a question and that only
+one or maximally two or three students
+
+28
+00:00:40,869 --> 00:00:40,879
+one or maximally two or three students
+ 
+
+29
+00:00:40,879 --> 00:00:43,910
+one or maximally two or three students
+get a chance to give an answer
+
+30
+00:00:43,910 --> 00:00:43,920
+get a chance to give an answer
+ 
+
+31
+00:00:43,920 --> 00:00:46,630
+get a chance to give an answer
+by working with response cards. So these
+
+32
+00:00:46,630 --> 00:00:46,640
+by working with response cards. So these
+ 
+
+33
+00:00:46,640 --> 00:00:49,270
+by working with response cards. So these
+are cards on which students
+
+34
+00:00:49,270 --> 00:00:49,280
+are cards on which students
+ 
+
+35
+00:00:49,280 --> 00:00:52,389
+are cards on which students
+can write their answer.
+
+36
+00:00:52,389 --> 00:00:52,399
+can write their answer.
+ 
+
+37
+00:00:52,399 --> 00:00:55,110
+can write their answer.
+In principle, all students can formulate
+
+38
+00:00:55,110 --> 00:00:55,120
+In principle, all students can formulate
+ 
+
+39
+00:00:55,120 --> 00:00:59,029
+In principle, all students can formulate
+an answer.
+
+40
+00:00:59,029 --> 00:00:59,039
+
+ 
+
+41
+00:00:59,039 --> 00:01:00,869
+
+Here you see the results for one
+
+42
+00:01:00,869 --> 00:01:00,879
+Here you see the results for one
+ 
+
+43
+00:01:00,879 --> 00:01:03,430
+Here you see the results for one
+student, a student from the fourth year
+
+44
+00:01:03,430 --> 00:01:03,440
+student, a student from the fourth year
+ 
+
+45
+00:01:03,440 --> 00:01:06,550
+student, a student from the fourth year
+of primary education as presented by the
+
+46
+00:01:06,550 --> 00:01:06,560
+of primary education as presented by the
+ 
+
+47
+00:01:06,560 --> 00:01:08,149
+of primary education as presented by the
+researchers.
+
+48
+00:01:08,149 --> 00:01:08,159
+researchers.
+ 
+
+49
+00:01:08,159 --> 00:01:10,870
+researchers.
+Let us look at the black dots. In
+
+50
+00:01:10,870 --> 00:01:10,880
+Let us look at the black dots. In
+ 
+
+51
+00:01:10,880 --> 00:01:13,429
+Let us look at the black dots. In
+several time intervals, it was counted
+
+52
+00:01:13,429 --> 00:01:13,439
+several time intervals, it was counted
+ 
+
+53
+00:01:13,439 --> 00:01:15,750
+several time intervals, it was counted
+how many times the student gave an
+
+54
+00:01:15,750 --> 00:01:15,760
+how many times the student gave an
+ 
+
+55
+00:01:15,760 --> 00:01:17,270
+how many times the student gave an
+answer.
+
+56
+00:01:17,270 --> 00:01:17,280
+answer.
+ 
+
+57
+00:01:17,280 --> 00:01:19,749
+answer.
+Observations were done during four
+
+58
+00:01:19,749 --> 00:01:19,759
+Observations were done during four
+ 
+
+59
+00:01:19,759 --> 00:01:22,710
+Observations were done during four
+phases. The first phase is a baseline
+
+60
+00:01:22,710 --> 00:01:22,720
+phases. The first phase is a baseline
+ 
+
+61
+00:01:22,720 --> 00:01:25,270
+phases. The first phase is a baseline
+phase in which the traditional approach
+
+62
+00:01:25,270 --> 00:01:25,280
+phase in which the traditional approach
+ 
+
+63
+00:01:25,280 --> 00:01:27,030
+phase in which the traditional approach
+was used.
+
+64
+00:01:27,030 --> 00:01:27,040
+was used.
+ 
+
+65
+00:01:27,040 --> 00:01:29,510
+was used.
+In the second phase, a treatment phase,
+
+66
+00:01:29,510 --> 00:01:29,520
+In the second phase, a treatment phase,
+ 
+
+67
+00:01:29,520 --> 00:01:32,230
+In the second phase, a treatment phase,
+response cards were used. The third
+
+68
+00:01:32,230 --> 00:01:32,240
+response cards were used. The third
+ 
+
+69
+00:01:32,240 --> 00:01:34,550
+response cards were used. The third
+phase is again a baseline phase, so
+
+70
+00:01:34,550 --> 00:01:34,560
+phase is again a baseline phase, so
+ 
+
+71
+00:01:34,560 --> 00:01:37,030
+phase is again a baseline phase, so
+without response cards. Whereas the
+
+72
+00:01:37,030 --> 00:01:37,040
+without response cards. Whereas the
+ 
+
+73
+00:01:37,040 --> 00:01:39,350
+without response cards. Whereas the
+fourth the final phase is again a
+
+74
+00:01:39,350 --> 00:01:39,360
+fourth the final phase is again a
+ 
+
+75
+00:01:39,360 --> 00:01:43,590
+fourth the final phase is again a
+response card phase. So on the xaxis you
+
+76
+00:01:43,590 --> 00:01:43,600
+response card phase. So on the xaxis you
+ 
+
+77
+00:01:43,600 --> 00:01:46,630
+response card phase. So on the xaxis you
+see the sessions the time intervals on
+
+78
+00:01:46,630 --> 00:01:46,640
+see the sessions the time intervals on
+ 
+
+79
+00:01:46,640 --> 00:01:49,830
+see the sessions the time intervals on
+the yaxis you see the number of academic
+
+80
+00:01:49,830 --> 00:01:49,840
+the yaxis you see the number of academic
+ 
+
+81
+00:01:49,840 --> 00:01:55,030
+the yaxis you see the number of academic
+responses.
+
+82
+00:01:55,030 --> 00:01:55,040
+
+ 
+
+83
+00:01:55,040 --> 00:01:58,870
+
+This design is called an abab design.
+
+84
+00:01:58,870 --> 00:01:58,880
+This design is called an abab design.
+ 
+
+85
+00:01:58,880 --> 00:02:01,590
+This design is called an abab design.
+You can see that in the A phases, so the
+
+86
+00:02:01,590 --> 00:02:01,600
+You can see that in the A phases, so the
+ 
+
+87
+00:02:01,600 --> 00:02:03,590
+You can see that in the A phases, so the
+baseline phases with a traditional
+
+88
+00:02:03,590 --> 00:02:03,600
+baseline phases with a traditional
+ 
+
+89
+00:02:03,600 --> 00:02:06,149
+baseline phases with a traditional
+approach, the student regularly raised
+
+90
+00:02:06,149 --> 00:02:06,159
+approach, the student regularly raised
+ 
+
+91
+00:02:06,159 --> 00:02:09,109
+approach, the student regularly raised
+his hand but could not often give an
+
+92
+00:02:09,109 --> 00:02:09,119
+his hand but could not often give an
+ 
+
+93
+00:02:09,119 --> 00:02:12,309
+his hand but could not often give an
+answer. Whereas in the B phases, the
+
+94
+00:02:12,309 --> 00:02:12,319
+answer. Whereas in the B phases, the
+ 
+
+95
+00:02:12,319 --> 00:02:14,710
+answer. Whereas in the B phases, the
+student more frequently formulated an
+
+96
+00:02:14,710 --> 00:02:14,720
+student more frequently formulated an
+ 
+
+97
+00:02:14,720 --> 00:02:18,070
+student more frequently formulated an
+answer.
+
+98
+00:02:18,070 --> 00:02:18,080
+
+ 
+
+99
+00:02:18,080 --> 00:02:20,470
+
+The graph suggests that there is indeed
+
+100
+00:02:20,470 --> 00:02:20,480
+The graph suggests that there is indeed
+ 
+
+101
+00:02:20,480 --> 00:02:22,869
+The graph suggests that there is indeed
+an effect of using response cards on the
+
+102
+00:02:22,869 --> 00:02:22,879
+an effect of using response cards on the
+ 
+
+103
+00:02:22,879 --> 00:02:25,750
+an effect of using response cards on the
+number of responses given. But you may
+
+104
+00:02:25,750 --> 00:02:25,760
+number of responses given. But you may
+ 
+
+105
+00:02:25,760 --> 00:02:28,630
+number of responses given. But you may
+wonder whether the effect we observed is
+
+106
+00:02:28,630 --> 00:02:28,640
+wonder whether the effect we observed is
+ 
+
+107
+00:02:28,640 --> 00:02:31,589
+wonder whether the effect we observed is
+statistically significant. Moreover, we
+
+108
+00:02:31,589 --> 00:02:31,599
+statistically significant. Moreover, we
+ 
+
+109
+00:02:31,599 --> 00:02:34,150
+statistically significant. Moreover, we
+could be interested in an estimate of
+
+110
+00:02:34,150 --> 00:02:34,160
+could be interested in an estimate of
+ 
+
+111
+00:02:34,160 --> 00:02:39,589
+could be interested in an estimate of
+the size of the effect.
+
+112
+00:02:39,589 --> 00:02:39,599
+
+ 
+
+113
+00:02:39,599 --> 00:02:42,150
+
+In single case studies, not often effect
+
+114
+00:02:42,150 --> 00:02:42,160
+In single case studies, not often effect
+ 
+
+115
+00:02:42,160 --> 00:02:44,390
+In single case studies, not often effect
+sizes are calculated.
+
+116
+00:02:44,390 --> 00:02:44,400
+sizes are calculated.
+ 
+
+117
+00:02:44,400 --> 00:02:46,150
+sizes are calculated.
+It is even not common practice to
+
+118
+00:02:46,150 --> 00:02:46,160
+It is even not common practice to
+ 
+
+119
+00:02:46,160 --> 00:02:48,630
+It is even not common practice to
+perform statistical significance tests.
+
+120
+00:02:48,630 --> 00:02:48,640
+perform statistical significance tests.
+ 
+
+121
+00:02:48,640 --> 00:02:50,710
+perform statistical significance tests.
+So that typically no test statistics are
+
+122
+00:02:50,710 --> 00:02:50,720
+So that typically no test statistics are
+ 
+
+123
+00:02:50,720 --> 00:02:52,470
+So that typically no test statistics are
+available that could be used to
+
+124
+00:02:52,470 --> 00:02:52,480
+available that could be used to
+ 
+
+125
+00:02:52,480 --> 00:02:55,030
+available that could be used to
+calculate effect sizes.
+
+126
+00:02:55,030 --> 00:02:55,040
+calculate effect sizes.
+ 
+
+127
+00:02:55,040 --> 00:02:57,589
+calculate effect sizes.
+Instead, results are often presented in
+
+128
+00:02:57,589 --> 00:02:57,599
+Instead, results are often presented in
+ 
+
+129
+00:02:57,599 --> 00:03:01,430
+Instead, results are often presented in
+a graph like the one I showed earlier.
+
+130
+00:03:01,430 --> 00:03:01,440
+a graph like the one I showed earlier.
+ 
+
+131
+00:03:01,440 --> 00:03:03,750
+a graph like the one I showed earlier.
+Yet, this tradition means an advantage
+
+132
+00:03:03,750 --> 00:03:03,760
+Yet, this tradition means an advantage
+ 
+
+133
+00:03:03,760 --> 00:03:06,070
+Yet, this tradition means an advantage
+for the meta analyst since it becomes
+
+134
+00:03:06,070 --> 00:03:06,080
+for the meta analyst since it becomes
+ 
+
+135
+00:03:06,080 --> 00:03:08,309
+for the meta analyst since it becomes
+possible to retrieve the raw data, which
+
+136
+00:03:08,309 --> 00:03:08,319
+possible to retrieve the raw data, which
+ 
+
+137
+00:03:08,319 --> 00:03:10,550
+possible to retrieve the raw data, which
+is usually not the case for group
+
+138
+00:03:10,550 --> 00:03:10,560
+is usually not the case for group
+ 
+
+139
+00:03:10,560 --> 00:03:13,589
+is usually not the case for group
+comparison studies.
+
+140
+00:03:13,589 --> 00:03:13,599
+comparison studies.
+ 
+
+141
+00:03:13,599 --> 00:03:15,750
+comparison studies.
+One way to get insight in the size and
+
+142
+00:03:15,750 --> 00:03:15,760
+One way to get insight in the size and
+ 
+
+143
+00:03:15,760 --> 00:03:18,550
+One way to get insight in the size and
+significance of the effect is to use a
+
+144
+00:03:18,550 --> 00:03:18,560
+significance of the effect is to use a
+ 
+
+145
+00:03:18,560 --> 00:03:21,589
+significance of the effect is to use a
+regression analysis. Response variable
+
+146
+00:03:21,589 --> 00:03:21,599
+regression analysis. Response variable
+ 
+
+147
+00:03:21,599 --> 00:03:24,949
+regression analysis. Response variable
+for the student is described
+
+148
+00:03:24,949 --> 00:03:24,959
+for the student is described
+ 
+
+149
+00:03:24,959 --> 00:03:27,030
+for the student is described
+using a regression equation with one
+
+150
+00:03:27,030 --> 00:03:27,040
+using a regression equation with one
+ 
+
+151
+00:03:27,040 --> 00:03:29,910
+using a regression equation with one
+predictor, more specifically a treatment
+
+152
+00:03:29,910 --> 00:03:29,920
+predictor, more specifically a treatment
+ 
+
+153
+00:03:29,920 --> 00:03:33,030
+predictor, more specifically a treatment
+dummy indicator with value zero for the
+
+154
+00:03:33,030 --> 00:03:33,040
+dummy indicator with value zero for the
+ 
+
+155
+00:03:33,040 --> 00:03:35,589
+dummy indicator with value zero for the
+baseline faces and one for the treatment
+
+156
+00:03:35,589 --> 00:03:35,599
+baseline faces and one for the treatment
+ 
+
+157
+00:03:35,599 --> 00:03:37,190
+baseline faces and one for the treatment
+phases.
+
+158
+00:03:37,190 --> 00:03:37,200
+phases.
+ 
+
+159
+00:03:37,200 --> 00:03:39,110
+phases.
+For the baseline phases, the treatment
+
+160
+00:03:39,110 --> 00:03:39,120
+For the baseline phases, the treatment
+ 
+
+161
+00:03:39,120 --> 00:03:41,270
+For the baseline phases, the treatment
+variable is equal to zero and therefore
+
+162
+00:03:41,270 --> 00:03:41,280
+variable is equal to zero and therefore
+ 
+
+163
+00:03:41,280 --> 00:03:44,229
+variable is equal to zero and therefore
+the expected number of answers equals
+
+164
+00:03:44,229 --> 00:03:44,239
+the expected number of answers equals
+ 
+
+165
+00:03:44,239 --> 00:03:46,550
+the expected number of answers equals
+beta 0.
+
+166
+00:03:46,550 --> 00:03:46,560
+beta 0.
+ 
+
+167
+00:03:46,560 --> 00:03:48,470
+beta 0.
+In the response card condition, the
+
+168
+00:03:48,470 --> 00:03:48,480
+In the response card condition, the
+ 
+
+169
+00:03:48,480 --> 00:03:50,789
+In the response card condition, the
+treatment variable is equal to one and
+
+170
+00:03:50,789 --> 00:03:50,799
+treatment variable is equal to one and
+ 
+
+171
+00:03:50,799 --> 00:03:53,110
+treatment variable is equal to one and
+therefore the expected number of answers
+
+172
+00:03:53,110 --> 00:03:53,120
+therefore the expected number of answers
+ 
+
+173
+00:03:53,120 --> 00:03:57,910
+therefore the expected number of answers
+equals beta 0 plus beta 1.
+
+174
+00:03:57,910 --> 00:03:57,920
+equals beta 0 plus beta 1.
+ 
+
+175
+00:03:57,920 --> 00:04:00,630
+equals beta 0 plus beta 1.
+Beta 1 therefore indicates how much the
+
+176
+00:04:00,630 --> 00:04:00,640
+Beta 1 therefore indicates how much the
+ 
+
+177
+00:04:00,640 --> 00:04:03,670
+Beta 1 therefore indicates how much the
+expected number of answers increases or
+
+178
+00:04:03,670 --> 00:04:03,680
+expected number of answers increases or
+ 
+
+179
+00:04:03,680 --> 00:04:07,270
+expected number of answers increases or
+decreases if response cards are used.
+
+180
+00:04:07,270 --> 00:04:07,280
+decreases if response cards are used.
+ 
+
+181
+00:04:07,280 --> 00:04:10,229
+decreases if response cards are used.
+Beta 1 therefore can be regarded as a
+
+182
+00:04:10,229 --> 00:04:10,239
+Beta 1 therefore can be regarded as a
+ 
+
+183
+00:04:10,239 --> 00:04:14,229
+Beta 1 therefore can be regarded as a
+measure of the effect
+
+184
+00:04:14,229 --> 00:04:14,239
+measure of the effect
+ 
+
+185
+00:04:14,239 --> 00:04:16,390
+measure of the effect
+in our regression analysis. We therefore
+
+186
+00:04:16,390 --> 00:04:16,400
+in our regression analysis. We therefore
+ 
+
+187
+00:04:16,400 --> 00:04:18,629
+in our regression analysis. We therefore
+can estimate and test the size of the
+
+188
+00:04:18,629 --> 00:04:18,639
+can estimate and test the size of the
+ 
+
+189
+00:04:18,639 --> 00:04:24,310
+can estimate and test the size of the
+effect of the treatment.
+
+190
+00:04:24,310 --> 00:04:24,320
+
+ 
+
+191
+00:04:24,320 --> 00:04:26,550
+
+The model is a peace-wise regression
+
+192
+00:04:26,550 --> 00:04:26,560
+The model is a peace-wise regression
+ 
+
+193
+00:04:26,560 --> 00:04:29,030
+The model is a peace-wise regression
+model. Between phases, the regression
+
+194
+00:04:29,030 --> 00:04:29,040
+model. Between phases, the regression
+ 
+
+195
+00:04:29,040 --> 00:04:31,430
+model. Between phases, the regression
+line is interrupted.
+
+196
+00:04:31,430 --> 00:04:31,440
+line is interrupted.
+ 
+
+197
+00:04:31,440 --> 00:04:34,150
+line is interrupted.
+In baseline conditions, the curve is a
+
+198
+00:04:34,150 --> 00:04:34,160
+In baseline conditions, the curve is a
+ 
+
+199
+00:04:34,160 --> 00:04:38,070
+In baseline conditions, the curve is a
+horizontal line with beta 0 as hat. In
+
+200
+00:04:38,070 --> 00:04:38,080
+horizontal line with beta 0 as hat. In
+ 
+
+201
+00:04:38,080 --> 00:04:40,550
+horizontal line with beta 0 as hat. In
+the response card condition, this is a
+
+202
+00:04:40,550 --> 00:04:40,560
+the response card condition, this is a
+ 
+
+203
+00:04:40,560 --> 00:04:47,510
+the response card condition, this is a
+line with beta 0 plus beta 1 as eight.
+
+204
+00:04:47,510 --> 00:04:47,520
+
+ 
+
+205
+00:04:47,520 --> 00:04:49,430
+
+To express the size of the effect, we
+
+206
+00:04:49,430 --> 00:04:49,440
+To express the size of the effect, we
+ 
+
+207
+00:04:49,440 --> 00:04:51,350
+To express the size of the effect, we
+could therefore use the regression
+
+208
+00:04:51,350 --> 00:04:51,360
+could therefore use the regression
+ 
+
+209
+00:04:51,360 --> 00:04:54,710
+could therefore use the regression
+coefficient beta one. A problem of this
+
+210
+00:04:54,710 --> 00:04:54,720
+coefficient beta one. A problem of this
+ 
+
+211
+00:04:54,720 --> 00:04:56,790
+coefficient beta one. A problem of this
+measure, however, is that it depends on
+
+212
+00:04:56,790 --> 00:04:56,800
+measure, however, is that it depends on
+ 
+
+213
+00:04:56,800 --> 00:04:59,270
+measure, however, is that it depends on
+the scale that is used. If for instance
+
+214
+00:04:59,270 --> 00:04:59,280
+the scale that is used. If for instance
+ 
+
+215
+00:04:59,280 --> 00:05:02,070
+the scale that is used. If for instance
+intervals are made 10 times as large,
+
+216
+00:05:02,070 --> 00:05:02,080
+intervals are made 10 times as large,
+ 
+
+217
+00:05:02,080 --> 00:05:04,230
+intervals are made 10 times as large,
+the expected means in both phases will
+
+218
+00:05:04,230 --> 00:05:04,240
+the expected means in both phases will
+ 
+
+219
+00:05:04,240 --> 00:05:07,350
+the expected means in both phases will
+be 10 times as large. And also the
+
+220
+00:05:07,350 --> 00:05:07,360
+be 10 times as large. And also the
+ 
+
+221
+00:05:07,360 --> 00:05:10,469
+be 10 times as large. And also the
+coefficient beta 1 will be 10 times
+
+222
+00:05:10,469 --> 00:05:10,479
+coefficient beta 1 will be 10 times
+ 
+
+223
+00:05:10,479 --> 00:05:16,790
+coefficient beta 1 will be 10 times
+larger.
+
+224
+00:05:16,790 --> 00:05:16,800
+
+ 
+
+225
+00:05:16,800 --> 00:05:19,430
+
+Therefore, it may be a good idea to
+
+226
+00:05:19,430 --> 00:05:19,440
+Therefore, it may be a good idea to
+ 
+
+227
+00:05:19,440 --> 00:05:21,909
+Therefore, it may be a good idea to
+standardize the measure. For instance,
+
+228
+00:05:21,909 --> 00:05:21,919
+standardize the measure. For instance,
+ 
+
+229
+00:05:21,919 --> 00:05:23,749
+standardize the measure. For instance,
+by dividing the mean difference by the
+
+230
+00:05:23,749 --> 00:05:23,759
+by dividing the mean difference by the
+ 
+
+231
+00:05:23,759 --> 00:05:27,189
+by dividing the mean difference by the
+within phase standard deviation.
+
+232
+00:05:27,189 --> 00:05:27,199
+within phase standard deviation.
+ 
+
+233
+00:05:27,199 --> 00:05:29,350
+within phase standard deviation.
+It is also possible to divide scores
+
+234
+00:05:29,350 --> 00:05:29,360
+It is also possible to divide scores
+ 
+
+235
+00:05:29,360 --> 00:05:32,310
+It is also possible to divide scores
+directly by the root of the pulled uh
+
+236
+00:05:32,310 --> 00:05:32,320
+directly by the root of the pulled uh
+ 
+
+237
+00:05:32,320 --> 00:05:35,510
+directly by the root of the pulled uh
+variance.
+
+238
+00:05:35,510 --> 00:05:35,520
+
+ 
+
+239
+00:05:35,520 --> 00:05:37,350
+
+This standardized mean difference can be
+
+240
+00:05:37,350 --> 00:05:37,360
+This standardized mean difference can be
+ 
+
+241
+00:05:37,360 --> 00:05:39,350
+This standardized mean difference can be
+estimated by dividing the difference in
+
+242
+00:05:39,350 --> 00:05:39,360
+estimated by dividing the difference in
+ 
+
+243
+00:05:39,360 --> 00:05:41,510
+estimated by dividing the difference in
+the observed phase means by the square
+
+244
+00:05:41,510 --> 00:05:41,520
+the observed phase means by the square
+ 
+
+245
+00:05:41,520 --> 00:05:43,909
+the observed phase means by the square
+root of the pulled within phase
+
+246
+00:05:43,909 --> 00:05:43,919
+root of the pulled within phase
+ 
+
+247
+00:05:43,919 --> 00:05:46,550
+root of the pulled within phase
+variance.
+
+248
+00:05:46,550 --> 00:05:46,560
+variance.
+ 
+
+249
+00:05:46,560 --> 00:05:48,870
+variance.
+This measure is very similar to the
+
+250
+00:05:48,870 --> 00:05:48,880
+This measure is very similar to the
+ 
+
+251
+00:05:48,880 --> 00:05:50,870
+This measure is very similar to the
+standardized mean difference used in
+
+252
+00:05:50,870 --> 00:05:50,880
+standardized mean difference used in
+ 
+
+253
+00:05:50,880 --> 00:05:56,790
+standardized mean difference used in
+group comparison studies.
+
+254
+00:05:56,790 --> 00:05:56,800
+
+ 
+
+255
+00:05:56,800 --> 00:05:59,189
+
+Note that the serious drawback of a
+
+256
+00:05:59,189 --> 00:05:59,199
+Note that the serious drawback of a
+ 
+
+257
+00:05:59,199 --> 00:06:01,430
+Note that the serious drawback of a
+single case study is that it gives
+
+258
+00:06:01,430 --> 00:06:01,440
+single case study is that it gives
+ 
+
+259
+00:06:01,440 --> 00:06:03,830
+single case study is that it gives
+primarily information about one single
+
+260
+00:06:03,830 --> 00:06:03,840
+primarily information about one single
+ 
+
+261
+00:06:03,840 --> 00:06:07,830
+primarily information about one single
+case, but it that it does not give a lot
+
+262
+00:06:07,830 --> 00:06:07,840
+case, but it that it does not give a lot
+ 
+
+263
+00:06:07,840 --> 00:06:09,670
+case, but it that it does not give a lot
+of information about the population of
+
+264
+00:06:09,670 --> 00:06:09,680
+of information about the population of
+ 
+
+265
+00:06:09,680 --> 00:06:12,309
+of information about the population of
+cases. While this could be especially
+
+266
+00:06:12,309 --> 00:06:12,319
+cases. While this could be especially
+ 
+
+267
+00:06:12,319 --> 00:06:15,350
+cases. While this could be especially
+interesting for most of us,
+
+268
+00:06:15,350 --> 00:06:15,360
+interesting for most of us,
+ 
+
+269
+00:06:15,360 --> 00:06:17,749
+interesting for most of us,
+an obvious solution to this problem is a
+
+270
+00:06:17,749 --> 00:06:17,759
+an obvious solution to this problem is a
+ 
+
+271
+00:06:17,759 --> 00:06:20,469
+an obvious solution to this problem is a
+replication of the study. This may be a
+
+272
+00:06:20,469 --> 00:06:20,479
+replication of the study. This may be a
+ 
+
+273
+00:06:20,479 --> 00:06:22,550
+replication of the study. This may be a
+direct replication. This is a
+
+274
+00:06:22,550 --> 00:06:22,560
+direct replication. This is a
+ 
+
+275
+00:06:22,560 --> 00:06:24,870
+direct replication. This is a
+replication of the study in exactly the
+
+276
+00:06:24,870 --> 00:06:24,880
+replication of the study in exactly the
+ 
+
+277
+00:06:24,880 --> 00:06:27,830
+replication of the study in exactly the
+same conditions only with another
+
+278
+00:06:27,830 --> 00:06:27,840
+same conditions only with another
+ 
+
+279
+00:06:27,840 --> 00:06:29,590
+same conditions only with another
+subject.
+
+280
+00:06:29,590 --> 00:06:29,600
+subject.
+ 
+
+281
+00:06:29,600 --> 00:06:31,270
+subject.
+But it's also possible to do a
+
+282
+00:06:31,270 --> 00:06:31,280
+But it's also possible to do a
+ 
+
+283
+00:06:31,280 --> 00:06:33,270
+But it's also possible to do a
+systematic replication. This is a
+
+284
+00:06:33,270 --> 00:06:33,280
+systematic replication. This is a
+ 
+
+285
+00:06:33,280 --> 00:06:36,230
+systematic replication. This is a
+replication of the study but varying one
+
+286
+00:06:36,230 --> 00:06:36,240
+replication of the study but varying one
+ 
+
+287
+00:06:36,240 --> 00:06:38,550
+replication of the study but varying one
+or more characteristics of for instance
+
+288
+00:06:38,550 --> 00:06:38,560
+or more characteristics of for instance
+ 
+
+289
+00:06:38,560 --> 00:06:41,350
+or more characteristics of for instance
+the treatment to look for factors that
+
+290
+00:06:41,350 --> 00:06:41,360
+the treatment to look for factors that
+ 
+
+291
+00:06:41,360 --> 00:06:46,150
+the treatment to look for factors that
+may moderate the treatment effect.
+
+292
+00:06:46,150 --> 00:06:46,160
+may moderate the treatment effect.
+ 
+
+293
+00:06:46,160 --> 00:06:48,950
+may moderate the treatment effect.
+Sometimes the experiment
+
+294
+00:06:48,950 --> 00:06:48,960
+Sometimes the experiment
+ 
+
+295
+00:06:48,960 --> 00:06:51,430
+Sometimes the experiment
+is replicated in the study itself. for
+
+296
+00:06:51,430 --> 00:06:51,440
+is replicated in the study itself. for
+ 
+
+297
+00:06:51,440 --> 00:06:53,350
+is replicated in the study itself. for
+instance using a multiple baseline
+
+298
+00:06:53,350 --> 00:06:53,360
+instance using a multiple baseline
+ 
+
+299
+00:06:53,360 --> 00:06:56,710
+instance using a multiple baseline
+design or it is replicated in another
+
+300
+00:06:56,710 --> 00:06:56,720
+design or it is replicated in another
+ 
+
+301
+00:06:56,720 --> 00:06:58,790
+design or it is replicated in another
+study.
+
+302
+00:06:58,790 --> 00:06:58,800
+study.
+ 
+
+303
+00:06:58,800 --> 00:07:00,550
+study.
+This raises the question of how to
+
+304
+00:07:00,550 --> 00:07:00,560
+This raises the question of how to
+ 
+
+305
+00:07:00,560 --> 00:07:03,110
+This raises the question of how to
+combined results
+
+306
+00:07:03,110 --> 00:07:03,120
+combined results
+ 
+
+307
+00:07:03,120 --> 00:07:12,710
+combined results
+of several cases in a quantitative way
+
+308
+00:07:12,710 --> 00:07:12,720
+
+ 
+
+309
+00:07:12,720 --> 00:07:15,189
+
+in the experiment of Narion. In total,
+
+310
+00:07:15,189 --> 00:07:15,199
+in the experiment of Narion. In total,
+ 
+
+311
+00:07:15,199 --> 00:07:17,749
+in the experiment of Narion. In total,
+six subjects participated.
+
+312
+00:07:17,749 --> 00:07:17,759
+six subjects participated.
+ 
+
+313
+00:07:17,759 --> 00:07:19,749
+six subjects participated.
+We could perform a peace-wise regression
+
+314
+00:07:19,749 --> 00:07:19,759
+We could perform a peace-wise regression
+ 
+
+315
+00:07:19,759 --> 00:07:22,870
+We could perform a peace-wise regression
+analysis for each of these subjects. You
+
+316
+00:07:22,870 --> 00:07:22,880
+analysis for each of these subjects. You
+ 
+
+317
+00:07:22,880 --> 00:07:24,550
+analysis for each of these subjects. You
+can see that the pattern is very similar
+
+318
+00:07:24,550 --> 00:07:24,560
+can see that the pattern is very similar
+ 
+
+319
+00:07:24,560 --> 00:07:27,749
+can see that the pattern is very similar
+for all subjects, but not equal. If you
+
+320
+00:07:27,749 --> 00:07:27,759
+for all subjects, but not equal. If you
+ 
+
+321
+00:07:27,759 --> 00:07:29,670
+for all subjects, but not equal. If you
+compare, for instance, student one with
+
+322
+00:07:29,670 --> 00:07:29,680
+compare, for instance, student one with
+ 
+
+323
+00:07:29,680 --> 00:07:32,790
+compare, for instance, student one with
+student five, you can see that the first
+
+324
+00:07:32,790 --> 00:07:32,800
+student five, you can see that the first
+ 
+
+325
+00:07:32,800 --> 00:07:35,110
+student five, you can see that the first
+student gives less answers in the
+
+326
+00:07:35,110 --> 00:07:35,120
+student gives less answers in the
+ 
+
+327
+00:07:35,120 --> 00:07:37,589
+student gives less answers in the
+baseline phase, but more in response
+
+328
+00:07:37,589 --> 00:07:37,599
+baseline phase, but more in response
+ 
+
+329
+00:07:37,599 --> 00:07:39,510
+baseline phase, but more in response
+card condition.
+
+330
+00:07:39,510 --> 00:07:39,520
+card condition.
+ 
+
+331
+00:07:39,520 --> 00:07:41,589
+card condition.
+Beta zero of student one therefore is
+
+332
+00:07:41,589 --> 00:07:41,599
+Beta zero of student one therefore is
+ 
+
+333
+00:07:41,599 --> 00:07:45,909
+Beta zero of student one therefore is
+smaller but but beta one or the effect
+
+334
+00:07:45,909 --> 00:07:45,919
+smaller but but beta one or the effect
+ 
+
+335
+00:07:45,919 --> 00:07:50,070
+smaller but but beta one or the effect
+is larger.
+
+336
+00:07:50,070 --> 00:07:50,080
+
+ 
+
+337
+00:07:50,080 --> 00:07:51,830
+
+We could summarize the regression
+
+338
+00:07:51,830 --> 00:07:51,840
+We could summarize the regression
+ 
+
+339
+00:07:51,840 --> 00:07:53,990
+We could summarize the regression
+equations of all students in one single
+
+340
+00:07:53,990 --> 00:07:54,000
+equations of all students in one single
+ 
+
+341
+00:07:54,000 --> 00:07:57,110
+equations of all students in one single
+equation by adding an index J for the
+
+342
+00:07:57,110 --> 00:07:57,120
+equation by adding an index J for the
+ 
+
+343
+00:07:57,120 --> 00:08:00,390
+equation by adding an index J for the
+case. The expected number of responses
+
+344
+00:08:00,390 --> 00:08:00,400
+case. The expected number of responses
+ 
+
+345
+00:08:00,400 --> 00:08:03,589
+case. The expected number of responses
+for student J on moment I equals the
+
+346
+00:08:03,589 --> 00:08:03,599
+for student J on moment I equals the
+ 
+
+347
+00:08:03,599 --> 00:08:08,710
+for student J on moment I equals the
+beta zero of that student J plus if the
+
+348
+00:08:08,710 --> 00:08:08,720
+beta zero of that student J plus if the
+ 
+
+349
+00:08:08,720 --> 00:08:10,869
+beta zero of that student J plus if the
+observation at moment I falls in the
+
+350
+00:08:10,869 --> 00:08:10,879
+observation at moment I falls in the
+ 
+
+351
+00:08:10,879 --> 00:08:13,749
+observation at moment I falls in the
+response card condition the beta 1 of
+
+352
+00:08:13,749 --> 00:08:13,759
+response card condition the beta 1 of
+ 
+
+353
+00:08:13,759 --> 00:08:16,230
+response card condition the beta 1 of
+that student.
+
+354
+00:08:16,230 --> 00:08:16,240
+that student.
+ 
+
+355
+00:08:16,240 --> 00:08:18,710
+that student.
+The index J therefore indicates that
+
+356
+00:08:18,710 --> 00:08:18,720
+The index J therefore indicates that
+ 
+
+357
+00:08:18,720 --> 00:08:21,110
+The index J therefore indicates that
+both the baseline and the effect size
+
+358
+00:08:21,110 --> 00:08:21,120
+both the baseline and the effect size
+ 
+
+359
+00:08:21,120 --> 00:08:24,950
+both the baseline and the effect size
+can vary over cases.
+
+360
+00:08:24,950 --> 00:08:24,960
+can vary over cases.
+ 
+
+361
+00:08:24,960 --> 00:08:28,710
+can vary over cases.
+This variation over students
+
+362
+00:08:28,710 --> 00:08:28,720
+This variation over students
+ 
+
+363
+00:08:28,720 --> 00:08:30,469
+This variation over students
+can be described using additional
+
+364
+00:08:30,469 --> 00:08:30,479
+can be described using additional
+ 
+
+365
+00:08:30,479 --> 00:08:32,389
+can be described using additional
+regression equations. For instance,
+
+366
+00:08:32,389 --> 00:08:32,399
+regression equations. For instance,
+ 
+
+367
+00:08:32,399 --> 00:08:34,870
+regression equations. For instance,
+simple equations with only an intercept
+
+368
+00:08:34,870 --> 00:08:34,880
+simple equations with only an intercept
+ 
+
+369
+00:08:34,880 --> 00:08:39,269
+simple equations with only an intercept
+and a student specific residual.
+
+370
+00:08:39,269 --> 00:08:39,279
+and a student specific residual.
+ 
+
+371
+00:08:39,279 --> 00:08:42,709
+and a student specific residual.
+Gamma 0 therefore refers to the average
+
+372
+00:08:42,709 --> 00:08:42,719
+Gamma 0 therefore refers to the average
+ 
+
+373
+00:08:42,719 --> 00:08:45,030
+Gamma 0 therefore refers to the average
+level of performance during the baseline
+
+374
+00:08:45,030 --> 00:08:45,040
+level of performance during the baseline
+ 
+
+375
+00:08:45,040 --> 00:08:50,310
+level of performance during the baseline
+phases over all cases. Whereas gamma 1 0
+
+376
+00:08:50,310 --> 00:08:50,320
+phases over all cases. Whereas gamma 1 0
+ 
+
+377
+00:08:50,320 --> 00:08:54,389
+phases over all cases. Whereas gamma 1 0
+is the size of the mean effect
+
+378
+00:08:54,389 --> 00:08:54,399
+is the size of the mean effect
+ 
+
+379
+00:08:54,399 --> 00:08:57,990
+is the size of the mean effect
+over all cases. The variances of U0 and
+
+380
+00:08:57,990 --> 00:08:58,000
+over all cases. The variances of U0 and
+ 
+
+381
+00:08:58,000 --> 00:09:01,829
+over all cases. The variances of U0 and
+U1 indicate the between student variance
+
+382
+00:09:01,829 --> 00:09:01,839
+U1 indicate the between student variance
+ 
+
+383
+00:09:01,839 --> 00:09:04,150
+U1 indicate the between student variance
+in initial level and in the effect
+
+384
+00:09:04,150 --> 00:09:04,160
+in initial level and in the effect
+ 
+
+385
+00:09:04,160 --> 00:09:06,710
+in initial level and in the effect
+respectively.
+
+386
+00:09:06,710 --> 00:09:06,720
+respectively.
+ 
+
+387
+00:09:06,720 --> 00:09:09,030
+respectively.
+You recognize in this model a
+
+388
+00:09:09,030 --> 00:09:09,040
+You recognize in this model a
+ 
+
+389
+00:09:09,040 --> 00:09:11,269
+You recognize in this model a
+multi-level model. A multi-level model
+
+390
+00:09:11,269 --> 00:09:11,279
+multi-level model. A multi-level model
+ 
+
+391
+00:09:11,279 --> 00:09:13,430
+multi-level model. A multi-level model
+consists of regression equations at
+
+392
+00:09:13,430 --> 00:09:13,440
+consists of regression equations at
+ 
+
+393
+00:09:13,440 --> 00:09:16,070
+consists of regression equations at
+several levels typically assuming a
+
+394
+00:09:16,070 --> 00:09:16,080
+several levels typically assuming a
+ 
+
+395
+00:09:16,080 --> 00:09:18,630
+several levels typically assuming a
+normal distribution for the residuals at
+
+396
+00:09:18,630 --> 00:09:18,640
+normal distribution for the residuals at
+ 
+
+397
+00:09:18,640 --> 00:09:21,509
+normal distribution for the residuals at
+each of the levels. The parameters that
+
+398
+00:09:21,509 --> 00:09:21,519
+each of the levels. The parameters that
+ 
+
+399
+00:09:21,519 --> 00:09:23,990
+each of the levels. The parameters that
+are estimated in a multi-level model in
+
+400
+00:09:23,990 --> 00:09:24,000
+are estimated in a multi-level model in
+ 
+
+401
+00:09:24,000 --> 00:09:26,310
+are estimated in a multi-level model in
+a multi-level anal an analysis are the
+
+402
+00:09:26,310 --> 00:09:26,320
+a multi-level anal an analysis are the
+ 
+
+403
+00:09:26,320 --> 00:09:28,550
+a multi-level anal an analysis are the
+regression coefficients at the highest
+
+404
+00:09:28,550 --> 00:09:28,560
+regression coefficients at the highest
+ 
+
+405
+00:09:28,560 --> 00:09:31,030
+regression coefficients at the highest
+level as well as the variances and
+
+406
+00:09:31,030 --> 00:09:31,040
+level as well as the variances and
+ 
+
+407
+00:09:31,040 --> 00:09:33,590
+level as well as the variances and
+co-variances of the residuals at each of
+
+408
+00:09:33,590 --> 00:09:33,600
+co-variances of the residuals at each of
+ 
+
+409
+00:09:33,600 --> 00:09:36,630
+co-variances of the residuals at each of
+the levels.
+
+410
+00:09:36,630 --> 00:09:36,640
+the levels.
+ 
+
+411
+00:09:36,640 --> 00:09:38,389
+the levels.
+We used the restricted maximum
+
+412
+00:09:38,389 --> 00:09:38,399
+We used the restricted maximum
+ 
+
+413
+00:09:38,399 --> 00:09:40,150
+We used the restricted maximum
+likelihood procedure implemented in
+
+414
+00:09:40,150 --> 00:09:40,160
+likelihood procedure implemented in
+ 
+
+415
+00:09:40,160 --> 00:09:42,949
+likelihood procedure implemented in
+susprom mixed to estimate the parameters
+
+416
+00:09:42,949 --> 00:09:42,959
+susprom mixed to estimate the parameters
+ 
+
+417
+00:09:42,959 --> 00:09:46,070
+susprom mixed to estimate the parameters
+of the model.
+
+418
+00:09:46,070 --> 00:09:46,080
+of the model.
+ 
+
+419
+00:09:46,080 --> 00:09:48,550
+of the model.
+Here are the results. You can see that
+
+420
+00:09:48,550 --> 00:09:48,560
+Here are the results. You can see that
+ 
+
+421
+00:09:48,560 --> 00:09:50,790
+Here are the results. You can see that
+the mean baseline level equals about
+
+422
+00:09:50,790 --> 00:09:50,800
+the mean baseline level equals about
+ 
+
+423
+00:09:50,800 --> 00:09:53,190
+the mean baseline level equals about
+one. Which means that in a baseline
+
+424
+00:09:53,190 --> 00:09:53,200
+one. Which means that in a baseline
+ 
+
+425
+00:09:53,200 --> 00:09:55,430
+one. Which means that in a baseline
+condition, students answered on average
+
+426
+00:09:55,430 --> 00:09:55,440
+condition, students answered on average
+ 
+
+427
+00:09:55,440 --> 00:09:59,110
+condition, students answered on average
+about one time per interval.
+
+428
+00:09:59,110 --> 00:09:59,120
+about one time per interval.
+ 
+
+429
+00:09:59,120 --> 00:10:01,350
+about one time per interval.
+In the response card condition, the mean
+
+430
+00:10:01,350 --> 00:10:01,360
+In the response card condition, the mean
+ 
+
+431
+00:10:01,360 --> 00:10:03,910
+In the response card condition, the mean
+number of answers per interval is about
+
+432
+00:10:03,910 --> 00:10:03,920
+number of answers per interval is about
+ 
+
+433
+00:10:03,920 --> 00:10:07,190
+number of answers per interval is about
+14 points higher. Between parenthesis,
+
+434
+00:10:07,190 --> 00:10:07,200
+14 points higher. Between parenthesis,
+ 
+
+435
+00:10:07,200 --> 00:10:08,949
+14 points higher. Between parenthesis,
+you can see the standard error of the
+
+436
+00:10:08,949 --> 00:10:08,959
+you can see the standard error of the
+ 
+
+437
+00:10:08,959 --> 00:10:11,590
+you can see the standard error of the
+estimate. Note that the ratio of the
+
+438
+00:10:11,590 --> 00:10:11,600
+estimate. Note that the ratio of the
+ 
+
+439
+00:10:11,600 --> 00:10:13,910
+estimate. Note that the ratio of the
+estimate over the standard error is
+
+440
+00:10:13,910 --> 00:10:13,920
+estimate over the standard error is
+ 
+
+441
+00:10:13,920 --> 00:10:15,829
+estimate over the standard error is
+approximately standard normally
+
+442
+00:10:15,829 --> 00:10:15,839
+approximately standard normally
+ 
+
+443
+00:10:15,839 --> 00:10:17,430
+approximately standard normally
+distributed.
+
+444
+00:10:17,430 --> 00:10:17,440
+distributed.
+ 
+
+445
+00:10:17,440 --> 00:10:19,430
+distributed.
+Therefore, we can see that the effect of
+
+446
+00:10:19,430 --> 00:10:19,440
+Therefore, we can see that the effect of
+ 
+
+447
+00:10:19,440 --> 00:10:21,350
+Therefore, we can see that the effect of
+using response cards is statistically
+
+448
+00:10:21,350 --> 00:10:21,360
+using response cards is statistically
+ 
+
+449
+00:10:21,360 --> 00:10:23,350
+using response cards is statistically
+significant for commonly used
+
+450
+00:10:23,350 --> 00:10:23,360
+significant for commonly used
+ 
+
+451
+00:10:23,360 --> 00:10:27,910
+significant for commonly used
+significance levels.
+
+452
+00:10:27,910 --> 00:10:27,920
+
+ 
+
+453
+00:10:27,920 --> 00:10:30,230
+
+Further, you can see that there are no
+
+454
+00:10:30,230 --> 00:10:30,240
+Further, you can see that there are no
+ 
+
+455
+00:10:30,240 --> 00:10:31,990
+Further, you can see that there are no
+differences between students in the
+
+456
+00:10:31,990 --> 00:10:32,000
+differences between students in the
+ 
+
+457
+00:10:32,000 --> 00:10:34,230
+differences between students in the
+baseline level, but that there is a
+
+458
+00:10:34,230 --> 00:10:34,240
+baseline level, but that there is a
+ 
+
+459
+00:10:34,240 --> 00:10:37,110
+baseline level, but that there is a
+tendency that the effect varies over
+
+460
+00:10:37,110 --> 00:10:37,120
+tendency that the effect varies over
+ 
+
+461
+00:10:37,120 --> 00:10:41,110
+tendency that the effect varies over
+students.
+
+462
+00:10:41,110 --> 00:10:41,120
+
+ 
+
+463
+00:10:41,120 --> 00:10:43,829
+
+Comparing the ratio of estimates over
+
+464
+00:10:43,829 --> 00:10:43,839
+Comparing the ratio of estimates over
+ 
+
+465
+00:10:43,839 --> 00:10:46,310
+Comparing the ratio of estimates over
+the standard error to a standard normal
+
+466
+00:10:46,310 --> 00:10:46,320
+the standard error to a standard normal
+ 
+
+467
+00:10:46,320 --> 00:10:49,030
+the standard error to a standard normal
+distribution, you can see that this
+
+468
+00:10:49,030 --> 00:10:49,040
+distribution, you can see that this
+ 
+
+469
+00:10:49,040 --> 00:10:50,870
+distribution, you can see that this
+tendency is statistically not
+
+470
+00:10:50,870 --> 00:10:50,880
+tendency is statistically not
+ 
+
+471
+00:10:50,880 --> 00:10:53,910
+tendency is statistically not
+significant at the 0.05 significance
+
+472
+00:10:53,910 --> 00:10:53,920
+significant at the 0.05 significance
+ 
+
+473
+00:10:53,920 --> 00:10:56,630
+significant at the 0.05 significance
+level. Also, when using a more
+
+474
+00:10:56,630 --> 00:10:56,640
+level. Also, when using a more
+ 
+
+475
+00:10:56,640 --> 00:10:59,269
+level. Also, when using a more
+appropriate likelihood tracio test, this
+
+476
+00:10:59,269 --> 00:10:59,279
+appropriate likelihood tracio test, this
+ 
+
+477
+00:10:59,279 --> 00:11:01,590
+appropriate likelihood tracio test, this
+variance appears to be statistically
+
+478
+00:11:01,590 --> 00:11:01,600
+variance appears to be statistically
+ 
+
+479
+00:11:01,600 --> 00:11:05,190
+variance appears to be statistically
+nonsignificant.
+
+480
+00:11:05,190 --> 00:11:05,200
+
+ 
+
+481
+00:11:05,200 --> 00:11:07,110
+
+Finally, you can see that the response
+
+482
+00:11:07,110 --> 00:11:07,120
+Finally, you can see that the response
+ 
+
+483
+00:11:07,120 --> 00:11:10,150
+Finally, you can see that the response
+behavior clearly varies more over time
+
+484
+00:11:10,150 --> 00:11:10,160
+behavior clearly varies more over time
+ 
+
+485
+00:11:10,160 --> 00:11:12,870
+behavior clearly varies more over time
+intervals within a student than over
+
+486
+00:11:12,870 --> 00:11:12,880
+intervals within a student than over
+ 
+
+487
+00:11:12,880 --> 00:11:15,430
+intervals within a student than over
+students. We want to note that the
+
+488
+00:11:15,430 --> 00:11:15,440
+students. We want to note that the
+ 
+
+489
+00:11:15,440 --> 00:11:17,350
+students. We want to note that the
+number of cases in fact is too low to
+
+490
+00:11:17,350 --> 00:11:17,360
+number of cases in fact is too low to
+ 
+
+491
+00:11:17,360 --> 00:11:20,790
+number of cases in fact is too low to
+perform a multi-level analysis
+
+492
+00:11:20,790 --> 00:11:20,800
+perform a multi-level analysis
+ 
+
+493
+00:11:20,800 --> 00:11:23,269
+perform a multi-level analysis
+and especially to have powerful
+
+494
+00:11:23,269 --> 00:11:23,279
+and especially to have powerful
+ 
+
+495
+00:11:23,279 --> 00:11:26,310
+and especially to have powerful
+statistical tests. But the example was
+
+496
+00:11:26,310 --> 00:11:26,320
+statistical tests. But the example was
+ 
+
+497
+00:11:26,320 --> 00:11:31,590
+statistical tests. But the example was
+used for illustrative purposes.
+
+498
+00:11:31,590 --> 00:11:31,600
+
+ 
+
+499
+00:11:31,600 --> 00:11:34,630
+
+A second example, Shogran and colleagues
+
+500
+00:11:34,630 --> 00:11:34,640
+A second example, Shogran and colleagues
+ 
+
+501
+00:11:34,640 --> 00:11:37,110
+A second example, Shogran and colleagues
+did a meta analysis on 13 single case
+
+502
+00:11:37,110 --> 00:11:37,120
+did a meta analysis on 13 single case
+ 
+
+503
+00:11:37,120 --> 00:11:41,190
+did a meta analysis on 13 single case
+studies including in total 30 cases.
+
+504
+00:11:41,190 --> 00:11:41,200
+studies including in total 30 cases.
+ 
+
+505
+00:11:41,200 --> 00:11:43,030
+studies including in total 30 cases.
+Investigating whether giving the pro
+
+506
+00:11:43,030 --> 00:11:43,040
+Investigating whether giving the pro
+ 
+
+507
+00:11:43,040 --> 00:11:45,430
+Investigating whether giving the pro
+possibility to make choices in their
+
+508
+00:11:45,430 --> 00:11:45,440
+possibility to make choices in their
+ 
+
+509
+00:11:45,440 --> 00:11:48,389
+possibility to make choices in their
+tasks or in the order of the tasks can
+
+510
+00:11:48,389 --> 00:11:48,399
+tasks or in the order of the tasks can
+ 
+
+511
+00:11:48,399 --> 00:11:50,470
+tasks or in the order of the tasks can
+reduce the amount of problem behavior in
+
+512
+00:11:50,470 --> 00:11:50,480
+reduce the amount of problem behavior in
+ 
+
+513
+00:11:50,480 --> 00:11:55,670
+reduce the amount of problem behavior in
+the classroom.
+
+514
+00:11:55,670 --> 00:11:55,680
+
+ 
+
+515
+00:11:55,680 --> 00:11:57,750
+
+The authors used relatively simple
+
+516
+00:11:57,750 --> 00:11:57,760
+The authors used relatively simple
+ 
+
+517
+00:11:57,760 --> 00:12:00,230
+The authors used relatively simple
+metalytic procedures. For instance, by
+
+518
+00:12:00,230 --> 00:12:00,240
+metalytic procedures. For instance, by
+ 
+
+519
+00:12:00,240 --> 00:12:02,230
+metalytic procedures. For instance, by
+calculating means of a simple effect
+
+520
+00:12:02,230 --> 00:12:02,240
+calculating means of a simple effect
+ 
+
+521
+00:12:02,240 --> 00:12:04,389
+calculating means of a simple effect
+size measure,
+
+522
+00:12:04,389 --> 00:12:04,399
+size measure,
+ 
+
+523
+00:12:04,399 --> 00:12:06,389
+size measure,
+we did replicate the meta analysis using
+
+524
+00:12:06,389 --> 00:12:06,399
+we did replicate the meta analysis using
+ 
+
+525
+00:12:06,399 --> 00:12:08,870
+we did replicate the meta analysis using
+a multi-level model. Since in most of
+
+526
+00:12:08,870 --> 00:12:08,880
+a multi-level model. Since in most of
+ 
+
+527
+00:12:08,880 --> 00:12:10,710
+a multi-level model. Since in most of
+the studies more than one case was
+
+528
+00:12:10,710 --> 00:12:10,720
+the studies more than one case was
+ 
+
+529
+00:12:10,720 --> 00:12:13,269
+the studies more than one case was
+investigated, we used a three-level
+
+530
+00:12:13,269 --> 00:12:13,279
+investigated, we used a three-level
+ 
+
+531
+00:12:13,279 --> 00:12:15,910
+investigated, we used a three-level
+model. At the first level, the variation
+
+532
+00:12:15,910 --> 00:12:15,920
+model. At the first level, the variation
+ 
+
+533
+00:12:15,920 --> 00:12:19,590
+model. At the first level, the variation
+within case J over of study K over
+
+534
+00:12:19,590 --> 00:12:19,600
+within case J over of study K over
+ 
+
+535
+00:12:19,600 --> 00:12:22,870
+within case J over of study K over
+measurement occasions is described.
+
+536
+00:12:22,870 --> 00:12:22,880
+measurement occasions is described.
+ 
+
+537
+00:12:22,880 --> 00:12:24,470
+measurement occasions is described.
+The amount of problem behavior was
+
+538
+00:12:24,470 --> 00:12:24,480
+The amount of problem behavior was
+ 
+
+539
+00:12:24,480 --> 00:12:26,870
+The amount of problem behavior was
+requested on a dummy variable indicating
+
+540
+00:12:26,870 --> 00:12:26,880
+requested on a dummy variable indicating
+ 
+
+541
+00:12:26,880 --> 00:12:29,670
+requested on a dummy variable indicating
+whether on moment I the child was given
+
+542
+00:12:29,670 --> 00:12:29,680
+whether on moment I the child was given
+ 
+
+543
+00:12:29,680 --> 00:12:34,310
+whether on moment I the child was given
+the choice between several tasks or not.
+
+544
+00:12:34,310 --> 00:12:34,320
+the choice between several tasks or not.
+ 
+
+545
+00:12:34,320 --> 00:12:36,470
+the choice between several tasks or not.
+Both the expected amount in the baseline
+
+546
+00:12:36,470 --> 00:12:36,480
+Both the expected amount in the baseline
+ 
+
+547
+00:12:36,480 --> 00:12:38,949
+Both the expected amount in the baseline
+condition as the expected effect of
+
+548
+00:12:38,949 --> 00:12:38,959
+condition as the expected effect of
+ 
+
+549
+00:12:38,959 --> 00:12:41,030
+condition as the expected effect of
+being given the choice is allowed to
+
+550
+00:12:41,030 --> 00:12:41,040
+being given the choice is allowed to
+ 
+
+551
+00:12:41,040 --> 00:12:45,750
+being given the choice is allowed to
+vary. You can see that beta 1 jk varies
+
+552
+00:12:45,750 --> 00:12:45,760
+vary. You can see that beta 1 jk varies
+ 
+
+553
+00:12:45,760 --> 00:12:48,150
+vary. You can see that beta 1 jk varies
+over cases around a mean effect for
+
+554
+00:12:48,150 --> 00:12:48,160
+over cases around a mean effect for
+ 
+
+555
+00:12:48,160 --> 00:12:52,470
+over cases around a mean effect for
+study k. This is theta
+
+556
+00:12:52,470 --> 00:12:52,480
+study k. This is theta
+ 
+
+557
+00:12:52,480 --> 00:12:57,269
+study k. This is theta
+10 k and that the study specific effects
+
+558
+00:12:57,269 --> 00:12:57,279
+10 k and that the study specific effects
+ 
+
+559
+00:12:57,279 --> 00:12:59,829
+10 k and that the study specific effects
+vary around an overall treatment effect
+
+560
+00:12:59,829 --> 00:12:59,839
+vary around an overall treatment effect
+ 
+
+561
+00:12:59,839 --> 00:13:07,190
+vary around an overall treatment effect
+gamma 10.
+
+562
+00:13:07,190 --> 00:13:07,200
+
+ 
+
+563
+00:13:07,200 --> 00:13:10,389
+
+Note that there were differences between
+
+564
+00:13:10,389 --> 00:13:10,399
+Note that there were differences between
+ 
+
+565
+00:13:10,399 --> 00:13:12,629
+Note that there were differences between
+studies in the scales.
+
+566
+00:13:12,629 --> 00:13:12,639
+studies in the scales.
+ 
+
+567
+00:13:12,639 --> 00:13:14,949
+studies in the scales.
+Therefore, we first performed a separate
+
+568
+00:13:14,949 --> 00:13:14,959
+Therefore, we first performed a separate
+ 
+
+569
+00:13:14,959 --> 00:13:17,269
+Therefore, we first performed a separate
+regression analysis for each case and
+
+570
+00:13:17,269 --> 00:13:17,279
+regression analysis for each case and
+ 
+
+571
+00:13:17,279 --> 00:13:22,069
+regression analysis for each case and
+calculated the root mean squared error.
+
+572
+00:13:22,069 --> 00:13:22,079
+calculated the root mean squared error.
+ 
+
+573
+00:13:22,079 --> 00:13:24,550
+calculated the root mean squared error.
+So, it's a standard deviation of the
+
+574
+00:13:24,550 --> 00:13:24,560
+So, it's a standard deviation of the
+ 
+
+575
+00:13:24,560 --> 00:13:27,750
+So, it's a standard deviation of the
+residual of the first level equation.
+
+576
+00:13:27,750 --> 00:13:27,760
+residual of the first level equation.
+ 
+
+577
+00:13:27,760 --> 00:13:29,829
+residual of the first level equation.
+Next, we divided the scores for each
+
+578
+00:13:29,829 --> 00:13:29,839
+Next, we divided the scores for each
+ 
+
+579
+00:13:29,839 --> 00:13:35,829
+Next, we divided the scores for each
+case by this root mean square error.
+
+580
+00:13:35,829 --> 00:13:35,839
+
+ 
+
+581
+00:13:35,839 --> 00:13:37,670
+
+Here you can see the results of the
+
+582
+00:13:37,670 --> 00:13:37,680
+Here you can see the results of the
+ 
+
+583
+00:13:37,680 --> 00:13:39,750
+Here you can see the results of the
+multi-level analysis. You can see that
+
+584
+00:13:39,750 --> 00:13:39,760
+multi-level analysis. You can see that
+ 
+
+585
+00:13:39,760 --> 00:13:41,430
+multi-level analysis. You can see that
+under the baseline condition, the
+
+586
+00:13:41,430 --> 00:13:41,440
+under the baseline condition, the
+ 
+
+587
+00:13:41,440 --> 00:13:43,750
+under the baseline condition, the
+expected amount of problem behavior was
+
+588
+00:13:43,750 --> 00:13:43,760
+expected amount of problem behavior was
+ 
+
+589
+00:13:43,760 --> 00:13:46,470
+expected amount of problem behavior was
+about three standard deviations above
+
+590
+00:13:46,470 --> 00:13:46,480
+about three standard deviations above
+ 
+
+591
+00:13:46,480 --> 00:13:48,550
+about three standard deviations above
+zero.
+
+592
+00:13:48,550 --> 00:13:48,560
+zero.
+ 
+
+593
+00:13:48,560 --> 00:13:50,629
+zero.
+In the treatment condition, so when the
+
+594
+00:13:50,629 --> 00:13:50,639
+In the treatment condition, so when the
+ 
+
+595
+00:13:50,639 --> 00:13:52,629
+In the treatment condition, so when the
+child was given the choice, the amount
+
+596
+00:13:52,629 --> 00:13:52,639
+child was given the choice, the amount
+ 
+
+597
+00:13:52,639 --> 00:13:55,750
+child was given the choice, the amount
+of problem behavior was 1.84 standard
+
+598
+00:13:55,750 --> 00:13:55,760
+of problem behavior was 1.84 standard
+ 
+
+599
+00:13:55,760 --> 00:13:58,310
+of problem behavior was 1.84 standard
+deviations smaller,
+
+600
+00:13:58,310 --> 00:13:58,320
+deviations smaller,
+ 
+
+601
+00:13:58,320 --> 00:14:00,470
+deviations smaller,
+a mean effect that is statistically
+
+602
+00:14:00,470 --> 00:14:00,480
+a mean effect that is statistically
+ 
+
+603
+00:14:00,480 --> 00:14:03,110
+a mean effect that is statistically
+significant.
+
+604
+00:14:03,110 --> 00:14:03,120
+significant.
+ 
+
+605
+00:14:03,120 --> 00:14:05,269
+significant.
+standard the parameter estimate divided
+
+606
+00:14:05,269 --> 00:14:05,279
+standard the parameter estimate divided
+ 
+
+607
+00:14:05,279 --> 00:14:09,590
+standard the parameter estimate divided
+by the standard error of 46 gives a ZV
+
+608
+00:14:09,590 --> 00:14:09,600
+by the standard error of 46 gives a ZV
+ 
+
+609
+00:14:09,600 --> 00:14:13,189
+by the standard error of 46 gives a ZV
+value of four corresponding to a very
+
+610
+00:14:13,189 --> 00:14:13,199
+value of four corresponding to a very
+ 
+
+611
+00:14:13,199 --> 00:14:15,350
+value of four corresponding to a very
+small p value when comparing this value
+
+612
+00:14:15,350 --> 00:14:15,360
+small p value when comparing this value
+ 
+
+613
+00:14:15,360 --> 00:14:18,470
+small p value when comparing this value
+to a standard normal distribution.
+
+614
+00:14:18,470 --> 00:14:18,480
+to a standard normal distribution.
+ 
+
+615
+00:14:18,480 --> 00:14:20,310
+to a standard normal distribution.
+You can see that there is no significant
+
+616
+00:14:20,310 --> 00:14:20,320
+You can see that there is no significant
+ 
+
+617
+00:14:20,320 --> 00:14:22,550
+You can see that there is no significant
+variation between studies in both the
+
+618
+00:14:22,550 --> 00:14:22,560
+variation between studies in both the
+ 
+
+619
+00:14:22,560 --> 00:14:25,189
+variation between studies in both the
+baseline performance and in the effect,
+
+620
+00:14:25,189 --> 00:14:25,199
+baseline performance and in the effect,
+ 
+
+621
+00:14:25,199 --> 00:14:26,870
+baseline performance and in the effect,
+but that there are substantial
+
+622
+00:14:26,870 --> 00:14:26,880
+but that there are substantial
+ 
+
+623
+00:14:26,880 --> 00:14:29,910
+but that there are substantial
+differences between cases
+
+624
+00:14:29,910 --> 00:14:29,920
+differences between cases
+ 
+
+625
+00:14:29,920 --> 00:14:34,550
+differences between cases
+at level two.
+
+626
+00:14:34,550 --> 00:14:34,560
+
+ 
+
+627
+00:14:34,560 --> 00:14:36,710
+
+To explain differences between cases and
+
+628
+00:14:36,710 --> 00:14:36,720
+To explain differences between cases and
+ 
+
+629
+00:14:36,720 --> 00:14:39,829
+To explain differences between cases and
+studies, characteristics of the cases or
+
+630
+00:14:39,829 --> 00:14:39,839
+studies, characteristics of the cases or
+ 
+
+631
+00:14:39,839 --> 00:14:41,750
+studies, characteristics of the cases or
+characteristics of the studies can be
+
+632
+00:14:41,750 --> 00:14:41,760
+characteristics of the studies can be
+ 
+
+633
+00:14:41,760 --> 00:14:43,990
+characteristics of the studies can be
+included in the equations describing the
+
+634
+00:14:43,990 --> 00:14:44,000
+included in the equations describing the
+ 
+
+635
+00:14:44,000 --> 00:14:47,030
+included in the equations describing the
+variation over groups.
+
+636
+00:14:47,030 --> 00:14:47,040
+variation over groups.
+ 
+
+637
+00:14:47,040 --> 00:14:50,870
+variation over groups.
+If you would substitute beta 1 jk from
+
+638
+00:14:50,870 --> 00:14:50,880
+If you would substitute beta 1 jk from
+ 
+
+639
+00:14:50,880 --> 00:14:54,870
+If you would substitute beta 1 jk from
+the level one equation by the level two
+
+640
+00:14:54,870 --> 00:14:54,880
+the level one equation by the level two
+ 
+
+641
+00:14:54,880 --> 00:14:58,790
+the level one equation by the level two
+equation, you could see that theta 111
+
+642
+00:14:58,790 --> 00:14:58,800
+equation, you could see that theta 111
+ 
+
+643
+00:14:58,800 --> 00:15:02,150
+equation, you could see that theta 111
+is a coefficient of an interaction term
+
+644
+00:15:02,150 --> 00:15:02,160
+is a coefficient of an interaction term
+ 
+
+645
+00:15:02,160 --> 00:15:03,509
+is a coefficient of an interaction term
+interaction term of the case
+
+646
+00:15:03,509 --> 00:15:03,519
+interaction term of the case
+ 
+
+647
+00:15:03,519 --> 00:15:06,550
+interaction term of the case
+characteristic set and the choice dummy
+
+648
+00:15:06,550 --> 00:15:06,560
+characteristic set and the choice dummy
+ 
+
+649
+00:15:06,560 --> 00:15:10,310
+characteristic set and the choice dummy
+variable. In other words, if data 1 one
+
+650
+00:15:10,310 --> 00:15:10,320
+variable. In other words, if data 1 one
+ 
+
+651
+00:15:10,320 --> 00:15:12,710
+variable. In other words, if data 1 one
+is different from zero, this means that
+
+652
+00:15:12,710 --> 00:15:12,720
+is different from zero, this means that
+ 
+
+653
+00:15:12,720 --> 00:15:15,350
+is different from zero, this means that
+the size of the effect depends on Z and
+
+654
+00:15:15,350 --> 00:15:15,360
+the size of the effect depends on Z and
+ 
+
+655
+00:15:15,360 --> 00:15:18,949
+the size of the effect depends on Z and
+therefore Z is a moderator variable.
+
+656
+00:15:18,949 --> 00:15:18,959
+therefore Z is a moderator variable.
+ 
+
+657
+00:15:18,959 --> 00:15:23,430
+therefore Z is a moderator variable.
+Similarly, gamma 101 refers to the
+
+658
+00:15:23,430 --> 00:15:23,440
+Similarly, gamma 101 refers to the
+ 
+
+659
+00:15:23,440 --> 00:15:25,430
+Similarly, gamma 101 refers to the
+moderator effect of a stud
+
+660
+00:15:25,430 --> 00:15:25,440
+moderator effect of a stud
+ 
+
+661
+00:15:25,440 --> 00:15:30,710
+moderator effect of a stud
+characteristic W.
+
+662
+00:15:30,710 --> 00:15:30,720
+
+ 
+
+663
+00:15:30,720 --> 00:15:32,790
+
+To illustrate the exploration of
+
+664
+00:15:32,790 --> 00:15:32,800
+To illustrate the exploration of
+ 
+
+665
+00:15:32,800 --> 00:15:34,870
+To illustrate the exploration of
+possible moderating effects, we included
+
+666
+00:15:34,870 --> 00:15:34,880
+possible moderating effects, we included
+ 
+
+667
+00:15:34,880 --> 00:15:37,110
+possible moderating effects, we included
+a case characteristic, more specifically
+
+668
+00:15:37,110 --> 00:15:37,120
+a case characteristic, more specifically
+ 
+
+669
+00:15:37,120 --> 00:15:40,069
+a case characteristic, more specifically
+gender, and a study characteristic, more
+
+670
+00:15:40,069 --> 00:15:40,079
+gender, and a study characteristic, more
+ 
+
+671
+00:15:40,079 --> 00:15:42,150
+gender, and a study characteristic, more
+specifically, whether the student could
+
+672
+00:15:42,150 --> 00:15:42,160
+specifically, whether the student could
+ 
+
+673
+00:15:42,160 --> 00:15:44,870
+specifically, whether the student could
+choose the task or merely the order of
+
+674
+00:15:44,870 --> 00:15:44,880
+choose the task or merely the order of
+ 
+
+675
+00:15:44,880 --> 00:15:47,110
+choose the task or merely the order of
+the tasks.
+
+676
+00:15:47,110 --> 00:15:47,120
+the tasks.
+ 
+
+677
+00:15:47,120 --> 00:15:49,509
+the tasks.
+You can see that the interaction of both
+
+678
+00:15:49,509 --> 00:15:49,519
+You can see that the interaction of both
+ 
+
+679
+00:15:49,519 --> 00:15:51,509
+You can see that the interaction of both
+characteristics with a choice variable
+
+680
+00:15:51,509 --> 00:15:51,519
+characteristics with a choice variable
+ 
+
+681
+00:15:51,519 --> 00:15:54,629
+characteristics with a choice variable
+was statistically not significant
+
+682
+00:15:54,629 --> 00:15:54,639
+was statistically not significant
+ 
+
+683
+00:15:54,639 --> 00:15:57,110
+was statistically not significant
+indicating the effect of having choice
+
+684
+00:15:57,110 --> 00:15:57,120
+indicating the effect of having choice
+ 
+
+685
+00:15:57,120 --> 00:15:59,829
+indicating the effect of having choice
+on problem behavior does not depend on
+
+686
+00:15:59,829 --> 00:15:59,839
+on problem behavior does not depend on
+ 
+
+687
+00:15:59,839 --> 00:16:12,710
+on problem behavior does not depend on
+these case and study characteristics.
+
+688
+00:16:12,710 --> 00:16:12,720
+
+ 
+
+689
+00:16:12,720 --> 00:16:15,670
+
+Note that beta 1 again can be regarded
+
+690
+00:16:15,670 --> 00:16:15,680
+Note that beta 1 again can be regarded
+ 
+
+691
+00:16:15,680 --> 00:16:18,389
+Note that beta 1 again can be regarded
+as an effect effect size measure since
+
+692
+00:16:18,389 --> 00:16:18,399
+as an effect effect size measure since
+ 
+
+693
+00:16:18,399 --> 00:16:20,629
+as an effect effect size measure since
+we already standardized the response
+
+694
+00:16:20,629 --> 00:16:20,639
+we already standardized the response
+ 
+
+695
+00:16:20,639 --> 00:16:23,110
+we already standardized the response
+variable. Beta 1 is already a
+
+696
+00:16:23,110 --> 00:16:23,120
+variable. Beta 1 is already a
+ 
+
+697
+00:16:23,120 --> 00:16:25,990
+variable. Beta 1 is already a
+standardized mean difference.
+
+698
+00:16:25,990 --> 00:16:26,000
+standardized mean difference.
+ 
+
+699
+00:16:26,000 --> 00:16:27,430
+standardized mean difference.
+Sometimes it may be difficult to
+
+700
+00:16:27,430 --> 00:16:27,440
+Sometimes it may be difficult to
+ 
+
+701
+00:16:27,440 --> 00:16:29,990
+Sometimes it may be difficult to
+retrieve all raw data.
+
+702
+00:16:29,990 --> 00:16:30,000
+retrieve all raw data.
+ 
+
+703
+00:16:30,000 --> 00:16:32,150
+retrieve all raw data.
+While it still might be possible to
+
+704
+00:16:32,150 --> 00:16:32,160
+While it still might be possible to
+ 
+
+705
+00:16:32,160 --> 00:16:35,509
+While it still might be possible to
+calculate a standardized mean difference
+
+706
+00:16:35,509 --> 00:16:35,519
+calculate a standardized mean difference
+ 
+
+707
+00:16:35,519 --> 00:16:37,430
+calculate a standardized mean difference
+as an alternative to the analysis of the
+
+708
+00:16:37,430 --> 00:16:37,440
+as an alternative to the analysis of the
+ 
+
+709
+00:16:37,440 --> 00:16:40,069
+as an alternative to the analysis of the
+raw data, we could also first calculate
+
+710
+00:16:40,069 --> 00:16:40,079
+raw data, we could also first calculate
+ 
+
+711
+00:16:40,079 --> 00:16:41,910
+raw data, we could also first calculate
+a standardized mean difference for each
+
+712
+00:16:41,910 --> 00:16:41,920
+a standardized mean difference for each
+ 
+
+713
+00:16:41,920 --> 00:16:45,430
+a standardized mean difference for each
+case and combine this with a tree level
+
+714
+00:16:45,430 --> 00:16:45,440
+case and combine this with a tree level
+ 
+
+715
+00:16:45,440 --> 00:16:51,990
+case and combine this with a tree level
+model.
+
+716
+00:16:51,990 --> 00:16:52,000
+
+ 
+
+717
+00:16:52,000 --> 00:16:53,910
+
+The first level equation now becomes the
+
+718
+00:16:53,910 --> 00:16:53,920
+The first level equation now becomes the
+ 
+
+719
+00:16:53,920 --> 00:16:57,990
+The first level equation now becomes the
+following. The observed effect size G
+
+720
+00:16:57,990 --> 00:16:58,000
+following. The observed effect size G
+ 
+
+721
+00:16:58,000 --> 00:17:00,790
+following. The observed effect size G
+equals the population effect size
+
+722
+00:17:00,790 --> 00:17:00,800
+equals the population effect size
+ 
+
+723
+00:17:00,800 --> 00:17:06,390
+equals the population effect size
+beta 1 plus random residual.
+
+724
+00:17:06,390 --> 00:17:06,400
+
+ 
+
+725
+00:17:06,400 --> 00:17:08,390
+
+At the second and the third level, the
+
+726
+00:17:08,390 --> 00:17:08,400
+At the second and the third level, the
+ 
+
+727
+00:17:08,400 --> 00:17:10,230
+At the second and the third level, the
+equations for the variation of the
+
+728
+00:17:10,230 --> 00:17:10,240
+equations for the variation of the
+ 
+
+729
+00:17:10,240 --> 00:17:12,789
+equations for the variation of the
+effect over cases or over studies remain
+
+730
+00:17:12,789 --> 00:17:12,799
+effect over cases or over studies remain
+ 
+
+731
+00:17:12,799 --> 00:17:14,710
+effect over cases or over studies remain
+the same, but the equations for
+
+732
+00:17:14,710 --> 00:17:14,720
+the same, but the equations for
+ 
+
+733
+00:17:14,720 --> 00:17:16,710
+the same, but the equations for
+describing the variation of the baseline
+
+734
+00:17:16,710 --> 00:17:16,720
+describing the variation of the baseline
+ 
+
+735
+00:17:16,720 --> 00:17:18,949
+describing the variation of the baseline
+performance are dropped because they are
+
+736
+00:17:18,949 --> 00:17:18,959
+performance are dropped because they are
+ 
+
+737
+00:17:18,959 --> 00:17:25,429
+performance are dropped because they are
+not of importance anymore.
+
+738
+00:17:25,429 --> 00:17:25,439
+
+ 
+
+739
+00:17:25,439 --> 00:17:27,669
+
+In the left column, you can see the
+
+740
+00:17:27,669 --> 00:17:27,679
+In the left column, you can see the
+ 
+
+741
+00:17:27,679 --> 00:17:30,470
+In the left column, you can see the
+results of the analysis on road data for
+
+742
+00:17:30,470 --> 00:17:30,480
+results of the analysis on road data for
+ 
+
+743
+00:17:30,480 --> 00:17:32,789
+results of the analysis on road data for
+the model we discussed before. In the
+
+744
+00:17:32,789 --> 00:17:32,799
+the model we discussed before. In the
+ 
+
+745
+00:17:32,799 --> 00:17:34,630
+the model we discussed before. In the
+right column, you can see the results
+
+746
+00:17:34,630 --> 00:17:34,640
+right column, you can see the results
+ 
+
+747
+00:17:34,640 --> 00:17:36,390
+right column, you can see the results
+for the analysis of the effect size
+
+748
+00:17:36,390 --> 00:17:36,400
+for the analysis of the effect size
+ 
+
+749
+00:17:36,400 --> 00:17:39,029
+for the analysis of the effect size
+measures. You can see that the estimates
+
+750
+00:17:39,029 --> 00:17:39,039
+measures. You can see that the estimates
+ 
+
+751
+00:17:39,039 --> 00:17:40,470
+measures. You can see that the estimates
+are very similar and that the
+
+752
+00:17:40,470 --> 00:17:40,480
+are very similar and that the
+ 
+
+753
+00:17:40,480 --> 00:17:43,750
+are very similar and that the
+conclusions are the same. This analysis
+
+754
+00:17:43,750 --> 00:17:43,760
+conclusions are the same. This analysis
+ 
+
+755
+00:17:43,760 --> 00:17:45,909
+conclusions are the same. This analysis
+illustrates that we do not need draw
+
+756
+00:17:45,909 --> 00:17:45,919
+illustrates that we do not need draw
+ 
+
+757
+00:17:45,919 --> 00:17:49,350
+illustrates that we do not need draw
+data. Combining effect sizes gives the
+
+758
+00:17:49,350 --> 00:17:49,360
+data. Combining effect sizes gives the
+ 
+
+759
+00:17:49,360 --> 00:17:51,990
+data. Combining effect sizes gives the
+same results.
+
+760
+00:17:51,990 --> 00:17:52,000
+same results.
+ 
+
+761
+00:17:52,000 --> 00:17:54,710
+same results.
+If you would have very large data sets,
+
+762
+00:17:54,710 --> 00:17:54,720
+If you would have very large data sets,
+ 
+
+763
+00:17:54,720 --> 00:17:58,230
+If you would have very large data sets,
+analyzing effect sizes can go faster and
+
+764
+00:17:58,230 --> 00:17:58,240
+analyzing effect sizes can go faster and
+ 
+
+765
+00:17:58,240 --> 00:18:00,310
+analyzing effect sizes can go faster and
+there may be a higher probability that
+
+766
+00:18:00,310 --> 00:18:00,320
+there may be a higher probability that
+ 
+
+767
+00:18:00,320 --> 00:18:03,510
+there may be a higher probability that
+the estimation procedure converges.
+
+768
+00:18:03,510 --> 00:18:03,520
+the estimation procedure converges.
+ 
+
+769
+00:18:03,520 --> 00:18:05,350
+the estimation procedure converges.
+But combining draw data on the other
+
+770
+00:18:05,350 --> 00:18:05,360
+But combining draw data on the other
+ 
+
+771
+00:18:05,360 --> 00:18:07,590
+But combining draw data on the other
+hand has the advantage that it is
+
+772
+00:18:07,590 --> 00:18:07,600
+hand has the advantage that it is
+ 
+
+773
+00:18:07,600 --> 00:18:09,350
+hand has the advantage that it is
+possible to adapt the first level
+
+774
+00:18:09,350 --> 00:18:09,360
+possible to adapt the first level
+ 
+
+775
+00:18:09,360 --> 00:18:11,990
+possible to adapt the first level
+equation for instance to include
+
+776
+00:18:11,990 --> 00:18:12,000
+equation for instance to include
+ 
+
+777
+00:18:12,000 --> 00:18:19,990
+equation for instance to include
+additional level one variables.
+
+778
+00:18:19,990 --> 00:18:20,000
+
+ 
+
+779
+00:18:20,000 --> 00:18:21,909
+
+The flexibility of the multi-level model
+
+780
+00:18:21,909 --> 00:18:21,919
+The flexibility of the multi-level model
+ 
+
+781
+00:18:21,919 --> 00:18:25,190
+The flexibility of the multi-level model
+allows for several extensions.
+
+782
+00:18:25,190 --> 00:18:25,200
+allows for several extensions.
+ 
+
+783
+00:18:25,200 --> 00:18:27,350
+allows for several extensions.
+First extension is to allow for more
+
+784
+00:18:27,350 --> 00:18:27,360
+First extension is to allow for more
+ 
+
+785
+00:18:27,360 --> 00:18:30,710
+First extension is to allow for more
+complex variance uh coariance structures
+
+786
+00:18:30,710 --> 00:18:30,720
+complex variance uh coariance structures
+ 
+
+787
+00:18:30,720 --> 00:18:33,590
+complex variance uh coariance structures
+at one of the levels. For instance, it
+
+788
+00:18:33,590 --> 00:18:33,600
+at one of the levels. For instance, it
+ 
+
+789
+00:18:33,600 --> 00:18:35,830
+at one of the levels. For instance, it
+may be a too strong assumption to assume
+
+790
+00:18:35,830 --> 00:18:35,840
+may be a too strong assumption to assume
+ 
+
+791
+00:18:35,840 --> 00:18:38,630
+may be a too strong assumption to assume
+that scores from a case are independent
+
+792
+00:18:38,630 --> 00:18:38,640
+that scores from a case are independent
+ 
+
+793
+00:18:38,640 --> 00:18:41,110
+that scores from a case are independent
+from each other. And it may be more
+
+794
+00:18:41,110 --> 00:18:41,120
+from each other. And it may be more
+ 
+
+795
+00:18:41,120 --> 00:18:42,710
+from each other. And it may be more
+prudent to allow for a possible
+
+796
+00:18:42,710 --> 00:18:42,720
+prudent to allow for a possible
+ 
+
+797
+00:18:42,720 --> 00:18:47,350
+prudent to allow for a possible
+outcreoration.
+
+798
+00:18:47,350 --> 00:18:47,360
+
+ 
+
+799
+00:18:47,360 --> 00:18:50,789
+
+To take into account that measurements
+
+800
+00:18:50,789 --> 00:18:50,799
+To take into account that measurements
+ 
+
+801
+00:18:50,799 --> 00:18:53,430
+To take into account that measurements
+that are close to each other in time are
+
+802
+00:18:53,430 --> 00:18:53,440
+that are close to each other in time are
+ 
+
+803
+00:18:53,440 --> 00:18:55,510
+that are close to each other in time are
+more similar than measurements that are
+
+804
+00:18:55,510 --> 00:18:55,520
+more similar than measurements that are
+ 
+
+805
+00:18:55,520 --> 00:18:57,990
+more similar than measurements that are
+farther apart in time.
+
+806
+00:18:57,990 --> 00:18:58,000
+farther apart in time.
+ 
+
+807
+00:18:58,000 --> 00:18:59,590
+farther apart in time.
+Secondly,
+
+808
+00:18:59,590 --> 00:18:59,600
+Secondly,
+ 
+
+809
+00:18:59,600 --> 00:19:02,549
+Secondly,
+other coariantss can be included also at
+
+810
+00:19:02,549 --> 00:19:02,559
+other coariantss can be included also at
+ 
+
+811
+00:19:02,559 --> 00:19:04,630
+other coariantss can be included also at
+the first level. For instance, an
+
+812
+00:19:04,630 --> 00:19:04,640
+the first level. For instance, an
+ 
+
+813
+00:19:04,640 --> 00:19:07,270
+the first level. For instance, an
+additional dummy variable at the first
+
+814
+00:19:07,270 --> 00:19:07,280
+additional dummy variable at the first
+ 
+
+815
+00:19:07,280 --> 00:19:09,669
+additional dummy variable at the first
+level to compare a second treatment with
+
+816
+00:19:09,669 --> 00:19:09,679
+level to compare a second treatment with
+ 
+
+817
+00:19:09,679 --> 00:19:11,669
+level to compare a second treatment with
+the baseline.
+
+818
+00:19:11,669 --> 00:19:11,679
+the baseline.
+ 
+
+819
+00:19:11,679 --> 00:19:14,710
+the baseline.
+Thirdly, linear trends can be taken into
+
+820
+00:19:14,710 --> 00:19:14,720
+Thirdly, linear trends can be taken into
+ 
+
+821
+00:19:14,720 --> 00:19:17,990
+Thirdly, linear trends can be taken into
+account by including a time variable t
+
+822
+00:19:17,990 --> 00:19:18,000
+account by including a time variable t
+ 
+
+823
+00:19:18,000 --> 00:19:19,909
+account by including a time variable t
+in the first level model with a main
+
+824
+00:19:19,909 --> 00:19:19,919
+in the first level model with a main
+ 
+
+825
+00:19:19,919 --> 00:19:22,390
+in the first level model with a main
+effect and an interaction effect with a
+
+826
+00:19:22,390 --> 00:19:22,400
+effect and an interaction effect with a
+ 
+
+827
+00:19:22,400 --> 00:19:25,510
+effect and an interaction effect with a
+treatment dummy called D in this
+
+828
+00:19:25,510 --> 00:19:25,520
+treatment dummy called D in this
+ 
+
+829
+00:19:25,520 --> 00:19:29,750
+treatment dummy called D in this
+equation.
+
+830
+00:19:29,750 --> 00:19:29,760
+
+ 
+
+831
+00:19:29,760 --> 00:19:31,350
+
+The interpretation of this equation
+
+832
+00:19:31,350 --> 00:19:31,360
+The interpretation of this equation
+ 
+
+833
+00:19:31,360 --> 00:19:33,510
+The interpretation of this equation
+becomes more clear when we restructure
+
+834
+00:19:33,510 --> 00:19:33,520
+becomes more clear when we restructure
+ 
+
+835
+00:19:33,520 --> 00:19:36,710
+becomes more clear when we restructure
+the terms. Intercept of the equation is
+
+836
+00:19:36,710 --> 00:19:36,720
+the terms. Intercept of the equation is
+ 
+
+837
+00:19:36,720 --> 00:19:43,990
+the terms. Intercept of the equation is
+equal to beta 1 and beta 0 plus beta 1
+
+838
+00:19:43,990 --> 00:19:44,000
+
+ 
+
+839
+00:19:44,000 --> 00:19:47,750
+
+times the treatment dummy variable D. In
+
+840
+00:19:47,750 --> 00:19:47,760
+times the treatment dummy variable D. In
+ 
+
+841
+00:19:47,760 --> 00:19:50,630
+times the treatment dummy variable D. In
+the baseline phase, the treatment dummy
+
+842
+00:19:50,630 --> 00:19:50,640
+the baseline phase, the treatment dummy
+ 
+
+843
+00:19:50,640 --> 00:19:52,870
+the baseline phase, the treatment dummy
+variable is equal to zero. So the
+
+844
+00:19:52,870 --> 00:19:52,880
+variable is equal to zero. So the
+ 
+
+845
+00:19:52,880 --> 00:19:56,070
+variable is equal to zero. So the
+intercept is equal to beta 0. In the
+
+846
+00:19:56,070 --> 00:19:56,080
+intercept is equal to beta 0. In the
+ 
+
+847
+00:19:56,080 --> 00:19:58,310
+intercept is equal to beta 0. In the
+treatment phase, the intercept is equal
+
+848
+00:19:58,310 --> 00:19:58,320
+treatment phase, the intercept is equal
+ 
+
+849
+00:19:58,320 --> 00:20:06,150
+treatment phase, the intercept is equal
+to beta 0 plus beta 1.
+
+850
+00:20:06,150 --> 00:20:06,160
+
+ 
+
+851
+00:20:06,160 --> 00:20:08,390
+
+Note that the intercept is the expected
+
+852
+00:20:08,390 --> 00:20:08,400
+Note that the intercept is the expected
+ 
+
+853
+00:20:08,400 --> 00:20:11,750
+Note that the intercept is the expected
+value at time zero. By centering the
+
+854
+00:20:11,750 --> 00:20:11,760
+value at time zero. By centering the
+ 
+
+855
+00:20:11,760 --> 00:20:13,750
+value at time zero. By centering the
+time variable around the value at the
+
+856
+00:20:13,750 --> 00:20:13,760
+time variable around the value at the
+ 
+
+857
+00:20:13,760 --> 00:20:17,029
+time variable around the value at the
+end of the baseline phase, beta 0 can be
+
+858
+00:20:17,029 --> 00:20:17,039
+end of the baseline phase, beta 0 can be
+ 
+
+859
+00:20:17,039 --> 00:20:20,150
+end of the baseline phase, beta 0 can be
+interpreted as a level of the outcome at
+
+860
+00:20:20,150 --> 00:20:20,160
+interpreted as a level of the outcome at
+ 
+
+861
+00:20:20,160 --> 00:20:23,909
+interpreted as a level of the outcome at
+the end of the baseline phase.
+
+862
+00:20:23,909 --> 00:20:23,919
+the end of the baseline phase.
+ 
+
+863
+00:20:23,919 --> 00:20:26,710
+the end of the baseline phase.
+Beta 1 can be interpreted as the
+
+864
+00:20:26,710 --> 00:20:26,720
+Beta 1 can be interpreted as the
+ 
+
+865
+00:20:26,720 --> 00:20:31,669
+Beta 1 can be interpreted as the
+immediate effect of the treatment.
+
+866
+00:20:31,669 --> 00:20:31,679
+
+ 
+
+867
+00:20:31,679 --> 00:20:34,789
+
+Similarly, the trend over time is equal
+
+868
+00:20:34,789 --> 00:20:34,799
+Similarly, the trend over time is equal
+ 
+
+869
+00:20:34,799 --> 00:20:37,669
+Similarly, the trend over time is equal
+to beta 2 in the baseline phase and beta
+
+870
+00:20:37,669 --> 00:20:37,679
+to beta 2 in the baseline phase and beta
+ 
+
+871
+00:20:37,679 --> 00:20:41,430
+to beta 2 in the baseline phase and beta
+2 plus beta 3 in the treatment phase.
+
+872
+00:20:41,430 --> 00:20:41,440
+2 plus beta 3 in the treatment phase.
+ 
+
+873
+00:20:41,440 --> 00:20:43,750
+2 plus beta 3 in the treatment phase.
+Beta 3 therefore can be interpreted as
+
+874
+00:20:43,750 --> 00:20:43,760
+Beta 3 therefore can be interpreted as
+ 
+
+875
+00:20:43,760 --> 00:20:46,630
+Beta 3 therefore can be interpreted as
+the difference between the slope in the
+
+876
+00:20:46,630 --> 00:20:46,640
+the difference between the slope in the
+ 
+
+877
+00:20:46,640 --> 00:20:49,270
+the difference between the slope in the
+treatment condition
+
+878
+00:20:49,270 --> 00:20:49,280
+treatment condition
+ 
+
+879
+00:20:49,280 --> 00:20:56,630
+treatment condition
+and the slope in the baseline condition.
+
+880
+00:20:56,630 --> 00:20:56,640
+
+ 
+
+881
+00:20:56,640 --> 00:20:59,750
+
+Note that now we have two effect sizes
+
+882
+00:20:59,750 --> 00:20:59,760
+Note that now we have two effect sizes
+ 
+
+883
+00:20:59,760 --> 00:21:04,230
+Note that now we have two effect sizes
+for each case. Beta one which expresses
+
+884
+00:21:04,230 --> 00:21:04,240
+for each case. Beta one which expresses
+ 
+
+885
+00:21:04,240 --> 00:21:06,549
+for each case. Beta one which expresses
+the size of the effect on or the
+
+886
+00:21:06,549 --> 00:21:06,559
+the size of the effect on or the
+ 
+
+887
+00:21:06,559 --> 00:21:08,549
+the size of the effect on or the
+immediate treatment effect the effect on
+
+888
+00:21:08,549 --> 00:21:08,559
+immediate treatment effect the effect on
+ 
+
+889
+00:21:08,559 --> 00:21:12,789
+immediate treatment effect the effect on
+the level and beta 3 which expresses the
+
+890
+00:21:12,789 --> 00:21:12,799
+the level and beta 3 which expresses the
+ 
+
+891
+00:21:12,799 --> 00:21:17,960
+the level and beta 3 which expresses the
+effect on the slope respectively.
+

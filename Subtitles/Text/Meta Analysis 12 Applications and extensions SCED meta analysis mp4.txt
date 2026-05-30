@@ -1,0 +1,285 @@
+applications and extensions.
+
+A first application is discussed in another PowerPoint presentation.
+
+Here I would like to focus on a second application of meta analysis, the meta analysis of single case experimental studies.
+
+Marion and others investigated whether they could stimulate the response behavior of students by working with response cards.
+
+Current practice is that students raise their hand after the teacher asks a question and that only one or maximally two or three students get a chance to give an answer by working with response cards.
+
+So these are cards on which students can write their answer.
+
+In principle, all students can formulate an answer.
+
+Here you see the results for one student, a student from the fourth year of primary education as presented by the researchers.
+
+Let us look at the black dots.
+
+In several time intervals, it was counted how many times the student gave an answer.
+
+Observations were done during four phases.
+
+The first phase is a baseline phase in which the traditional approach was used.
+
+In the second phase, a treatment phase, response cards were used.
+
+The third phase is again a baseline phase, so without response cards.
+
+Whereas the fourth the final phase is again a response card phase.
+
+So on the xaxis you see the sessions the time intervals on the yaxis you see the number of academic responses.
+
+This design is called an abab design.
+
+You can see that in the A phases, so the baseline phases with a traditional approach, the student regularly raised his hand but could not often give an answer.
+
+Whereas in the B phases, the student more frequently formulated an answer.
+
+The graph suggests that there is indeed an effect of using response cards on the number of responses given.
+
+But you may wonder whether the effect we observed is statistically significant.
+
+Moreover, we could be interested in an estimate of the size of the effect.
+
+In single case studies, not often effect sizes are calculated.
+
+It is even not common practice to perform statistical significance tests.
+
+So that typically no test statistics are available that could be used to calculate effect sizes.
+
+Instead, results are often presented in a graph like the one I showed earlier.
+
+Yet, this tradition means an advantage for the meta analyst since it becomes possible to retrieve the raw data, which is usually not the case for group comparison studies.
+
+One way to get insight in the size and significance of the effect is to use a regression analysis.
+
+Response variable for the student is described using a regression equation with one predictor, more specifically a treatment dummy indicator with value zero for the baseline faces and one for the treatment phases.
+
+For the baseline phases, the treatment variable is equal to zero and therefore the expected number of answers equals beta 0.
+
+In the response card condition, the treatment variable is equal to one and therefore the expected number of answers equals beta 0 plus beta 1.
+
+Beta 1 therefore indicates how much the expected number of answers increases or decreases if response cards are used.
+
+Beta 1 therefore can be regarded as a measure of the effect in our regression analysis.
+
+We therefore can estimate and test the size of the effect of the treatment.
+
+The model is a peace-wise regression model.
+
+Between phases, the regression line is interrupted.
+
+In baseline conditions, the curve is a horizontal line with beta 0 as hat.
+
+In the response card condition, this is a line with beta 0 plus beta 1 as eight.
+
+To express the size of the effect, we could therefore use the regression coefficient beta one.
+
+A problem of this measure, however, is that it depends on the scale that is used.
+
+If for instance intervals are made 10 times as large, the expected means in both phases will be 10 times as large.
+
+And also the coefficient beta 1 will be 10 times larger.
+
+Therefore, it may be a good idea to standardize the measure.
+
+For instance, by dividing the mean difference by the within phase standard deviation.
+
+It is also possible to divide scores directly by the root of the pulled uh variance.
+
+This standardized mean difference can be estimated by dividing the difference in the observed phase means by the square root of the pulled within phase variance.
+
+This measure is very similar to the standardized mean difference used in group comparison studies.
+
+Note that the serious drawback of a single case study is that it gives primarily information about one single case, but it that it does not give a lot of information about the population of cases.
+
+While this could be especially interesting for most of us, an obvious solution to this problem is a replication of the study.
+
+This may be a direct replication.
+
+This is a replication of the study in exactly the same conditions only with another subject.
+
+But it's also possible to do a systematic replication.
+
+This is a replication of the study but varying one or more characteristics of for instance the treatment to look for factors that may moderate the treatment effect.
+
+Sometimes the experiment is replicated in the study itself. for instance using a multiple baseline design or it is replicated in another study.
+
+This raises the question of how to combined results of several cases in a quantitative way in the experiment of Narion.
+
+In total, six subjects participated.
+
+We could perform a peace-wise regression analysis for each of these subjects.
+
+You can see that the pattern is very similar for all subjects, but not equal.
+
+If you compare, for instance, student one with student five, you can see that the first student gives less answers in the baseline phase, but more in response card condition.
+
+Beta zero of student one therefore is smaller but but beta one or the effect is larger.
+
+We could summarize the regression equations of all students in one single equation by adding an index J for the case.
+
+The expected number of responses for student J on moment I equals the beta zero of that student J plus if the observation at moment I falls in the response card condition the beta 1 of that student.
+
+The index J therefore indicates that both the baseline and the effect size can vary over cases.
+
+This variation over students can be described using additional regression equations.
+
+For instance, simple equations with only an intercept and a student specific residual.
+
+Gamma 0 therefore refers to the average level of performance during the baseline phases over all cases.
+
+Whereas gamma 1 0 is the size of the mean effect over all cases.
+
+The variances of U0 and U1 indicate the between student variance in initial level and in the effect respectively.
+
+You recognize in this model a multi-level model.
+
+A multi-level model consists of regression equations at several levels typically assuming a normal distribution for the residuals at each of the levels.
+
+The parameters that are estimated in a multi-level model in a multi-level anal an analysis are the regression coefficients at the highest level as well as the variances and co-variances of the residuals at each of the levels.
+
+We used the restricted maximum likelihood procedure implemented in susprom mixed to estimate the parameters of the model.
+
+Here are the results.
+
+You can see that the mean baseline level equals about one.
+
+Which means that in a baseline condition, students answered on average about one time per interval.
+
+In the response card condition, the mean number of answers per interval is about 14 points higher.
+
+Between parenthesis, you can see the standard error of the estimate.
+
+Note that the ratio of the estimate over the standard error is approximately standard normally distributed.
+
+Therefore, we can see that the effect of using response cards is statistically significant for commonly used significance levels.
+
+Further, you can see that there are no differences between students in the baseline level, but that there is a tendency that the effect varies over students.
+
+Comparing the ratio of estimates over the standard error to a standard normal distribution, you can see that this tendency is statistically not significant at the 0.05 significance level.
+
+Also, when using a more appropriate likelihood tracio test, this variance appears to be statistically nonsignificant.
+
+Finally, you can see that the response behavior clearly varies more over time intervals within a student than over students.
+
+We want to note that the number of cases in fact is too low to perform a multi-level analysis and especially to have powerful statistical tests.
+
+But the example was used for illustrative purposes.
+
+A second example, Shogran and colleagues did a meta analysis on 13 single case studies including in total 30 cases.
+
+Investigating whether giving the pro possibility to make choices in their tasks or in the order of the tasks can reduce the amount of problem behavior in the classroom.
+
+The authors used relatively simple metalytic procedures.
+
+For instance, by calculating means of a simple effect size measure, we did replicate the meta analysis using a multi-level model.
+
+Since in most of the studies more than one case was investigated, we used a three-level model.
+
+At the first level, the variation within case J over of study K over measurement occasions is described.
+
+The amount of problem behavior was requested on a dummy variable indicating whether on moment I the child was given the choice between several tasks or not.
+
+Both the expected amount in the baseline condition as the expected effect of being given the choice is allowed to vary.
+
+You can see that beta 1 jk varies over cases around a mean effect for study k.
+
+This is theta 10 k and that the study specific effects vary around an overall treatment effect gamma 10.
+
+Note that there were differences between studies in the scales.
+
+Therefore, we first performed a separate regression analysis for each case and calculated the root mean squared error.
+
+So, it's a standard deviation of the residual of the first level equation.
+
+Next, we divided the scores for each case by this root mean square error.
+
+Here you can see the results of the multi-level analysis.
+
+You can see that under the baseline condition, the expected amount of problem behavior was about three standard deviations above zero.
+
+In the treatment condition, so when the child was given the choice, the amount of problem behavior was 1.84 standard deviations smaller, a mean effect that is statistically significant. standard the parameter estimate divided by the standard error of 46 gives a ZV value of four corresponding to a very small p value when comparing this value to a standard normal distribution.
+
+You can see that there is no significant variation between studies in both the baseline performance and in the effect, but that there are substantial differences between cases at level two.
+
+To explain differences between cases and studies, characteristics of the cases or characteristics of the studies can be included in the equations describing the variation over groups.
+
+If you would substitute beta 1 jk from the level one equation by the level two equation, you could see that theta 111 is a coefficient of an interaction term interaction term of the case characteristic set and the choice dummy variable.
+
+In other words, if data 1 one is different from zero, this means that the size of the effect depends on Z and therefore Z is a moderator variable.
+
+Similarly, gamma 101 refers to the moderator effect of a stud characteristic W.
+
+To illustrate the exploration of possible moderating effects, we included a case characteristic, more specifically gender, and a study characteristic, more specifically, whether the student could choose the task or merely the order of the tasks.
+
+You can see that the interaction of both characteristics with a choice variable was statistically not significant indicating the effect of having choice on problem behavior does not depend on these case and study characteristics.
+
+Note that beta 1 again can be regarded as an effect effect size measure since we already standardized the response variable.
+
+Beta 1 is already a standardized mean difference.
+
+Sometimes it may be difficult to retrieve all raw data.
+
+While it still might be possible to calculate a standardized mean difference as an alternative to the analysis of the raw data, we could also first calculate a standardized mean difference for each case and combine this with a tree level model.
+
+The first level equation now becomes the following.
+
+The observed effect size G equals the population effect size beta 1 plus random residual.
+
+At the second and the third level, the equations for the variation of the effect over cases or over studies remain the same, but the equations for describing the variation of the baseline performance are dropped because they are not of importance anymore.
+
+In the left column, you can see the results of the analysis on road data for the model we discussed before.
+
+In the right column, you can see the results for the analysis of the effect size measures.
+
+You can see that the estimates are very similar and that the conclusions are the same.
+
+This analysis illustrates that we do not need draw data.
+
+Combining effect sizes gives the same results.
+
+If you would have very large data sets, analyzing effect sizes can go faster and there may be a higher probability that the estimation procedure converges.
+
+But combining draw data on the other hand has the advantage that it is possible to adapt the first level equation for instance to include additional level one variables.
+
+The flexibility of the multi-level model allows for several extensions.
+
+First extension is to allow for more complex variance uh coariance structures at one of the levels.
+
+For instance, it may be a too strong assumption to assume that scores from a case are independent from each other.
+
+And it may be more prudent to allow for a possible outcreoration.
+
+To take into account that measurements that are close to each other in time are more similar than measurements that are farther apart in time.
+
+Secondly, other coariantss can be included also at the first level.
+
+For instance, an additional dummy variable at the first level to compare a second treatment with the baseline.
+
+Thirdly, linear trends can be taken into account by including a time variable t in the first level model with a main effect and an interaction effect with a treatment dummy called D in this equation.
+
+The interpretation of this equation becomes more clear when we restructure the terms.
+
+Intercept of the equation is equal to beta 1 and beta 0 plus beta 1 times the treatment dummy variable D.
+
+In the baseline phase, the treatment dummy variable is equal to zero.
+
+So the intercept is equal to beta 0.
+
+In the treatment phase, the intercept is equal to beta 0 plus beta 1.
+
+Note that the intercept is the expected value at time zero.
+
+By centering the time variable around the value at the end of the baseline phase, beta 0 can be interpreted as a level of the outcome at the end of the baseline phase.
+
+Beta 1 can be interpreted as the immediate effect of the treatment.
+
+Similarly, the trend over time is equal to beta 2 in the baseline phase and beta 2 plus beta 3 in the treatment phase.
+
+Beta 3 therefore can be interpreted as the difference between the slope in the treatment condition and the slope in the baseline condition.
+
+Note that now we have two effect sizes for each case.
+
+Beta one which expresses the size of the effect on or the immediate treatment effect the effect on the level and beta 3 which expresses the effect on the slope respectively.

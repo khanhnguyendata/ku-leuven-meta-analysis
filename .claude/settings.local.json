@@ -1,0 +1,39 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(textutil -convert html \"/Users/duy-khanh.nguyen/Library/CloudStorage/GoogleDrive-nguyenduykhanh.hcm@gmail.com/My Drive/KU Leuven/Meta Analysis/information oral exam & example questions.doc\" -output /tmp/oral_exam.html)",
+      "Read(//tmp/**)",
+      "Bash(python3 /tmp/merge_meta_analysis.py)",
+      "Bash(command -v Rscript)",
+      "Bash(Rscript --version)",
+      "Bash(echo \"Rscript OK: $\\(Rscript --version 2>&1\\)\")",
+      "Bash(Rscript -e 'cat\\(if\\(requireNamespace\\(\"metafor\",quietly=TRUE\\)\\) \"metafor OK\\\\n\" else \"metafor MISSING\\\\n\"\\)')",
+      "Bash(Rscript -e 'install.packages\\(\"metafor\", repos=\"https://cloud.r-project.org\"\\)')",
+      "Bash(Rscript sugarcane_ma.R)",
+      "Bash(pdftotext -layout \"Li 2021 A meta-analysis of the possible impact of climate change on global cotton yield based on crop simulation approaches.pdf\" -)",
+      "Bash(Rscript sugarcane_ma_compare.R)",
+      "Bash(Rscript -e ' *)",
+      "Bash(pdfinfo \"Lecture Slides \\(PDF\\)/Video 9 - Meta-analysis with R.pdf\")",
+      "Bash(pdftotext -layout \"Lecture Slides \\(PDF\\)/Video 9 - Meta-analysis with R.pdf\" -)",
+      "Bash(grep -vE \"^Le chargement|^Loading|introduction|^$\")",
+      "WebSearch",
+      "WebFetch(domain:www.metafor-project.org)",
+      "WebFetch(domain:wviechtb.github.io)",
+      "Bash(Rscript -)",
+      "Bash(pdftotext -layout AADRMRIW.pdf /tmp/aad.txt)",
+      "Bash(pdftotext -layout FWLHHVEY.pdf /tmp/fwl.txt)",
+      "Bash(pdftotext -layout Z5PF5XNQ.pdf /tmp/z5p.txt)",
+      "Bash(pdftotext -layout HP54EZKH.pdf -)",
+      "Bash(pdftotext -layout 65VYUJZ8.pdf /tmp/65.txt)",
+      "Bash(pdftotext -layout 7PCFLLSK.pdf /tmp/7p.txt)",
+      "Bash(pdftotext -layout Q6N2E27T.pdf /tmp/q6.txt)",
+      "Bash(grep -niE \"mercy|pongola|malelane|sugarcane|cane yield|t/ha|A2|2070|temperature|increase|°C\" /tmp/fwl.txt | head -60)",
+      "Bash(pdftotext -layout PCXRP7XW.pdf /tmp/PCXRP7XW.txt)",
+      "Bash(pdftotext -layout YUT8GHZN.pdf /tmp/YUT8GHZN.txt)",
+      "Bash(pdftotext -layout XA3Z3WRK.pdf /tmp/XA3Z3WRK.txt)",
+      "Bash(pdfinfo Q6N2E27T.pdf)",
+      "Bash(pdfinfo XA3Z3WRK.pdf)",
+      "Bash(LC_ALL=en_US.UTF-8 Rscript -e ' *)"
+    ]
+  }
+}
